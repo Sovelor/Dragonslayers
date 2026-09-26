@@ -2,9 +2,13 @@
 title: Forest Camp
 tags:
   - location
+  - canon
 ---
 
 # Forest Camp
+
+> [!warning] Spoilers
+> Reveals Elizium's death in Part One.
 
 **Appears in:** *Loss*
 

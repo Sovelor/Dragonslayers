@@ -3,6 +3,7 @@ title: Atropos
 tags:
   - character
   - antagonist
+  - canon
 ---
 
 # Atropos

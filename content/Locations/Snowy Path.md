@@ -2,6 +2,7 @@
 title: Snowy Path
 tags:
   - location
+  - canon
 ---
 
 # Snowy Path

@@ -3,9 +3,13 @@ title: The Dragonslayers Saga - Story Timeline
 tags:
   - timeline
   - moc
+  - canon
 ---
 
 # The Dragonslayers Saga - Story Timeline
+
+> [!warning] Spoilers
+> Chapter-by-chapter summary, including Elizium's and Gourd's deaths.
 
 > [!info] Source of truth
 > `The Dragonslayers Saga.docx` — this page is a navigation aid, not a copy. Update it as the DM revises Part Two onward.

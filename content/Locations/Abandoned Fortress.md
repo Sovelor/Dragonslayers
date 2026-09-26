@@ -2,6 +2,7 @@
 title: Abandoned Fortress
 tags:
   - location
+  - canon
 ---
 
 # Abandoned Fortress
