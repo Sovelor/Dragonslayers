@@ -1,3 +1,58 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Dark medieval / D&D look
+body {
+  font-size: 1.1rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--headerFont);
+  letter-spacing: 0.04em;
+  color: var(--secondary);
+}
+
+h1 { text-transform: uppercase; letter-spacing: 0.08em; }
+
+h2 {
+  border-bottom: 1px solid var(--tertiary);
+  padding-bottom: 0.25rem;
+}
+
+.page-title, .page-title a {
+  font-family: var(--headerFont);
+  font-size: 1.7rem;
+  letter-spacing: 0.04em;
+  overflow-wrap: normal;
+  word-break: keep-all;
+  color: var(--secondary) !important;
+}
+
+a { color: var(--secondary); }
+a.internal {
+  background-color: transparent;
+  border-bottom: 1px dotted var(--secondary);
+  border-radius: 0;
+  padding: 0;
+}
+a.internal:hover { color: var(--tertiary); border-bottom-style: solid; }
+
+.sidebar.left {
+  border-right: 1px solid var(--lightgray);
+}
+
+blockquote {
+  border-left: 3px solid var(--tertiary);
+  font-style: italic;
+}
+
+.callout {
+  border: 1px solid var(--tertiary);
+  border-radius: 2px;
+  background-color: var(--lightgray);
+  --color: var(--tertiary) !important;
+  --border: var(--tertiary) !important;
+  --bg: var(--lightgray) !important;
+}
+.callout .callout-title { font-family: var(--headerFont); }
+
+hr { border-color: var(--tertiary); }

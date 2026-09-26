@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Cinzel
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
-        light: "#faf8f8"
-        lightgray: "#e5e5e5"
-        gray: "#b8b8b8"
-        darkgray: "#4e4e4e"
-        dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#fff23688"
+        light: "#14110f"
+        lightgray: "#2e2620"
+        gray: "#6f624f"
+        darkgray: "#cbbd9f"
+        dark: "#eadfc4"
+        secondary: "#c9a24a"
+        tertiary: "#b23a34"
+        highlight: rgba(201, 162, 74, 0.13)
+        textHighlight: "#8a1f1f88"
       darkMode:
-        light: "#161618"
-        lightgray: "#393639"
-        gray: "#646464"
-        darkgray: "#d4d4d4"
-        dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
-        textHighlight: "#b3aa0288"
+        light: "#14110f"
+        lightgray: "#2e2620"
+        gray: "#6f624f"
+        darkgray: "#cbbd9f"
+        dark: "#eadfc4"
+        secondary: "#c9a24a"
+        tertiary: "#b23a34"
+        highlight: rgba(201, 162, 74, 0.13)
+        textHighlight: "#8a1f1f88"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -110,8 +110,12 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header: '"Cinzel", serif'
+      body: '"EB Garamond", serif'
+      code: '"IBM Plex Mono", monospace'
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: its-theme
       variation: ttrpg-dnd
