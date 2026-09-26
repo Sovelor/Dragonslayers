@@ -27,7 +27,7 @@ Meets Badinga in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslay
 3. Killing blow + fatal retaliation
 
 ## Story significance
-Her death is the emotional hinge of Part One — Badinga and Garpask travel in near-total silence afterward, grieving, which sets up their meeting with [[Gaston Lentinson]] and [[Mahaya]] in Part Two.
+His death is the emotional hinge of Part One — Badinga and Garpask travel in near-total silence afterward, grieving, which sets up their meeting with [[Gaston Lentinson]] and [[Mahaya]] in Part Two.
 
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
