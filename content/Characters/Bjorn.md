@@ -18,6 +18,8 @@ Bjorn is an old dwarf (ο γηραιός νάνος) and Badinga's much-loved go
 - **Dwarven fighting technique**, which made Badinga a hardy warrior and a good battlefield tactician.
 - **Shield work**: the importance of a defensive stance behind the shield and correct body posture. Badinga relies on this against the goblins in *The Goblin Ambush*. The goblins' blows are nothing next to the fearsome blows Badinga used to take from his teacher in training.
 - **Smithing** and general knowledge.
+- **Stonework**: how to tell rocks, materials and minerals of every kind apart. In the cave beyond the hidden door, Badinga recognises the floor as marble thanks to this.
+- **Dwarven lore**: stories of the dwarf cities deep underground, with tunnels and underground roads running for miles that can take days to cross. Badinga remembers them in the tunnel past the hidden door.
 - **Manners**: when Badinga answers [[Elizium]] curtly in the [[Abandoned Fortress]], he is annoyed with himself because his godfather did not teach him to behave that way, and apologises.
 
 ## Badinga's memory of him
