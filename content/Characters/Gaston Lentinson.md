@@ -3,6 +3,7 @@ title: Gaston Lentinson
 tags:
   - character
   - ally
+  - canon
 status: Alive
 ---
 

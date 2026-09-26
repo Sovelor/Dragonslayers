@@ -3,17 +3,21 @@ title: Badinga Alpenrok
 tags:
   - character
   - party
+  - canon
 status: Alive
 ---
 
 # Badinga Alpenrok
+
+> [!warning] Spoilers
+> Reveals Elizium's death in Part One.
 
 **Role:** Human warrior
 **Origin:** Northern settlement of Eastside
 **Trained by:** His dwarf godfather, [[Bjorn]]
 
 ## Summary
-Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to [[Lonlywood]].
+Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to [[Lonlywood]].
 
 ## Character beats
 - Has an unshakeable "bad feeling" instinct — convinces Garpask to keep moving before making camp the night they meet Gaston and Mahaya. Unclear if it's honed instinct or lingering trauma from Elizium's death.

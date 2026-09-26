@@ -2,6 +2,7 @@
 title: The Void
 tags:
   - location
+  - canon
 ---
 
 # The Void

@@ -3,10 +3,14 @@ title: Garpask Losark
 tags:
   - character
   - party
+  - canon
 status: Alive
 ---
 
 # Garpask Losark
+
+> [!warning] Spoilers
+> Reveals Elizium's death in Part One.
 
 **Role:** Young sorcerer — innate magic, not studied
 **Origin:** [[Laskan]]

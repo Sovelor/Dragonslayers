@@ -2,9 +2,13 @@
 title: Road to Lonlywood
 tags:
   - location
+  - canon
 ---
 
 # Road to Lonlywood
+
+> [!warning] Spoilers
+> Reveals Elizium's death and the outcome of the goblin ambush.
 
 **Appears in:** Part Two — *A New Beginning* onward
 
