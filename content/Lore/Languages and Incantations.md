@@ -19,6 +19,8 @@ tags:
 | Arcanis Litrix | Αρκάνις Λίτριξ | "Mage Armour", a silver cloud that shields the caster | *Loss*, *Fateful Meeting* |
 | Mitne | Μίτνε | "Light". Garpask lights his fist or Badinga's shield with glowing moss | *Loss*, *Fateful Meeting* |
 
+The footnote spells the Light word Μίντε; the correct form is Mitne.
+
 Garpask's components include a scrap of leather (Mage Armour) and phosphorescent moss (Light).
 
 ## Elvish phrases (high-elf dialect)
@@ -34,7 +36,6 @@ Garpask's components include a scrap of leather (Mage Armour) and phosphorescent
 - **Krassnak!** (Κρασσνάκ) — [[Gourd]]'s battle cry, "Attack!"
 
 > [!question] Open questions
-> - The footnote spells the Light word **Μίντε** (Minte), but the text says **Μίτνε** (Mitne). Which is correct?
 > - Mahaya's last question to Allalme translates as "Are you ready, princess?". Is that a real title or just a form of address?
 
 ## Links

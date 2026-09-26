@@ -12,7 +12,7 @@ tags:
 
 **Role / Appears in:** Father and teacher of [[Garpask Losark]]. Appears only in Garpask's memory in Part Two, *Fateful Meeting*.
 **Greek name:** Φρέντερικ Φρόστφάιερ
-**Title:** Archmage of the School of Ανάκληση, the 5th School of Magic of the Arcane Brotherhood (Απόκρυφη Αδελφότητα)
+**Title:** Archmage of the School of Evocation (Σχολή της Ανάκλησης), the 5th School of Magic of the Arcane Brotherhood (Απόκρυφη Αδελφότητα)
 
 ## Summary
 Frederick is an archmage of the Arcane Brotherhood in the Tower of Magic. Several months before the story, on what Garpask calls a cursed night "when everything changed" for both of them, Frederick woke his son in terror and led him in secret through the tower's magical corridors to his study. There he shared "the most important secrets of his own existence" and, using his **Thought Pendant** (Μενταγιόν των Σκέψεων), showed Garpask the result of a spell of foretelling he had cast long before.
@@ -23,7 +23,7 @@ The vision showed the cave, the ancient gate and the crypt that the party later 
 > [!question] Gaps (not in the manuscript so far)
 > - What secrets Frederick shared, and what Garpask's mission is.
 > - What happened to Frederick after that night.
-> - Why Garpask goes by Losark rather than Frostfire.
+> - Why Garpask goes by Losark rather than Frostfire. (Deliberate, but not yet explained.)
 
 ## Links
 - [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Ancient Crypt]] · [[The Dragonslayers Saga - Story Timeline]]

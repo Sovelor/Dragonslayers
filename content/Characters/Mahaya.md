@@ -9,7 +9,7 @@ status: Alive
 
 # Mahaya
 
-**Role:** Elven ranger (Ιχνηλάτης), hired by [[Gaston Lentinson]] as his escort. Introduces himself as a "Wandering Ranger".
+**Role:** Elven scout (Ιχνηλάτης), hired by [[Gaston Lentinson]] as his escort. Introduces himself as a "Wandering Scout".
 **Appearance:** Long blond, almost white hair, white skin and green eyes; features Allalme reads as a high elf's
 **Notable:** Guarded past, mentions a sister named "Maya"
 
@@ -18,10 +18,10 @@ First seen standing on Gaston's cart, bow drawn, when Badinga and Garpask are st
 
 ## Character beats
 - Speaks Elvish; the first time the others hear it is when he greets [[Allalme Dragonborn]] and identifies her dialect as that of the high elves of Silverymoon. See [[Languages and Incantations]].
-- Reads tracks expertly, and checks doors for traps by touch and even smell. Tells Badinga he would make a fine ranger with more time together.
+- Reads tracks expertly, and checks doors for traps by touch and even smell. Tells Badinga he would make a fine scout with more time together.
 - Hears near-silent footsteps following the group in the crypt tunnel and is visibly shaken, since he believes nothing can move that quietly, before brushing it off.
 - Boasts "The Great Mahaya and his companions are invincible!", which reminds Badinga and Garpask of Elizium. Later insists: "I am not a hero. Far from it."
-- Immediately clocks Badinga as combat-capable on sight (ranger instincts).
+- Immediately clocks Badinga as combat-capable on sight (scout instincts).
 - Puzzled by Garpask at first — scrawny and weaponless — wonders what he contributes, not yet aware of his sorcery.
 - Spots 3 of the 6 ambushing goblins in the trees on his own (sharp elf eyes/hearing) but misses the 2 hidden in bushes.
 - Coordinates the ambush counter-plan without breaking cover; leaps onto the cart with an acrobatic flourish to snipe the tree-archers when the fight starts.

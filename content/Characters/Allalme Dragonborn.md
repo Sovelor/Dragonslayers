@@ -34,9 +34,12 @@ Allalme is a young elf woman whom [[Badinga Alpenrok]], [[Garpask Losark]] and [
 - The word "alone" frightens and hurts her, though she does not know why.
 
 ## Character beats
-- Her first words on waking are two names or words none of the party recognise: «Σόβελορ; Γκζέιβ;» (roughly "Sovelor? Gzeiv?").
+- Her first words on waking are two names none of the party recognise: **Sovelor** and **Gzave** («Σόβελορ; Γκζέιβ;»).
 - Surprisingly strong: she shifts the altar's heavy stone lid on her own before the others join in.
 - Mahaya answers her in Elvish and greets her formally; Garpask reassures her that her memories will likely return with time.
+
+> [!info] Sovelor and Gzave
+> These names will come up later in the story or in other lore.
 
 > [!info] How she got there
 > In Garpask's vision, two figures carried her into the crypt, sealed it and left, sadly and as if they had no choice: a slender tiefling with demonic horns, and a bald human, pale as moonlight, with a cloak and a large staff. Mahaya's reading of the tracks fits: two pairs of footprints, heavier going in and lighter coming out, about two days old.
