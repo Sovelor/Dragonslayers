@@ -4,10 +4,14 @@ tags:
   - character
   - party
   - deceased
+  - canon
 status: Deceased
 ---
 
 # Elizium
+
+> [!warning] Spoilers
+> Reveals Elizium's death in Part One.
 
 **Role:** Wood elf
 
@@ -15,7 +19,7 @@ status: Deceased
 > Dies in [[Forest Camp]] protecting [[Badinga Alpenrok]] and [[Garpask Losark]] from a goblin/hyena ambush.
 
 ## Summary
-Meets Badinga in the [[Abandoned Fortress]] during a snowstorm ([[Prologue]]). Travels with the forming trio through [[Garpask Losark]]'s rescue, then dies defending the group during the night ambush at [[Forest Camp]].
+Meets Badinga in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Travels with the forming trio through [[Garpask Losark]]'s rescue, then dies defending the group during the night ambush at [[Forest Camp]].
 
 ## Death sequence
 1. Leap-and-fall wounding beat
