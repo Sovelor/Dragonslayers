@@ -30,11 +30,28 @@ function findCounterpart(fileData, allFiles) {
   )
 }
 
+// Folder listing pages have no file of their own: follow any page inside the
+// folder to its translation and link to that page's folder instead.
+function findFolderCounterpart(slug, allFiles) {
+  if (!slug.endsWith("/index")) return undefined
+  const folder = slug.slice(0, -"index".length)
+  for (const f of allFiles) {
+    if (!(f.slug ?? "").startsWith(folder)) continue
+    const twin = findCounterpart(f, allFiles)
+    if (!twin?.slug) continue
+    const depth = f.slug.slice(folder.length).split("/").length
+    const parts = twin.slug.split("/")
+    if (parts.length <= depth) continue
+    return { slug: parts.slice(0, parts.length - depth).join("/") + "/index" }
+  }
+  return undefined
+}
+
 export const LanguageSwitch = () => {
   const Component = ({ fileData, allFiles, displayClass }) => {
     const slug = fileData.slug ?? "index"
     const greek = isGreek(fileData)
-    const other = findCounterpart(fileData, allFiles)
+    const other = findCounterpart(fileData, allFiles) ?? findFolderCounterpart(slug, allFiles)
     // No translation yet: send readers to the other language's home page.
     const otherSlug = other?.slug ?? (greek ? "index" : GREEK_ROOT + "/index")
     const href = relative(slug, otherSlug)
