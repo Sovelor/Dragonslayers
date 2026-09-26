@@ -9,7 +9,7 @@ status: Alive
 # Garpask Losark
 
 **Role:** Young sorcerer — innate magic, not studied
-**Origin:** Laskan
+**Origin:** [[Laskan]]
 **Notable trait:** Hints of dragon blood
 
 ## Summary

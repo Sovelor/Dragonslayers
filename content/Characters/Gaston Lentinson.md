@@ -9,7 +9,7 @@ status: Alive
 # Gaston Lentinson
 
 **Role:** Merchant
-**Backstory:** Fleeing extortion/gangs tied to Laskan, heading to Lonlywood
+**Backstory:** Fleeing extortion/gangs tied to [[Laskan]], heading to [[Lonlywood]]
 **Travels with:** Two mules, a cart, and his hired escort [[Mahaya]]
 
 ## Summary

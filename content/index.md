@@ -12,10 +12,10 @@ Welcome to the Dragonslayers wiki — story reference for the manuscript "The Dr
 - [[The Dragonslayers Saga - Story Timeline]] — chapter-by-chapter index of the manuscript
 
 ## Characters
-- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Atropos]]
+- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Atropos]] · [[Bjorn]]
 
 ## Major locations
-- [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]]
+- [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]] · [[Lonlywood]] · [[Laskan]]
 
 ## Our D&D game
 

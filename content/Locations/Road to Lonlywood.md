@@ -15,4 +15,4 @@ The road Badinga and Garpask travel after burying Elizium. This is where they me
 > The hidden stone door found in the cave hasn't been followed up on yet — manuscript cuts off shortly after.
 
 ## Links
-- [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[The Dragonslayers Saga - Story Timeline]]
+- [[Lonlywood]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[The Dragonslayers Saga - Story Timeline]]

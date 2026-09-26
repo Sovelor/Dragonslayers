@@ -26,4 +26,4 @@ First seen standing on Gaston's cart, bow drawn, when Badinga and Garpask are st
 
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
-- [[Gaston Lentinson]] · [[Badinga Alpenrok]] · [[Gourd]]
+- [[Gaston Lentinson]] · [[Badinga Alpenrok]] · [[Gourd]] · [[Laskan]] · [[Lonlywood]]
