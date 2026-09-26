@@ -27,11 +27,5 @@ Bjorn is an old dwarf (ο γηραιός νάνος) and Badinga's much-loved go
 - Before his first real fight, Badinga shouts: "My first battle! For you, Bjorn!" After winning, he feels grateful again for everything Bjorn taught him.
 - After the goblin ambush, Badinga notices he came through several fights unhurt and thinks of Bjorn, feeling lucky to have been his pupil.
 
-> [!question] Gaps (not in the manuscript so far)
-> - Whether Bjorn is alive, and where he is now.
-> - Why he is Badinga's godfather, and his link to Badinga's family.
-> - His appearance, clan, surname, age, and any history of his own.
-> - Whether he played any part in Badinga leaving Eastside.
-
 ## Links
 - [[Badinga Alpenrok]] · [[Elizium]] · [[Abandoned Fortress]] · [[The Dragonslayers Saga - Story Timeline]]

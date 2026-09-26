@@ -36,11 +36,5 @@ Gaston's success as a leather and cloth merchant drew the attention of "those wh
 > [!warning]- Spoiler: Garpask's master
 > Garpask trained in the Tower under [[Frederick Frostfire]] (Φρέντερικ Φρόστφάιερ), Archmage of the School of Evocation (Σχολή της Ανάκλησης), the 5th School of Magic of the Arcane Brotherhood. Frederick is also Garpask's father. On the night everything changed for them, a few months before the story, he led Garpask secretly through the Tower's magic corridors to his study and used his Pendant of Thoughts to show him a prophetic vision.
 
-> [!question] Gaps (not in the manuscript so far)
-> - The names of any gang, pirate captain or underworld boss.
-> - The other four of the Five Lords.
-> - Why Garpask left Laskan, and who he was about to name.
-> - What Mahaya was running from when he left (Gaston suspects he was escaping something).
-
 ## Links
 - [[Garpask Losark]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Lonlywood]] · [[The Dragonslayers Saga - Story Timeline]]

@@ -21,11 +21,5 @@ Lonlywood is one of the towns of Ten-Towns in Icewind Dale. It is the shared des
 - **Distance:** from the [[Abandoned Fortress]] area, Elizium reckons Lonlywood is about five to six days' march. The goblin ambush happens roughly one day short of the town.
 - **Road markers:** stone pillars mark the way to Lonlywood, though Badinga loses sight of them under the snow in the Prologue blizzard.
 
-> [!question] Gaps (not in the manuscript so far)
-> - What the town looks like, its size, and who lives there.
-> - The name of the best tavern.
-> - Anything about Regis Rumblebelly beyond his title and friendship with Gaston.
-> - Why each party member wants to reach Lonlywood (only Gaston's reason is stated).
-
 ## Links
 - [[Road to Lonlywood]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Badinga Alpenrok]] · [[Garpask Losark]] · [[Elizium]] · [[Laskan]] · [[The Dragonslayers Saga - Story Timeline]]
