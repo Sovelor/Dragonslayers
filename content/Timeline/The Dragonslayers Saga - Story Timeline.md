@@ -25,11 +25,11 @@ Master chronological index of the manuscript "The Dragonslayers Saga."
 ## Part One — ΜΕΡΟΣ ΠΡΩΤΟ
 1. **A Strange Acquaintance** — [[Garpask Losark]] is rescued from wild dogs on the [[Snowy Path]]; the trio forms.
 2. **Loss** — Three days on the Ten-Towns road; Elizium calls his trip north "a journey of atonement". Goblin/hyena night ambush at [[Forest Camp]]; [[Elizium]] dies protecting Badinga and Garpask.
-3. **Badinga** *(flashback)* — Badinga's morning routine and training under Bjorn.
+3. **Badinga** *(flashback)* — Badinga's morning routine and training under [[Bjorn]].
 
 ## Part Two — ΜΕΡΟΣ ΔΕΥΤΕΡΟ
 1. **A New Beginning** — Badinga and Garpask bury [[Elizium]] on a hilltop, then travel on in near-silence, grieving. Meet [[Gaston Lentinson]] and [[Mahaya]] at a deliberately felled tree on the [[Road to Lonlywood]].
-2. **The Desperate Merchant** — Introductions; Gaston's backstory fleeing Laskan's gangs; alliance formed (10 gold each + goods to help clear the log and escort the cart).
+2. **The Desperate Merchant** — Introductions; Gaston's backstory fleeing [[Laskan]]'s gangs; alliance formed (10 gold each + goods to help clear the log and escort the cart).
 3. **The Goblin Ambush** — 6-goblin trap sprung; mini-boss [[Gourd]] defeated.
 4. **The Road to Lonlywood** — A storm forces the group to shelter in a cave.
 5. **Fateful Meeting** — A hidden stone door is found deep in the cave. Garpask recognises it from a vision shown to him by his father, [[Frederick Frostfire]]. Badinga, Garpask and Mahaya follow a tunnel to the [[Ancient Crypt]] and find an elf woman asleep on an altar.
