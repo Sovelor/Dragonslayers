@@ -21,7 +21,7 @@ Nervous, middle-aged merchant first encountered when Badinga and Garpask round a
 - Represents the ordinary-people-caught-in-danger throughline of Part Two.
 
 > [!success] Status
-> Alive, allied with the party as of the goblin ambush.
+> Alive, allied with the party. Waits in the cave, guarding the goods, while the others explore the [[Ancient Crypt]]; he warns them that "these cursed places hide far more dangers than you can imagine".
 
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
