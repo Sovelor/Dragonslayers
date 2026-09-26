@@ -23,7 +23,7 @@ The vision showed the cave, the ancient gate and the crypt that the party later 
 > [!question] Gaps (not in the manuscript so far)
 > - What secrets Frederick shared, and what Garpask's mission is.
 > - What happened to Frederick after that night.
-> - Why Garpask goes by Losark rather than Frostfire. (Deliberate, but not yet explained.)
+> - Why Garpask goes by Losark rather than Frostfire.
 
 ## Links
 - [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Ancient Crypt]] · [[The Dragonslayers Saga - Story Timeline]]
