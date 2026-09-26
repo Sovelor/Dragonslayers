@@ -17,7 +17,7 @@ Lonlywood is one of the towns of Ten-Towns in Icewind Dale. It is the shared des
 ## What the manuscript says
 - **Ruler:** its local lord is **Regis Rumblebelly** (Ρέτζις Ράμπλ-μπέλι), a good friend of Gaston. That friendship is why Gaston chose Lonlywood to restart his business.
 - **Trade:** rumours Gaston heard on his business travels made Lonlywood look like the ideal market for his leather and cloth goods. He plans to make it "his town" and flood its market with his wares.
-- **Tavern:** after the wild-dog rescue, Garpask offers to repay his rescuers with a meal "from the best tavern in Lonlywood".
+- **Tavern:** after the wild-dog rescue, Garpask asks how he can repay Badinga and Elizium. Elizium answers that a treat of the best food "from the best tavern in Lonlywood" would do.
 - **Distance:** from the [[Abandoned Fortress]] area, Elizium reckons Lonlywood is about two days' march. The goblin ambush happens roughly one day short of the town.
 
 > [!question] Gaps (not in the manuscript so far)
