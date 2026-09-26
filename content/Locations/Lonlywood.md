@@ -12,7 +12,7 @@ tags:
 **Region:** Ten-Towns (Δεκάπολη), in Icewind Dale (Άισγουιντ Ντέιλ), north of the Spine of the World
 
 ## Summary
-Lonlywood is one of the towns of Ten-Towns in Icewind Dale. It is the shared destination that brings the party together: [[Elizium]] (an elf from Silverymoon), [[Garpask Losark]] and [[Badinga Alpenrok]] are all travelling there when they meet, and [[Gaston Lentinson]] and [[Mahaya]] are heading there from [[Laskan]]. The route runs along the Central Road of Ten-Towns, also called the State Road, which becomes the [[Road to Lonlywood]] in Part Two.
+Lonlywood is one of the towns of Ten-Towns in Icewind Dale. It is the shared destination that brings the party together: [[Elizium]] (a high elf from Silverymoon), [[Garpask Losark]] and [[Badinga Alpenrok]] are all travelling there when they meet, and [[Gaston Lentinson]] and [[Mahaya]] are heading there from [[Laskan]]. The route runs along the Central Road of Ten-Towns, also called the State Road, which becomes the [[Road to Lonlywood]] in Part Two.
 
 ## What the manuscript says
 - **Ruler:** its local lord is **Regis Rumblebelly** (Ρέτζις Ράμπλ-μπέλι), a good friend of Gaston. That friendship is why Gaston chose Lonlywood to restart his business.

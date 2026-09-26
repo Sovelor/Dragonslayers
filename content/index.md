@@ -13,9 +13,14 @@ Welcome to the Dragonslayers wiki — story reference for the manuscript "The Dr
 
 ## Characters
 - [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Atropos]] · [[Bjorn]]
+- [[Allalme Dragonborn]] · [[Frederick Frostfire]]
 
 ## Major locations
 - [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]] · [[Lonlywood]] · [[Laskan]]
+- [[Ancient Crypt]]
+
+## Lore
+- [[Languages and Incantations]]
 
 ## Our D&D game
 

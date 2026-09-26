@@ -34,7 +34,7 @@ Gaston's success as a leather and cloth merchant drew the attention of "those wh
 > Laskan is where Garpask grew up. Mentioning it visibly upsets him: he starts to say "where I and…" and stops, close to tears. He remembers three childhood friends, **Zarifas** (Ζάριφας), **Keninstan** (Κένινσταν) and **Abareth** (Άμπαρεθ). Keninstan is the son of Lord Renthor, and the four played at fighting dragons and demons in the courtyard of Renthor's mansion.
 
 > [!warning]- Spoiler: Garpask's master
-> Garpask trained in the Tower under **Frederick Frostfire** (Φρέντερικ Φρόστφάιερ), Archmage of the School of Evocation (Σχολή της Ανάκλησης), the 5th School of Magic of the Arcane Brotherhood. Frederick is also Garpask's father. On the night everything changed for them, a few months before the story, he led Garpask secretly through the Tower's magic corridors to his study and used his Pendant of Thoughts to show him a prophetic vision.
+> Garpask trained in the Tower under [[Frederick Frostfire]] (Φρέντερικ Φρόστφάιερ), Archmage of the School of Evocation (Σχολή της Ανάκλησης), the 5th School of Magic of the Arcane Brotherhood. Frederick is also Garpask's father. On the night everything changed for them, a few months before the story, he led Garpask secretly through the Tower's magic corridors to his study and used his Pendant of Thoughts to show him a prophetic vision.
 
 > [!question] Gaps (not in the manuscript so far)
 > - The names of any gang, pirate captain or underworld boss.
