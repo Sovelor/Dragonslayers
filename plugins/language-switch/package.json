@@ -1,0 +1,32 @@
+{
+  "name": "language-switch",
+  "version": "1.0.0",
+  "description": "EN/ΕΛ switch that links each wiki page to its translation",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "language-switch",
+    "displayName": "Language Switch",
+    "category": [
+      "component"
+    ],
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "LanguageSwitch": {
+        "displayName": "Language Switch",
+        "defaultPosition": "left",
+        "defaultPriority": 32
+      }
+    }
+  }
+}
