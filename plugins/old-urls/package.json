@@ -1,0 +1,22 @@
+{
+  "name": "old-urls",
+  "version": "1.0.0",
+  "description": "Redirects old page URLs to pages that moved to a new folder",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "old-urls",
+    "displayName": "Old URLs",
+    "category": "transformer",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 95,
+    "defaultEnabled": true,
+    "defaultOptions": {}
+  }
+}
