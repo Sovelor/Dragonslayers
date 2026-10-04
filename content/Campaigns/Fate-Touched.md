@@ -2,7 +2,7 @@
 title: "Fate-Touched"
 campaign: Fate-Touched
 lang: en
-translation: "[[Σημαδεμένοι από τη Μοίρα]]"
+translation: "[[Οι Εκλεκτοί της Μοίρας]]"
 tags:
   - moc
   - campaign
@@ -18,7 +18,7 @@ movedFrom:
 
 # Fate-Touched
 
-> [!abstract] Ελληνικά → [[Σημαδεμένοι από τη Μοίρα]]
+> [!abstract] Ελληνικά → [[Οι Εκλεκτοί της Μοίρας]]
 
 **Campaign** · the first campaign of *Threads of Fate*, the story of the Dragonslayers · part of [[Campaigns]]
 

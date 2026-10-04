@@ -30,7 +30,7 @@ Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the 
 
 At noon the next day the heroes sailed the Blue Nymph through the [[Daggerfall]] strait into the harbour, deliberately in broad daylight to make a statement, with [[Jareth]] playing sailor songs. Not everyone in port was pleased. Lavinia then asked them to escort her to [[Terraknian Island]].
 
-There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowin]]. Past a series of puzzle doors, two **Power Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
+There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowin]]. Past a series of puzzle doors, two **Force Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
 
 Inside, **much of the vault's gold was missing**. Lavinia did recover the ownership documents she had come for. In a smaller chamber they found only the broken bottles of a *Potion of Cat's Grace*. The smaller safe had two locks: one already open, one still sealed. The ring opened the sealed lock, and inside lay an hourglass that looked empty.
 
@@ -45,7 +45,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 4. [[Seraphiel]], Melda's cousin, joined the party
 5. Sailed the Blue Nymph through the [[Daggerfall]] strait into the harbour in broad daylight
 6. Escorted Lavinia to [[Terraknian Island]]; [[Mumzar]] revealed Vanthus's frequent visits with [[Rowin]]
-7. Two Power Golems marked the party as enemies; shut down with Lavinia's ring via *Mage Hand*, with no combat
+7. Two Force Golems marked the party as enemies; shut down with Lavinia's ring via *Mage Hand*, with no combat
 8. Opened the vault: much of the gold was missing; Lavinia found her ownership documents; only broken bottles of a Potion of Cat's Grace left
 9. The ring opened the sealed lock of the inner safe, revealing the [[Hourglass of Time]]
 10. Nenya's vision: [[Mahaya (Lord of Time)|Mahaya]] chose her "among three" (with [[Elizium (A New Beginning)|Elizium]] and [[Meive]]) for his mission, and she accepted
@@ -71,7 +71,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 
 ## Fights
 - **Achaierai** (demon bird from the Styx) aboard the [[Blue Nymph]]: victory, no losses. Nenya killed it with *Kelgor's Fire Bolt*.
-- **2 Power Golems** at the Vander vault: *combat avoided*; shut down with Lavinia's ring
+- **2 Force Golems** at the Vander vault: *combat avoided*; shut down with Lavinia's ring
 
 ## Loot and rewards
 - **Hourglass of Time**: [[Nenya]], with Lavinia's permission; glowing runes; slows time and opened the vision; other powers unknown

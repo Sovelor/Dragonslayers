@@ -16,7 +16,7 @@ The five D&D campaigns of **Threads of Fate**. [[Fate-Touched]] is the story of 
 
 | Campaign | Ελληνικά | Sessions logged |
 |---|---|---|
-| [[Fate-Touched]] | [[Σημαδεμένοι από τη Μοίρα]] | told in the manuscript |
+| [[Fate-Touched]] | [[Οι Εκλεκτοί της Μοίρας]] | told in the manuscript |
 | [[Old Shadows]] | [[Παλιές Σκιές]] | – |
 | [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 15 |
 | [[Inner Fire]] | [[Εσωτερική Φωτιά]] | – |
