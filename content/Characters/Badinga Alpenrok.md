@@ -14,11 +14,11 @@ status: Alive
 
 **Role:** Human warrior
 **Origin:** Northern settlement of Eastside
-**Trained by:** His dwarf godfather, Bjorn
+**Trained by:** His dwarf godfather, [[Bjorn]]
 **Appearance:** About 20, stocky and not very tall; short brown hair, brown eyes, little beard; heavy chain mail, warhammer and heavy wooden shield
 
 ## Summary
-Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to Lonlywood.
+Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to [[Lonlywood]].
 
 ## Character beats
 - Left his village, Eastside (Ίστσάιντ), telling others he wants to become a brave warrior who helps those in need. He keeps the main reason to himself: his love for **Jennifer** (Τζένιφερ), and the knowledge that they could never be together.

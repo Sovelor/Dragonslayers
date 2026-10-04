@@ -19,4 +19,4 @@ The road Badinga and Garpask travel after burying Elizium. This is where they me
 > The party has explored only part of the [[Ancient Crypt]]. Mahaya wants to check the rest before they return to Gaston.
 
 ## Links
-- [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Ancient Crypt]] · [[Allalme Dragonborn]] · [[The Dragonslayers Saga - Story Timeline]]
+- [[Lonlywood]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Ancient Crypt]] · [[Allalme Dragonborn]] · [[The Dragonslayers Saga - Story Timeline]]

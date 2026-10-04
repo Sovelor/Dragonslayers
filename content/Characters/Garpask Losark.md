@@ -13,7 +13,7 @@ status: Alive
 > Reveals Elizium's death in Part One and Garpask's secret from *Fateful Meeting*.
 
 **Role:** Young mage (μάγος) of the Arcane Brotherhood, initiate of the Tower of Magic in Laskan
-**Origin:** Laskan
+**Origin:** [[Laskan]]
 **Notable trait:** Hints of dragon blood; speaks his spell words in Draconic
 **Father and teacher:** [[Frederick Frostfire]]
 **Appearance:** Thin, with long black hair to the shoulders, a beard and dark brown eyes; wears an ornate cloak
