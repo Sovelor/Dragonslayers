@@ -22,7 +22,7 @@ Welcome to the Dragonslayers wiki — story reference for the manuscript "The Dr
 ## Lore
 - [[Languages and Incantations]]
 
-## Our D&D game
-
-> [!todo] Nothing here yet
-> This section is for whatever comes up at the table — session notes, NPCs, house rules, homebrew content. Add as we go.
+## Our D&D game: ten years later
+Four campaigns set ten years after the saga's finale. Session notes, characters, places and lore, in English and Greek.
+- [[Campaigns]]
+- [[Old Shadows]] · [[Ancient Blood]] · [[Inner Fire]] · [[A New Beginning]]
