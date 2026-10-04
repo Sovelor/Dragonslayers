@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Dragonslayers
+  pageTitle: Threads of Fate
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true

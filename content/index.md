@@ -1,28 +1,32 @@
 ---
-title: Welcome
+title: Threads of Fate
 tags:
   - moc
 ---
 
-# Welcome
+# Threads of Fate
 
-Welcome to the Dragonslayers wiki — story reference for the manuscript "The Dragonslayers Saga" and our actual D&D game.
+Welcome to the wiki of **Threads of Fate**, our D&D project. It spans five campaigns in the same world: *Fate-Touched*, the story of the Dragonslayers, and four campaigns set ten years after its finale.
 
-## Start here
-- [[The Dragonslayers Saga - Story Timeline]] — chapter-by-chapter index of the manuscript
+## The campaigns
+- [[Fate-Touched]]: the original campaign, on which the manuscript "The Dragonslayers Saga" is based
+- [[Old Shadows]] · [[Ancient Blood]] · [[Inner Fire]] · [[A New Beginning]]: ten years later
+- [[Campaigns]]: all five at a glance
 
-## Characters
-- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Gaston Lentinson]] · [[Mahaya]] · [[Gourd]] · [[Atropos]]
-- [[Allalme Dragonborn]] · [[Frederick Frostfire]]
+## Fate-Touched
 
-## Major locations
+### Start here
+- [[The Dragonslayers Saga - Story Timeline]]: chapter-by-chapter index of the manuscript
+
+### Player characters
+- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]]
+
+### NPCs
+- [[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
+
+### Major locations
 - [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]]
 - [[Ancient Crypt]]
 
-## Lore
+### Lore
 - [[Languages and Incantations]]
-
-## Our D&D game: ten years later
-Four campaigns set ten years after the saga's finale. Session notes, characters, places and lore, in English and Greek.
-- [[Campaigns]]
-- [[Old Shadows]] · [[Ancient Blood]] · [[Inner Fire]] · [[A New Beginning]]

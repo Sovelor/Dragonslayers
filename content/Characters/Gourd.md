@@ -2,6 +2,7 @@
 title: Gourd
 tags:
   - character
+  - npc
   - antagonist
   - minion-boss
   - deceased

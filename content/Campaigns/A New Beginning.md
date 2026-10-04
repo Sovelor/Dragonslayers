@@ -15,10 +15,13 @@ tags:
 
 > [!abstract] Ελληνικά → [[Μια Νέα Αρχή]]
 
-**Campaign** · set ten years after *The Dragonslayers Saga* · part of [[Campaigns]]
+**Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
-## Party
+## Player characters
 Edric · [[Elizium (A New Beginning)|Elizium]] · Selina · Ezariel · Azhyra
+
+## NPCs
+*No NPC pages yet.*
 
 ## Sessions
 *No sessions logged yet.*

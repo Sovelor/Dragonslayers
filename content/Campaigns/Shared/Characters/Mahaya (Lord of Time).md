@@ -6,6 +6,7 @@ translation: "[[Μαχάγια (Άρχοντας του Χρόνου)]]"
 status: Unknown
 tags:
   - character
+  - npc
   - deity
   - dnd
   - shared

@@ -2,6 +2,7 @@
 title: Frederick Frostfire
 tags:
   - character
+  - npc
   - canon
 ---
 
