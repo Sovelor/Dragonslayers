@@ -15,16 +15,16 @@ tags:
 
 > [!abstract] Ελληνικά → [[Αρχαίο Αίμα]]
 
-**Campaign** · set ten years after *The Dragonslayers Saga* · part of [[Campaigns]]
+**Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
-## Party
+## Player characters
 [[Vaalrath]] · [[Melda]] · [[Nenya]] · [[Axel]] · [[Jareth]] · [[Seraphiel]]
+
+## NPCs
+[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerfall]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]]
 
 ## Sessions
 - [[Session 015 - The Vander Legacy]] · 2026-10-03
-
-## People
-[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerfall]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]]
 
 ## Places
 [[Daggerfall]] · [[Terraknian Island]] · [[Vander Manor]]

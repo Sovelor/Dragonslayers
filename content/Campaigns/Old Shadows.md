@@ -15,10 +15,13 @@ tags:
 
 > [!abstract] Ελληνικά → [[Παλιές Σκιές]]
 
-**Campaign** · set ten years after *The Dragonslayers Saga* · part of [[Campaigns]]
+**Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
-## Party
+## Player characters
 Aya · Thoriel · Petros · Arta · Aradun · Freiderikos
+
+## NPCs
+*No NPC pages yet.*
 
 ## Sessions
 *No sessions logged yet.*

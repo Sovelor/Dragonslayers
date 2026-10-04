@@ -2,6 +2,7 @@
 title: Mahaya
 tags:
   - character
+  - npc
   - ally
   - canon
 status: Alive

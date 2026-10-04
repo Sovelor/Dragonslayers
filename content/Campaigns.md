@@ -12,10 +12,11 @@ tags:
 
 > [!abstract] Ελληνικά → [[Καμπάνιες]]
 
-Four D&D campaigns set **ten years after the finale of [[The Dragonslayers Saga - Story Timeline|The Dragonslayers Saga]]**. They take place in the same world and may refer back to the saga, but they are new stories with their own characters. Every page here exists in English and in Greek.
+The five D&D campaigns of **Threads of Fate**. [[Fate-Touched]] is the story of the Dragonslayers, on which the manuscript [[The Dragonslayers Saga - Story Timeline|The Dragonslayers Saga]] is based. The other four are set **ten years after its finale**. They take place in the same world and may refer back to the saga, but they are new stories with their own characters. Every page here exists in English and in Greek.
 
 | Campaign | Ελληνικά | Sessions logged |
 |---|---|---|
+| [[Fate-Touched]] | [[Fate-Touched - Καμπάνια\|Fate-Touched]] | told in the manuscript |
 | [[Old Shadows]] | [[Παλιές Σκιές]] | – |
 | [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 15 |
 | [[Inner Fire]] | [[Εσωτερική Φωτιά]] | – |
