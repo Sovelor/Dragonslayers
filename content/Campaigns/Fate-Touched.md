@@ -23,10 +23,10 @@ The DM's Greek manuscript "The Dragonslayers Saga" is based on this campaign. Th
 - [[The Dragonslayers Saga - Story Timeline]]: chapter-by-chapter index of the manuscript
 
 ## Player characters
-[[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]]
+[[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]]
 
 ## NPCs
-[[Gaston Lentinson]] · [[Mahaya]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
+[[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
 
 ## Places
 [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]] · [[Ancient Crypt]]

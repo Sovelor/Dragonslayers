@@ -19,10 +19,10 @@ Welcome to the wiki of **Threads of Fate**, our D&D project. It spans five campa
 - [[The Dragonslayers Saga - Story Timeline]]: chapter-by-chapter index of the manuscript
 
 ### Player characters
-- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]]
+- [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]]
 
 ### NPCs
-- [[Gaston Lentinson]] · [[Mahaya]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
+- [[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
 
 ### Major locations
 - [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]]
