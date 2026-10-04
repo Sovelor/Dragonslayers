@@ -25,3 +25,9 @@ Nyra · Lenor · Grafin · [[Meive]]
 
 ## Sessions
 *No sessions logged yet.*
+
+## Locations
+*No location pages yet.*
+
+## Lore
+*No lore pages yet.*

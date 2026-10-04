@@ -25,3 +25,9 @@ Aya · Thoriel · Petros · Arta · Aradun · Freiderikos
 
 ## Sessions
 *No sessions logged yet.*
+
+## Locations
+*No location pages yet.*
+
+## Lore
+*No lore pages yet.*

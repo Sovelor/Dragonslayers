@@ -141,6 +141,9 @@ plugins:
       position: afterBody
       priority: 50
       display: all
+  - source: ./plugins/old-urls
+    enabled: true
+    order: 95
   - source: "@quartz-community/alias-redirects"
     enabled: true
   - source: "@quartz-community/content-index"

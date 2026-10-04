@@ -26,7 +26,7 @@ tags:
 ## Sessions
 - [[Session 015 - The Vander Legacy]] · 2026-10-03
 
-## Places
+## Locations
 [[Daggerfall]] · [[Terraknian Island]] · [[Vander Manor]]
 
 ## Lore

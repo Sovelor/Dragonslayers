@@ -25,3 +25,9 @@ Edric · [[Elizium (A New Beginning)|Elizium]] · Selina · Ezariel · Azhyra
 
 ## Sessions
 *No sessions logged yet.*
+
+## Locations
+*No location pages yet.*
+
+## Lore
+*No lore pages yet.*
