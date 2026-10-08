@@ -28,13 +28,13 @@ After the last fight, the party left the ruins of the **Life-giving Prince** and
 
 A roadside inn, **The Last Lantern**, looked like a good place for the night, but it turned out to be abandoned, and a couple of adventurers, **Philippe and Zanie**, were looting it. Azhyra declared the inn was hers and that they were robbing her. The party made them put the bags back and let them go, on condition that they had never seen the party there.
 
-In the kitchen the party found a hatch leading to a nest beneath the cellar. From below came the cries of a young boy calling for help; everyone was sure it was a trap, and Elizium was ready to burn the whole cave to ash. He started the fight by hurling bottles of alchemist's fire into the nest to burn the webs, and **ettercaps** climbed out. It was a costly victory: Edric was poisoned and paralysed for the first time in his life and had a panic attack while the others peered deeper into the cave, and Elizium fell unconscious and was about to be eaten before the ettercaps were beaten. Selina partly healed Edric. Down in the nest they found **Michael**, a young apprentice of the Last Lantern, wrapped in a web cocoon: the only survivor of the ettercaps' attack on the inn. They took him to the temple in Tethiamar.
+In the kitchen the party found a hatch leading to a nest beneath the cellar. From below came the cries of a young boy calling for help; everyone was sure it was a trap, and Elizium was ready to burn the whole cave to ash. He started the fight by hurling bottles of alchemist's fire into the nest to burn the webs, and **ettercaps** climbed out. It was a costly victory: Edric was poisoned and paralysed for the first time in his life and had a panic attack while the others peered deeper into the cave, and Elizium fell unconscious and was about to be eaten before the ettercaps were beaten. Selina partly healed Edric. Down in the nest they found [[Michael]], a young apprentice of the Last Lantern, wrapped in a web cocoon: the only survivor of the ettercaps' attack on the inn. They took him to the temple in Tethiamar.
 
 That night Edric burned with fever from the poison. He had nightmares and talked in his sleep, repeating one word: **Merthouvial**. Ezariel watched him for anything suspicious, and in his sleep he seemed to look at her and smile. In the morning he was fully healed and remembered nothing. Azhyra, meanwhile, saw something she could not possibly have seen, and her mind erased the image at once.
 
-Back in Tethiamar they reported to the **Illumians**, the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through **Loroves**, orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the **Brotherhood of Light**. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthouvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
+Back in Tethiamar they reported to the **Illumians**, the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through [[Loroves]], orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the **Brotherhood of Light**. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthouvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
 
-**Zarik Turbar**, son of the innkeeper **Ian Turbar** of the inn **The Flower and the Tiara**, blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Michael in private, then persuaded Edric to have the temple check him for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
+[[Zarik Turbar]], son of the innkeeper **Ian Turbar** of the inn **The Flower and the Tiara**, blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Michael in private, then persuaded Edric to have the temple check him for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
 
 Edric left his belongings with Ezariel, except for Trusty, **Will** (the Life-giving Prince's longsword) and a +1 bastard sword. He spent eight hours in the temple performing the ritual, and Trusty became a **+1 longsword**, strengthened with the bastard sword's power. Afterwards Selina, waiting at the temple entrance, told him she will propose him for knighthood in the Brotherhood of Light.
 
@@ -62,11 +62,11 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 > - **Who fell:** the players report Edric paralysed; the DM adds that Elizium was knocked out and nearly eaten.
 
 ## NPCs met
-- **Michael**: young apprentice at the Last Lantern, the only survivor of the ettercaps' attack
+- [[Michael]]: young apprentice at the Last Lantern, the only survivor of the ettercaps' attack
 - **Philippe and Zanie**: a couple of adventurers looting the Last Lantern
 - **The Illumians, the Pilgrims of Mercy**: one of them sent the party to find his friends; he changed when King Theron was mentioned
-- **Loroves**: brought High Lady Lavern's orders
-- **Zarik Turbar**: son of the innkeeper Ian Turbar; let slip that strangers were looking for Ezariel
+- [[Loroves]]: brought High Lady Lavern's orders
+- [[Zarik Turbar]]: son of the innkeeper Ian Turbar; let slip that strangers were looking for Ezariel
 - **The man in the red cape and feathered red hat**, with men in red: looking for Ezariel
 - *Mentioned:* High Lady Lavern · Ian Turbar · King Theron, the Life-giving Prince · Dorl Taviani, "the fake god"
 

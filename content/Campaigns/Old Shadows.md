@@ -18,10 +18,10 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-Aya · Thoriel · Petros · Arta · Aradun · Freiderikos
+[[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · Aradun · [[Freiderikos]]
 
 ## NPCs
-*No NPC pages yet.*
+[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Drugag]] · [[Akis]]
 
 ## Sessions
 - [[Session 030 - The Descent into the Shadow]] · 2026-06-27
