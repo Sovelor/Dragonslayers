@@ -21,10 +21,14 @@ tags:
 Edric · [[Elizium (A New Beginning)|Elizium]] · Selina · Ezariel · Azhyra
 
 ## NPCs
-*No NPC pages yet.*
+[[Lady Lavern]]
 
 ## Sessions
-*No sessions logged yet.*
+- [[Session 001 - A New Beginning]] · 2026-02-14
+- [[Session 002 - The Punishment]] · 2026-03-20
+- [[Session 004 - The Illumians]] · 2026-05-02
+- [[Session 005 - The Ogre Poop and Dick Incident]] · 2026-05-29
+- [[Session 009 - Echoes, the Road Back]] · 2026-09-26
 
 ## Locations
 *No location pages yet.*

@@ -24,7 +24,8 @@ Nyra · Lenor · Grafin · [[Meive]]
 *No NPC pages yet.*
 
 ## Sessions
-*No sessions logged yet.*
+- [[Session 003 - Spiders!]] · 2025-12-06
+- [[Session 004 - New Keep Village]] · 2026-01-30
 
 ## Locations
 *No location pages yet.*

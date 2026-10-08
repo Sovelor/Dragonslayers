@@ -24,4 +24,4 @@ Who they are is an open question.
 - [[Session 015 - The Vander Legacy]]: mentioned (open question)
 
 ## Links
-- [[Ancient Blood]] · [[Daggerfall]]
+- [[Ancient Blood]] · [[Daggerford]]

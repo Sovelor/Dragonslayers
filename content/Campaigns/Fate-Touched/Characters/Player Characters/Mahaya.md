@@ -36,6 +36,9 @@ First seen standing on Gaston's cart, bow drawn, when Badinga and Garpask are st
 > [!success] Status
 > Alive, allied with the party. Enters the [[Ancient Crypt]] with Badinga and Garpask.
 
+## Ten years later
+See [[Mahaya (Lord of Time)]]: ten years after the saga, Mahaya is the Lord of Time, who chooses three bearers of the [[Hourglass of Time]].
+
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
 - [[Gaston Lentinson]] · [[Badinga Alpenrok]] · [[Gourd]] · [[Allalme Dragonborn]] · [[Ancient Crypt]]

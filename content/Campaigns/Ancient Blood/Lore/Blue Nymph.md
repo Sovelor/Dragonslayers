@@ -18,10 +18,10 @@ tags:
 **Role:** Ship of [[Lavinia Vander]]
 
 ## Summary
-The party killed an achaierai (a demon bird from the river Styx) aboard her, finding the Vander ring, a papyrus scroll and gold. They then sailed her into the [[Daggerfall]] harbour in broad daylight. Not everyone was pleased.
+The party killed an achaierai (a demon bird from the river Styx) aboard her, finding the Vander ring, a papyrus scroll and gold. They then sailed her into the [[Daggerford]] harbour in broad daylight. Not everyone was pleased.
 
 ## Appearances
 - [[Session 015 - The Vander Legacy]]: fight with the achaierai; return to the harbour
 
 ## Links
-- [[Ancient Blood]] · [[Lavinia Vander]] · [[Daggerfall]]
+- [[Ancient Blood]] · [[Lavinia Vander]] · [[Daggerford]]

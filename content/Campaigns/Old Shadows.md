@@ -24,7 +24,7 @@ Aya · Thoriel · Petros · Arta · Aradun · Freiderikos
 *No NPC pages yet.*
 
 ## Sessions
-*No sessions logged yet.*
+- [[Session 030 - The Descent into the Shadow]] · 2026-06-27
 
 ## Locations
 *No location pages yet.*
