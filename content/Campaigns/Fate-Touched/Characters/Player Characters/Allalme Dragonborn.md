@@ -92,5 +92,9 @@ After the Battle of Destiny against [[Atropos]], Allalme married [[Vincent Vermi
 - [[Session 002 - A Strange Encounter]] *(Ancient Blood)*: Irewyn once served Allalme, [[Melda]]'s goddess
 - [[Session 003 - The Betrayal]] *(Ancient Blood)*: Allalme sent Irewyn and Belak to heal the forest, then a team led by Melda
 
+## Gallery
+
+![[Characters - Vincent Vermilion and Allalme.jpg|400]]
+
 ## Links
 - [[Sovelor]] · [[Vincent Vermilion]] · [[Lavern]] · [[Ancient Crypt]] · [[Garpask Losark]] · [[Frederick Frostfire]] · [[Mahaya]] · [[Badinga Alpenrok]] · [[Languages and Incantations]] · [[The Dragonslayers Saga - Story Timeline]]
