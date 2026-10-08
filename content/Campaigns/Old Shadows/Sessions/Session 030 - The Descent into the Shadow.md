@@ -24,7 +24,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 030 - Η Κάθοδος στην Σκιά]]
 
 ## Recap
-The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Bridingfort. The Amazing Six then went down to the **Undercity of Splendarrmornn**. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Saar** a service was being held. **Drugag**, the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
+The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Bridingfort. The Amazing Six then went down to the **Undercity of Splendarrmornn**. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Saar** a service was being held. [[Drugag]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
 
 Through a secret door, the party descended a long, dark staircase, possibly into the Shadowfell. There was only silence, darkness and emptiness; even the dwarves felt uneasy inside the mountain, and the door closed silently behind them, leaving only the way forward. At the bottom they fought the **Shadow Mastiffs**, the first guardians of the next door, and then two **shadow oozes**, the tunnels' scavengers. Freiderikos pulled half the party out of an ooze with *Regroup* before they blasted it apart.
 
@@ -34,9 +34,9 @@ The final tunnel turned each of them inward. Thoriel saw the animals she had fai
 
 At the sealed door marked with a broken wooden sign, **TUNNEL 5**, Aya and Thoriel blocked the way and demanded that Petros explain what they were doing there with no plan, walking into a trap holding the very component the Prophet was after. Petros insisted they had to press on to save the city. Aya prayed but her goddess did not answer; Thoriel, for the first time, felt **Sylvanus** beside her, a warm hand on her shoulder strengthening her magic.
 
-They opened the door together and found the **Shadow Altar**, holding the **Sword of Garagos**. As the Six tried to work out what exactly the altar was, a gold coin came rolling down the stairs behind them. Its metallic ring echoed through the whole chamber, and the Six turned in surprise to see four figures walking in: **Hecate the Prophet**, **Thalri** (Petros's sister), **Bjorn Brottdottir** (Arta's father) and **Sol' Goleth**, the Shadow Demoness. *"This time, Petros... there is no prophecy for you,"* said Hecate.
+They opened the door together and found the **Shadow Altar**, holding the **Sword of Garagos**. As the Six tried to work out what exactly the altar was, a gold coin came rolling down the stairs behind them. Its metallic ring echoed through the whole chamber, and the Six turned in surprise to see four figures walking in: [[Hecate the Prophet]], [[Thalri]] (Petros's sister), [[Bjorn Brottdottir]] (Arta's father) and [[Sol' Goleth]], the Shadow Demoness. *"This time, Petros... there is no prophecy for you,"* said Hecate.
 
-Before anyone could fight, Hecate stunned them all, took Petros's familiar **Akis** and drew out the shadow that lived inside him. The rat turned white again, and the Prophet had her last component. Bjorn begged Arta to stand at her father's side. Aya stood up to Hecate and demanded the truth; Hecate showed her, in a grim vision, who she really is and what she wants. Then she left the Six with a promise: death would be too merciful; their punishment is to live and watch the darkness unfold.
+Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Akis]] and drew out the shadow that lived inside him. The rat turned white again, and the Prophet had her last component. Bjorn begged Arta to stand at her father's side. Aya stood up to Hecate and demanded the truth; Hecate showed her, in a grim vision, who she really is and what she wants. Then she left the Six with a promise: death would be too merciful; their punishment is to live and watch the darkness unfold.
 
 **Key beats**
 1. Morning after the Pickaxeson reunion; the family sent to find Soma in Bridingfort
@@ -57,11 +57,11 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar **Aki
 > - **The four figures:** Thoriel's player has them already waiting inside when the door opened; the DM has them following the party down the stairs after the coin drop. The DM's account is used.
 
 ## NPCs met
-- **Drugag**: High Priest of the Shadow, Arta's godfather
-- **Hecate the Prophet**: took the shadow from Akis, her last component
-- **Bjorn Brottdottir**: Arta's father, standing with the Prophet
-- **Thalri**: Petros's sister, standing with the Prophet
-- **Sol' Goleth**: the Shadow Demoness, with the Prophet
+- [[Drugag]]: High Priest of the Shadow, Arta's godfather
+- [[Hecate the Prophet]]: took the shadow from Akis, her last component
+- [[Bjorn Brottdottir]]: Arta's father, standing with the Prophet
+- [[Thalri]]: Petros's sister, standing with the Prophet
+- [[Sol' Goleth]]: the Shadow Demoness, with the Prophet
 - *Mentioned:* the Pickaxeson family · Soma
 
 ## Places

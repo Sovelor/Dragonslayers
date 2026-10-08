@@ -23,7 +23,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 001 - Μια Νέα Αρχή]]
 
 ## Recap
-In the middle of summer, **Selina** and **Azhyra** left the **Brotherhood of Light** for **Brook Hollow**, a village in the far east. On the orders of **Lady Lavern**, they were to find out what had happened to **Pastor Lia**, a cleric of the village. It was Selina's first mission as a new cleric and she wanted to prove her worth; Azhyra came along, in a way, as her supervisor.
+In the middle of summer, **Selina** and **Azhyra** left the **Brotherhood of Light** for **Brook Hollow**, a village in the far east. On the orders of **Lady Lavern**, they were to find out what had happened to [[Pastor Lia]], a cleric of the village. It was Selina's first mission as a new cleric and she wanted to prove her worth; Azhyra came along, in a way, as her supervisor.
 
 As they left, they met the third member of their small group: **Edric**, a human fighter and an associate from the desert department, also on his first mission and there to protect them both. Further along they met [[Elizium (A New Beginning)|Elizium]], an elf warrior-mage who said he knew the area and could give them safe passage to the village, since he had come that way.
 
@@ -49,7 +49,7 @@ The next day they made their way to the village. With a bad feeling about it all
 > - **The night's shelter:** an abandoned fortress (Azhyra's player) or an abandoned watchtower (Ezariel's player). The more detailed account, the watchtower, is used.
 
 ## NPCs met
-- **Pastor Lia** *(mentioned)*: missing; the reason for the mission
+- [[Pastor Lia]] *(mentioned)*: missing; the reason for the mission
 - **Lady Lavern** *(mentioned)*: gave Selina the mission
 - *Joined the party:* Edric, [[Elizium (A New Beginning)|Elizium]], Ezariel
 

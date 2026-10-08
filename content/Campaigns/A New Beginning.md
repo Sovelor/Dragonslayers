@@ -18,10 +18,10 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-Edric · [[Elizium (A New Beginning)|Elizium]] · Selina · Ezariel · Azhyra
+[[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]]
 
 ## NPCs
-[[Lady Lavern]]
+[[Lady Lavern]] · [[Pastor Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]]
 
 ## Sessions
 - [[Session 001 - A New Beginning]] · 2026-02-14
