@@ -73,5 +73,9 @@ When Allalme was taken by the forces of [[Atropos]] and held prisoner, Vincent j
 ## Quotes
 > "Fear not, I am coming!"
 
+## Gallery
+
+![[Characters - Vincent Vermilion and Allalme.jpg|400]]
+
 ## Links
 - [[Fate-Touched]] · [[Allalme Dragonborn]] · [[Atropos]]

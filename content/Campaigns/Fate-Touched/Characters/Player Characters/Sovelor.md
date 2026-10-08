@@ -69,5 +69,11 @@ He joined the Order of Freedom, and after the attack of the Dragons he founded t
 - **Black Dagger**: +1 dagger; casts *Dimension Door* three times a day and allows sneak attacks on undead
 - **Millenial Chainmail**: +1 mithral chainmail with fast healing, crimson from the blood infusion
 
+## Gallery
+
+![[Characters - Sovelor 2.jpg|400]]
+
+![[Characters - Sovelor 3.jpg|400]]
+
 ## Links
 - [[Fate-Touched]] · [[Allalme Dragonborn]] · [[Mahaya]] · [[Garpask Losark]] · [[Atropos]]
