@@ -3,7 +3,6 @@ title: "Circle of the Moon"
 campaign: Shared
 lang: en
 translation: "[[Ο Κύκλος της Σελήνης]]"
-draft: true
 tags:
   - lore
   - faction

@@ -3,7 +3,6 @@ title: "Order of Freedom"
 campaign: Shared
 lang: en
 translation: "[[Το Τάγμα της Ελευθερίας]]"
-draft: true
 tags:
   - lore
   - faction
@@ -16,7 +15,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Το Τάγμα της Ελευθερίας]]
 
-**Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Seat: Zelfar, north of Laskan
+**Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Secret elite group: the Edge of Banishment · Seat: Zelfar, north of Laskan
 
 ## Summary
 The Order of Freedom (Το Τάγμα της Ελευθερίας) was founded about twelve years ago by Mahaya Vishan, one of the legendary Dragonslayers, and by the last remaining Harpers. Its purpose was clear:
@@ -34,6 +33,21 @@ About ten years ago the **Forest Kingdom**, together with the Chromatic Dragons 
 
 ### The new seat: Zelfar
 The Order moved to **Zelfar**, a city north of Laskan, where it was rebuilt, reorganised and gained new allies. Zelfar is now the Order's official base.
+
+## The Edge of Banishment
+[[Sovelor]], the son of Asmodeus, created an utterly secret elite group within the Order: the **Edge of Banishment** (Αιχμή της Εξορίας). It is made up of the Order's most capable agents, works entirely outside the official structures, takes on missions no one else can, and exists to face threats that neither the Order nor the gods can touch.
+
+The Edge of Banishment kept the old Tower of Freedom as its base and renamed it the **Tower of Exile** (Πύργος της Εξορίας). Very few know that the Tower still operates.
+
+### Loroves, Sovelor's chosen
+After Sovelor's disappearance, **Loroves**, his chosen one (the Loroves of *[[A New Beginning]]*), took over the leadership of the Edge of Banishment. She is utterly devoted to Sovelor, knows the secrets of the blood of Asmodeus, has access to rituals no one else knows, and is the only one who can keep the Edge united.
+
+The group's existence is unknown to all but a few: Mahaya, Velatha and some of the old Dragonslayers.
+
+### The Branches and the Edge of Banishment
+The Edge is so secret that most Branches don't know it exists, only the Kladarchs have faint suspicions, and only Mahaya, Velatha and Loroves know the truth. The Branches act as protectors, scouts and early-warning systems that feed the Edge with information.
+
+> The Edge of Banishment is the Order's surgical blade. The Branches are its nervous system.
 
 ## The Branches
 Under Mahaya Vishan and Velatha the Order created a unique system of command: the **Branches** (Παρακλάδια), small, self-sustaining, organised groups that work like the Order's "nerve endings" all over Faerûn. Their aim: that the Order is present everywhere, from the greatest cities to the most remote villages.
@@ -70,4 +84,4 @@ That is why they are the Order's main enemy.
 The Zhentarim and the other dark organisations are everywhere, move fast, and have money, armies, agents and magic. To face them the Order needs a presence in every city, information from every village, strike teams on every border, new heroes, and constant influence and growth. That is why the Branches matter so much.
 
 ## Links
-- [[Organizations]] · [[Campaigns]] · [[Mahaya (Lord of Time)]] · [[Zhentarim]]
+- [[Organizations]] · [[Campaigns]] · [[Mahaya (Lord of Time)]] · [[Sovelor]] · [[Zhentarim]]

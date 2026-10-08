@@ -3,7 +3,6 @@ title: "Organizations"
 campaign: Shared
 lang: en
 translation: "[[Οργανώσεις]]"
-draft: true
 tags:
   - moc
   - faction
