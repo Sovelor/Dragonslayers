@@ -23,6 +23,7 @@ The five D&D campaigns of **Threads of Fate**. [[Fate-Touched]] is the story of 
 | [[A New Beginning]] | [[Μια Νέα Αρχή]] | 1–2, 4–5, 9 |
 
 ## Threads across campaigns
+- **[[Organizations]]:** the great organizations of the world, such as the [[Circle of the Moon]] and the [[Order of Freedom]].
 - **The three chosen of [[Mahaya (Lord of Time)|Mahaya]]:** [[Nenya]] (*Ancient Blood*), [[Elizium (A New Beginning)|Elizium]] (*A New Beginning*) and [[Meive]] (*Inner Fire*), each carrying an [[Hourglass of Time]]. A faceless shadow carries one too.
 
 ## Links to the saga
