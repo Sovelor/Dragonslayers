@@ -19,7 +19,7 @@ tags:
 > [!warning] Spoilers
 > This page reveals the fall of the guardians of the Misty Forest and the death of one of them.
 
-**Role:** Druidic circle, the highest order of Allalme's faithful · Seat: the Moon Clearing · Leader: Archdruid Lenor Neritoris, the Black Tulip
+**Role:** Druidic circle, the highest order of the faithful of the goddess [[Allalme Dragonborn|Allalme]] · Seat: the Moon Clearing · Leader: Archdruid Lenor Neritoris, the Black Tulip
 
 ## Summary
 The Circle of the Moon (Ο Κύκλος της Σελήνης) is the highest order of the faithful of Allalme: a druidic circle of druids, monks, priests and wardens who protect Nature, the Balance and the forests through the Sacred Willows. Its mission is to keep the balance between the light and the shadow of the Moon.
@@ -109,4 +109,4 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 > *"Balance is not only life. It is also the death that feeds life."* (the Circle's elders, on the Wood of Sharp Teeth)
 
 ## Links
-- [[Organizations]] · [[Campaigns]] · [[Atropos]] *(saga)*
+- [[Organizations]] · [[Campaigns]] · [[Allalme Dragonborn]] · [[Atropos]] *(saga)*
