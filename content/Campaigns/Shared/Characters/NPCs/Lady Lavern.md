@@ -3,7 +3,6 @@ title: Lady Lavern
 campaign: Shared
 lang: en
 translation: "[[Λαίδη Λαβέρν]]"
-draft: true
 status: Alive
 tags:
   - character
@@ -12,7 +11,7 @@ tags:
   - shared
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Sources (private): DM Desk answer to Q14 (2026-10-08); A New Beginning session answers. %%
+%% Sources (private): DM Desk answer to Q14 (2026-10-08); A New Beginning session answers. %%
 
 # Lady Lavern
 

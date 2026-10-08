@@ -5,7 +5,6 @@ session: 3
 date: 2025-12-06
 lang: en
 translation: "[[Συνεδρία 003 - Αράχνες!]]"
-draft: true
 mvp: The whole party
 contributors:
   - Lenor's player
@@ -16,7 +15,7 @@ tags:
   - inner-fire
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 003 (raw).md %%
+%% Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 003 (raw).md %%
 
 # Session 003 - Spiders!
 

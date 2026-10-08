@@ -19,8 +19,8 @@ movedFrom:
 
 > [!abstract] Ελληνικά → [[Μαχάγια (Άρχοντας του Χρόνου)]]
 
-> [!question] Connection to the saga
-> Shares his name with [[Mahaya]], the elven scout of *The Dragonslayers Saga*. Whether they are the same person is unknown.
+> [!info] From the saga
+> The Lord of Time is [[Mahaya]], the elven scout of the Dragonslayers in *Fate-Touched*, ten years after the saga.
 
 **Role:** The Lord of Time · male elf
 

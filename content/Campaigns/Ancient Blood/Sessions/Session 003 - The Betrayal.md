@@ -5,7 +5,6 @@ session: 3
 date: 2025-01-25
 lang: en
 translation: "[[Συνεδρία 003 - Η προδοσία]]"
-draft: true
 mvp: The whole party
 contributors:
   - Melda's player
@@ -16,7 +15,7 @@ tags:
   - ancient-blood
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 003 (raw).md %%
+%% Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 003 (raw).md %%
 
 # Session 003 - The Betrayal
 

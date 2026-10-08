@@ -5,7 +5,6 @@ session: 1
 date: 2024-10-12
 lang: en
 translation: "[[Συνεδρία 001 - Αρχαίο Αίμα, η Αρχή]]"
-draft: true
 mvp: The whole party (2 votes)
 contributors:
   - DM
@@ -17,7 +16,7 @@ tags:
   - ancient-blood
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 001 (raw).md %%
+%% Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 001 (raw).md %%
 
 # Session 001 - Ancient Blood, the Beginning
 

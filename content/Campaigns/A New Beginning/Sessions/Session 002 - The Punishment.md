@@ -5,7 +5,6 @@ session: 2
 date: 2026-03-20
 lang: en
 translation: "[[Συνεδρία 002 - Η Τιμωρία]]"
-draft: true
 mvp: Selina (2 votes)
 contributors:
   - Azhyra's player
@@ -17,7 +16,7 @@ tags:
   - a-new-beginning
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 002 (raw).md %%
+%% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 002 (raw).md %%
 
 # Session 002 - The Punishment
 

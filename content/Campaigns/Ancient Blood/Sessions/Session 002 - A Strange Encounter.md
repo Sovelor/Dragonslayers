@@ -5,7 +5,6 @@ session: 2
 date: 2024-07-06
 lang: en
 translation: "[[Συνεδρία 002 - Μια περίεργη συνάντηση]]"
-draft: true
 mvp: The whole party
 contributors:
   - Melda's player
@@ -16,7 +15,7 @@ tags:
   - ancient-blood
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 002 (raw).md %%
+%% Raw log (private): private/Campaigns/Ancient Blood/Session Logs/Session 002 (raw).md %%
 
 # Session 002 - A Strange Encounter
 

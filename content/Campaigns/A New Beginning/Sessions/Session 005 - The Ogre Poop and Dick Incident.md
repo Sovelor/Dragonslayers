@@ -5,7 +5,6 @@ session: 5
 date: 2026-05-29
 lang: en
 translation: "[[Συνεδρία 005 - Το Περιστατικό με τις Κουράδες και το Πουλί του Όγκρου]]"
-draft: true
 mvp: Ezariel
 contributors:
   - Ezariel's player
@@ -16,7 +15,7 @@ tags:
   - a-new-beginning
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 005 (raw).md %%
+%% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 005 (raw).md %%
 
 # Session 005 - The Ogre Poop and Dick Incident
 

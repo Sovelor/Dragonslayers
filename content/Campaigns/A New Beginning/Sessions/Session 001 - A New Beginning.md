@@ -5,7 +5,6 @@ session: 1
 date: 2026-02-14
 lang: en
 translation: "[[Συνεδρία 001 - Μια Νέα Αρχή]]"
-draft: true
 mvp: Selina (2 votes)
 contributors:
   - Azhyra's player
@@ -17,7 +16,7 @@ tags:
   - a-new-beginning
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 001 (raw).md %%
+%% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 001 (raw).md %%
 
 # Session 001 - A New Beginning
 

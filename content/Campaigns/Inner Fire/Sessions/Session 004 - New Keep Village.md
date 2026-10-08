@@ -5,7 +5,6 @@ session: 4
 date: 2026-01-30
 lang: en
 translation: "[[Συνεδρία 004 - Το χωριό Νιου Κιπ]]"
-draft: true
 contributors:
   - Lenor's player
 tags:
@@ -15,7 +14,7 @@ tags:
   - inner-fire
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 004 (raw).md %%
+%% Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 004 (raw).md %%
 
 # Session 004 - New Keep Village
 

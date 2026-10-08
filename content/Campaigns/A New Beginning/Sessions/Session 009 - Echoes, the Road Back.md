@@ -5,7 +5,6 @@ session: 9
 date: 2026-09-26
 lang: en
 translation: "[[Συνεδρία 009 - Απόηχος, ο δρόμος της επιστροφής]]"
-draft: true
 mvp: The whole party (2 votes)
 contributors:
   - DM
@@ -18,7 +17,7 @@ tags:
   - a-new-beginning
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 009 (raw).md %%
+%% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 009 (raw).md %%
 
 # Session 009 - Echoes, the Road Back
 

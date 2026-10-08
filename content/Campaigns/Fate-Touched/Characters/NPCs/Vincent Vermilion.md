@@ -3,7 +3,6 @@ title: Vincent Vermilion
 campaign: Fate-Touched
 lang: en
 translation: "[[Βίνσεντ Βερμίλιον]]"
-draft: true
 status: Alive
 contributors:
   - DM
@@ -14,7 +13,7 @@ tags:
   - fate-touched
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw profile (private): private/Campaigns/Fate-Touched/Character Logs/Vincent Vermilion (raw).md %%
+%% Raw profile (private): private/Campaigns/Fate-Touched/Character Logs/Vincent Vermilion (raw).md %%
 
 # Vincent Vermilion
 

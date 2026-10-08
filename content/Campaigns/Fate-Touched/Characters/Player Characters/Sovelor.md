@@ -3,7 +3,6 @@ title: Sovelor
 campaign: Fate-Touched
 lang: en
 translation: "[[Σόβελορ]]"
-draft: true
 status: Missing
 contributors:
   - Sovelor's player
@@ -14,7 +13,7 @@ tags:
   - fate-touched
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw profile (private): private/Campaigns/Fate-Touched/Character Logs/Sovelor (raw).md %%
+%% Raw profile (private): private/Campaigns/Fate-Touched/Character Logs/Sovelor (raw).md %%
 
 # Sovelor
 

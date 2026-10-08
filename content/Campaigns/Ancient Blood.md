@@ -24,6 +24,10 @@ tags:
 [[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]]
 
 ## Sessions
+- [[Session 001 - Ancient Blood, the Beginning]] · 2024-10-12
+- [[Session 002 - A Strange Encounter]] · 2024-07-06
+- [[Session 003 - The Betrayal]] · 2025-01-25
+- [[Session 004 - The Dark Fortress]] · 2025-04-12
 - [[Session 015 - The Vander Legacy]] · 2026-10-03
 
 ## Locations

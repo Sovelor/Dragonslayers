@@ -5,7 +5,6 @@ session: 30
 date: 2026-06-27
 lang: en
 translation: "[[Συνεδρία 030 - Η Κάθοδος στην Σκιά]]"
-draft: true
 mvp: Freiderikos · Petros · The whole party (1 vote each)
 contributors:
   - DM
@@ -18,7 +17,7 @@ tags:
   - old-shadows
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/Old Shadows/Session Logs/Session 030 (raw).md %%
+%% Raw log (private): private/Campaigns/Old Shadows/Session Logs/Session 030 (raw).md %%
 
 # Session 030 - The Descent into the Shadow
 

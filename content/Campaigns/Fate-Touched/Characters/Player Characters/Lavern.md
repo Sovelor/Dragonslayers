@@ -3,7 +3,6 @@ title: Lavern
 campaign: Fate-Touched
 lang: en
 translation: "[[Λαβέρν]]"
-draft: true
 tags:
   - character
   - party
@@ -11,7 +10,7 @@ tags:
   - fate-touched
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Sources (private): DM Desk answer to Q14 (2026-10-08); the character profiles of Sovelor, Allalme and Vincent Vermilion. %%
+%% Sources (private): DM Desk answer to Q14 (2026-10-08); the character profiles of Sovelor, Allalme and Vincent Vermilion. %%
 
 # Lavern
 

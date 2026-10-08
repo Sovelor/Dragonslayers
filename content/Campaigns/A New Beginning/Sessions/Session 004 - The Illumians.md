@@ -5,7 +5,6 @@ session: 4
 date: 2026-05-02
 lang: en
 translation: "[[Συνεδρία 004 - Οι Ιλλούμιαν]]"
-draft: true
 mvp: Edric
 contributors:
   - Ezariel's player
@@ -16,7 +15,7 @@ tags:
   - a-new-beginning
   - lang/en
 ---
-%% DRAFT: remove `draft: true` once reviewed. Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 004 (raw).md %%
+%% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 004 (raw).md %%
 
 # Session 004 - The Illumians
 
