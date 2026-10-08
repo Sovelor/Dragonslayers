@@ -17,16 +17,17 @@ The five D&D campaigns of **Threads of Fate**. [[Fate-Touched]] is the story of 
 | Campaign | Ελληνικά | Sessions logged |
 |---|---|---|
 | [[Fate-Touched]] | [[Οι Εκλεκτοί της Μοίρας]] | told in the manuscript |
-| [[Old Shadows]] | [[Παλιές Σκιές]] | – |
-| [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 15 |
-| [[Inner Fire]] | [[Εσωτερική Φωτιά]] | – |
-| [[A New Beginning]] | [[Μια Νέα Αρχή]] | – |
+| [[Old Shadows]] | [[Παλιές Σκιές]] | 30 |
+| [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 1–4, 15 |
+| [[Inner Fire]] | [[Εσωτερική Φωτιά]] | 3–4 |
+| [[A New Beginning]] | [[Μια Νέα Αρχή]] | 1–2, 4–5, 9 |
 
 ## Threads across campaigns
 - **[[Organizations]]:** the great organizations of the world, such as the [[Circle of the Moon]] and the [[Order of Freedom]].
 - **The three chosen of [[Mahaya (Lord of Time)|Mahaya]]:** [[Nenya]] (*Ancient Blood*), [[Elizium (A New Beginning)|Elizium]] (*A New Beginning*) and [[Meive]] (*Inner Fire*), each carrying an [[Hourglass of Time]]. A faceless shadow carries one too.
 
 ## Links to the saga
-Names shared with saga characters get their own page here until the story says otherwise. Each of those pages has a *Connection to the saga* note.
-- [[Mahaya (Lord of Time)]] ↔ [[Mahaya]]
+Characters from the saga who return ten years later, and characters who only share a saga name, get their own page here, linked to the saga page.
+- [[Mahaya (Lord of Time)]] ↔ [[Mahaya]] *(the same person, ten years later)*
+- [[Lady Lavern]] ↔ [[Lavern]] *(the same person, ten years later)*
 - [[Elizium (A New Beginning)]] ↔ [[Elizium]]

@@ -10,6 +10,7 @@ contributors:
   - DM
   - Vaalrath's player
   - Nenya's player
+  - Jareth's player
   - Guest / Other (×2)
 tags:
   - session
@@ -24,26 +25,26 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 015 - Η Κληρονομιά των Βάντερ]]
 
 ## Recap
-Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the river Styx; [[Nenya]] landed the final blow with *Kelgor's Fire Bolt*. Nobody was lost. On the ship they found the **Vander family ring** (it belonged to Lavinia's father), a **papyrus scroll** and some gold.
+Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the river Styx; [[Nenya]] landed the final blow with *Kelgor's Fire Bolt*. Nobody was lost. On the ship they found the **Vander family ring** (it belonged to Lavinia's father), a **papyrus scroll** and some gold. The ship had not been destroyed, as Lavinia had been told: it was hidden, something the harbourmaster had not wanted found, and with it lay the money Lavinia had paid to have it found.
 
 [[Melda]] and [[Vaalrath]] flew back to the [[Vander Manor]] to report to [[Lavinia Vander]]. Vaalrath handed her the ring and the gold, and Lavinia told him about the family vault on their private island. Meanwhile Melda heard that her cousin was in town and found her: the paladin [[Seraphiel]], who was relieved to see her and joined the party.
 
-At noon the next day the heroes sailed the Blue Nymph through the [[Daggerfall]] strait into the harbour, deliberately in broad daylight to make a statement, with [[Jareth]] playing sailor songs. Not everyone in port was pleased. Lavinia then asked them to escort her to [[Terraknian Island]].
+At noon the next day the heroes sailed the Blue Nymph through the [[Daggerford]] strait into the harbour, deliberately in broad daylight to make a statement, with [[Jareth]] playing sailor songs. Not everyone in port was pleased. Thanks to [[Axel]]'s experience as a sailor they got the ship out of its hideout and moored it in the harbour, then hired new sailors with his help. Lavinia then asked them to escort her to [[Terraknian Island]], where the family vault holds the title deeds to her property.
 
-There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowin]]. Past a series of puzzle doors, two **Force Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
+There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowin]], and had already opened the vault. Vanthus was supposed to be dead; learning he was alive, Lavinia at first seemed in an odd mood, then suddenly grew quite happy. Past a series of puzzle doors, two **Force Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
 
 Inside, **much of the vault's gold was missing**. Lavinia did recover the ownership documents she had come for. In a smaller chamber they found only the broken bottles of a *Potion of Cat's Grace*. The smaller safe had two locks: one already open, one still sealed. The ring opened the sealed lock, and inside lay an hourglass that looked empty.
 
 When Nenya touched it, time slowed and she found herself in a strange dimension. Three figures stood before her: a faceless black shadow, an elf and a halfling. Then a male elf appeared, with Nenya's own colours and face. He named himself [[Mahaya (Lord of Time)|Mahaya]], the Lord of Time. He told her she had been *chosen among three* and asked whether she would carry out his mission. The other elf was named [[Elizium (A New Beginning)|Elizium]] and the halfling [[Meive]]. These are the same Elizium of *A New Beginning* and Meive of *Inner Fire*, which ties the three campaigns together. All of them, the shadow included, carried the same hourglass with the same glowing runes. Nenya accepted and returned to reality. Since the [[Hourglass of Time]] seemed tied to her tribe and her mission, she asked Lavinia whether she could keep it, and Lavinia agreed.
 
-The session ended with an alliance sealed with Lavinia, and through her with the Vander family of the Daggerfall region.
+The session ended with an alliance sealed with Lavinia, and through her with the Vander family of the Daggerford region.
 
 **Key beats**
 1. Killed the achaierai aboard the [[Blue Nymph]] (Nenya, *Kelgor's Fire Bolt*)
-2. Found the Vander ring, a papyrus scroll and gold
+2. Found the Vander ring, a papyrus scroll and gold; the ship was hidden, not destroyed
 3. Melda and Vaalrath reported to [[Lavinia Vander]]; Vaalrath returned her father's ring and the gold
 4. [[Seraphiel]], Melda's cousin, joined the party
-5. Sailed the Blue Nymph through the [[Daggerfall]] strait into the harbour in broad daylight
+5. Got the ship out of its hideout with Axel's seamanship and sailed it through the [[Daggerford]] strait into the harbour in broad daylight; hired new sailors
 6. Escorted Lavinia to [[Terraknian Island]]; [[Mumzar]] revealed Vanthus's frequent visits with [[Rowin]]
 7. Two Force Golems marked the party as enemies; shut down with Lavinia's ring via *Mage Hand*, with no combat
 8. Opened the vault: much of the gold was missing; Lavinia found her ownership documents; only broken bottles of a Potion of Cat's Grace left
@@ -55,6 +56,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 > - **The golems:** the DM lists them under *fights*, but Nenya's player says the party avoided combat and shut them down with the ring.
 > - **Mumzar** is called caretaker (DM, Nenya), butler (Guest) and island guard (Vaalrath's player). *Caretaker* is used.
 > - **Date:** 3 answers say 03/10, one says 04/10 and one 01/10.
+> - **Lavinia's money:** Jareth's player says they found the money Lavinia had paid to have the ship found and gave it back; the other accounts only mention gold found aboard.
 
 ## NPCs met
 - [[Seraphiel]]: paladin, Melda's cousin; kind, relieved to have found Melda; joined the party
@@ -62,11 +64,13 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - [[Lavinia Vander]]: got back her ship, her father's ring and the family documents; now an ally
 - [[Mahaya (Lord of Time)|Mahaya]]: the Lord of Time; a male elf with Nenya's colours and face, met in her vision
 - [[Elizium (A New Beginning)|Elizium]] (elf) and [[Meive]] (halfling): Mahaya's other two chosen, seen in the vision. They are player characters in *A New Beginning* (Elizium) and *Inner Fire* (Meive). A faceless black shadow was with them.
-- *Mentioned:* [[Vanthus Vander]] (Lavinia's brother) and his wife [[Rowin]], frequent visitors to the island
+- **The harbourmaster**, who did not want the ship found
+- **New sailors**, hired with Axel's help
+- *Mentioned:* [[Vanthus Vander]] (Lavinia's brother, believed dead) and his wife [[Rowin]], frequent visitors to the island
 
 ## Places
 - [[Terraknian Island]]: private vault island and estate of the Vander family
-- [[Daggerfall]]: the strait leading into the harbour; the Vanders' home region
+- [[Daggerford]]: the strait leading into the harbour; the Vanders' home region
 - [[Vander Manor]]: Lavinia's residence
 
 ## Fights
@@ -88,7 +92,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - [ ] Help Lavinia find out what happened to her family and her brother
 - [ ] Return to Astriel when this is done
 - [ ] Where is [[Vanthus Vander]]? Why did he keep visiting the island with [[Rowin]]?
-- [ ] What happened to the previous archduke, [[Peeweed Daggerfall]]?
+- [ ] What happened to the previous archduke, [[Peeweed Daggerford]]?
 - [ ] Who are the [[Lotus Dragons]]?
 - [ ] Who is [[Madagar Bugo]], and who are his accomplices?
 - [ ] Why did the golems mark Vaalrath as an Illumian, and Nenya as a dangerous Sun Elf?
@@ -105,6 +109,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 > - Taking the ship into the harbour in broad daylight to make a statement. (Guest)
 > - Sailing back to port while Jareth played sailor music. (Vaalrath's player)
 > - Nenya killing the demon bird with Kelgor's Fire Bolt. (Nenya)
+> - Getting the ship out of the hideout where it was moored. (Jareth's player)
 
 > "You have been chosen."
 > — Mahaya, to Nenya, in the vision
@@ -127,6 +132,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - [[Vanthus Vander]] raided the vault: the missing gold and the broken bottles. *(the party)*
 - Vanthus is probably dead.
 - Vanthus's wife, [[Rowin]], is behind a lot of things.
+- Vanthus killed his own parents, knowing his sister could do nothing about it, but he didn't count on the party. *(Jareth's player)*
 
 ## Title suggestions
 **The Vander Legacy** (DM) · The Sea and the Vault · The Sea to Adulthood (Vaalrath's player) · New Friends and Adventures (Nenya's player) · Terraknian
