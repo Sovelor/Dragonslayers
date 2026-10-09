@@ -25,7 +25,7 @@ movedFrom:
 Seen in [[Nenya]]'s vision in *Ancient Blood*, carrying the same rune-marked [[Hourglass of Time]].
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
+- [[Session 015 - The Vander Legacy|AB · Session 015 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
 
 ## Links
 - [[Inner Fire]] · [[Mahaya (Lord of Time)]]
