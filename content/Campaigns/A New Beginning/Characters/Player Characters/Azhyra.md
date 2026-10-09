@@ -23,6 +23,7 @@ Left the Brotherhood of Light with [[Selina]] for Brook Hollow as her supervisor
 
 ## Appearances
 - [[Session 001 - A New Beginning]]: goes along as Selina's supervisor
+- [[Session 006 - Elizium's Second Chance]]: afraid to touch the pool's water
 - [[Session 009 - Echoes, the Road Back]]: claims the abandoned inn as hers; sees something her mind erases
 
 ## Links

@@ -44,7 +44,6 @@ The four searched deeper. In a summoning area that had been used very recently t
 
 > [!warning] Conflicting accounts
 > - **Session date:** 12/10/2024 for this session but 06/07/2024 for Session 2.
-> - **The quote "What the hell is this devilish place"** is given to Axel, though the DM names Ulf, Liga, Nenya and Melda as the four characters of this session.
 
 ## NPCs met
 - **Aurora Drabek**: a god-mad, dangerous tiefling cleric of Asmodeus; killed at the altar
@@ -87,7 +86,7 @@ The four searched deeper. In a summoning area that had been used very recently t
 
 > "Τι στο κακό είναι αυτό το διαβολεμένο μέρος"
 > *("What the hell is this devilish place")*
-> — Axel, entering the hatching room and seeing the two young elves
+> — Ulf, entering the hatching room and seeing the two young elves
 
 > "Ώστε με ακολουθήσατε ως εδώ; Δεν θα καταφέρετε να με σταματήσετε! Το χρωστάω σε όλους όσους κοιμόνται εδώ!"
 > *("So you followed me this far? You won't stop me! I owe it to all who sleep here!")*

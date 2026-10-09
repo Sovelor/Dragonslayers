@@ -17,6 +17,9 @@ tags:
 
 **Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Secret elite group: the Edge of Banishment · Seat: Zelfar, north of Laskan
 
+> [!info] Timeline
+> The founding of the Order happened after the events the manuscript currently describes during the Fate-Touched campaign.
+
 ## Summary
 The Order of Freedom (Το Τάγμα της Ελευθερίας) was founded about twelve years ago by Mahaya Vishan, one of the legendary Dragonslayers, and by the last remaining Harpers. Its purpose was clear:
 
