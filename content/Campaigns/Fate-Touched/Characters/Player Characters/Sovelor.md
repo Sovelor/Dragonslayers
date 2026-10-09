@@ -19,7 +19,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Σόβελορ]]
 
-![[Characters - Sovelor.png|300]]
+![[Characters - Sovelor 2.jpg|300]]
 
 > [!warning] Spoilers
 > Reveals events up to the fight with Atropos and its aftermath.
@@ -71,7 +71,7 @@ He joined the Order of Freedom, and after the attack of the Dragons he founded t
 
 ## Gallery
 
-![[Characters - Sovelor 2.jpg|400]]
+![[Characters - Sovelor.png|400]]
 
 ![[Characters - Sovelor 3.jpg|400]]
 

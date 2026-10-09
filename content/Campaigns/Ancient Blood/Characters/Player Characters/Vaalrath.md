@@ -20,9 +20,6 @@ movedFrom:
 > [!abstract] Ελληνικά → [[Βάαλραθ]]
 
 ![[Characters - Vaalrath.png|300]]
-![[Characters - Vaalrath 2.png|300]]
-![[Characters - Vaalrath 3.png|300]]
-![[Characters - Vaalrath 4.png|300]]
 
 **Role:** Party member · identified as an *Illumian* by the Vander vault golems · member of an Illumian cabal
 
@@ -73,6 +70,14 @@ The party found him trapped in a magic book. He has the mysterious power of retu
 
 ## Appearances
 - [[Session 015 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
+
+## Gallery
+
+![[Characters - Vaalrath 2.png|400]]
+
+![[Characters - Vaalrath 3.png|400]]
+
+![[Characters - Vaalrath 4.png|400]]
 
 ## Links
 - [[Ancient Blood]] · [[Melda]] · [[Lavinia Vander]] · [[Nenya]]
