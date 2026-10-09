@@ -73,3 +73,4 @@ The group went on to a **room of riddles**. Its door was shut and could only be 
 ## Links
 - Campaign: [[A New Beginning]] · [[Campaigns]]
 - Previous: [[Session 004 - The Illumians]]
+- Next: [[Session 006 - Elizium's Second Chance]]

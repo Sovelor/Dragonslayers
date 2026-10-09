@@ -24,6 +24,7 @@ A new cleric of the Brotherhood of Light on her first mission: to find out what 
 ## Appearances
 - [[Session 001 - A New Beginning]]: first mission from Lady Lavern; casts *omen of peril* and sees a vision of death and blood
 - [[Session 002 - The Punishment]]: senses the Shadowlands in Brook Hollow
+- [[Session 006 - Elizium's Second Chance]]: heals Elizium and Ezariel after the mimic fight; takes the next watch
 - [[Session 009 - Echoes, the Road Back]]: recalled by High Lady Lavern; sets Edric's knighthood in motion
 
 ## Links

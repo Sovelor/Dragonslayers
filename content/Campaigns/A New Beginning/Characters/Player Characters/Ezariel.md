@@ -24,6 +24,7 @@ Found on the road in Session 1, hands bound and chased by strange zombies; she w
 ## Appearances
 - [[Session 001 - A New Beginning]]: rescued from the zombies and recovers her belongings
 - [[Session 005 - The Ogre Poop and Dick Incident]]: the ogre peek
+- [[Session 006 - Elizium's Second Chance]]: hurt by the mimics; opens the statue's secret compartment; raises trust and duty
 - [[Session 009 - Echoes, the Road Back]]: asks an Illumian for a favour; a man in a red hat holds her at her table
 
 ## Links

@@ -31,6 +31,7 @@ An elf warrior-mage who knew the road and offered the party safe passage to Broo
 - [[Session 001 - A New Beginning]]: offers the party safe passage to Brook Hollow
 - [[Session 002 - The Punishment]]: blows up the church
 - [[Session 005 - The Ogre Poop and Dick Incident]]: teases Ezariel with the ogre's poop; finds a gem
+- [[Session 006 - Elizium's Second Chance]]: hurt by the mimics; lets the party search his belongings; tells Ezariel what he remembers and shows her the hourglass
 - [[Session 009 - Echoes, the Road Back]]: starts the ettercap fight with alchemist's fire; knocked unconscious
 - [[Session 015 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
 
