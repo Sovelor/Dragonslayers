@@ -28,7 +28,7 @@ movedFrom:
 Appeared to [[Nenya]] in a vision when she touched the [[Hourglass of Time]], bearing her colours and face. He chose her *among three*, with [[Elizium (A New Beginning)|Elizium]] and [[Meive]], and asked her to carry out his mission. All the chosen, and a faceless black shadow, carry the same rune-marked hourglass. His words: *"You have been chosen."*
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: appears to Nenya in a vision and chooses her
+- [[Session 015 - The Vander Legacy|AB · Session 015 - The Vander Legacy]]: appears to Nenya in a vision and chooses her
 
 ## Links
 - [[Campaigns]] · [[Hourglass of Time]] · [[Nenya]] · [[Mahaya]] *(saga)*

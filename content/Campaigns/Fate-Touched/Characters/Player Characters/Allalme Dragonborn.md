@@ -89,8 +89,8 @@ Quiet, usually serious, and of course "the squad's mom". A calm strength: decisi
 
 ## Ten years later
 After the Battle of Destiny against [[Atropos]], Allalme married [[Vincent Vermilion]] and then ascended to godhood. During her Ascension she created the **Great Forests Plane**, where Vincent followed her as Her Champion and Harbinger of Her teachings. Her faithful include the druids of the Circle of the Moon, also called the Circle of Allalme.
-- [[Session 002 - A Strange Encounter]] *(Ancient Blood)*: Irewyn once served Allalme, [[Melda]]'s goddess
-- [[Session 003 - The Betrayal]] *(Ancient Blood)*: Allalme sent Irewyn and Belak to heal the forest, then a team led by Melda
+- [[Session 002 - A Strange Encounter|AB · Session 002 - A Strange Encounter]] *(Ancient Blood)*: Irewyn once served Allalme, [[Melda]]'s goddess
+- [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]] *(Ancient Blood)*: Allalme sent Irewyn and Belak to heal the forest, then a team led by Melda
 
 ## Gallery
 
