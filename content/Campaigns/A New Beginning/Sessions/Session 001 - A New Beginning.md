@@ -44,7 +44,7 @@ The next day they made their way to the village. With a bad feeling about it all
 8. Brook Hollow: every villager turned into a new kind of zombie
 
 > [!warning] Conflicting accounts
-> - **The village** is written "Brook Hollow" and "Bruno Hollow" (Azhyra's player uses both, Ezariel's player "Bruno Hollow"). *Brook Hollow* is used for now.
+> - **The village** is written "Brook Hollow" and "Bruno Hollow" (Azhyra's player uses both, Ezariel's player "Bruno Hollow"). The DM confirmed *Brook Hollow*.
 > - **The pastor** is written both "Lia" and "Lin" in Azhyra's player's answer. *Lia* is used (both players use it in Session 2).
 > - **The night's shelter:** an abandoned fortress (Azhyra's player) or an abandoned watchtower (Ezariel's player). The more detailed account, the watchtower, is used.
 

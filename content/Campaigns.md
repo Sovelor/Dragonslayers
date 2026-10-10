@@ -30,4 +30,5 @@ The five D&D campaigns of **Threads of Fate**. [[Fate-Touched]] is the story of 
 Characters from the saga who return ten years later, and characters who only share a saga name, get their own page here, linked to the saga page.
 - [[Mahaya (Lord of Time)]] ↔ [[Mahaya]] *(the same person, ten years later)*
 - [[Lady Lavern]] ↔ [[Lavern]] *(the same person, ten years later)*
+- [[Vincent (Champion of the Balance)]] ↔ [[Vincent Vermilion]] *(the same person, ten years later)*
 - [[Elizium (A New Beginning)]] ↔ [[Elizium]]

@@ -24,17 +24,17 @@ tags:
 ## Recap
 Exploring on, the party entered a room with a small pool of water and three chests. [[Azhyra]] was deeply unhappy about the water and seemed afraid to touch it. Soon the party found that two of the chests were **mimics**; only one was a normal chest. [[Elizium (A New Beginning)|Elizium]] and [[Ezariel]] were badly hurt in the fight but were quickly saved by [[Selina]]. Afterwards they noticed a staircase leading up from the bottom of the pool.
 
-[[Edric]] went first, against Ezariel's instruction to proceed silently. After a while Selina and Elizium followed, leaving Ezariel and Azhyra in the chamber. They soon heard voices: the rest of the party talking with someone else. Edric had found one of the three missing Illumians, **Lyira**, standing near a statue of the one they call the Life-giving Prince. She cooperated little despite Edric's efforts, and as the talk grew heated Ezariel and Azhyra came up. After some sarcastic remarks from both sides a fight began. Lyira did not stay to fight; she left a couple of **hounds** with magic runes around their necks, which the party spread out and defeated.
+[[Edric]] went first, against Ezariel's instruction to proceed silently. After a while Selina and Elizium followed, leaving Ezariel and Azhyra in the chamber. They soon heard voices: the rest of the party talking with someone else. Edric had found one of the three missing Illumians, **Lyira**, standing near a statue of the one they call the Life-giving Prince. She cooperated little despite Edric's efforts, and as the talk grew heated Ezariel and Azhyra came up. After some sarcastic remarks from both sides a fight began. Lyira did not stay to fight; she left behind a **Runehound**, which the party spread out and defeated outside the dungeon, in front of the statue of the Life-giving Prince.
 
 Ezariel searched the strange statue and opened a secret compartment at its base, revealing some items. Then Elizium and Edric argued, and Ezariel was in a particularly foul mood, raising matters of trust and duty that seemed to enrage her deeply. To settle the question of trust, Elizium let the party look through his things. The day had been dramatic, and since they were outside the dungeon proper, sleeping seemed safer, so the party rested.
 
-Elizium and Ezariel shared a watch and talked about his past, or at least the past he remembers: he remembers dying, and then being woken by a mysterious man and woman, and nothing else, as if he had amnesia. He showed her an hourglass from his belongings, explaining that the man who woke him had given it to him along with a mission, a very important one that he had no idea how to fulfil. When their watch ended, Selina took their place so they could rest.
+Elizium and Ezariel shared a watch and talked about his past, or at least the past he remembers: he remembers dying, and then being woken by a mysterious man and woman, and nothing else, as if he had amnesia. Yet he spoke as if he had lived through the events of **Myth Drannor**, the ancient city of the elves. He showed her an hourglass from his belongings, explaining that the man who woke him had given it to him along with a mission, a very important one that he had no idea how to fulfil. When their watch ended, Selina took their place so they could rest.
 
 **Key beats**
 1. A room with a pool and three chests: two are mimics; Elizium and Ezariel are hurt and healed by Selina
 2. A staircase rises from the pool; Edric goes up first, the others follow, Ezariel and Azhyra last
 3. Edric meets the Illumian Lyira beside a statue of the Life-giving Prince; the talk turns into a fight
-4. Lyira leaves, and the party defeats her rune-collared hounds
+4. Lyira leaves, and the party defeats her Runehound in front of the statue
 5. Ezariel finds a secret compartment in the statue's base
 6. Ezariel raises trust and duty; Elizium lets the party search his belongings
 7. The party rests; on watch Elizium tells Ezariel what he remembers and shows her the hourglass
@@ -48,7 +48,7 @@ Elizium and Ezariel shared a watch and talked about his past, or at least the pa
 
 ## Fights
 - **Mimics** in the dungeon chamber
-- **Hounds with runes** left behind by Lyira, outside the dungeon
+- **A Runehound** left behind by Lyira, outside the dungeon in front of the statue of the Life-giving Prince
 
 ## Loot and rewards
 - Items from the compartment in the statue's base *(not listed in the raw log)*
