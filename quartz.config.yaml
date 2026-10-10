@@ -198,6 +198,15 @@ plugins:
     layout:
       position: beforeBody
       priority: 20
+  # ✏️ Suggest an edit. endpoint = the Apps Script web app URL (WikiSuggest.gs, ends in /exec).
+  # Empty = the button stays hidden.
+  - source: ./plugins/suggest-edit
+    enabled: true
+    options:
+      endpoint: "https://script.google.com/macros/s/AKfycbz8oPllpp5Sn4ZIn206h0hssx2AQWtiN9dvcLyRBMRzn_dDFPSaq0128epBxjRlMmke/exec"
+    layout:
+      position: beforeBody
+      priority: 25
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
