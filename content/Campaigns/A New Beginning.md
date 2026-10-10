@@ -21,7 +21,7 @@ tags:
 [[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]]
 
 ## NPCs
-[[Lady Lavern]] · [[Pastor Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]]
+[[Lady Lavern]] · [[Pastor Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]]
 
 ## Sessions
 - [[Session 001 - A New Beginning]] · 2026-02-14
@@ -32,7 +32,7 @@ tags:
 - [[Session 009 - Echoes, the Road Back]] · 2026-09-26
 
 ## Locations
-*No location pages yet.*
+[[Brook Hollow]] · [[Ruins of the Life-giving Prince]] · [[The Flower and the Tiara]]
 
 ## Lore
-*No lore pages yet.*
+[[Brotherhood of Light]] · [[The Illumians]]

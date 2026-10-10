@@ -25,11 +25,11 @@ tags:
 ## Recap
 Selina sensed something wrong in Brook Hollow: *"I feel that a piece of the Shadowlands has come here as a materialised shadow."* The undead they had fought were not exactly dead. Avoiding the zombies, the party searched the village and pieced together what had happened.
 
-[[Pastor Lia]] had often clashed with the village cleric, **High Priest Dalton**: she was far too excitable for his liking. Then Dalton fell ill and died. Three months later a new cleric arrived, young and charismatic: **Father Arias**. Lia suspected him of dark practices from the start, but when she tried to warn people she was dismissed and demoted, and Arias often "scolded" her. Within his first months people began to disappear under inexplicable circumstances, while others were sent to dig a tunnel in a mine-like space beneath the church. Lia kept going down there to help, and again she was treated poorly.
+[[Pastor Lia]] had often clashed with the village cleric, **High Priest Dalton**: she was far too excitable for his liking. Then Dalton fell ill and died. Three months later a new cleric arrived, young and charismatic: [[Kor Bloodaxe|Father Arias]]. Lia suspected him of dark practices from the start, but when she tried to warn people she was dismissed and demoted, and Arias often "scolded" her. Within his first months people began to disappear under inexplicable circumstances, while others were sent to dig a tunnel in a mine-like space beneath the church. Lia kept going down there to help, and again she was treated poorly.
 
 The party found a note in Lia's hand. She had discovered their hideout in the inn's basement; **Otis** and **Newton** were in danger; she had failed to convince them; all of it was happening because of her; and she had to meet them all that very day and convince them that Arias was not who they thought he was. A journal recorded the end: Arias was kind to everyone, but at night people vanished. Its last entry read: *"We didn't listen to Lia. She tried to warn us. The shadow swallowed everything, forever."*
 
-In the mausoleum the party found a hidden room called **"Kor's Lodging"**: Arias's real name is **Kor Bloodaxe**. A powerful entity is coming. Kor had turned to the shadow and followed a mysterious woman, **the Prophet**, who promised him power and much more. Her gift was a sword, and all he had to do was gather **50 souls** in it as a sacrifice. Judging by the village, he took far more than 50: everyone, children included, had been turned into zombies. Before the session was over, Elizium blew up the church.
+In the mausoleum the party found a hidden room called **"Kor's Lodging"**: Arias's real name is [[Kor Bloodaxe]]. A powerful entity is coming. Kor had turned to the shadow and followed a mysterious woman, **the Prophet**, who promised him power and much more. Her gift was a sword, and all he had to do was gather **50 souls** in it as a sacrifice. Judging by the village, he took far more than 50: everyone, children included, had been turned into zombies. Before the session was over, Elizium blew up the church.
 
 **Key beats**
 1. Selina senses the Shadowlands bleeding into Brook Hollow; the undead were not truly dead
@@ -47,7 +47,7 @@ In the mausoleum the party found a hidden room called **"Kor's Lodging"**: Arias
 > - **The journal:** found in the Swiftfoot Inn and written by the villagers about a month earlier (Azhyra's player), or found in the temple, with the last words given to "cleric Dalton" (Ezariel's player).
 
 ## NPCs met
-- **Father Arias / Kor Bloodaxe**: High Priest Dalton's replacement, turned to the shadow, serves the Prophet
+- [[Kor Bloodaxe|Father Arias / Kor Bloodaxe]]: High Priest Dalton's replacement, turned to the shadow, serves the Prophet
 - *Mentioned:* Pastor Lia · Otis · Newton · High Priest Dalton (dead) · **the Prophet**: Hecate the Prophet, the same Prophet the party of *[[Old Shadows]]* faces
 
 ## Places

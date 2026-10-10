@@ -22,7 +22,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 004 - Σκοτεινό Οχυρό]]
 
 ## Recap
-The party headed for the **Dark Fortress**. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Arsandalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
+The party headed for the [[Dark Fortress]]. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Arsandalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
 
 A battle had clearly been fought inside, between goblins and young hatchling dragons, and many bodies lay dead before them. The party fought goblins. They also found a barrel holding some **water mephits**, imprisoned there by the **Dragon Priest of Arsandalon**, who wore a red cloak.
 
@@ -38,7 +38,7 @@ A battle had clearly been fought inside, between goblins and young hatchling dra
 - *Mentioned:* **Arsandalon**, a red dragon · **Kalgrix**, a dead white dragon · **the Dragon Priest of Arsandalon**, in a red cloak
 
 ## Places
-- **The Dark Fortress**
+- [[Dark Fortress|The Dark Fortress]]
 
 ## Fights
 - **Goblins**
@@ -57,7 +57,7 @@ A battle had clearly been fought inside, between goblins and young hatchling dra
 *None reported.*
 
 ## Title suggestions
-**The Dark Fortress** (Melda's player, *Σκοτεινό Οχυρό*)
+[[Dark Fortress|The Dark Fortress]] (Melda's player, *Σκοτεινό Οχυρό*)
 
 ## Links
 - Campaign: [[Ancient Blood]] · [[Campaigns]]

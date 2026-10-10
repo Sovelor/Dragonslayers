@@ -23,6 +23,9 @@ tags:
 ## Summary
 A half-elf druid like [[Melda]], living in a hut at a crossroads, who says she left that life behind. With her husband **Belak** she belonged to the Circle of Allalme; they left when [[Allalme Dragonborn|Allalme]] sent them here to "heal" the forest, and came to look after the **Galthia Tree**. The tree corrupted Belak, who has since gone away. She knows Melda's past.
 
+## Background
+Her spirit is now a Treant, guarding the Misty Forest's Sacred Willow together with [[Liga]] (see [[Circle of the Moon]]). %% src:AB-S003b d3 %%
+
 ## Appearances
 %% auto:appearances %%
 - [[Session 002 - A Strange Encounter]]: met at her hut at a crossroads; a former druid of Allalme

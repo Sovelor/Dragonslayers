@@ -18,10 +18,10 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-[[Nyra]] · Lenor · Grafin · [[Meive]]
+[[Nyra]] · Lenor · [[Grafin]] · [[Meive]]
 
 ## NPCs
-*No NPC pages yet.*
+[[Oscar]] · [[Robin]]
 
 ## Sessions
 - [[Session 001 - A Strange Acquaintance]] · 2025-10-10
@@ -29,7 +29,7 @@ tags:
 - [[Session 004 - New Keep Village]] · 2026-01-30
 
 ## Locations
-*No location pages yet.*
+[[The Butterfly's Horseshoe]]
 
 ## Lore
-*No lore pages yet.*
+[[Black Forest gang]]

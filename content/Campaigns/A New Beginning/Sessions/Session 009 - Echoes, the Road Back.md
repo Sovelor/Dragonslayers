@@ -32,9 +32,9 @@ In the kitchen the party found a hatch leading to a nest beneath the cellar. Fro
 
 That night Edric burned with fever from the poison. He had nightmares and talked in his sleep, repeating one word: **Merthouvial**. Ezariel watched him for anything suspicious, and in his sleep he seemed to look at her and smile. In the morning he was fully healed and remembered nothing. Azhyra, meanwhile, saw something she could not possibly have seen, and her mind erased the image at once.
 
-Back in Tethiamar they reported to the **Illumians**, the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through [[Loroves]], orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the **Brotherhood of Light**. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthouvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
+Back in Tethiamar they reported to the [[The Illumians|Illumians]], the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through [[Loroves]], orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the [[Brotherhood of Light]]. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthouvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
 
-[[Zarik Turbar]], son of the innkeeper **Ian Turbar** of the inn **The Flower and the Tiara**, blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Michael in private, then persuaded Edric to have the temple check him for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
+[[Zarik Turbar]], son of the innkeeper **Ian Turbar** of the inn [[The Flower and the Tiara]], blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Michael in private, then persuaded Edric to have the temple check him for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
 
 Edric left his belongings with Ezariel, except for Trusty, **Will** (the Life-giving Prince's longsword) and a +1 bastard sword. He spent eight hours in the temple performing the ritual, and Trusty became a **+1 longsword**, strengthened with the bastard sword's power. Afterwards Selina, waiting at the temple entrance, told him she will propose him for knighthood in the Brotherhood of Light.
 
@@ -71,9 +71,9 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 - *Mentioned:* High Lady Lavern · Ian Turbar · King Theron, the Life-giving Prince · Dorl Taviani, "the fake god"
 
 ## Places
-- **The ruins of the Life-giving Prince**: King Theron's resting place
+- [[Ruins of the Life-giving Prince|The ruins of the Life-giving Prince]]: King Theron's resting place
 - **The Last Lantern**, an abandoned roadside inn, and the ettercaps' nest beneath its cellar
-- **Tethiamar**, its temple, and the inn **The Flower and the Tiara**
+- **Tethiamar**, its temple, and the inn [[The Flower and the Tiara]]
 - *Mentioned:* the Brotherhood of Light in the **Belmont castle-state** · the Transport Gate of **Atar**, a desert city · Therosar
 
 ## Fights

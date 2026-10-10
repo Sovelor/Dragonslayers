@@ -22,7 +22,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 003 - Αράχνες!]]
 
 ## Recap
-On their way to the city of **New Keep**, the party was walking through a forest when a blue tiefling with a terrified look ran up to them, begging for help: some spiders were trying to eat her. They fought the spiders together, and afterwards she introduced herself as **Lenor Beliath**. She looks like a wizard and has a familiar, a blue viper named **Oscar**, always wrapped around her horns or her neck, blending in and hidden. Lenor was relieved when the party agreed to travel on together.
+On their way to the city of **New Keep**, the party was walking through a forest when a blue tiefling with a terrified look ran up to them, begging for help: some spiders were trying to eat her. They fought the spiders together, and afterwards she introduced herself as **Lenor Beliath**. She looks like a wizard and has a familiar, a blue viper named [[Oscar]], always wrapped around her horns or her neck, blending in and hidden. Lenor was relieved when the party agreed to travel on together.
 
 On the way she explained that she has amnesia: she remembers nothing of who she is or where she comes from, only her name and her spells. Everything else feels unfamiliar. Her one memory is the last thing before her "sleep": her sister calling her name.
 
@@ -38,7 +38,7 @@ Some time later they met **Mr. Hild**, a human from a city called **Althtatla**,
 
 ## NPCs met
 - **Lenor Beliath**: blue tiefling wizard with amnesia; joined the party
-- **Oscar**: Lenor's familiar, a blue viper
+- [[Oscar]]: Lenor's familiar, a blue viper
 - **Mr. Hild**: human historian from Althtatla, recording the history of the world
 - **Bugles**: dwarf trader selling magic items
 - *Mentioned:* Lenor's sister

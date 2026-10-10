@@ -23,7 +23,7 @@ tags:
 ## Recap
 The party reached **New Keep**. Lenor and Nyra were worried about how they looked and tried to cover themselves as much as possible. Inside, the village was in a state of emergency: chaos and concern, fear and desperation among the villagers.
 
-They were greeted by **Robin**, a druid who looks after a place the villagers call *the temple*, and **Matataias**, a young half-elf who is the new captain of the guard; the old captain, his father, was killed in an attack. Robin, the friendlier of the two, explained that the village is attacked by day by a creature: an **ettin**, with two heads. One head is always asleep while the other takes over. By day the aggressive head roams free and destroys everything; by night a gentler, peaceful head only visits the temple and prays.
+They were greeted by [[Robin]], a druid who looks after a place the villagers call *the temple*, and **Matataias**, a young half-elf who is the new captain of the guard; the old captain, his father, was killed in an attack. Robin, the friendlier of the two, explained that the village is attacked by day by a creature: an **ettin**, with two heads. One head is always asleep while the other takes over. By day the aggressive head roams free and destroys everything; by night a gentler, peaceful head only visits the temple and prays.
 
 The party offered to help. The creature lives in an old tower in the forest, but the roads are full of orcs and the way is dangerous. They accepted, and retired for the day to the inn **Gabros' Beer**, where the innkeeper, **Gabros**, greeted them and gave them a room.
 
@@ -36,7 +36,7 @@ The party offered to help. The creature lives in an old tower in the forest, but
 6. A room at Gabros' Beer
 
 ## NPCs met
-- **Robin**: druid, caretaker of the temple
+- [[Robin]]: druid, caretaker of the temple
 - **Matataias**: young half-elf, the new captain of the guard; his father, the old captain, was killed in an attack
 - **Gabros**: innkeeper of Gabros' Beer
 - *Mentioned:* **the ettin**, a two-headed creature living in an old tower in the forest
