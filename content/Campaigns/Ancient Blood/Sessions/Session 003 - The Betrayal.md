@@ -22,11 +22,11 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 003 - Η προδοσία]]
 
 ## Recap
-**Irewin** knew about [[Melda]]'s past. She and her husband **Belak** had belonged to the **Circle of Allalme**, and had left because [[Allalme Dragonborn|Allalme]] told them to come here and "heal" the forest. But the **Galthia Tree** corrupted Belak, and he wanted it for himself. So Allalme sent a team to investigate, and Melda was its leader.
+[[Irewin]] knew about [[Melda]]'s past. She and her husband **Belak** had belonged to the **Circle of Allalme**, and had left because [[Allalme Dragonborn|Allalme]] told them to come here and "heal" the forest. But the **Galthia Tree** corrupted Belak, and he wanted it for himself. So Allalme sent a team to investigate, and Melda was its leader.
 
 The team was defeated. Melda's three companions were taken to the **Dark Fortress** (the Sunless Fortress), and Belak handed Melda over to **Aurora Drabek**.
 
-In the swamps of the Plain of Ash, the party fought **Ualein**, a lizardfolk druid and follower of Belak.
+In the swamps of the Plain of Ash, the party fought [[Ualein]], a lizardfolk druid and follower of Belak.
 
 **Key beats**
 1. Irewin reveals Melda's past: she and Belak belonged to the Circle of Allalme
@@ -36,8 +36,8 @@ In the swamps of the Plain of Ash, the party fought **Ualein**, a lizardfolk dru
 5. Fight with Ualein, Belak's lizardfolk follower, in the swamps
 
 ## NPCs met
-- **Irewin**: former member of the Circle of Allalme; knows Melda's past
-- **Ualein**: lizardfolk druid, follower of Belak
+- [[Irewin]]: former member of the Circle of Allalme; knows Melda's past
+- [[Ualein]]: lizardfolk druid, follower of Belak
 - *Mentioned:* **Belak**, corrupted by the Galthia Tree · Melda's three companions, prisoners in the Dark Fortress · **Aurora Drabek** · [[Allalme Dragonborn|Allalme]]
 
 ## Places
@@ -45,7 +45,7 @@ In the swamps of the Plain of Ash, the party fought **Ualein**, a lizardfolk dru
 - *Mentioned:* the **Dark Fortress** (Sunless Fortress) · the Galthia Tree
 
 ## Fights
-- **Ualein**, lizardfolk druid and follower of Belak
+- [[Ualein]], lizardfolk druid and follower of Belak
 
 ## Loot and rewards
 *None reported.*

@@ -21,7 +21,7 @@ tags:
 [[Vaalrath]] · [[Melda]] · [[Nenya]] · [[Axel]] · [[Jareth]] · [[Seraphiel]]
 
 ## NPCs
-[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]]
+[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]] · [[Irewin]] · [[Ualein]]
 
 ## Sessions
 - [[Session 001 - Ancient Blood, the Beginning]] · 2024-10-12
