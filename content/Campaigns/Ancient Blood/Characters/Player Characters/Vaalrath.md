@@ -69,6 +69,7 @@ The party found him trapped in a magic book. He has the mysterious power of retu
 > *"You won't always have someone to protect you, so you have to become strong!"* (to Lavinia Vander, Session 15)
 
 ## Appearances
+- [[Session 002 - A Strange Encounter]]: appeared from a magic book in the Hatchery and joined the party
 - [[Session 015 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
 
 ## Gallery
