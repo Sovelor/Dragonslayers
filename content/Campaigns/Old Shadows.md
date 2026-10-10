@@ -27,7 +27,7 @@ tags:
 - [[Session 030 - The Descent into the Shadow]] · 2026-06-27
 
 ## Locations
-*No location pages yet.*
+[[Splendarrmornn]] · [[Tunnel No. 5]] · [[Shadow Altar]]
 
 ## Lore
-*No lore pages yet.*
+[[Sword of Garagos]]

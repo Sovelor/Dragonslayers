@@ -45,6 +45,8 @@ The party found him trapped in a magic book. He has the mysterious power of retu
 > - What exactly happens when the sigils turn red?
 > - Who is the Life-giving Prince?
 
+He first appeared in the Hatchery, summoned out of a magic book. He had overheard [[Aurora Drabek]] and another woman say they had found a way to create powerful mages by mixing elf and demon blood. %% src:AB-S002 d4 %%
+
 ## Goals & fears
 **Goal:** to learn everything about the Life-giving Prince. **Fear:** not learning everything about the Life-giving Prince.
 
