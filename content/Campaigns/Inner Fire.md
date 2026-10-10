@@ -18,7 +18,7 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-Nyra · Lenor · Grafin · [[Meive]]
+[[Nyra]] · Lenor · Grafin · [[Meive]]
 
 ## NPCs
 *No NPC pages yet.*

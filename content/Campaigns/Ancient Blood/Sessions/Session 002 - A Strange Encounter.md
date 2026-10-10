@@ -26,14 +26,14 @@ Still inside the Hatchery, the party searched for their personal belongings, Mel
 
 On the way out, [[Melda]] remembered her own group, who had come here with her to find someone. She felt the forest was falling sick, so the party headed into it. Melda spoke with an animal, and it confirmed that the forest was sick, because of a bad man who comes from the ruins in the **Great Canyon**.
 
-They set out for the Great Canyon. At a crossroads they saw a hut and a lady tending her garden, and asked her name and the way. She was **Irewyn**, a half-elf druid like Melda, though she said she had left that life behind. With her husband **Belak** she had served Melda's own goddess, [[Allalme Dragonborn|Allalme]], but they left and came here to look after the **Galthia Tree**, which Belak tends. Her husband had since gone away and asked her not to look for him.
+They set out for the Great Canyon. At a crossroads they saw a hut and a lady tending her garden, and asked her name and the way. She was **Irewin**, a half-elf druid like Melda, though she said she had left that life behind. With her husband **Belak** she had served Melda's own goddess, [[Allalme Dragonborn|Allalme]], but they left and came here to look after the **Galthia Tree**, which Belak tends. Her husband had since gone away and asked her not to look for him.
 
 **Key beats**
 1. Searching the Hatchery for their belongings (Melda's earring)
 2. A magic book shows the word *UR/KRAU*; Vaalrath appears
 3. The Hatchery belongs to the Daemonfey, who mix elf and demon blood to breed mages
 4. Melda remembers her old group; an animal says the forest is sick because of a man from the Great Canyon ruins
-5. Irewyn, a former druid of Allalme, and her husband Belak, keeper of the Galthia Tree
+5. Irewin, a former druid of Allalme, and her husband Belak, keeper of the Galthia Tree
 
 > [!warning] Conflicting accounts
 > - **Session date:** 06/07/2024 for this session but 12/10/2024 for Session 1.
@@ -41,13 +41,13 @@ They set out for the Great Canyon. At a crossroads they saw a hut and a lady ten
 
 ## NPCs met
 - [[Vaalrath]]: appeared from the magic book; a white, hairless man with runes turning around his head
-- **Irewyn**: half-elf druid who left that life behind; once served Allalme with her husband
-- *Mentioned:* **Belak**, Irewyn's husband, who tends the Galthia Tree · **Aurora Drabek** and another woman · [[Allalme Dragonborn|Allalme]], Melda's goddess
+- **Irewin**: half-elf druid who left that life behind; once served Allalme with her husband
+- *Mentioned:* **Belak**, Irewin's husband, who tends the Galthia Tree · **Aurora Drabek** and another woman · [[Allalme Dragonborn|Allalme]], Melda's goddess
 
 ## Places
 - **The Hatchery** of the Daemonfey
 - **The forest**, falling sick
-- **Irewyn's hut**, at a crossroads, with a small pond
+- **Irewin's hut**, at a crossroads, with a small pond
 - **The Plain of Ash**
 - *Mentioned:* the ruins in the **Great Canyon**
 
@@ -67,7 +67,7 @@ They set out for the Great Canyon. At a crossroads they saw a hut and a lady ten
 
 ## Best moments & quotes
 > [!quote] Best moments
-> - Ulf bathing in the little pond by Irewyn's house, sure that a lizard was watching him. (Melda's player)
+> - Ulf bathing in the little pond by Irewin's house, sure that a lizard was watching him. (Melda's player)
 
 > "Η σαύρα αυτή πολύ με κοιτάει"
 > *("That lizard is looking at me an awful lot.")*

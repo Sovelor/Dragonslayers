@@ -26,7 +26,7 @@ The campaign opens in early autumn in the **Olsen Forest**, a part of the greate
 
 The halfling struggles to get free while the dwarf shields her: the adventurers have surrounded them and want to take them to sell at the market. Nyra's anger at what she hears grows, her pupils narrow, and in one swift movement she is at the travellers' side, fighting the adventurers. The dwarf and the halfling are startled to find a humanoid in black, hooded and with a black scarf hiding her features, defending them. After the fight the party keeps one prisoner for information, and the first introductions are made.
 
-The halfling is **[[Meive]]**, from the small village of **Haidown**, north of the Snowy Peaks on the border of the Silmistar Forest; she is a skilled tracker and fights at range, a specialist with the sling. The dwarf is **Grafin** of **Splendarmorn**, a traveller for many years who set out with a pack on his back to know the world; his thirst for knowledge of secret magic lets him cast spells, and as a dwarf he is also trained in melee and weapons. The figure in black lowers her scarf and hood and introduces herself with a bow of her head: *"My name is Nyra Nix, and I come from the monastery in the Stars Mountains, south of the Virgin Forest, where the Sacred Itia of the goddess Allalme stands proudly, the lady I serve."* Meive and Grafin are both frightened and thrilled, and Meive asks what she is. Nyra answers that she is no threat and wants to know what the men wanted with them.
+The halfling is **[[Meive]]**, from the small village of **Haidown**, north of the Snowy Peaks on the border of the Silmistar Forest; she is a skilled tracker and fights at range, a specialist with the sling. The dwarf is **Grafin** of **Splendarrmornn**, a traveller for many years who set out with a pack on his back to know the world; his thirst for knowledge of secret magic lets him cast spells, and as a dwarf he is also trained in melee and weapons. The figure in black lowers her scarf and hood and introduces herself with a bow of her head: *"My name is Nyra Nyx, and I come from the monastery in the Stars Mountains, south of the Virgin Forest, where the Sacred Itia of the goddess Allalme stands proudly, the lady I serve."* Meive and Grafin are both frightened and thrilled, and Meive asks what she is. Nyra answers that she is no threat and wants to know what the men wanted with them.
 
 Frightened by the party, the prisoner explains that the **Black Forest gang** captures people of every race and sells them as slaves to a man named **Jag**, who buys whatever he is sold and is the deputy sheriff of Banik. He tells them never to go north of the village along the river. They let him go and head for Banik, because Nyra wants to learn more about Jag and the slave trade.
 
@@ -37,13 +37,13 @@ In Banik they look for an inn and settle on **The Butterfly's Horseshoe**, where
 2. A dwarf, a halfling caught in a net trap, and unseen watching eyes
 3. Nyra joins the fight against the adventurers who wanted to sell them
 4. A prisoner talks: the Black Forest gang sells slaves to Jag, the deputy sheriff of Banik
-5. Introductions: Meive, Grafin, and Nyra Nix of the monastery of the goddess Allalme
+5. Introductions: Meive, Grafin, and Nyra Nyx of the monastery of the goddess Allalme
 6. The inn The Butterfly's Horseshoe in Banik
 7. Nyra's story: a Tabaxi taken from her village, freed when Axel led a mutiny on the ship
 
 ## NPCs met
 - **[[Meive]]**: female halfling from Haidown; tracker, sling specialist *(party member)*
-- **Grafin**: dwarf from Splendarmorn; traveller and spellcaster *(party member)*
+- **Grafin**: dwarf from Splendarrmornn; traveller and spellcaster *(party member)*
 - **Gredden Kane**: innkeeper of The Butterfly's Horseshoe
 - **The prisoner**: member of the Black Forest gang
 - *Mentioned:* **Jag**, deputy sheriff of Banik who buys slaves; **Axel**, who led the mutiny on the ship; **Celadrin Sandoglim**, Nyra's monk mentor
@@ -52,7 +52,7 @@ In Banik they look for an inn and settle on **The Butterfly's Horseshoe**, where
 - **Olsen Forest**, part of the **Silmistar Forest** (the Forest of Shadows)
 - **Banik**: village on the edge of the forest
 - **The Butterfly's Horseshoe**: inn in Banik
-- *Mentioned:* **Haidown** (Meive's village), **Splendarmorn** (Grafin's home), the monastery in the **Stars Mountains**, the **Virgin Forest**, the **Forest of Tsoult**, the **Snowy Peaks**
+- *Mentioned:* **Haidown** (Meive's village), **Splendarrmornn** (Grafin's home), the monastery in the **Stars Mountains**, the **Virgin Forest**, the **Forest of Tsoult**, the **Snowy Peaks**
 
 ## Fights
 - Fight against the Black Forest gang (adventurers who capture people to sell)

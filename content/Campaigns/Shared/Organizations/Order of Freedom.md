@@ -15,6 +15,9 @@ tags:
 
 > [!abstract] Ελληνικά → [[Το Τάγμα της Ελευθερίας]]
 
+> [!warning] Spoilers
+> Reveals how the Forest Kingdom's war against the Dragonslayers ended, about ten years ago.
+
 **Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Secret elite group: the Edge of Banishment · Seat: Zelfar, north of Laskan
 
 > [!info] Timeline
@@ -32,7 +35,9 @@ The Order was never an army. It was an elite force, a network of heroes, mages, 
 The Order's first seat was the **Tower of Freedom**, south of the city of Mirabar. There Mahaya and Velatha organised the Order, trained the first **Guardians of Freedom** and built a centre of resistance against demonic and extraplanar threats.
 
 ### The fall of the Tower
-About ten years ago the **Forest Kingdom**, together with the Chromatic Dragons of its Council, launched a devastating attack on the Tower of Freedom. The Tower was almost levelled, many Guardians were killed, and the Order was temporarily disbanded. Mahaya was forced to abandon the Tower and move the Order's seat.
+About ten years ago the **Forest Kingdom**, then ruled by Queen **Nabeora Lithl'Orn** and the Council of the Chromatic Dragons (who posed as the Council of the Metallic Dragons), launched a devastating attack on the Tower of Freedom. The Tower was almost levelled, many Guardians were killed, and the Order was temporarily disbanded. Mahaya was forced to abandon the Tower and move the Order's seat.
+
+Nabeora had allied with **Tiamat** and her chromatic dragons to take the **Hammer of Tiamat** from the Alliance of the Silver Hand and from the Dragonslayers themselves. The Dragonslayers, with Nabeora's daughter **Aryalith** in their party, defeated Nabeora and the Chromatic Dragons. Aryalith became the new Queen of the Forest Kingdom and made an alliance with the Silver Hand (see [[Circle of the Moon]]).
 
 ### The new seat: Zelfar
 The Order moved to **Zelfar**, a city north of Laskan, where it was rebuilt, reorganised and gained new allies. Zelfar is now the Order's official base.
@@ -48,14 +53,14 @@ After Sovelor's disappearance, **Loroves**, his chosen one (the Loroves of *[[A 
 The group's existence is unknown to all but a few: Mahaya, Velatha and some of the old Dragonslayers.
 
 ### The Branches and the Edge of Banishment
-The Edge is so secret that most Branches don't know it exists, only the Kladarchs have faint suspicions, and only Mahaya, Velatha and Loroves know the truth. The Branches act as protectors, scouts and early-warning systems that feed the Edge with information.
+The Edge is so secret that most Branches don't know it exists, only the Branch Masters have faint suspicions, and only Mahaya, Velatha and Loroves know the truth. The Branches act as protectors, scouts and early-warning systems that feed the Edge with information.
 
 > The Edge of Banishment is the Order's surgical blade. The Branches are its nervous system.
 
 ## The Branches
 Under Mahaya Vishan and Velatha the Order created a unique system of command: the **Branches** (Παρακλάδια), small, self-sustaining, organised groups that work like the Order's "nerve endings" all over Faerûn. Their aim: that the Order is present everywhere, from the greatest cities to the most remote villages.
 
-**What a Branch is.** Each Branch is a local organisation with its own leader (the **Kladarch**, Κλαδάρχης), its own resources, its own information network, its own strike team and its own way of recruiting. Branches act on their own but obey the rules of the Order.
+**What a Branch is.** Each Branch is a local organisation with its own leader (the **Branch Master**, Κλαδάρχης), its own resources, its own information network, its own strike team and its own way of recruiting. Branches act on their own but obey the rules of the Order.
 
 **How command works.** Each Branch reports to the Tower of Freedom (Zelfar), is told by the Tower about enemy movements, asks for help when it needs resources or reinforcements, sends reports of extraplanar activity, and takes part in joint operations with other Branches. The Tower serves as the Order's centre of intelligence, training, coordination and crisis response.
 
@@ -63,8 +68,8 @@ Under Mahaya Vishan and Velatha the Order created a unique system of command: th
 
 **Where they are.** In great cities (Waterdeep, Neverwinter, Baldur's Gate), in remote villages, in border regions, in dangerous zones, and in areas with a history of demon or dragon activity. Every Branch has its own hidden headquarters, its own means of communication, its own recognition code and its own initiation rite.
 
-### The Kladarch
-The Kladarch leads the Branch and is responsible for recruitment, operations, keeping the Order's rules and the safety of the area. A Kladarch may propose new members to the Order, organise missions, ask Zelfar for reinforcements, and judge who is worthy to join.
+### The Branch Master
+The Branch Master leads the Branch and is responsible for recruitment, operations, keeping the Order's rules and the safety of the area. A Branch Master may propose new members to the Order, organise missions, ask Zelfar for reinforcements, and judge who is worthy to join.
 
 ### How new members join
 1. **A deed.** A hero who saved a town, defeated a demon, stopped an invasion or helped the Branch may be proposed for membership.

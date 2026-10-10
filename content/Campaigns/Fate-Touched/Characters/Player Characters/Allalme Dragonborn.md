@@ -34,10 +34,10 @@ movedFrom:
 Allalme is a young elf woman whom [[Badinga Alpenrok]], [[Garpask Losark]] and [[Mahaya]] find lying on a stone altar in a hidden crypt deep inside a mountain, bathed in moonlight from a crack in the ceiling. Her wounds are bandaged with dressings of leaves and branches and have almost healed. Garpask has seen her before, in a vision shown to him by his father [[Frederick Frostfire]]. When she wakes she has lost almost all of her memory, but the three men invite her to travel with them and she accepts.
 
 ## Appearance and gear
-- Long, thick purple hair; emerald-green eyes; white, almost pale skin.
+- At first, when Badinga, Mahaya and Garpask found her: long, thick purple hair and emerald-green eyes; white, almost pale skin.
 - Ornate brown leather armour decorated with green leaves that look alive.
 - An ornate elven blade with a silver edge, worn at the end of the chapter as a scimitar (γιαταγάνι) at her belt.
-- **Later:** her hair turned black and deer antlers grew on her head. She wears leather armour with dragon scales and tree leaves on the shoulders, and a cloak that is green outside and holds all the stars of the sky inside. Two short swords hang at her belt, left and right, and she wears a crown with five stars. Her voice is calm and angelic.
+- **Later:** after the Battle of the Grandfather Tree her eyes turned purple and her hair black. Deer antlers grew on her head. She wears leather armour with dragon scales and tree leaves on the shoulders, and a cloak that is green outside and holds all the stars of the sky inside. Two short swords hang at her belt, left and right, and she wears a crown with five stars. Her voice is calm and angelic.
 - A travel pack, found hidden under the altar's stone lid with a bedroll, dried fruit, vials of coloured liquids and used first-aid supplies.
 - **The Pearl** (η Πέρλα): given to her by her grandfather, who told her it now belonged to her. It is the one thing she panics about losing. Garpask feels a strange pull towards it.
 
@@ -89,8 +89,8 @@ Quiet, usually serious, and of course "the squad's mom". A calm strength: decisi
 
 ## Ten years later
 After the Battle of Destiny against [[Atropos]], Allalme married [[Vincent Vermilion]] and then ascended to godhood. During her Ascension she created the **Great Forests Plane**, where Vincent followed her as Her Champion and Harbinger of Her teachings. Her faithful include the druids of the Circle of the Moon, also called the Circle of Allalme.
-- [[Session 002 - A Strange Encounter|AB · Session 002 - A Strange Encounter]] *(Ancient Blood)*: Irewyn once served Allalme, [[Melda]]'s goddess
-- [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]] *(Ancient Blood)*: Allalme sent Irewyn and Belak to heal the forest, then a team led by Melda
+- [[Session 002 - A Strange Encounter|AB · Session 002 - A Strange Encounter]] *(Ancient Blood)*: Irewin once served Allalme, [[Melda]]'s goddess
+- [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]] *(Ancient Blood)*: Allalme sent Irewin and Belak to heal the forest, then a team led by Melda
 
 ## Gallery
 

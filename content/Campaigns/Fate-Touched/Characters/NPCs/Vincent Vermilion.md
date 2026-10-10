@@ -62,7 +62,7 @@ When Allalme was taken by the forces of [[Atropos]] and held prisoner, Vincent j
 
 ## Affiliations
 - **Allies:** the Circle of the Moon / Circle of Allalme · the Brotherhood of Light (member; former Knight of the Light) · the Order of Freedom · the Arcane Brotherhood · the Edge of Banishment
-- **Enemies:** [[Atropos]] (main enemy) · the Sons of Atropos: Asmodeus, Garagos and Eliphaz (arch-enemies) · the Lords of Shadows Cornel, Carmila and Zobek · the Church of Shaar · the Daemonfey · Ilselsine
+- **Enemies:** [[Atropos]] (main enemy) · the Sons of Atropos: Asmodeus, Garagos and Eliphaz (arch-enemies) · the Lords of Shadows Cornel, Carmila and Zobek · the Church of Shar · the Daemonfey · Ilselsine
 
 ## Notable items
 - **Dark Angel Plate**: adamantine full plate with black wings
@@ -72,6 +72,9 @@ When Allalme was taken by the forces of [[Atropos]] and held prisoner, Vincent j
 
 ## Quotes
 > "Fear not, I am coming!"
+
+## Ten years later
+After Allalme's Ascension, Vincent became Her Champion. Ten years after the saga he appears as an NPC in *Old Shadows*: see [[Vincent (Champion of the Balance)]].
 
 ## Gallery
 

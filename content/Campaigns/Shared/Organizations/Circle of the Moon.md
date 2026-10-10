@@ -16,7 +16,7 @@ tags:
 > [!abstract] Ελληνικά → [[Ο Κύκλος της Σελήνης]]
 
 > [!warning] Spoilers
-> This page reveals the fall of the guardians of the Misty Forest and the death of one of them.
+> This page reveals the fall of the guardians of the Misty Forest and the death of one of them, and how the Forest Kingdom's war against the Dragonslayers ended.
 
 **Role:** Druidic circle, the highest order of the faithful of the goddess [[Allalme Dragonborn|Allalme]] · Seat: the Moon Clearing · Leader: Archdruid Lenor Neritoris, the Black Tulip
 
@@ -45,28 +45,28 @@ Allalme has planted ten Sacred Willows, each in a forest she chose and each guar
 | # | Forest | Wardens |
 |---|---|---|
 | 1 | High Forest | Councillor Alerátha Thelyn |
-| 2 | King's Forest | Oarelion Meila and Vaelilan Meila |
-| 3 | Misty Forest | Ligka, and the spirit of Irewin as a treant |
+| 2 | King's Forest | *not revealed yet* |
+| 3 | Misty Forest | Liga, and the spirit of Irewin as a treant |
 | 4 | Lurkwood | Arandor Shadowleaf (with his panther Nightshade) and Elaisa Moonweaver |
 | 5 | Moonwood | Serana Whitemoon and Kael Mornwood |
 | 6 | Forgotten Forest | Kallirroi and Aliakmonas |
 | 7 | Far Forest | Lysandra Kalilian and Edwin Hartwood |
-| 8 | Forest of Destiny | Alina Tevena and Elias Silvertongue |
+| 8 | The Reaching Woods | Alina Tevena and Elias Silvertongue |
 | 9 | Wood of Sharp Teeth | Rowan Grayman and Helgata Grayman |
 | 10 | Wealdath | Elan and Eleana Silverbloom |
 
-### 1. High Forest (Ανώτερο Δάσος)
+### 1. High Forest (Υψηλό Δάσος)
 The Circle is trying to restore the Tree of the Old Father by imbuing it with the Blessing of the Full Moon. The Tree of the Old Father was destroyed by [[Atropos]] herself, in an attempt to take over Allalme's body. Wishing to heal and restore the Moon Tree, Allalme planted the first Sacred Willow there. It is the only Sacred Willow with a single Warden, Councillor **Alerátha Thelyn**. The willow joined with the weakened Tree of the Old Father, and the two were reborn as the **Tree of the Old Mother**.
 
 ### 2. King's Forest (Δάσος του Βασιλιά)
-This forest is home to the **Forest Kingdom**, a kingdom of sun elves who refused to leave the region of Cormyr. Its Queen, **Aryalith Lithl'Orn** (a member of the Dragonslayers; a player character for some sessions of the original campaign, later an NPC because her player left the table), has made an alliance with the Silver Hand and gladly welcomed Allalme's Sacred Willow into her forest. Its Wardens are **Oarelion Meila** and **Vaelilan Meila**, the parents of [[Thoriel]]. They come from the Forest Kingdom and fought in the Battle of Fate, about ten years ago; for these reasons Allalme chose them as Wardens.
+This forest is home to the **Forest Kingdom**, a kingdom of sun elves who refused to leave the region of Cormyr. About ten years ago, under Queen **Nabeora Lithl'Orn** and the Council of the Chromatic Dragons (who posed as the Council of the Metallic Dragons), the kingdom allied with **Tiamat** and attacked the Tower of Freedom (see [[Order of Freedom]]). After the Dragonslayers defeated Nabeora and the Chromatic Dragons, her daughter **Aryalith Lithl'Orn** became Queen. Aryalith had fought at the Dragonslayers' side as a member of their party (a player character for some sessions of the original campaign, later an NPC because her player left the table). She has made an alliance with the Silver Hand and gladly welcomed Allalme's Sacred Willow into her forest. Its Wardens have not been revealed yet.
 
 ### 3. Misty Forest (Ομιχλώδες Δάσος)
-This misty forest caught Allalme's attention because it was fighting an uneven battle against the corruption and acid menace of the moors and marshes: the Great Moors (Μεγάλα Χερσοτόπια) are trying to wipe it out. Allalme planted her third Sacred Willow here; it revived the forest and halted the moors' corrupting influence.
+This misty forest caught Allalme's attention because it was fighting an uneven battle against the corruption and acid menace of the moors and marshes: the High Moor (Μεγάλα Χερσοτόπια) are trying to wipe it out. Allalme planted her third Sacred Willow here; it revived the forest and halted the moors' corrupting influence.
 
-Its two Wardens, **Bel'ak** and his companion **Irewin**, turned their backs on Allalme and tainted the Sacred Willow with the **Blood of Asmodeus**, which they took from the Blood Seer (Μάντισσα του Αίματος). After Bel'ak's fall, Irewin gave her life to drive the corruption of the Blood out of the willow, and she is working to restore it.
+Its two Wardens, **Belak** and his companion **Irewin**, turned their backs on Allalme and tainted the Sacred Willow with the **Blood of Asmodeus**, which they took from the Blood Seer (Μάντισσα του Αίματος). After Belak's fall, Irewin gave her life to drive the corruption of the Blood out of the willow, and she is working to restore it.
 
-The Warden today is **Ligka**, a half-orc barbarian (Bear Warrior), who helped a group of heroes and [[Melda]] (a druid of Allalme) heal the corruption. Ligka became one of Allalme's faithful and received the gift of transforming into a bear. The second Warden is Irewin's spirit, living on through the trees of the forest: reborn as a treant, she stands beside Ligka as guardian of the Sacred Willow.
+The Warden today is **Liga**, a half-orc barbarian (Bear Warrior), who helped a group of heroes and [[Melda]] (a druid of Allalme) heal the corruption. Liga became one of Allalme's faithful and received the gift of transforming into a bear. The second Warden is Irewin's spirit, living on through the trees of the forest: reborn as a treant, she stands beside Liga as guardian of the Sacred Willow.
 
 ### 4. Lurkwood (Δάσος της Ελλοχείας)
 One of the first great forests Allalme blessed, and the fourth to receive a Sacred Willow. Its ancient paths had been erased by time, the forest spirits had withdrawn deep into the shadows, and the people around it had forgotten the ancient pact between mortals and nature. Seeing the roots of harmony weaken, Allalme chose it as a place of rebirth. Since then its willow has been a bridge between the natural world and the world of spirits; druids and priests travel there seeking visions, guidance and the wisdom of forgotten ages.
@@ -88,7 +88,7 @@ It lies on the border between the High Forest and the Anauroch desert, a natural
 
 Wardens: **Lysandra Kalilian**, a human druid and Lorekeeper of the Circle, and **Edwin Hartwood**, a human monk who had been struck by the curse of lycanthropy and was healed by Allalme.
 
-### 8. Forest of Destiny (Δάσος του Προορισμού)
+### 8. The Reaching Woods (Δάσος του Προορισμού)
 The most enigmatic of the forests Allalme blessed; the Circle's druids believe no one finds it by chance. Allalme planted the eighth Sacred Willow there at the end of the Battle of Destiny (Μάχη του Πεπρωμένου), when she sensed the world entering a new age. Knowing that mortals would face choices that would shape the future of whole kingdoms, she created a holy place where souls could seek guidance without losing their free will.
 
 Wardens: **Alina Tevena**, a human priestess of Allalme and seer of the Lunar Omens, and **Elias Silvertongue**, a human mystic.

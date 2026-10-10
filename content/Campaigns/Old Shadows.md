@@ -21,7 +21,7 @@ tags:
 [[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · Aradun · [[Freiderikos]]
 
 ## NPCs
-[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Drugag]] · [[Akis]]
+[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Drugag]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]]
 
 ## Sessions
 - [[Session 030 - The Descent into the Shadow]] · 2026-06-27
