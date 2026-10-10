@@ -1,0 +1,32 @@
+{
+  "name": "suggest-edit",
+  "version": "1.0.0",
+  "description": "✏️ Suggest an edit: readers select text on a page and send a fix to the DM Desk",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "suggest-edit",
+    "displayName": "Suggest an Edit",
+    "category": [
+      "component"
+    ],
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "SuggestEdit": {
+        "displayName": "Suggest an Edit",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 25
+      }
+    }
+  }
+}

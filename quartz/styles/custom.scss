@@ -56,3 +56,28 @@ blockquote {
 .callout .callout-title { font-family: var(--headerFont); }
 
 hr { border-color: var(--tertiary); }
+
+// Phones: the left sidebar is one row (menu, title, toolbar). Let it fit the
+// screen instead of widening the page, which made it scroll sideways: the
+// toolbar keeps its size and the title wraps. The explorer's full-screen menu
+// is pinned to the viewport; inside the sidebar it started 1rem in and stuck
+// out 1rem on the right.
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.left { min-width: 0; }
+  .sidebar.left > .flex-component { flex-shrink: 0; }
+  .page-title, .page-title a { font-size: 1.35rem; }
+  .explorer .explorer-content {
+    position: fixed;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+// Narrow phones: icon-only search button, and a smaller title on the smallest.
+@media all and (max-width: 480px) {
+  .search > .search-button { padding-right: 0; }
+  .search > .search-button > p { display: none; }
+}
+@media all and (max-width: 340px) {
+  .page-title, .page-title a { font-size: 1.15rem; }
+}
