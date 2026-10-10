@@ -68,4 +68,5 @@ Some time later they met **Mr. Hild**, a human from a city called **Althtatla**,
 
 ## Links
 - Campaign: [[Inner Fire]] · [[Campaigns]]
+- Previous: [[Session 001 - A Strange Acquaintance]]
 - Next: [[Session 004 - New Keep Village]]
