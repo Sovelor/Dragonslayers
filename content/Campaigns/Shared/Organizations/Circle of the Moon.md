@@ -64,7 +64,7 @@ This forest is home to the **Forest Kingdom**, a kingdom of sun elves who refuse
 ### 3. Misty Forest (Ομιχλώδες Δάσος)
 This misty forest caught Allalme's attention because it was fighting an uneven battle against the corruption and acid menace of the moors and marshes: the High Moor (Μεγάλα Χερσοτόπια) are trying to wipe it out. Allalme planted her third Sacred Willow here; it revived the forest and halted the moors' corrupting influence.
 
-Its two Wardens, **Belak** and his companion **Irewin**, turned their backs on Allalme and tainted the Sacred Willow with the **Blood of Asmodeus**, which they took from the Blood Seer (Μάντισσα του Αίματος). After Belak's fall, Irewin gave her life to drive the corruption of the Blood out of the willow, and she is working to restore it.
+Its two Wardens, **Belak** and his wife **Irewin**, turned their backs on Allalme and tainted the Sacred Willow with the **Blood of Asmodeus**, which they took from the Blood Seer (Μάντισσα του Αίματος). After Belak's fall, Irewin gave her life to drive the corruption of the Blood out of the willow, and she is working to restore it.
 
 The Warden today is **Liga**, a half-orc barbarian (Bear Warrior), who helped a group of heroes and [[Melda]] (a druid of Allalme) heal the corruption. Liga became one of Allalme's faithful and received the gift of transforming into a bear. The second Warden is Irewin's spirit, living on through the trees of the forest: reborn as a treant, she stands beside Liga as guardian of the Sacred Willow.
 
