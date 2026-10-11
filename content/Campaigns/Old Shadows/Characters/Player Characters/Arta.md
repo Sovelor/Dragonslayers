@@ -1,5 +1,5 @@
 ---
-title: "Arta"
+title: "Arta Brottdottir"
 campaign: Old Shadows
 lang: en
 translation: "[[Άρτα]]"
@@ -12,7 +12,7 @@ tags:
   - lang/en
 ---
 
-# Arta
+# Arta Brottdottir
 
 > [!abstract] Ελληνικά → [[Άρτα]]
 

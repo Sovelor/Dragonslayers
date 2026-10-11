@@ -1,5 +1,5 @@
 ---
-title: "Azhyra"
+title: "Azhyra Vorneth"
 campaign: A New Beginning
 lang: en
 translation: "[[Αζίρα]]"
@@ -12,7 +12,7 @@ tags:
   - lang/en
 ---
 
-# Azhyra
+# Azhyra Vorneth
 
 > [!abstract] Ελληνικά → [[Αζίρα]]
 

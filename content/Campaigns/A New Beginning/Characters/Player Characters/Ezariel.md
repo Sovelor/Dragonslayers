@@ -1,5 +1,5 @@
 ---
-title: "Ezariel"
+title: "Ezariel McAlister"
 campaign: A New Beginning
 lang: en
 translation: "[[Εζαριέλ]]"
@@ -15,7 +15,7 @@ tags:
 ---
 %% Raw profile (private): private/Campaigns/A New Beginning/Character Logs/Ezariel (raw).md %%
 
-# Ezariel
+# Ezariel McAlister
 
 > [!abstract] Ελληνικά → [[Εζαριέλ]]
 
@@ -30,7 +30,7 @@ A half-elf (high elf) rogue from Waterdeep, on a mission to find a missing woman
 Found on the road in Session 1, hands bound and chased by strange zombies; she was the first to search the corpses for her belongings, and the party agreed to stick together afterwards. In Session 5 she came face to face with an ogre's private parts when both peeked around the same corner. In Session 9 she secretly asked an Illumian for a favour. Young Zarik Turbar let slip that old friends were looking for her (*"They are not my friends... I DON'T have friends!"*), and at the end of the session a man in a red cape and feathered red hat sat at her table and took her hand: *"There's no need to make a scene."*
 
 ## Appearance
-Medium-sized, 168 cm tall, with fair skin and freckles, ginger-red hair and striking bluish-green eyes like a crystal lake. The most distinctive thing about her is an intricate, well-crafted silver mask that covers most of her face, leaving only her mouth and part of her cheek visible.
+Medium-sized, 168 cm tall, with fair skin and freckles, ginger-red hair in a long bob cut with soft waves, and striking bluish-green eyes like a crystal lake. The most distinctive thing about her is an intricate, well-crafted silver mask that covers most of her face, leaving only her mouth and part of her cheek visible.
 
 She dresses like a rogue, well fitted and lightweight: black studded leather armour with runes carved on it, black leather pants, a soft off-white shirt with puffy sleeves beneath the armour, black leather boots with intricate details and leather bracers over her forearms. A pale lilac cloak reaches just beneath her knees and covers her head well. She wields a masterwork short sword as her main weapon, multiple daggers, a masterwork short bow and a masterwork runic rapier.
 

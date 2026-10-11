@@ -5,7 +5,7 @@ session: 11
 date: 2026-11-10
 lang: en
 translation: "[[Συνεδρία 011 - Η Τελετή της Φλόγας]]"
-mvp: The whole party · Lenor (1 vote each)
+mvp: The whole party · Lenόre (1 vote each)
 contributors:
   - DM
   - Nyra's player
@@ -28,7 +28,7 @@ Besides the family tree the party found documents with sketches of the Abyss. Th
 
 They climbed back to the second floor and decided to see what was hidden in the bedrooms. There were seven doors, and outside one stood one of the family's personal servants, whom the party had seen at dinner. Five of the seven rooms were empty (those of Eric and Helmut, Chris, Rosalyn, Amalinda and Leanor). Nyra appeared in the corridor where the servant stood; he looked at her in surprise and demanded to know why she was there and not in her room. As he came toward her she backed away, to draw him to where her hidden companions could see him. He stopped, turned back toward the central door and realised she was signalling her allies; at that moment he changed form, a flaming trident appearing in his hand, and struck the door, shouting in a deep voice "Intruders! Come out quickly!" Five more servants, also seen at dinner, came out of the room and all turned into demons.
 
-The fight began with **Lenor**, for the first time decisive and sure of herself, stepping forward to hurl a ray of lightning at a demon. In Jack's room hung a naked man, hooked all over his body and chained from the ceiling, gagged and trying to ask for help. With great effort the party took him down and ungagged him, and Nyra gave him a healing potion to close his wounds a little. They told him to head for the servants' quarters and leave with the other servants they had smuggled out; he thanked them and went.
+The fight began with **[[Lenor|Lenόre]]**, for the first time decisive and sure of herself, stepping forward to hurl a ray of lightning at a demon. In Jack's room hung a naked man, hooked all over his body and chained from the ceiling, gagged and trying to ask for help. With great effort the party took him down and ungagged him, and Nyra gave him a healing potion to close his wounds a little. They told him to head for the servants' quarters and leave with the other servants they had smuggled out; he thanked them and went.
 The Company also defeated the **demonic harlequins** on the second floor, with difficulty. Then they discovered that behind everything that had happened was **Lady Elzbeth**, allied with the priest **Bergen**, and defeated Lord and Lady Stauffen in their private bedchamber while the couple were at prayer. The fight was hard: Lord Stauffen tried to protect the deranged Lady Elzbeth, who seemed unwilling to fight. Lady Elzbeth fell and burned in an unexpected fire that suddenly broke out on her, and the party knocked the Lord unconscious and chained him to his armchair.
 
 They went deeper, down below the chapel through the catacombs, where **Bergen** was performing the **Ritual of the Flame** with the six possessed children of the Stauffens, trying to corrupt **Helmut** too. [[Grafin]] told him: *"We didn't come here to talk. We came to stop you!"* The Griffon Company interrupted the ritual, saving Helmut and using several tactics to exploit the weaknesses of the possessed children. Helmut, the young paladin, then fought at their side against his possessed siblings. Bergen used the corrupted souls of the children to raise himself as the **Chosen of the Flame**; the ritual was only partly completed. The final battle with Bergen begins next session.
@@ -70,7 +70,7 @@ They went deeper, down below the chapel through the catacombs, where **Bergen** 
 
 ## Loot and rewards
 - Documents and information on the conspiracy of Elzbeth and Bergen
-- Cloak of Resistance +1: Lenor
+- Cloak of Resistance +1: Lenόre
 - Bracers of Armor +2: Skythane
 - Mithral chain shirt: [[Meive]]
 
@@ -84,7 +84,7 @@ They went deeper, down below the chapel through the catacombs, where **Bergen** 
 ## Best moments & quotes
 > [!quote] Best moments
 > - Rescuing Helmut, which brought him into the fight against the possessed Stauffen children; the tactics that turned the siblings against each other. (DM)
-> - Lenor's *Charm Person* on Rosalyn, convincing her that her jealous sister Amalinda had been ruining her clothes. (DM)
+> - Lenόre's *Charm Person* on Rosalyn, convincing her that her jealous sister Amalinda had been ruining her clothes. (DM)
 > - Nyra's bluff to the lecherous Jack: if he attacks his brother Chris, she will be his. (DM)
 > - The harlequin's bad luck, landing in the pile of waste. (DM)
 > - Meive freeing Helmut. (Nyra's player)
@@ -96,7 +96,7 @@ They went deeper, down below the chapel through the catacombs, where **Bergen** 
 
 > "Ροσαλίν, η Αμαλίντα σου κλέβει όλα σου τα ρούχα και στα λερώνει. Θυμάσαι με ποια μένει μαζί;"
 > *("Rosalyn, Amalinda steals all your clothes and gets them dirty. Remember who she lives with?")*
-> — Lenor to Rosalyn, casting Charm Person
+> — Lenόre to Rosalyn, casting Charm Person
 
 > "Δεν ήρθαμε εδώ για να μιλήσουμε. Ήρθαμε για να σε σταματήσουμε!"
 > *("We didn't come here to talk. We came to stop you!")*

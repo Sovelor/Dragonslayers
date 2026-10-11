@@ -1,5 +1,5 @@
 ---
-title: Lavern
+title: "Lavern Norphyra"
 campaign: Fate-Touched
 lang: en
 translation: "[[Λαβέρν]]"
@@ -12,7 +12,7 @@ tags:
 ---
 %% Sources (private): DM Desk answer to Q14 (2026-10-08); the character profiles of Sovelor, Allalme and Vincent Vermilion. %%
 
-# Lavern
+# Lavern Norphyra
 
 > [!abstract] Ελληνικά → [[Λαβέρν]]
 
