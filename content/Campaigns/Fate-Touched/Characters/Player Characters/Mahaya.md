@@ -1,5 +1,5 @@
 ---
-title: Mahaya
+title: "Mahaya Vishan"
 campaign: Fate-Touched
 lang: en
 tags:
@@ -13,7 +13,7 @@ movedFrom:
   - "Characters/Mahaya"
 ---
 
-# Mahaya
+# Mahaya Vishan
 
 **Role:** Elven scout (Ιχνηλάτης), hired by [[Gaston Lentinson]] as his escort. Introduces himself as a "Wandering Scout".
 **Appearance:** Long blond, almost white hair, white skin and green eyes; features Allalme reads as a high elf's

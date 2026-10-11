@@ -1,5 +1,5 @@
 ---
-title: "Nyra"
+title: "Nyra Nyx"
 campaign: Inner Fire
 lang: en
 translation: "[[Νύρα]]"
@@ -15,7 +15,7 @@ tags:
 ---
 %% Raw profile (private): private/Campaigns/Inner Fire/Character Logs/Nyra (raw).md %%
 
-# Nyra
+# Nyra Nyx
 
 > [!abstract] Ελληνικά → [[Νύρα]]
 
@@ -49,7 +49,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 - **[[Axel]]**: her saviour, who led the mutiny on the slave ship
 - [[Meive]]: friend and ally
 - **Grafin**: friend and ally
-- **Lenor**: friend and ally; in a way, under Nyra's protection
+- **Lenόre**: friend and ally; in a way, under Nyra's protection
 
 ## Affiliations
 - A faithful of [[Allalme Dragonborn|Allalme]]; trained at the monastery in the Stars Mountains, where the Sacred Itia of Allalme stands (Session 1)

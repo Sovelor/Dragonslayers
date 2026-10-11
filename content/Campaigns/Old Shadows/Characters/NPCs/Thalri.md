@@ -1,5 +1,5 @@
 ---
-title: "Thalri"
+title: "Thalri Pickaxeson"
 campaign: Old Shadows
 lang: en
 translation: "[[Θάλρι]]"
@@ -12,7 +12,7 @@ tags:
   - lang/en
 ---
 
-# Thalri
+# Thalri Pickaxeson
 
 > [!abstract] Ελληνικά → [[Θάλρι]]
 

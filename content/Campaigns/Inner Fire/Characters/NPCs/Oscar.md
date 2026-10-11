@@ -18,14 +18,14 @@ tags:
 
 > [!abstract] Ελληνικά → [[Όσκαρ]]
 
-**Role:** Lenor's familiar, a blue viper
+**Role:** Lenόre's familiar, a blue viper
 
 ## Summary
-A blue viper, the familiar of **Lenor Beliath**. He is always wrapped around her horns or her neck, blending in and hidden.
+A blue viper, the familiar of **[[Lenor|Lenόre Bèliath]]**. He is always wrapped around her horns or her neck, blending in and hidden.
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 003 - Spiders!]]: introduced as Lenor's hidden familiar
+- [[Session 003 - Spiders!]]: introduced as Lenόre's hidden familiar
 %% /auto:appearances %%
 
 ## Links

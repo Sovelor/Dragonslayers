@@ -1,5 +1,5 @@
 ---
-title: "Thoriel"
+title: "Thoriel Meila"
 campaign: Old Shadows
 lang: en
 translation: "[[Θόριελ]]"
@@ -12,7 +12,7 @@ tags:
   - lang/en
 ---
 
-# Thoriel
+# Thoriel Meila
 
 > [!abstract] Ελληνικά → [[Θόριελ]]
 

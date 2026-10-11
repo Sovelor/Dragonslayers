@@ -1,5 +1,5 @@
 ---
-title: "Edric"
+title: "Edric Hale"
 campaign: A New Beginning
 lang: en
 translation: "[[Έντρικ]]"
@@ -13,7 +13,7 @@ tags:
 ---
 %% Raw profile (private): private/Campaigns/A New Beginning/Character Logs/Edric (raw).md %%
 
-# Edric
+# Edric Hale
 
 > [!abstract] Ελληνικά → [[Έντρικ]]
 

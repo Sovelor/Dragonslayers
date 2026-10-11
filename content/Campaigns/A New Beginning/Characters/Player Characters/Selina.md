@@ -1,5 +1,5 @@
 ---
-title: "Selina"
+title: "Selina Nightwell"
 campaign: A New Beginning
 lang: en
 translation: "[[Σελίνα]]"
@@ -12,7 +12,7 @@ tags:
   - lang/en
 ---
 
-# Selina
+# Selina Nightwell
 
 > [!abstract] Ελληνικά → [[Σελίνα]]
 

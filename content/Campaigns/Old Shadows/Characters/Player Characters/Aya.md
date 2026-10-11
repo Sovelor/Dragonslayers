@@ -1,5 +1,5 @@
 ---
-title: "Aya"
+title: "Aya Darkspear"
 campaign: Old Shadows
 lang: en
 translation: "[[Άγια]]"
@@ -13,7 +13,7 @@ tags:
 ---
 %% Raw profile (private): private/Campaigns/Old Shadows/Character Logs/Aya (raw).md %%
 
-# Aya
+# Aya Darkspear
 
 > [!abstract] Ελληνικά → [[Άγια]]
 
