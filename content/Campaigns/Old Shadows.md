@@ -24,6 +24,7 @@ tags:
 [[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Drugag]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]]
 
 ## Sessions
+- [[Session 001 - Shipwrecked in Unknown Lands]] · 2024-02-24
 - [[Session 030 - The Descent into the Shadow]] · 2026-06-27
 
 ## Locations

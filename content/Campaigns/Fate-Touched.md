@@ -28,7 +28,7 @@ The DM's Greek manuscript "The Dragonslayers Saga" is based on this campaign. Th
 [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]] · [[Sovelor]] · [[Lavern]]
 
 ## NPCs
-[[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]] · [[Vincent Vermilion]]
+[[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]] · [[Vincent Vermilion]] · [[Shaureya]]
 
 ## Story
 - [[The Dragonslayers Saga - Story Timeline]]: chapter-by-chapter index of the manuscript

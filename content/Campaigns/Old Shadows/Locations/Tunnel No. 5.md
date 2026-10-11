@@ -20,7 +20,7 @@ tags:
 **Role:** Mine tunnel where 50 dwarf miners died; door to the Shadow Altar
 
 ## Summary
-The site of the Collapse, in which 50 dwarf miners died with [[Petros]]. In Session 30 the party reached its sealed door, marked with a broken wooden sign, **TUNNEL 5**. Petros called each of the 50 names and a ghostly face appeared for every one, screaming at him. Behind the door the party found the [[Shadow Altar]].
+The site of the Collapse, in which 50 dwarf miners died under the supervision of [[Petros]], the Tunnel Foreman. In Session 30 the party reached its sealed door, marked with a broken wooden sign, **TUNNEL 5**. Petros called each of the 50 names and a ghostly face appeared for every one, screaming at him. Behind the door the party found the [[Shadow Altar]].
 
 ## Appearances
 %% auto:appearances %%
