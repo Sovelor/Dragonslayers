@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-%% Created from session delta OS-S030 d5 %%
+%% Created from session delta OS-S029 d5 %%
 
 # Shadow Altar
 
@@ -24,7 +24,7 @@ An altar found behind the door of [[Tunnel No. 5]], holding the [[Sword of Garag
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 030 - The Descent into the Shadow]]: found behind Tunnel No. 5; Hecate and her group arrive and take the shadow from Akis
+- [[Session 029 - The Descent into the Shadow]]: found behind Tunnel No. 5; Hecate and her group arrive and take the shadow from Akis
 %% /auto:appearances %%
 
 ## Links

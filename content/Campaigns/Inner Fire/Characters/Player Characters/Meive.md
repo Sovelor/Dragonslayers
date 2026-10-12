@@ -29,7 +29,7 @@ Seen in [[Nenya]]'s vision in *Ancient Blood*, carrying the same rune-marked [[H
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - A Strange Acquaintance]]: caught in a net trap in the Olsen Forest; meets Grafin and Nyra
-- [[Session 011 - The Ritual of the Flame]]: frees Helmut; receives a mithral chain shirt
+- [[Session 012 - The Ritual of the Flame]]: frees Helmut; receives a mithral chain shirt
 - [[Session 015 - The Vander Legacy|AB · Session 015 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
 %% /auto:appearances %%
 

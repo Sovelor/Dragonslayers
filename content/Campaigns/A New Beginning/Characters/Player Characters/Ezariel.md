@@ -2,7 +2,7 @@
 title: "Ezariel McAlister"
 campaign: A New Beginning
 lang: en
-translation: "[[Εζαριέλ]]"
+translation: "[[Εζάριελ]]"
 status: Alive
 contributors:
   - Ezariel's player
@@ -17,7 +17,7 @@ tags:
 
 # Ezariel McAlister
 
-> [!abstract] Ελληνικά → [[Εζαριέλ]]
+> [!abstract] Ελληνικά → [[Εζάριελ]]
 
 ![[Characters - Ezariel.jpg|300]]
 

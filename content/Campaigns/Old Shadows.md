@@ -25,7 +25,7 @@ tags:
 
 ## Sessions
 - [[Session 001 - Shipwrecked in Unknown Lands]] · 2024-02-24
-- [[Session 030 - The Descent into the Shadow]] · 2026-06-27
+- [[Session 029 - The Descent into the Shadow]] · 2026-06-27
 
 ## Locations
 [[Splendarrmornn]] · [[Tunnel No. 5]] · [[Shadow Altar]]

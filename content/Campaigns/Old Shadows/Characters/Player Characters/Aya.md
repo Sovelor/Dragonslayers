@@ -23,7 +23,7 @@ tags:
 **Race:** Human · **Class:** Cleric/Paladin of Allalme (level 9) · **Pronouns:** she/her · **Age:** 25 · **Alignment:** lawful good · **Home:** Mithral Hall · **Languages:** Common, Dwarvish, Celestial
 
 ## Summary
-A human cleric/paladin raised by a dwarven family in Mithral Hall, devoted to the goddess Allalme. In Session 30 her goddess could not reach her in the tunnels: she prayed at the door of Tunnel 5 and nothing answered. With [[Thoriel]] she blocked the way until [[Petros]] explained what they were doing there with no plan. Facing the Prophet she demanded the truth (*"Enough! No more half-truths, riddles and fake mercy!"*), and [[Hecate the Prophet|Hecate]] showed her in a grim vision who she really is and what she wants. According to [[Vincent Vermilion]]'s profile, she received his sword and feels obligated to him.
+A human cleric/paladin raised by a dwarven family in Mithral Hall, devoted to the goddess Allalme. In Session 29 her goddess could not reach her in the tunnels: she prayed at the door of Tunnel 5 and nothing answered. With [[Thoriel]] she blocked the way until [[Petros]] explained what they were doing there with no plan. Facing the Prophet she demanded the truth (*"Enough! No more half-truths, riddles and fake mercy!"*), and [[Hecate the Prophet|Hecate]] showed her in a grim vision who she really is and what she wants. According to [[Vincent Vermilion]]'s profile, she received his sword and feels obligated to him.
 
 ## Appearance
 White skin, blue eyes and long black hair. She wears mithral full plate and wields a spellstoring great hammer and the Exodus Bastard Sword. Her gear includes a cloak of Charisma, boots of elvenkin, a ring of protection +1, a tiara of wisdom +2 and a bracelet of the sun.
@@ -60,7 +60,7 @@ To learn about herself.
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Shipwrecked in Unknown Lands]]: survives the wreck of The Dragon Turtle with her brother Aradun; her holy power strikes the locathah as a Divine Smite
-- [[Session 030 - The Descent into the Shadow]]: no answer from her goddess in the tunnels; confronts the Prophet
+- [[Session 029 - The Descent into the Shadow]]: no answer from her goddess in the tunnels; confronts the Prophet
 %% /auto:appearances %%
 
 ## Gallery
