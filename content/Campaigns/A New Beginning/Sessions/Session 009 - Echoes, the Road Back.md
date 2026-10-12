@@ -122,7 +122,7 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 > "They are not my friends... I DON'T have friends!"
 > — Ezariel
 
-> "Κύριε Έντρικ, κυριά Σελίνα τρέχτε! Έχει την φίλη μου ο κακός άνθρωπος!"
+> "Κύριε Έντρικ, κυρία Σελίνα τρέχτε! Έχει την φίλη μου ο κακός άνθρωπος!"
 > *("Mister Edric, lady Selina, run! The bad man has my friend!")*
 > — Zarik, running to Edric and Selina as they come back from the temple
 

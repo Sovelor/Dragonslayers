@@ -19,10 +19,10 @@ tags:
 **Role:** Member of the Amazing Six in *Old Shadows* · uses *Regroup*
 
 ## Summary
-In Session 30 he pulled half the party out of a shadow ooze with *Regroup* before they blasted it apart. His verdict on the whole descent: *"That was... unpleasant."*
+In Session 29 he pulled half the party out of a shadow ooze with *Regroup* before they blasted it apart. His verdict on the whole descent: *"That was... unpleasant."*
 
 ## Appearances
-- [[Session 030 - The Descent into the Shadow]]: rescues half the party from a shadow ooze with *Regroup*
+- [[Session 029 - The Descent into the Shadow]]: rescues half the party from a shadow ooze with *Regroup*
 
 ## Links
 - [[Old Shadows]] · [[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]]

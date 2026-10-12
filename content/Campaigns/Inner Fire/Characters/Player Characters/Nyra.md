@@ -66,7 +66,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 %% auto:appearances %%
 - [[Session 001 - A Strange Acquaintance]]: saves Meive and Grafin from slavers in the Olsen Forest; tells her story at The Butterfly's Horseshoe
 - [[Session 004 - New Keep Village]]: hides her appearance on arriving in New Keep
-- [[Session 011 - The Ritual of the Flame]]: lures the disguised servant into view of her hidden allies in the manor corridor, gives a healing potion to the tortured Varros, and bluffs Jack Stauffen
+- [[Session 012 - The Ritual of the Flame]]: lures the disguised servant into view of her hidden allies in the manor corridor, gives a healing potion to the tortured Varros, and bluffs Jack Stauffen
 %% /auto:appearances %%
 
 ## Links

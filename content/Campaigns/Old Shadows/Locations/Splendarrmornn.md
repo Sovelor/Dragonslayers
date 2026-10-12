@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-%% Created from session delta OS-S030 d1 %%
+%% Created from session delta OS-S029 d1 %%
 
 # Splendarrmornn
 
@@ -24,7 +24,7 @@ A city whose **Undercity** lies below. [[Arta]] grew up there, believing her fat
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 030 - The Descent into the Shadow]]: the party goes down to the Undercity: Bjorn's Bakery, the Church of Shar
+- [[Session 029 - The Descent into the Shadow]]: the party goes down to the Undercity: Bjorn's Bakery, the Church of Shar
 %% /auto:appearances %%
 
 ## Links
