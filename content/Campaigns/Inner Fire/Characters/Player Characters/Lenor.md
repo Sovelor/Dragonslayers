@@ -53,6 +53,8 @@ She remembers nothing of her past except small pieces that come back to her at r
 
 A second flashback shows her strict upbringing: children repeating "Blood and Death! We are the worthy ones! Death to the weak", a sun-elf teacher who repeated "You are the chosen ones!" and beat mistakes with a birch, and three older tieflings, led by a gray-skinned girl she thinks is her sister, who broke her wooden toy and beat her while she screamed "Saria, no!". %% src:IF-S005 d4 %%
 
+A third flashback (Session 7): her sister Saria, set against a younger, yellow tiefling by their teacher, incinerated the other child; when Lenόre tried to comfort her as she cried, Saria turned away from her in anger. Lenόre kept it to herself. %% src:IF-S007 d4 %%
+
 ## Goals & fears
 **Goals:** to regain her lost memory, to taste all the pastry she can, and to read as many books as possible.
 **Fears:** everything she deems dangerous.
@@ -80,6 +82,7 @@ A second flashback shows her strict upbringing: children repeating "Blood and De
 - [[Session 004 - New Keep Village]]: hides her appearance on arriving in New Keep
 - [[Session 005 - A Day of Memories]]: has her second flashback: a strict sun-elf teacher with a birch, and three older tieflings, one of them the gray-skinned girl she thinks is her sister Saria
 - [[Session 006 - The Ettin's Tower]]: fascinates the ettin with a magical light and later lifts Circu's curse with a scroll; receives the first recipe for her book at the feast
+- [[Session 007 - The Cursed Shield and the Broom]]: has a flashback of Saria incinerating a younger tiefling on the teacher's order; distracts Toby with a late-night snack while Nyra touches the shield
 - [[Session 012 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon; intimidates the servant boys in the stables to help them, and feels guilty afterwards
 %% /auto:appearances %%
 

@@ -29,6 +29,7 @@ tags:
 - [[Session 004 - New Keep Village]] · 2026-01-30
 - [[Session 005 - A Day of Memories]] · 2026-02-13
 - [[Session 006 - The Ettin's Tower]] · 2026-03-21
+- [[Session 007 - The Cursed Shield and the Broom]] · 2026-04-24
 - [[Session 012 - The Ritual of the Flame]] · 2026-10-10
 
 ## Locations

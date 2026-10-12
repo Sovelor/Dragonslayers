@@ -2,7 +2,7 @@
 title: "Meive"
 campaign: Inner Fire
 lang: en
-translation: "[[Μέιβ]]"
+translation: "[[Μέιβι]]"
 status: Unknown
 tags:
   - character
@@ -17,7 +17,7 @@ movedFrom:
 
 # Meive
 
-> [!abstract] Ελληνικά → [[Μέιβ]]
+> [!abstract] Ελληνικά → [[Μέιβι]]
 
 **Role:** Party member in *Inner Fire* · halfling (she/her) · one of the three chosen of [[Mahaya (Lord of Time)|Mahaya]]
 

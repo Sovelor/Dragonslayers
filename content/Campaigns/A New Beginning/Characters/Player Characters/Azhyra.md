@@ -16,10 +16,10 @@ tags:
 
 > [!abstract] Ελληνικά → [[Αζίρα]]
 
-**Role:** Party member in *A New Beginning* · of the Brotherhood of Light (she/her) · runs a tobacco business with [[Elizium (A New Beginning)|Elizium]]
+**Role:** Party member in *A New Beginning* · of the Brotherhood of Light (she/her) · plans to run a tobacco business with [[Elizium (A New Beginning)|Elizium]] in the future
 
 ## Summary
-Left the Brotherhood of Light with [[Selina]] for Brook Hollow as her supervisor on Selina's first mission. Her line in Session 1 was *"I don't want you touching me."* In Session 9 she and Elizium talked tobacco business on the road, and at the abandoned roadside inn she declared the place hers and terrified the looters (*"Are you robbing my inn?"*). Later she saw something she could not possibly have seen, and her mind erased the image at once.
+Left the Brotherhood of Light with [[Selina]] for Brook Hollow as her supervisor on Selina's first mission. Her line in Session 1 was *"I don't want you touching me."* In Session 9 she and Elizium talked about their planned tobacco business on the road, and at the abandoned roadside inn she declared the place hers and terrified the looters (*"Are you robbing my inn?"*). Later she saw something she could not possibly have seen, and her mind erased the image at once.
 
 ## Appearances
 - [[Session 001 - A New Beginning]]: goes along as Selina's supervisor
