@@ -1,10 +1,10 @@
 ---
-title: Session 011 - The Ritual of the Flame
+title: Session 012 - The Ritual of the Flame
 campaign: Inner Fire
-session: 11
+session: 12
 date: 2026-11-10
 lang: en
-translation: "[[Συνεδρία 011 - Η Τελετή της Φλόγας]]"
+translation: "[[Συνεδρία 012 - Η Τελετή της Φλόγας]]"
 mvp: The whole party · Lenόre (1 vote each)
 contributors:
   - DM
@@ -16,11 +16,11 @@ tags:
   - inner-fire
   - lang/en
 ---
-%% Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 011 (raw).md . The DM also sent the same answers as "Session 12"; see Open Questions. %%
+%% Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 012 (raw).md %%
 
-# Session 011 - The Ritual of the Flame
+# Session 012 - The Ritual of the Flame
 
-> [!abstract] Ελληνικά → [[Συνεδρία 011 - Η Τελετή της Φλόγας]]
+> [!abstract] Ελληνικά → [[Συνεδρία 012 - Η Τελετή της Φλόγας]]
 
 ## Recap
 The **Griffon Company** wandered deeper into **Stauffen Manor**. On the second floor they went to **Rosalyn Stauffen's study**, where a faint light flickered. The room had a thick luxurious carpet with footprints on it leading to a recliner sofa, with a table beside it holding a golden cup and empty plates. At the back a large fireplace smouldered, flanked by two statues: **Elspeth Stauffen** (the mother) seated and reading, and **Vandrik Stauffen** standing proud. In front of the fireplace was a dusty desk with a book lying closed upside down: the Stauffen family tree. It tells the family's history, which began 500 years ago with the founding of **Brust**: they always served the good and were sworn to the god **Tyr**, and by their agreement with Baldur's Gate the eldest son was to be dedicated, free of charge, to training paladins in the city's temple of Tyr. Vandrik and Elspeth, however, sent their last son to be made a paladin of Tyr, not the eldest.

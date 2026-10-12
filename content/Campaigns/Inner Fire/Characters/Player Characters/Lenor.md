@@ -27,7 +27,7 @@ tags:
 ## Summary
 A blue tiefling wizard trying to regain her lost memory. She knows only her name and her spells.
 
-She joined the party in Session 3, when she ran out of the forest begging for help against spiders on the way to New Keep, and was relieved when the party agreed to travel on together. In Session 4 she and [[Nyra]] tried to cover up their appearance in New Keep. In Session 11 she stepped forward "for the first time decisive and sure of herself" and hurled a ray of lightning at a demon.
+She joined the party in Session 3, when she ran out of the forest begging for help against spiders on the way to New Keep, and was relieved when the party agreed to travel on together. In Session 4 she and [[Nyra]] tried to cover up their appearance in New Keep. In Session 12 she stepped forward "for the first time decisive and sure of herself" and hurled a ray of lightning at a demon.
 
 ## Appearance
 Medium-sized, with light blue skin and two long horns that sweep up and backwards in a shade that matches her skin. Her long wavy hair is a deep dark blue and reaches the middle of her back. Her eyes, a bright golden colour, are the only contrast in her appearance; her features are soft and gentle.
@@ -75,7 +75,7 @@ She remembers nothing of her past except small pieces that come back to her at r
 ## Appearances
 - [[Session 003 - Spiders!]]: runs from the spiders and joins the party with her hidden familiar, Oscar; her amnesia is revealed
 - [[Session 004 - New Keep Village]]: hides her appearance on arriving in New Keep
-- [[Session 011 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon
+- [[Session 012 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon
 
 ## Links
 - [[Inner Fire]] · [[Oscar]] · [[Nyra]] · [[Meive]] · [[Grafin]]
