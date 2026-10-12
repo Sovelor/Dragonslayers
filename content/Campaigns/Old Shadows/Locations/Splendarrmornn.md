@@ -20,7 +20,7 @@ tags:
 **Role:** City with an Undercity, home of the Pickaxeson family and Arta
 
 ## Summary
-A city whose **Undercity** lies below. [[Arta]] grew up there, believing her father [[Bjorn Brottdottir]] and her mother were bakers; **Bjorn's Bakery** had been closed for a long time when the Amazing Six visited. The Undercity holds the Church of Shar, where [[Drugag]], the High Priest of the Shadow and Arta's godfather, opened the way into the inner sanctum and down to the [[Shadow Altar]]. It is also the home of the dwarf Grafin of *Inner Fire* (the DM's spelling is used for both campaigns).
+A city whose **Undercity** lies below. [[Arta]] grew up there, believing her father [[Bjorn Brottdottir]] and her mother were bakers; **Bjorn's Bakery** had been closed for a long time when the Incredible Six visited. The Undercity holds the Church of Shar, where [[Drugag]], the High Priest of the Shadow and Arta's godfather, opened the way into the inner sanctum and down to the [[Shadow Altar]]. It is also the home of the dwarf Grafin of *Inner Fire* (the DM's spelling is used for both campaigns).
 
 ## Appearances
 %% auto:appearances %%

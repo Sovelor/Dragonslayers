@@ -19,7 +19,7 @@ tags:
 
 ![[Characters - Aya.jpg|300]]
 
-**Role:** Member of the Amazing Six in *Old Shadows* (she/her) · cleric/paladin of [[Allalme Dragonborn|Allalme]]
+**Role:** Member of the Incredible Six in *Old Shadows* (she/her) · cleric/paladin of [[Allalme Dragonborn|Allalme]]
 **Race:** Human · **Class:** Cleric/Paladin of Allalme (level 9) · **Pronouns:** she/her · **Age:** 25 · **Alignment:** lawful good · **Home:** Mithral Hall · **Languages:** Common, Dwarvish, Celestial
 
 ## Summary

@@ -68,7 +68,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 
 ## Notable items
 - **Trusty:** the longsword his father gave him; now a +1 longsword after the Session 9 ritual at the temple of Tethiamar
-- **Will:** the longsword of the Life-giving Prince, King Theron, which he now carries
+- **Will:** the longsword of the Life-giving Prince, King Theron, which he now carries (the name written on it is Merthouvial; Will is what Edric calls it)
 - **Steady:** the shield Galag gave him, which he respects but does not love using
 - **Roni:** his chain shirt
 - **Mira's whetstone:** her parting gift, still used on Trusty

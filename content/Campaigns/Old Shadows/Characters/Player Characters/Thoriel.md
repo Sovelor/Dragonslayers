@@ -18,7 +18,7 @@ tags:
 
 ![[Characters - Thoriel.png|300]]
 
-**Role:** Member of the Amazing Six in *Old Shadows* (she/her) · calls on Sylvanus and the Lady of the Forest
+**Role:** Member of the Incredible Six in *Old Shadows* (she/her) · calls on Sylvanus and the Lady of the Forest
 **Race:** Elf · **Class:** Druid (Shape Shifter), level 9, believer of Sylvanus · **Pronouns:** she/her · **Age:** 25 · **Alignment:** Chaotic Good · **Home:** the Reaching Woods · **Languages:** Common, Elvish, Druidic
 
 ## Summary
