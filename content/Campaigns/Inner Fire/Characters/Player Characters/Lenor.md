@@ -51,6 +51,8 @@ She remembers nothing of her past except small pieces that come back to her at r
 > [!info] Rumours and open mysteries
 > Who and where her sister is, and where she comes from, are still unknown.
 
+A second flashback shows her strict upbringing: children repeating "Blood and Death! We are the worthy ones! Death to the weak", a sun-elf teacher who repeated "You are the chosen ones!" and beat mistakes with a birch, and three older tieflings, led by a gray-skinned girl she thinks is her sister, who broke her wooden toy and beat her while she screamed "Saria, no!". %% src:IF-S005 d4 %%
+
 ## Goals & fears
 **Goals:** to regain her lost memory, to taste all the pastry she can, and to read as many books as possible.
 **Fears:** everything she deems dangerous.
@@ -73,9 +75,12 @@ She remembers nothing of her past except small pieces that come back to her at r
 *"Excuse me….do you have more honey?"*
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 003 - Spiders!]]: runs from the spiders and joins the party with her hidden familiar, Oscar; her amnesia is revealed
 - [[Session 004 - New Keep Village]]: hides her appearance on arriving in New Keep
+- [[Session 005 - A Day of Memories]]: has her second flashback: a strict sun-elf teacher with a birch, and three older tieflings, one of them the gray-skinned girl she thinks is her sister Saria
 - [[Session 012 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon; intimidates the servant boys in the stables to help them, and feels guilty afterwards
+%% /auto:appearances %%
 
 ## Links
 - [[Inner Fire]] · [[Oscar]] · [[Nyra]] · [[Meive]] · [[Grafin]]

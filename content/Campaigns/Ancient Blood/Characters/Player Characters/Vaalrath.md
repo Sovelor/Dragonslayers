@@ -68,11 +68,11 @@ He first appeared in the Hatchery, summoned out of a magic book. He had overhear
 > "Είμαι.. ανθρωπος!"
 > *(I am... human!)*
 >
-> *"You won't always have someone to protect you, so you have to become strong!"* (to Lavinia Vander, Session 15)
+> *"You won't always have someone to protect you, so you have to become strong!"* (to Lavinia Vander, Session 13)
 
 ## Appearances
 - [[Session 002 - A Strange Encounter]]: appeared from a magic book in the Hatchery and joined the party
-- [[Session 015 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
+- [[Session 013 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
 
 ## Gallery
 

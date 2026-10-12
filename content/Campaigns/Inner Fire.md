@@ -27,7 +27,8 @@ tags:
 - [[Session 001 - A Strange Acquaintance]] · 2025-10-10
 - [[Session 003 - Spiders!]] · 2025-12-06
 - [[Session 004 - New Keep Village]] · 2026-01-30
-- [[Session 012 - The Ritual of the Flame]] · 2026-11-10
+- [[Session 005 - A Day of Memories]] · 2026-02-13
+- [[Session 012 - The Ritual of the Flame]] · 2026-10-10
 
 ## Locations
 [[The Butterfly's Horseshoe]]

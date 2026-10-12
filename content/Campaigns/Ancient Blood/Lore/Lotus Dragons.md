@@ -21,7 +21,7 @@ tags:
 Who they are is an open question.
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: mentioned (open question)
+- [[Session 013 - The Vander Legacy]]: mentioned (open question)
 
 ## Links
 - [[Ancient Blood]] · [[Daggerford]]

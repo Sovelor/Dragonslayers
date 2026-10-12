@@ -26,8 +26,9 @@ Took the *Duellist's Blade*, a rapier granting +2 AC against a single opponent i
 In *Inner Fire* he is the sailor who led the mutiny on the slave ship and freed [[Nyra]] and her people (the same Axel, according to the DM).
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: Duellist's Blade and Elven Mithral Chain Shirt
+- [[Session 013 - The Vander Legacy]]: Duellist's Blade and Elven Mithral Chain Shirt
 - [[Session 001 - A Strange Acquaintance|IF · Session 001 - A Strange Acquaintance]] *(Inner Fire)*: mentioned in Nyra's story as the sailor who led the mutiny on the slave ship
+- [[Session 005 - A Day of Memories|IF · Session 005 - A Day of Memories]] *(Inner Fire)*: Nyra tells Robin that a man named Axel accidentally saved her
 
 ## Links
 - [[Ancient Blood]] · [[Jareth]]

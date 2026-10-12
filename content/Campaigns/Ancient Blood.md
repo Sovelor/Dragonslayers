@@ -25,10 +25,10 @@ tags:
 
 ## Sessions
 - [[Session 001 - Ancient Blood, the Beginning]] · 2024-10-12
-- [[Session 002 - A Strange Encounter]] · 2024-07-06
+- [[Session 002 - A Strange Encounter]] · 2024-06-07
 - [[Session 003 - The Betrayal]] · 2025-01-25
 - [[Session 004 - The Dark Fortress]] · 2025-04-12
-- [[Session 015 - The Vander Legacy]] · 2026-10-03
+- [[Session 013 - The Vander Legacy]] · 2026-10-03
 
 ## Locations
 [[Daggerford]] · [[Terraknian Island]] · [[Vander Manor]] · [[The Hatchery]] · [[Dark Fortress]]
@@ -37,4 +37,4 @@ tags:
 [[Blue Nymph]] · [[Hourglass of Time]] · [[Lotus Dragons]] · [[Zhentarim]] · [[Daemonfey]] · [[Book of Coupling]] · [[Galthia Tree]] · [[Circle of Allalme]]
 
 ## Open threads
-See the latest session: [[Session 015 - The Vander Legacy#Open threads]]
+See the latest session: [[Session 013 - The Vander Legacy#Open threads]]

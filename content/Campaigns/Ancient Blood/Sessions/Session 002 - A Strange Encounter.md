@@ -2,7 +2,7 @@
 title: Session 002 - A Strange Encounter
 campaign: Ancient Blood
 session: 2
-date: 2024-07-06
+date: 2024-06-07
 lang: en
 translation: "[[Συνεδρία 002 - Μια περίεργη συνάντηση]]"
 mvp: The whole party

@@ -29,7 +29,7 @@ She was freed from a magical metal circlet in the Hatchery's birthing room, with
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: a sun elf, member of the first party
-- [[Session 015 - The Vander Legacy]]: chosen by Mahaya; received the Hourglass of Time
+- [[Session 013 - The Vander Legacy]]: chosen by Mahaya; received the Hourglass of Time
 %% /auto:appearances %%
 
 ## Links

@@ -22,7 +22,7 @@ movedFrom:
 The party sailed the [[Blue Nymph]] through the Daggerford strait into the harbour in broad daylight, to make a statement. Its previous archduke was [[Peeweed Daggerford]].
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: the Blue Nymph returns to the harbour
+- [[Session 013 - The Vander Legacy]]: the Blue Nymph returns to the harbour
 
 ## Links
 - [[Ancient Blood]] · [[Vander Manor]] · [[Lavinia Vander]]
