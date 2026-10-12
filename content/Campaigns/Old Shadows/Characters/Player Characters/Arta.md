@@ -19,7 +19,7 @@ tags:
 
 ![[Characters - Arta.png|300]]
 
-**Role:** Member of the Amazing Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Drugag]]
+**Role:** Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Drugag]]
 **Race:** Dwarf · **Class:** Ranger, Wild Plains Outrider (level 9) · **Pronouns:** she/her · **Age:** 52 · **Alignment:** neutral good · **Home:** the Undercity (Lower City) of [[Splendarrmornn]] · **Languages:** Common, Dwarven
 
 ## Summary

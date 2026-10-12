@@ -16,7 +16,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Φρειδερίκος]]
 
-**Role:** Member of the Amazing Six in *Old Shadows* · uses *Regroup*
+**Role:** Member of the Incredible Six in *Old Shadows* · uses *Regroup*
 
 ## Summary
 In Session 29 he pulled half the party out of a shadow ooze with *Regroup* before they blasted it apart. His verdict on the whole descent: *"That was... unpleasant."*
