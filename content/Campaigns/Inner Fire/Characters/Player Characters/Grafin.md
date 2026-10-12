@@ -26,7 +26,7 @@ A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - A Strange Acquaintance]]: meets Meive and Nyra; shields Meive from the adventurers
-- [[Session 011 - The Ritual of the Flame]]: tells Bergen "We came to stop you!" as the Company interrupts the Ritual of the Flame
+- [[Session 012 - The Ritual of the Flame]]: tells Bergen "We came to stop you!" as the Company interrupts the Ritual of the Flame
 %% /auto:appearances %%
 
 ## Links

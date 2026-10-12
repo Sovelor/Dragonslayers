@@ -24,7 +24,7 @@ tags:
 
 ## Summary
 A disgraced dwarven transmuter living under an assumed name, seeking to uncover the darkness that destroyed fifty of his kin and to make sure it never happens again. He was born Rockgar Pickaxeson, a former Mining Director of Splendarrmornn, and is now a wandering adventurer and errant wizard.
-The Prophet's last component was trapped inside his familiar rat, [[Akis]]: in Session 30 [[Hecate the Prophet|Hecate]] stunned the party, took the rat and drew out the shadow that lived in it. She calls him "Rokgar" and told him: *"This time, Petros... there is no prophecy for you."* In the last tunnel he faced the ghosts of the **50 dwarf miners** who died under his supervision as Tunnel Foreman in the Collapse of Tunnel No. 5, calling each name until the ghosts stepped aside. His sister [[Thalri]] stands with the Prophet.
+The Prophet's last component was trapped inside his familiar rat, [[Akis]]: in Session 29 [[Hecate the Prophet|Hecate]] stunned the party, took the rat and drew out the shadow that lived in it. She calls him "Rokgar" and told him: *"This time, Petros... there is no prophecy for you."* In the last tunnel he faced the ghosts of the **50 dwarf miners** who died under his supervision as Tunnel Foreman in the Collapse of Tunnel No. 5, calling each name until the ghosts stepped aside. His sister [[Thalri]] stands with the Prophet.
 
 ## Appearance
 A short, stocky, broad-shouldered dwarf with a face marked by years of hard work and harder experiences: a prominent nose, expressive brows and warm, lively brown eyes that often betray a weariness his smile tries to hide. His head is completely bald and, most unusually for a dwarf, he is clean-shaven, without even a trace of a beard. His skin is fair and weathered, with the occasional scar and wrinkle.
@@ -77,7 +77,7 @@ His travels brought him aboard a ship bound for Baldur's Gate that was wrecked. 
 > "Fate, my friends, is a tapestry woven by Mystra herself. We may not choose the threads we're given, but by the gods, we can choose what we weave with them!"
 
 ## Appearances
-- [[Session 030 - The Descent into the Shadow]]: faces the ghosts of Tunnel 5; Hecate takes the shadow from Akis
+- [[Session 029 - The Descent into the Shadow]]: faces the ghosts of Tunnel 5; Hecate takes the shadow from Akis
 
 ## Gallery
 ![[Characters - Petros 2.png|400]]

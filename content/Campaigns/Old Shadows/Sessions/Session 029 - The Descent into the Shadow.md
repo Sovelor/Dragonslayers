@@ -1,11 +1,11 @@
 ---
-title: Session 030 - The Descent into the Shadow
+title: Session 029 - The Descent into the Shadow
 campaign: Old Shadows
-session: 30
+session: 29
 date: 2026-06-27
 lang: en
-translation: "[[Συνεδρία 030 - Η Κάθοδος στην Σκιά]]"
-mvp: Freiderikos · Petros · The whole party (1 vote each)
+translation: "[[Συνεδρία 029 - Η Κάθοδος στην Σκιά]]"
+mvp: Freiderikos · Petros · Aya (1 vote each)
 contributors:
   - DM
   - Petros's player
@@ -17,11 +17,11 @@ tags:
   - old-shadows
   - lang/en
 ---
-%% Raw log (private): private/Campaigns/Old Shadows/Session Logs/Session 030 (raw).md %%
+%% Raw log (private): private/Campaigns/Old Shadows/Session Logs/Session 029 (raw).md %%
 
-# Session 030 - The Descent into the Shadow
+# Session 029 - The Descent into the Shadow
 
-> [!abstract] Ελληνικά → [[Συνεδρία 030 - Η Κάθοδος στην Σκιά]]
+> [!abstract] Ελληνικά → [[Συνεδρία 029 - Η Κάθοδος στην Σκιά]]
 
 ## Recap
 The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Bridingfort. The Amazing Six then went down to the [[Splendarrmornn|Undercity of Splendarrmornn]]. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Shar** a service was being held. [[Drugag]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
@@ -83,7 +83,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 ## Open threads
 - [ ] Rescue Ruby
 - [ ] Bring Thalri back
-- [ ] Protect Splendarrmornn and its King from the Prophet's forces
+- [ ] Protect Splendarrmornn and its King, Tharek Ammarindar, from the Prophet's forces
 - [ ] The Prophet has her last component: what happens now?
 - [ ] What did Hecate show Aya about who she is and what she wants?
 - [ ] Why does Hecate call Petros "Rokgar"?
@@ -114,7 +114,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 > *("My daughter, it doesn't have to be this way. Stand at your father's side. Accept your destiny. Together we can achieve anything!")*
 > — Bjorn to Arta
 
-> "Ο θάνατος είναι ευσπλαχνία. Όχι, αγαπητοί μου 6. Δεν θα γλιτώσετε τόσο απλά. Πρώτα θα παρακολουθήσετε. Μετά θα πονέσετε! Μετά θα σπάσετε. Και μόλις κρίνω πως έχετε υποφέρει αρκετά, τότε ίσως σκεφτώ να σας προσφέρω τη γλυκιά λύτρωση του θανάτου."
+> "Ο θάνατος είναι ευσπλαχνία. Όχι, αγαπητοί μου Έξι. Δεν θα γλιτώσετε τόσο απλά. Πρώτα θα παρακολουθήσετε. Μετά θα πονέσετε! Μετά θα ραγίσετε. Και μόλις κρίνω πως έχετε υποφέρει αρκετά, τότε ίσως σκεφτώ να σας προσφέρω τη γλυκιά λύτρωση του θανάτου."
 > *("Death is mercy. No, my dear Six. You won't escape that easily. First you will watch. Then you will hurt! Then you will break. And once I judge you have suffered enough, perhaps I will offer you the sweet release of death.")*
 > — Hecate, leaving Tunnel 5
 
