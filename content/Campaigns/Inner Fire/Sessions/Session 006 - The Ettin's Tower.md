@@ -87,4 +87,5 @@ The same day the party feasted for saving the village, and Lenόre received the 
 ## Links
 - Campaign: [[Inner Fire]] · [[Campaigns]]
 - Previous: [[Session 005 - A Day of Memories]]
+- Next: [[Session 007 - The Cursed Shield and the Broom]]
 - Characters: [[Lenor|Lenόre]] · [[Nyra]] · [[Grafin]] · [[Meive]] · [[Robin]]

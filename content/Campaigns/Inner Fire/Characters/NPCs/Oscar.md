@@ -32,6 +32,7 @@ A blue viper.
 ## Appearances
 %% auto:appearances %%
 - [[Session 003 - Spiders!]]: introduced as Lenόre's hidden familiar
+- [[Session 007 - The Cursed Shield and the Broom]]: watches over Nyra while she rests
 %% /auto:appearances %%
 
 ## Links
