@@ -30,9 +30,9 @@ A roadside inn, **The Last Lantern**, looked like a good place for the night, bu
 
 In the kitchen the party found a hatch leading to a nest beneath the cellar. From below came the cries of a young boy calling for help; everyone was sure it was a trap, and Elizium was ready to burn the whole cave to ash. He started the fight by hurling bottles of alchemist's fire into the nest to burn the webs, and **ettercaps** climbed out. It was a costly victory: Edric was poisoned and paralysed for the first time in his life and had a panic attack while the others peered deeper into the cave, and Elizium fell unconscious and was about to be eaten before the ettercaps were beaten. Selina partly healed Edric. Down in the nest they found [[Michael]], a young apprentice of the Last Lantern, wrapped in a web cocoon: the only survivor of the ettercaps' attack on the inn. They took him to the temple in Tethiamar.
 
-That night Edric burned with fever from the poison. He had nightmares and talked in his sleep, repeating one word: **Merthouvial**. Ezariel watched him for anything suspicious, and in his sleep he seemed to look at her and smile. In the morning he was fully healed and remembered nothing. Azhyra, meanwhile, saw something she could not possibly have seen, and her mind erased the image at once.
+That night Edric burned with fever from the poison. He had nightmares and talked in his sleep, repeating one word: **Merthuvial**. Ezariel watched him for anything suspicious, and in his sleep he seemed to look at her and smile. In the morning he was fully healed and remembered nothing. Azhyra, meanwhile, saw something she could not possibly have seen, and her mind erased the image at once.
 
-Back in Tethiamar they reported to the [[The Illumians|Illumians]], the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through [[Loroves]], orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the [[Brotherhood of Light]]. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthouvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
+Back in Tethiamar they reported to the [[The Illumians|Illumians]], the **Pilgrims of Mercy** (*"The End of Punishment"*), whose member had sent them to find his friends. Once they mentioned King Theron, he already seemed suspiciously changed. Through [[Loroves]], orders came for Selina from **High Lady Lavern** herself: return at once to the **Belmont castle-state** and the [[Brotherhood of Light]]. They were cleared to use the **Transport Gate of the city of Atar** in the desert. Ezariel secretly asked the Illumian for a favour. Edric learned that *Merthuvial* means **"Consecrator"** in Celestial, and the Illumian taught him a ritual to give his longsword, **Trusty**, magical properties.
 
 [[Zarik Turbar]], son of the innkeeper **Ian Turbar** of the inn [[The Flower and the Tiara]], blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Michael in private, then persuaded Edric to have the temple check him for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
 
@@ -49,10 +49,10 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 3. Cries for help from the nest; Elizium's alchemist's fire starts the fight
 4. Ettercaps: Edric poisoned and paralysed, Elizium knocked unconscious
 5. Michael, the inn's young apprentice, rescued from a web cocoon and taken to the temple
-6. Edric's fever and sleep-talking: *Merthouvial*
+6. Edric's fever and sleep-talking: *Merthuvial*
 7. Report to the Illumians, the Pilgrims of Mercy; one of them changes when King Theron is mentioned
 8. High Lady Lavern recalls Selina to the Belmont castle-state; the Transport Gate of Atar is approved
-9. Merthouvial means "Consecrator"; Edric learns a ritual for Trusty
+9. Merthuvial means "Consecrator"; Edric learns a ritual for Trusty
 10. Zarik Turbar reveals that strangers are looking for Ezariel; a man in a feathered red hat appears
 11. Edric's 8-hour ritual makes Trusty a +1 longsword; Selina will propose him for knighthood
 12. Cliffhanger: the man in the red hat holds Ezariel at her table, his men head for the party's rooms, Zarik runs for help
@@ -92,7 +92,7 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 - [ ] What favour did Ezariel ask of the Illumian?
 - [ ] What did Azhyra see that her mind erased?
 - [ ] Why do the Illumians seek the Life-giving Prince's knowledge, and why does it drive them to madness?
-- [ ] Why did Edric say *Merthouvial* ("Consecrator") in his sleep, and why did he smile at Ezariel?
+- [ ] Why did Edric say *Merthuvial* ("Consecrator") in his sleep, and why did he smile at Ezariel?
 - [ ] What is a hero?
 - [ ] Who is [[Vaalrath]]?
 

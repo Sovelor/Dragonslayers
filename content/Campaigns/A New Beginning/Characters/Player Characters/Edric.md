@@ -24,7 +24,7 @@ tags:
 **Race:** Human · **Class:** Fighter (level 4) · **Pronouns:** he/him · **Age:** 21 · **Alignment:** Lawful Good · **Home:** Sayadar, a town in the desert · **Languages:** Common, Dwarven
 
 ## Summary
-A kind, timid and talkative young human fighter from **Sayadar**, a town in the desert, on his first mission with the Brotherhood of Light, sent to protect [[Selina]] and [[Azhyra]] on the road to Brook Hollow. He dreams of becoming the greatest longsword wielder. He carries **Trusty**, his longsword, and **Will**, the longsword of the Life-giving Prince ([[King Theron]]). In Session 9 the ettercaps' poison paralysed him for the first time in his life; that night, in his fever, he kept repeating the word *Merthouvial* ("Consecrator" in Celestial) and remembered nothing in the morning. After an eight-hour ritual at the temple of Tethiamar, Trusty became a +1 longsword, strengthened with the power of a +1 bastard sword. Selina told him she will propose him for knighthood in the Brotherhood of Light. He has a signature move: he uses his longsword to trip opponents and attack them while they are down (the Improved Trip feat).
+A kind, timid and talkative young human fighter from **Sayadar**, a town in the desert, on his first mission with the Brotherhood of Light, sent to protect [[Selina]] and [[Azhyra]] on the road to Brook Hollow. He dreams of becoming the greatest longsword wielder. He carries **Trusty**, his longsword, and **Will**, the longsword of the Life-giving Prince ([[King Theron]]). In Session 9 the ettercaps' poison paralysed him for the first time in his life; that night, in his fever, he kept repeating the word *Merthuvial* ("Consecrator" in Celestial) and remembered nothing in the morning. After an eight-hour ritual at the temple of Tethiamar, Trusty became a +1 longsword, strengthened with the power of a +1 bastard sword. Selina told him she will propose him for knighthood in the Brotherhood of Light. He has a signature move: he uses his longsword to trip opponents and attack them while they are down (the Improved Trip feat).
 
 ## Appearance
 Tall and athletic but not bulky, with black hair and a small trimmed beard. He has an expressive, friendly face and warm, enthusiastic eyes. His readiness to smile is his most distinctive feature. He wears a chain shirt he calls **Roni** and carries a shield called **Steady** and the longswords Trusty and Will.
@@ -44,7 +44,7 @@ Edric grew up in **Sayadar**, a town in the desert, and was always curious about
 His mentor was a knight named **Galag**, confident and cocky, who taught him that protecting people is a duty and gave him the shield Steady. As far as Edric knows, Galag left on an important mission and never came back. Galag wanted Edric to become a knight, but Edric wants to be the greatest longsword wielder. An elderly widow, **Mira**, gave him a whetstone before he left, and he still sharpens Trusty with it. Edric joined the Brotherhood of Light and was sent to protect Selina and Azhyra on the road to Brook Hollow.
 
 > [!info] Rumours and open mysteries
-> - What does *Merthouvial* ("Consecrator" in Celestial) mean, and why did Edric keep saying it in his fever?
+> - What does *Merthuvial* ("Consecrator" in Celestial) mean, and why did Edric keep saying it in his fever?
 > - What is a hero? King Theron searched for the answer, and Edric saw the question in the ruins.
 
 ## Goals & fears
@@ -68,7 +68,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 
 ## Notable items
 - **Trusty:** the longsword his father gave him; now a +1 longsword after the Session 9 ritual at the temple of Tethiamar
-- **Will:** the longsword of the Life-giving Prince, King Theron, which he now carries (the name written on it is Merthouvial; Will is what Edric calls it)
+- **Will:** the longsword of the Life-giving Prince, King Theron, which he now carries (the name written on it is Merthuvial; Will is what Edric calls it)
 - **Steady:** the shield Galag gave him, which he respects but does not love using
 - **Roni:** his chain shirt
 - **Mira's whetstone:** her parting gift, still used on Trusty
@@ -80,7 +80,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 ## Appearances
 - [[Session 001 - A New Beginning]]: joins the party to protect Selina and Azhyra
 - [[Session 006 - Elizium's Second Chance]]: climbs the pool staircase first, against Ezariel's advice; meets the Illumian Lyira
-- [[Session 009 - Echoes, the Road Back]]: poisoned and paralysed by the ettercaps; says *Merthouvial* in his sleep; Trusty becomes a +1 longsword; Selina will propose him for knighthood
+- [[Session 009 - Echoes, the Road Back]]: poisoned and paralysed by the ettercaps; says *Merthuvial* in his sleep; Trusty becomes a +1 longsword; Selina will propose him for knighthood
 
 ## Links
 - [[A New Beginning]] · [[Selina]] · [[Ezariel]] · [[Azhyra]] · [[Elizium (A New Beginning)|Elizium]]
