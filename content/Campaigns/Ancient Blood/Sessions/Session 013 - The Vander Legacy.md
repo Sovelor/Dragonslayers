@@ -1,10 +1,10 @@
 ---
-title: Session 15 - The Vander Legacy
+title: Session 013 - The Vander Legacy
 campaign: Ancient Blood
-session: 15
+session: 13
 date: 2026-10-03
 lang: en
-translation: "[[Συνεδρία 015 - Η Κληρονομιά των Βάντερ]]"
+translation: "[[Συνεδρία 013 - Η Κληρονομιά των Βάντερ]]"
 mvp: The whole party
 contributors:
   - DM
@@ -20,9 +20,9 @@ tags:
   - lang/en
 ---
 
-# Session 15 - The Vander Legacy
+# Session 013 - The Vander Legacy
 
-> [!abstract] Ελληνικά → [[Συνεδρία 015 - Η Κληρονομιά των Βάντερ]]
+> [!abstract] Ελληνικά → [[Συνεδρία 013 - Η Κληρονομιά των Βάντερ]]
 
 ## Recap
 Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the river Styx; [[Nenya]] landed the final blow with *Kelgor's Fire Bolt*. Nobody was lost. On the ship they found the **Vander family ring** (it belonged to Lavinia's father), a **papyrus scroll** and some gold. The ship had not been destroyed, as Lavinia had been told: it was hidden, something the harbourmaster had not wanted found, and with it lay the money Lavinia had paid to have it found.

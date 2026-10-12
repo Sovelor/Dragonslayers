@@ -24,7 +24,7 @@ movedFrom:
 Visited [[Terraknian Island]] often with Vanthus. Player theory: she is behind a lot of things.
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: mentioned by Mumzar
+- [[Session 013 - The Vander Legacy]]: mentioned by Mumzar
 
 ## Links
 - [[Ancient Blood]] · [[Vanthus Vander]]

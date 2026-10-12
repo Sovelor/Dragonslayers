@@ -33,7 +33,7 @@ She led the team [[Allalme Dragonborn|Allalme]] sent to investigate **Belak** an
 - [[Session 001 - Ancient Blood, the Beginning]]: a star elf druid, member of the first party
 - [[Session 002 - A Strange Encounter]]: remembers her old group; an animal tells her the forest is sick
 - [[Session 003 - The Betrayal]]: Irewin turns out to know about her past
-- [[Session 015 - The Vander Legacy]]: reunited with her cousin Seraphiel
+- [[Session 013 - The Vander Legacy]]: reunited with her cousin Seraphiel
 %% /auto:appearances %%
 
 ## Links

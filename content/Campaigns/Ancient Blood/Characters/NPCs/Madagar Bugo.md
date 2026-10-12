@@ -24,7 +24,7 @@ movedFrom:
 Who he is and who his accomplices are is an open question. Player theory: he works with the [[Zhentarim]].
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: mentioned (open question)
+- [[Session 013 - The Vander Legacy]]: mentioned (open question)
 
 ## Links
 - [[Ancient Blood]] · [[Zhentarim]]

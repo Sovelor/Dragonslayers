@@ -2,7 +2,7 @@
 title: Session 012 - The Ritual of the Flame
 campaign: Inner Fire
 session: 12
-date: 2026-11-10
+date: 2026-10-10
 lang: en
 translation: "[[Συνεδρία 012 - Η Τελετή της Φλόγας]]"
 mvp: The whole party (2 votes) · Lenόre (1 vote)

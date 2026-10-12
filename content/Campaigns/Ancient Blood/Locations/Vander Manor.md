@@ -20,7 +20,7 @@ tags:
 [[Melda]] and [[Vaalrath]] flew here to report to Lavinia after the fight on the [[Blue Nymph]].
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: Melda and Vaalrath report to Lavinia
+- [[Session 013 - The Vander Legacy]]: Melda and Vaalrath report to Lavinia
 
 ## Links
 - [[Ancient Blood]] · [[Lavinia Vander]]

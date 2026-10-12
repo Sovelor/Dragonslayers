@@ -24,7 +24,7 @@ movedFrom:
 Welcomed the party to the island and told them that [[Vanthus Vander]] had been visiting often with his wife [[Rowin]].
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: met on Terraknian Island
+- [[Session 013 - The Vander Legacy]]: met on Terraknian Island
 
 ## Links
 - [[Ancient Blood]] · [[Terraknian Island]]

@@ -21,7 +21,7 @@ tags:
 Player theory: [[Madagar Bugo]] is working with them.
 
 ## Appearances
-- [[Session 015 - The Vander Legacy]]: player theory
+- [[Session 013 - The Vander Legacy]]: player theory
 
 ## Links
 - [[Ancient Blood]] · [[Madagar Bugo]]
