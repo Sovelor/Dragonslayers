@@ -30,7 +30,7 @@ The halfling is **[[Meive]]**, from the small village of **Highdown**, north of 
 
 Frightened by the party, the prisoner explains that the [[Black Forest gang]] captures people of every race and sells them as slaves to a man named **Jag**, who buys whatever he is sold and is the deputy sheriff of Banik. He tells them never to go north of the village along the river. They let him go and head for Banik, because Nyra wants to learn more about Jag and the slave trade.
 
-In Banik they look for an inn and settle on [[The Butterfly's Horseshoe]], where the innkeeper, **Gredden Kane**, welcomes them and offers two rooms and a meal. Over dinner they get to know each other; Nyra goes first, as she promised. She says she comes from the **Tabaxi** people, from another dimension where her kind lives. Others came and destroyed her village, and the survivors were taken to be sold as slaves in the **Jungles of Chult**. She was lucky: on the ship, a man named **[[Axel]]** led a mutiny and saved everyone. Her teacher and mentor, the monk **Celadrin Shadwoglim**, then approached her, took her to the monastery and trained her in the monastic life. The conversation was pleasant, and tired from the road the party went to their rooms to rest.
+In Banik they look for an inn and settle on [[The Butterfly's Horseshoe]], where the innkeeper, **Gredden Kane**, welcomes them and offers two rooms and a meal. Over dinner they get to know each other; Nyra goes first, as she promised. She says she comes from the **Tabaxi** people, from another dimension where her kind lives. Others came and destroyed her village, and the survivors were taken to be sold as slaves in the **Jungles of Chult**. She was lucky: on the ship, a man named **[[Axel]]** led a mutiny and saved everyone. Her teacher and mentor, the monk **Celandir Shadwoglim**, then approached her, took her to the monastery and trained her in the monastic life. The conversation was pleasant, and tired from the road the party went to their rooms to rest.
 
 **Key beats**
 1. Early autumn in the Olsen Forest, near Banik
@@ -46,7 +46,7 @@ In Banik they look for an inn and settle on [[The Butterfly's Horseshoe]], where
 - [[Grafin]]: dwarf from Splendarrmornn; traveller and spellcaster *(party member)*
 - **Gredden Kane**: innkeeper of The Butterfly's Horseshoe
 - **The prisoner**: member of the Black Forest gang
-- *Mentioned:* **Jag**, deputy sheriff of Banik who buys slaves; **[[Axel]]**, who led the mutiny on the ship; **Celadrin Shadwoglim**, Nyra's monk mentor
+- *Mentioned:* **Jag**, deputy sheriff of Banik who buys slaves; **[[Axel]]**, who led the mutiny on the ship; **Celandir Shadwoglim**, Nyra's monk mentor
 
 ## Places
 - **Olsen Forest**, part of the **Silmistar Forest** (the Forest of Shadows)

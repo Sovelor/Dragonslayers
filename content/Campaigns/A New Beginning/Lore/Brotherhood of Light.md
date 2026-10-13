@@ -21,7 +21,7 @@ tags:
 **Role:** Order that sent Selina and Azhyra to Brook Hollow
 
 ## Summary
-An order led by High Lady [[Lady Lavern|Lavern]], to which [[Selina]], [[Azhyra]] and [[Edric]] belong in some way (Edric as an associate from the desert department). Lady Lavern sent Selina on her first mission, to find out what happened to [[Pastor Lia]]. The Illumians sent an urgent letter to the Brotherhood by magic, and in Session 9 High Lady Lavern ordered Selina to return at once; Selina will propose Edric for knighthood in the Brotherhood.
+An order led by High Lady [[Lady Lavern|Lavern]], to which [[Selina]], [[Azhyra]] and [[Edric]] belong in some way (Edric as an associate from the desert department). Lady Lavern sent Selina on her first mission, to find out what happened to [[Lia]]. The Illumians sent an urgent letter to the Brotherhood by magic, and in Session 9 High Lady Lavern ordered Selina to return at once; Selina will propose Edric for knighthood in the Brotherhood.
 
 ## Appearances
 %% auto:appearances %%

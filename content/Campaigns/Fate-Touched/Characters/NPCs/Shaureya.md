@@ -19,7 +19,7 @@ tags:
 
 ![[Characters - Shaureya.jpg|300]]
 
-**Role:** NPC, former antagonist and now ally, a member of the Dragonslayers and Deputy Leader of the [[Brotherhood of Light]]. Found in the Belmont castle-state, the Brotherhood's headquarters; friendly to the party.
+**Role:** NPC, former antagonist and now ally, a member of the Dragonslayers and Deputy Leader of the [[Brotherhood of Light]]. Found in the Belmont Castle-State, the Brotherhood's headquarters; friendly to the party.
 **Race:** Astra Deva (formerly), Half-Celestial native outsider (now) · **Class:** Paladin of the Angelic Order of Light (formerly); warrior and knight of good, protector of the Material Plane (now) · **Pronouns:** she/her · **Age:** aeons · **Alignment:** neutral good · **Home:** Celestia · **Languages:** Common, Celestial, Infernal, Abyssal
 
 ## Summary

@@ -21,7 +21,7 @@ tags:
 [[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]]
 
 ## NPCs
-[[Lady Lavern]] · [[Pastor Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]]
+[[Lady Lavern]] · [[Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]]
 
 ## Sessions
 - [[Session 001 - A New Beginning]] · 2026-02-14

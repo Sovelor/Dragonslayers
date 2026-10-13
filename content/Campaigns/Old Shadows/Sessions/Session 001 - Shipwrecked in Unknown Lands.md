@@ -24,9 +24,11 @@ tags:
 ## Recap
 The ship ***The Dragon Turtle*** was wrecked halfway through its voyage from the port of Baldur's Gate to Luskan, a city in the far north. The wreck happened in the Dead Men's Waters, a dangerous stretch of sea between Waterdeep and Neverwinter. One by one the survivors came to and tried to understand what had happened.
 
-There were five of them. **Thraldour** is a dwarf of royal blood from the Snowy Peaks, raised by humans. [[Aya]] (**Aya Darkspear**) is a human cleric/paladin adopted and raised by a dwarven family in the city of Mithral Hall, and her brother **Aradun Darkspear** is a dwarven dragon shaman and the biological child of the family that adopted her; the two are inseparable and always look after each other. **Havi** is a red-skinned tiefling duskblade, quiet and mysterious. [[Thoriel]] (**Thoriel Meila**) is a young elven druid travelling alone to find out what happened to her parents.
+There were five of them. **Thraldour** is a dwarf of royal blood from the Snowy Peaks, raised by humans. [[Aya]] (**Aya Darkspear**) is a human cleric/paladin adopted and raised by a dwarven family in the city of Mithral Hall, and her brother **Aradun Darkspear** is a dwarven dragon shaman and the biological child of the family that adopted her; the two are inseparable and always look after each other. **Havi** is a red-skinned tiefling duskblade, quiet and mysterious (the same Havi whose name is in the Book of Coupling of *Ancient Blood*, DM). [[Thoriel]] (**Thoriel Meila**) is a young elven druid travelling alone to find out what happened to her parents.
 
 While they searched for other survivors, sea creatures, monstrous *locathah*, rose from the troubled water and attacked. The five formed a fighting group at once and beat the fiendish creatures. Reading the situation correctly, they decided to stay together at least until the first light of the sun. Aradun's burning breath, shot high into the air, helped the group find him, because the waves and sea currents had flung him far from the others. They saved their personal belongings and found two magic scrolls. Looking for shelter for the night in the rain, they used fireflies for light so as not to give any hostile presence a target. The marshes and the path to the lighthouse on the heights, which is not in operation, are the places noted for the session.
+
+Later that night [[Petros]], another castaway of *The Dragon Turtle*, followed the five to their camp and revealed himself, and joined them. **Arta** was not on board: the party met her later, in the city of Bridingfort, where she saved Petros's life from a ratman's attack and joined them during their quest to find out what was going on in the city. (DM, 2026-10-13)
 
 **Key beats**
 1. *The Dragon Turtle* is wrecked in the Dead Men's Waters
@@ -34,11 +36,13 @@ While they searched for other survivors, sea creatures, monstrous *locathah*, ro
 3. Aradun's flame breath signals his position
 4. Locathah attack; the five form a fighting group and win without losses
 5. They decide to stay together until sunrise; the lighthouse on the heights is dark
+6. That night Petros, another castaway, follows them to their camp and joins them
 
 ## NPCs met
 - **Thraldour**: dwarf of royal blood, raised by humans
 - [[Aya]] and **Aradun** Darkspear: adoptive siblings from Mithral Hall
-- **Havi**: red tiefling duskblade
+- **Havi**: red tiefling duskblade (also named in *Ancient Blood*'s Book of Coupling)
+- [[Petros]]: another castaway of *The Dragon Turtle*, who finds the five's camp that night and joins them
 - [[Thoriel]]: young elven druid looking for her parents
 
 ## Places

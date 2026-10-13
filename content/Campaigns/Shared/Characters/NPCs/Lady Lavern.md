@@ -1,5 +1,5 @@
 ---
-title: Lady Lavern
+title: "Lady Lavern Norphyra"
 campaign: Shared
 lang: en
 translation: "[[Λαίδη Λαβέρν]]"
@@ -13,7 +13,7 @@ tags:
 ---
 %% Sources (private): DM Desk answer to Q14 (2026-10-08); A New Beginning session answers. %%
 
-# Lady Lavern
+# Lady Lavern Norphyra
 
 > [!abstract] Ελληνικά → [[Λαίδη Λαβέρν]]
 
@@ -23,11 +23,11 @@ tags:
 **Role / Appears in:** High Lady of the Brotherhood of Light · *A New Beginning*
 
 ## Summary
-Ten years after the saga, Lavern leads as High Lady of the Brotherhood of Light. In *A New Beginning* she sends Selina on her first mission and later recalls her to the Belmont castle-state.
+Ten years after the saga, Lavern leads as High Lady of the Brotherhood of Light. In *A New Beginning* she sends Selina on her first mission and later recalls her to the Belmont Castle-State.
 
 ## Appearances
-- [[Session 001 - A New Beginning|NB · Session 001 - A New Beginning]]: gives Selina her first mission, to learn what happened to [[Pastor Lia]] in Brook Hollow *(mentioned)*
-- [[Session 009 - Echoes, the Road Back|NB · Session 009 - Echoes, the Road Back]]: through [[Loroves]], recalls Selina to the Belmont castle-state; the Transport Gate of Atar is approved *(mentioned)*
+- [[Session 001 - A New Beginning|NB · Session 001 - A New Beginning]]: gives Selina her first mission, to learn what happened to [[Lia]] in Brook Hollow *(mentioned)*
+- [[Session 009 - Echoes, the Road Back|NB · Session 009 - Echoes, the Road Back]]: through [[Loroves]], recalls Selina to the Belmont Castle-State; the Portal Gate of Atar is approved *(mentioned)*
 
 ## Links
 - [[Campaigns]] · [[Lavern]] *(saga)* · [[A New Beginning]]
