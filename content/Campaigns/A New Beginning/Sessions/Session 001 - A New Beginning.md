@@ -24,9 +24,9 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 001 - Μια Νέα Αρχή]]
 
 ## Recap
-[[Pastor Lia]], an apprentice cleric of Torm based in the village of [[Brook Hollow]], sent the Brotherhood of Light an urgent message asking for help: the village's High Priest, **Pastor Darion**, had died in strange circumstances. Lady Lavern gave **Selina Nightwell**, a half-elf cleric of Allalme and a Knight of the [[Brotherhood of Light]], the mission of finding out what had happened in that faraway village in the far east. It was Selina's first mission as a new cleric and she wanted to prove her worth. **Azhyra Vorneth**, a tiefling warlock, was sent along to watch over her, in a way as her supervisor.
+[[Lia]], an apprentice cleric of Torm based in the village of [[Brook Hollow]], sent the Brotherhood of Light an urgent message asking for help: the village's High Priest, **Darion**, had died in strange circumstances. Lady Lavern gave **Selina Nightwell**, a half-elf cleric of Allalme and a Knight of the [[Brotherhood of Light]], the mission of finding out what had happened in that faraway village in the far east. It was Selina's first mission as a new cleric and she wanted to prove her worth. **Azhyra Vorneth**, a tiefling warlock, was sent along to watch over her, in a way as her supervisor.
 
-In midsummer the two set out. They travelled to the small oasis town of **Sayadar**, near the border of the Anauroch desert with Cormanthor, the ancient kingdom of the first elves, where they were joined by **Edric Hale**, a young human fighter and recruit of the Brotherhood's desert department. It was his first mission too, and he gladly accepted the task of protecting them both. Closer to the Cormanthor border they met [[Elizium (A New Beginning)|Elizium]], an elf warrior-mage walking the other way, who said he knew the area well, since he had come from there, and offered to guide them to Brook Hollow and see them safely there. Asked where he came from, he answered "I come from distant and dangerous places".
+In midsummer the two set out. They travelled to the small oasis town of **Saiyaddar**, near the border of the Anauroch desert with Cormanthor, the ancient kingdom of the first elves, where they were joined by **Edric Hale**, a young human fighter and recruit of the Brotherhood's desert department. It was his first mission too, and he gladly accepted the task of protecting them both. Closer to the Cormanthor border they met [[Elizium (A New Beginning)|Elizium]], an elf warrior-mage walking the other way, who said he knew the area well, since he had come from there, and offered to guide them to Brook Hollow and see them safely there. Asked where he came from, he answered "I come from distant and dangerous places".
 
 Just as the introductions among the four travellers were ending, they came upon a young half-elf woman with ginger hair in a long bob cut, wounded, her hands bound in manacles and a silver mask covering most of her face, begging for help as strange zombies chased her: this was **Ezariel McAlister**. The party helped free her from her shackles, and the zombies, which seemed to come out of the forest, attacked. They all fought together (Ezariel even grabbed Edric's bow) and won easily. Once it was over Ezariel was the first to go through the corpses to get her belongings back, shrugging off Elizium's remark that good manners demand the rescued thank their saviours politely.
 
@@ -35,8 +35,8 @@ With the rush of the fight gone, the five agreed to travel together for the next
 Night fell in the desert, and the party took shelter in an abandoned watchtower outside the village. It was suspicious: dirty, as if no one had been there for a long time, and as if someone had been killed inside. The next day they made their way to Brook Hollow. With a bad feeling about it all, Selina cast an *omen of peril* to glimpse the dangers ahead. The vision was terrible, full of death and blood, and as she spoke of it the party entered the village. Every villager had been turned into a strange zombie: not the usual undead, but something new and dark.
 
 **Key beats**
-1. Pastor Lia's urgent message and Pastor Darion's strange death; Lady Lavern sends Selina on her first mission to Brook Hollow, with Azhyra as her supervisor
-2. Midsummer: the two travel to the oasis town of Sayadar, where Edric, a fighter of the desert department, joins to protect them
+1. Lia's urgent message and High Priest Darion's strange death; Lady Lavern sends Selina on her first mission to Brook Hollow, with Azhyra as her supervisor
+2. Midsummer: the two travel to the oasis town of Saiyaddar, where Edric, a fighter of the desert department, joins to protect them
 3. Elizium, an elf warrior-mage, offers them safe passage
 4. Ezariel appears chained and hunted; the fight with the strange zombies is won easily and she recovers her belongings
 5. The group agrees to stick together
@@ -46,14 +46,14 @@ Night fell in the desert, and the party took shelter in an abandoned watchtower 
 
 > [!warning] Conflicting accounts
 > - **The village** is written "Brook Hollow" and "Bruno Hollow" (Azhyra's player uses both, Ezariel's player "Bruno Hollow"). The DM confirmed *Brook Hollow*.
-> - **The pastor** is written both "Lia" and "Lin" in Azhyra's player's answer. *Lia* is used (both players use it in Session 2). The DM's account calls Lia an *apprentice cleric of Torm* and names the village's High Priest, *Pastor Darion*, as the one who died; the existing page [[Pastor Lia]] may need a rename (see Open Questions).
+> - **The pastor** is written both "Lia" and "Lin" in Azhyra's player's answer. *Lia* is used (both players use it in Session 2). The DM's account calls Lia an *apprentice cleric of Torm* and names the village's High Priest, *Darion*, as the one who died; the page is now [[Lia]] (DM, 2026-10-13).
 > - **The night's shelter:** an abandoned fortress (Azhyra's player) or an abandoned watchtower (Ezariel's player). The more detailed account, the watchtower, is used.
-> - **Edric's arrival:** Azhyra's player says Edric was waiting for them off the main road; the DM has him join the two women at Sayadar. The DM's account is used.
+> - **Edric's arrival:** Azhyra's player says Edric was waiting for them off the main road; the DM has him join the two women at Saiyaddar. The DM's account is used.
 > - **Ezariel's mask:** half of her face (the players), two thirds (the DM), most of it (her own profile). Her player's version, *most of her face*, is used.
 
 ## NPCs met
-- [[Pastor Lia]] *(mentioned)*: missing; the reason for the mission (the DM: an apprentice cleric of Torm who sent the urgent message)
-- **Pastor Darion** *(mentioned)*: the village's High Priest, who died in strange circumstances
+- [[Lia]] *(mentioned)*: missing; the reason for the mission (the DM: an apprentice cleric of Torm who sent the urgent message)
+- **Darion** *(mentioned)*: the village's High Priest, who died in strange circumstances; the party never met him
 - **Lady Lavern** *(mentioned)*: gave Selina the mission
 - **Selina Nightwell**, **Azhyra Vorneth**, **Edric Hale**, [[Elizium (A New Beginning)|Elizium]], **Ezariel McAlister**: the five who travel together
 - *Joined the party:* Edric, [[Elizium (A New Beginning)|Elizium]], Ezariel
@@ -62,7 +62,7 @@ Night fell in the desert, and the party took shelter in an abandoned watchtower 
 - [[Brook Hollow]]: village in the far east, under investigation; its people turned into zombies
 - An abandoned watchtower outside the village
 - The provincial road / caravan road of Tethiamar
-- The small oasis town of Sayadar, near the Anauroch border with Cormanthor
+- The small oasis town of Saiyaddar, near the Anauroch border with Cormanthor
 - *Mentioned:* the Brotherhood of Light
 
 ## Fights
@@ -75,7 +75,7 @@ Night fell in the desert, and the party took shelter in an abandoned watchtower 
 - Items from the wandering undead
 
 ## Open threads
-- [ ] What happened to Pastor Lia?
+- [ ] What happened to Lia?
 - [ ] What happened to Brook Hollow?
 - [ ] How are these zombies different from the usual undead? How were they created?
 - [ ] What happened to High Priest Darion?

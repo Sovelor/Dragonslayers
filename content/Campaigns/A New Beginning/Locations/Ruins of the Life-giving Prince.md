@@ -25,6 +25,7 @@ The ruins and dungeon of the Life-giving Prince, [[King Theron]], where the part
 ## Appearances
 %% auto:appearances %%
 - [[Session 004 - The Illumians]]: the entrance guarded by wolves; the dead search team; a fight with orcs
+- [[Session 006 - Elizium's Second Chance]]: the mimic chamber and the statue with the secret compartment
 - [[Session 009 - Echoes, the Road Back]]: the party leaves them; King Theron's tombstone is read
 %% /auto:appearances %%
 

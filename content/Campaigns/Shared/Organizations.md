@@ -19,6 +19,7 @@ The great organizations of the world of **Threads of Fate**. They are not tied t
 
 - [[Circle of the Moon]]: the druidic circle of Allalme's faithful, guardians of the ten Sacred Willows.
 - [[Order of Freedom]]: Mahaya Vishan's order, defending the Material Plane from extraplanar threats.
+- [[Edge of Banishment]]: the Order's secret elite group, founded by Sovelor and now led by Loroves.
 
 ## Links
 - [[Campaigns]]

@@ -43,7 +43,7 @@ Nabeora had allied with **Tiamat** and her chromatic dragons to take the **Hamme
 The Order moved to **Zelfar**, a city north of Laskan, where it was rebuilt, reorganised and gained new allies. Zelfar is now the Order's official base.
 
 ## The Edge of Banishment
-[[Sovelor]], the son of Asmodeus, created an utterly secret elite group within the Order: the **Edge of Banishment** (Αιχμή της Εξορίας). It is made up of the Order's most capable agents, works entirely outside the official structures, takes on missions no one else can, and exists to face threats that neither the Order nor the gods can touch.
+[[Sovelor]], the son of Asmodeus, created an utterly secret elite group within the Order: the **[[Edge of Banishment]]** (Αιχμή της Εξορίας). It is made up of the Order's most capable agents, works entirely outside the official structures, takes on missions no one else can, and exists to face threats that neither the Order nor the gods can touch.
 
 The Edge of Banishment kept the old Tower of Freedom as its base and renamed it the **Tower of Exile** (Πύργος της Εξορίας). Very few know that the Tower still operates.
 

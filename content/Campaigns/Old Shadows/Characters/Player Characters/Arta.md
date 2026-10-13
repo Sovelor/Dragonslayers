@@ -20,15 +20,15 @@ tags:
 ![[Characters - Arta.png|300]]
 
 **Role:** Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Drugag]]
-**Race:** Dwarf · **Class:** Ranger, Wild Plains Outrider (level 9) · **Pronouns:** she/her · **Age:** 52 · **Alignment:** neutral good · **Home:** the Undercity (Lower City) of [[Splendarrmornn]] · **Languages:** Common, Dwarven
+**Race:** Dwarf · **Class:** Ranger, Wild Plains Outrider (level 9) · **Pronouns:** she/her · **Age:** 52 · **Alignment:** neutral good · **Home:** the Undercity (also called the Lower City) of [[Splendarrmornn]] · **Languages:** Common, Dwarven
 
 ## Summary
 A dwarven ranger from the Undercity of Splendarrmornn, raised in the shadow of the enigmatic **Keepers of the Secrets**. Haunted by fragmented memories and the unexplained absence of her mother, she seeks the truth of her past and wants to find out whether her destiny is truly her own.
 Grew up in the Undercity of Splendarrmornn, believing her parents were bakers; when she visited Bjorn's Bakery in Session 29 it had been closed for a long time. In the Underdark cave of glowing mushrooms she felt she had been there before: her mother used to bring her to this sacred place of prayer when she was very young. At the altar her father begged her: *"Stand at your father's side. Accept your destiny."*
 
-> [!warning] Conflicting accounts
-> - **What she knew of her parents:** the DM's Session 29 says she grew up believing her parents were bakers. Her profile has her father [[Bjorn Brottdottir]] as a stern figure tied to the Keepers (and a high priest of Shar) and her mother as an unexplained absence. Both are kept.
-> - **Her home:** the DM calls it the Undercity; the profile calls it the Lower City. Treated as the same place.
+When she joined the party, and for a long time after, she believed her parents were bakers; she knows the truth about her father, [[Bjorn Brottdottir]], only after later revelations (DM). She was not aboard *The Dragon Turtle*: the others met her in Bridingfort, where she saved [[Petros]]'s life from a ratman's attack and joined them during their quest to find out what was going on in the city (DM).
+
+The Undercity is also called the Lower City; it is the same place, named differently by many (DM).
 
 ## Appearance
 A sturdy, broad-shouldered dwarf with a compact, muscular build, shaped by years of hunting monsters in the Deep Roads. Her face is strong-featured and weathered, with a firm jaw, prominent cheekbones and an expression that rarely betrays more than she intends. Her copper-red hair is worn long, with a carefully braided beard; her dark green eyes are sharp and watchful, often distant and contemplative. Her skin is fair and slightly ruddy.
@@ -57,7 +57,7 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 - To confront Björn: why he hid so much, what part the Keepers played in her life, and whether anything of the father she once knew remains under his devotion to Shar.
 - To understand the Keepers' true purpose and free herself of their influence: the tattoo is gone, but she must still overcome the obedience and distrust instilled since childhood.
 - To protect Rusk and the Incredible Six, who show her a loyalty freely given rather than commanded, and ultimately to discover who Arta truly is.
-- **Fears:** learning what became of her mother, and that her father knows exactly what happened and his silence hides something unforgivable; becoming like Björn, so devoted to duty that she cannot tell loyalty from servitude; and losing Rusk and the Six. Thrallduin's fate has shown her there are losses worse than death.
+- **Fears:** learning what became of her mother, and that her father knows exactly what happened and his silence hides something unforgivable; becoming like Björn, so devoted to duty that she cannot tell loyalty from servitude; and losing Rusk and the Six. Thraldour's fate has shown her there are losses worse than death.
 
 ## Relationships
 - **[[Bjorn Brottdottir]]:** her father, a stern patriarch and high priest of Shar, once an unquestioned authority and now a figure of betrayal and conflicted loyalty. He sees her as capable, strong-willed and increasingly troublesome; whether any paternal affection survives is uncertain. Enemy?
@@ -67,13 +67,13 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 - **[[Aya]]:** a trusted friend who freed her from the tattoo. Aya sees a good person whose compassion was constrained by years of enforced obedience.
 - **[[Thoriel]]:** her gentleness gives Arta a rare sense of emotional safety, though her openness about feelings can make the guarded dwarf uncomfortable. Thoriel wishes Arta would trust others more readily and values her loyalty and her tenderness towards Rusk.
 - **Aradun:** a dependable brother-in-arms whose honour, courage and dwarven traditions she respects; he respects her, though her growing disillusionment with her homeland's authorities troubles him.
-- **Thrallduin (Thrall):** a dear companion whose mind was shattered in Khudrukhar; his body rests in Bridingfort, and she has not abandoned hope for his recovery.
+- **Thraldour (Thrall):** a dear companion whose mind was shattered in Khudrukhar; his body rests in Bridingfort, and she has not abandoned hope for his recovery.
 - **[[Freiderikos]]:** the newest of the company, whose carefree manner and peculiar upbringing hint at a more complicated story. He finds her intimidating, competent and hard to impress, and is beginning to appreciate her loyalty.
 - **[[Hecate the Prophet|Hecate]]:** an enemy allied with her father, whose actions show the consequences of the darkness Arta was raised to serve.
 - **The Keepers of the Secrets:** enemies; once her masters, now the people from whom she seeks answers.
 
 ## Affiliations
-- **The Incredible Six** (current member) · **The Keepers of the Secrets** (former agent, sent to find Rockgar) · **The Lower City** (former exterminator) · **House Brotdotir** (family by birth)
+- **The Incredible Six** (current member) · **The Keepers of the Secrets** (former agent, sent to find Rockgar) · **The Lower City** (former exterminator) · **House Brottdottir** (family by birth)
 
 ## Notable items
 - **Shadow Urgrosh:** allows her to shadow jump.

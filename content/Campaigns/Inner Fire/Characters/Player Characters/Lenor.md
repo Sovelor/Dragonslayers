@@ -81,7 +81,7 @@ A third flashback (Session 7): her sister Saria, set against a younger, yellow t
 - [[Session 003 - Spiders!]]: runs from the spiders and joins the party with her hidden familiar, Oscar; her amnesia is revealed
 - [[Session 004 - New Keep Village]]: hides her appearance on arriving in New Keep
 - [[Session 005 - A Day of Memories]]: has her second flashback: a strict sun-elf teacher with a birch, and three older tieflings, one of them the gray-skinned girl she thinks is her sister Saria
-- [[Session 006 - The Ettin's Tower]]: fascinates the ettin with a magical light and later lifts Circu's curse with a scroll; receives the first recipe for her book at the feast
+- [[Session 006 - The Ettin's Inner Conflict]]: fascinates the ettin with a magical light and later lifts Circu's curse with a scroll; receives the first recipe for her book at the feast
 - [[Session 007 - The Cursed Shield and the Broom]]: has a flashback of Saria incinerating a younger tiefling on the teacher's order; distracts Toby with a late-night snack while Nyra touches the shield
 - [[Session 012 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon; intimidates the servant boys in the stables to help them, and feels guilty afterwards
 %% /auto:appearances %%

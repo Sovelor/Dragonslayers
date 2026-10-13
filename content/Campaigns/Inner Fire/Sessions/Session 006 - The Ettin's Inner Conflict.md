@@ -1,10 +1,10 @@
 ---
-title: Session 006 - The Ettin's Tower
+title: Session 006 - The Ettin's Inner Conflict
 campaign: Inner Fire
 session: 6
 date: 2026-03-21
 lang: en
-translation: "[[Συνεδρία 006 - Ο Πύργος του Έτιν]]"
+translation: "[[Συνεδρία 006 - Η Εσωτερική Σύγκρουση του Έτιν]]"
 mvp: Lenόre
 contributors:
   - Lenόre's player
@@ -17,14 +17,14 @@ tags:
 ---
 %% Raw log (private): private/Campaigns/Inner Fire/Session Logs/Session 006 (raw).md. No title was suggested: the title is a working title. %%
 
-# Session 006 - The Ettin's Tower
+# Session 006 - The Ettin's Inner Conflict
 
-> [!abstract] Ελληνικά → [[Συνεδρία 006 - Ο Πύργος του Έτιν]]
+> [!abstract] Ελληνικά → [[Συνεδρία 006 - Η Εσωτερική Σύγκρουση του Έτιν]]
 
 ## Recap
 The party soon found an **orc camp** on the path. They fought and won, with Skythane's help, then moved on and reached the **old tower** at night, but nobody was there. They went in and made a quick search for information, until they heard the **ettin** approaching from outside. In the fight [[Nyra]] and [[Grafin]] stood in close combat while [[Lenor|Lenόre]] and [[Meive]] fought from a distance. The party soon realised that one of the ettin's heads was the missing priest, **Circu**, slowly losing his intelligence and merging with the creature's form. Lenόre fascinated the creature with a magical plasmatic light while the rest of the party tried to knock out the second, evil head. Circu helped by finally decapitating the evil head, but passed out in the process. Nyra stabilised him and Grafin cauterised the wound, and they let him rest.
 
-While he rested, the party searched the place and found a **journal of Mira**. It said that the ettin was a distraction: her true aim was to find a sect called the **Followers of the Flame**. Rumour had it that previous heroes had trapped them in a prison world, sealing them inside their own secret pocket world. The secret door was a **shield** that had belonged to the first powerful champion, the **Red Knight**, bearing the symbol of the **Harbinger**. The Harbinger herself had given Mira the mission *"free my chosen ones"*, and Mira would become a member.
+While he rested, the party searched the place and found a **journal of Mira**. It said that the ettin was a distraction: her true aim was to find a sect called the **Followers of the Flame**. Rumour had it that previous heroes had trapped them in a prison world, sealing them inside their own secret pocket world. The secret door was a **shield** that had belonged to the first powerful champion, the **Red Knight**, bearing the symbol of the **Harbinger**. The Harbinger herself had given Mira the mission *"free my chosen ones"*, and Mira would become a member. The Followers are indeed trapped in a pocket dimension, and the Red Knight was the previous Chosen of the Flame, who failed (DM).
 
 The party decided to rest, but during the night a spirit woke them and led them to an open field not far from the tower. He was a paladin, and he led them to his own dead body, perhaps asking for help to move on. The party knew they needed a cleric for this.
 
@@ -46,7 +46,7 @@ The same day the party feasted for saving the village, and Lenόre received the 
 
 ## NPCs met
 - **Circu**: the missing priest, turned into one of the ettin's heads by Mira's experiment; formerly a cleric of Tyr, now a cleric of Allalme; taken in by [[Robin]]
-- *Mentioned:* **Mira**, whose experiment transformed Circu; the **Harbinger**, who gave her the mission; the **Red Knight**, the first powerful champion; Circu's paladin companion, a spirit freed in the field
+- *Mentioned:* **Mira**, whose experiment transformed Circu; the **Harbinger**, who gave her the mission; the **Red Knight**, the first powerful champion and the previous Chosen of the Flame, who failed (DM); Circu's paladin companion, a spirit freed in the field
 
 ## Places
 - The orc camp on the path
@@ -82,7 +82,7 @@ The same day the party feasted for saving the village, and Lenόre received the 
 > — Lenόre
 
 ## Title suggestions
-*None yet.* The title above is a working title.
+**The Ettin's Inner Conflict** (DM)
 
 ## Links
 - Campaign: [[Inner Fire]] · [[Campaigns]]

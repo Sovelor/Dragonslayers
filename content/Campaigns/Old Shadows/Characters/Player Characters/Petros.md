@@ -41,7 +41,7 @@ Petros Axinakis was born Rockgar Pickaxeson, son of Rurik (a senior mine oversee
 By the time he was Mining Overseer he was known among his miners as Rockgar Stoneface, with an almost unreasonable insistence on safety. Two years before his adventures began, a map with no sender's name and a broken seal appeared on his desk, showing a long-forgotten passage. He led a crew of fifty dwarves, among them his closest family friend Ruby Metallson, into what became Tunnel Five. Deep within they found a door that looked dwarven but was subtly wrong, its runes crooked and mirrored. He opened it. Beyond lay a darkness that seemed to consume the very certainty of existence. Ruby shouted for him to collapse the passage and Rockgar obeyed, turning the stone above them to mud and back to rock. Fifty dwarves died; only Rockgar, Ruby and his rat Akis survived. Whether the collapse saved Splendarrmornn from something worse is unknown.
 The official report, submitted by Ruby, recorded that Rockgar had died heroically. There was a funeral with an empty coffin. Rockgar could not bring himself to return: he shaved his beard, took the human-sounding name Petros Axinakis (*Petros* means stone, and *Axinakis* keeps something of the pickaxe) and left Splendarrmornn. Where Rockgar had demanded respect, Petros sought laughter; where Rockgar had believed he could control the world, Petros placed his faith in Fate and in Mystra.
 Every night he lights four candles (the first crack, the wrong echo, the silence and the names), sets out a silver bowl of cold water, shaves his head and face, and recites the names of the fifty dwarves who died under his command. Akis, once a white rat, began changing after the collapse: his fur darkened from grey to black and his eyes sometimes reflect a faint violet light, though magical examination found nothing.
-His travels brought him aboard a ship bound for Baldur's Gate that was wrecked. Stranded on a shore, he met the companions who became the Incredible Six: [[Arta]], Thrallduin, [[Aya]], Aradun and [[Thoriel]]. Their adventures led through haunted forests, corrupted lighthouses, the lands around Bridingfort and the ruins of Khudrukhar, where they lost Thrallduin; on the return to Bridingfort they gained [[Freiderikos]].
+His travels brought him aboard *The Dragon Turtle*, which was wrecked (his profile says it was bound for Baldur's Gate; the DM has it sailing from Baldur's Gate to Luskan). That night he followed the other castaways, Thraldour, [[Aya]], Aradun, Havi and [[Thoriel]], to their camp and revealed himself as one more survivor of the wreck; later, in Bridingfort, [[Arta]] saved his life from a ratman's attack and joined them. Together they became the Incredible Six. Their adventures led through haunted forests, corrupted lighthouses, the lands around Bridingfort and the ruins of Khudrukhar, where they lost Thraldour; on the return to Bridingfort they gained [[Freiderikos]].
 
 > [!warning] Conflicting accounts
 > The profile speaks of "fifty dwarves" who died in Tunnel Five but also of "the forty-nine dwarves who perished"; the session notes and the rest of the profile say fifty. Fifty is used.
@@ -61,7 +61,7 @@ His travels brought him aboard a ship bound for Baldur's Gate that was wrecked. 
 - **Ruby Metallson:** his closest family friend, fellow survivor of Tunnel Five, keeper of his secret and the man who helped him disappear
 - **[[Akis]]:** his faithful rat familiar and closest confidant, bearer of a mysterious darkness
 - **[[Arta]]:** fellow adventurer and a connection to the homeland he abandoned
-- **Thrallduin:** a former companion of the Six whose fate weighs on him
+- **Thraldour:** a former companion of the Six whose fate weighs on him
 - **[[Aya]]:** the party's moral compass, who thinks he made an impossible choice and fears his guilt may drive him to sacrifice himself needlessly
 - **Aradun, [[Thoriel]], [[Freiderikos]]:** fellow adventurers; Thoriel finds his secretive streak frustrating and wishes he could see that he deserves the compassion he offers others
 
@@ -77,6 +77,7 @@ His travels brought him aboard a ship bound for Baldur's Gate that was wrecked. 
 > "Fate, my friends, is a tapestry woven by Mystra herself. We may not choose the threads we're given, but by the gods, we can choose what we weave with them!"
 
 ## Appearances
+- [[Session 001 - Shipwrecked in Unknown Lands]]: another castaway of *The Dragon Turtle*, he follows the five survivors to their camp that night and joins them
 - [[Session 029 - The Descent into the Shadow]]: faces the ghosts of Tunnel 5; Hecate takes the shadow from Akis
 
 ## Gallery

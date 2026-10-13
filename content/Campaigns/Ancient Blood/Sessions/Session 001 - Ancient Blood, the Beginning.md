@@ -27,7 +27,7 @@ tags:
 
 Once the shock passed, the two joined forces to see what had happened. At the site of the explosion they found the entrance to a hidden complex inside the mountain. It belonged to a sect that worshipped devilish beings, with a strong presence of **Asmodeus**: the place was full of blood, corpses and rubble, and it was clear a battle had been fought there.
 
-In a room of grim instruments they found a book on a desk, a kind of catalogue: in the left column a name (elven, most likely), in the middle another (certainly demonic), and on the right a result, "failure" or "success". This was the [[Book of Coupling]], a record of unholy "unions" between otherworldly beings and elf women. In more than 500 pages only two successes were recorded: **Hawi** and **Vris**, with no demon named. Among the other names were **Nenya**, and **Melda** with **Gorgomorz** in the middle column and the result left blank.
+In a room of grim instruments they found a book on a desk, a kind of catalogue: in the left column a name (elven, most likely), in the middle another (certainly demonic), and on the right a result, "failure" or "success". This was the [[Book of Coupling]], a record of unholy "unions" between otherworldly beings and elf women. In more than 500 pages only two successes were recorded: **Havi** and **Vris**, with no demon named. Among the other names were **Nenya**, and **Melda** with **Gorgomorz** in the middle column and the result left blank.
 
 Through a door at the back was a birthing room. On the two central benches, in a strange position, lay two elf women with magical metal circlets on their foreheads. Ulf and Liga removed the circlets and freed them. One was **Melda**, a star elf druid, full of rage and impatient to leave, with no memory of how she got there. The other was **Nenya**, a sun elf, with no memory of her past at all.
 
@@ -37,7 +37,7 @@ The four searched deeper. In a summoning area that had been used very recently t
 1. Ulf and Liga meet on the road through the Forest of the Trolls' Growl
 2. The mountain explodes; a demon kills a fleeing man, takes human form and flies away
 3. The hidden complex: a devil-worshipping sect of Asmodeus, after a battle
-4. The Book of Coupling: only two successes, Hawi and Vris; Nenya and Melda named in it
+4. The Book of Coupling: only two successes, Havi and Vris; Nenya and Melda named in it
 5. Melda and Nenya freed from the circlets in the birthing room
 6. Fights: four lemures, five zombies from the pit of corpses
 7. Aurora Drabek killed at the sacrificial altar, without answers
@@ -48,7 +48,7 @@ The four searched deeper. In a summoning area that had been used very recently t
 ## NPCs met
 - [[Aurora Drabek]]: a god-mad, dangerous tiefling cleric of Asmodeus; killed at the altar
 - **A horned demon**: killed a fleeing man, took human form and flew away
-- *Mentioned:* **Gorgomorz** (in the Book of Coupling, beside Melda's name) · **Hawi** and **Vris**, the book's two successes
+- *Mentioned:* **Gorgomorz** (in the Book of Coupling, beside Melda's name) · **Havi** and **Vris**, the book's two successes (Havi is the red tiefling of *Old Shadows*, DM)
 - *The first party:* Ulf the Northman (human fighter) · Liga (half-orc barbarian) · [[Nenya]] (sun elf) · [[Melda]] (star elf druid)
 
 ## Places
