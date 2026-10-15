@@ -21,6 +21,8 @@ tags:
 ## Summary
 A new cleric of the Brotherhood of Light on her first mission: to find out what happened to [[Lia]] in Brook Hollow. She cast *omen of peril* before the village and sensed that "a piece of the Shadowlands" had come there as a materialised shadow. Voted MVP of Session 1. In Session 9, orders arrived from High Lady Lavern herself, recalling her to the Belmont Castle-State and the Brotherhood of Light; the party was cleared to use the Portal Gate of the desert city of Atar. She told [[Edric]] she will propose him for knighthood.
 
+In Brook Hollow (Session 2) she took and equipped a masterwork Dwarven warhammer from Colbie Strongarm's smithy; her vision showed the mausoleum as the source of the evil. %% src:NB-S002b d9 %%
+
 ## Appearances
 - [[Session 001 - A New Beginning]]: first mission from Lady Lavern; casts *omen of peril* and sees a vision of death and blood
 - [[Session 002 - The Punishment]]: senses the Shadowlands in Brook Hollow

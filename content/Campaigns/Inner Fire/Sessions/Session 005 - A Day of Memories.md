@@ -44,7 +44,7 @@ Nyra shook Lenόre out of her memories, worried, and asked if she was all right.
 
 ## NPCs met
 - [[Robin]]: the druid of New Keep; knew Nyra's teacher and helps the party deal with the guard
-- **Matataias**: the leader of the guard; wants to kill the ettin in revenge for his father (Lenόre's player calls him an elf; Session 4 says half-elf)
+- **Matataias**: a half-elf, the leader of the guard (DM); wants to kill the ettin in revenge for his father
 - *Mentioned:* **Mira** and her father **Erasmus**, who lived in the ettin's tower; **Celandir Shadwoglim**, Nyra's teacher; [[Axel]], who saved Nyra by accident; **Saria**, Lenόre's remembered sister
 
 ## Places

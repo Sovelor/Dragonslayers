@@ -24,7 +24,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 029 - Η Κάθοδος στην Σκιά]]
 
 ## Recap
-The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Bridingfort. The Incredible Six then went down to the [[Splendarrmornn|Undercity of Splendarrmornn]]. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Shar** a service was being held. [[Drugag]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
+The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Brindinford. The Incredible Six then went down to the [[Splendarrmornn|Undercity of Splendarrmornn]]. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Shar** a service was being held. [[Drugag]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
 
 Through a secret door, the party descended a long, dark staircase, possibly into the Shadowfell. There was only silence, darkness and emptiness; even the dwarves felt uneasy inside the mountain, and the door closed silently behind them, leaving only the way forward. At the bottom they fought the **Shadow Mastiffs**, the first guardians of the next door, and then two **shadow oozes**, the tunnels' scavengers. Freiderikos pulled half the party out of an ooze with *Regroup* before they blasted it apart.
 
@@ -39,7 +39,7 @@ They opened the door together and found the [[Shadow Altar]], holding the [[Swor
 Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Akis]] and drew out the shadow that lived inside him. The rat turned white again, and the Prophet had her last component. Bjorn begged Arta to stand at her father's side. Aya stood up to Hecate and demanded the truth; Hecate showed her, in a grim vision, who she really is and what she wants. Then she left the Six with a promise: death would be too merciful; their punishment is to live and watch the darkness unfold.
 
 **Key beats**
-1. Morning after the Pickaxeson reunion; the family sent to find Soma in Bridingfort
+1. Morning after the Pickaxeson reunion; the family sent to find Soma in Brindinford
 2. The Undercity of Splendarrmornn: Bjorn's Bakery, Arta's childhood home, long closed
 3. Service at the Church of Shar; High Priest Drugag, Arta's godfather, opens the way to the inner sanctum
 4. Long descent down a dark staircase, possibly into the Shadowfell

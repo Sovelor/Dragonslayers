@@ -69,6 +69,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 - [[Session 005 - A Day of Memories]]: tells Robin about her past: the burned monastery, her teacher's death and his ring
 - [[Session 006 - The Ettin's Inner Conflict]]: fights the ettin at close range, stabilises Circu and prays with him to her goddess, who answers with the light of the moon
 - [[Session 007 - The Cursed Shield and the Broom]]: touches the Red Knight's shield at night; chases a shadow on the roof and is burned on the shoulder by the Red Knight
+- [[Session 008 - Finding the Sect's Prison]]: almost falls into the lava pit and is saved by her balance
 - [[Session 012 - The Ritual of the Flame]]: lures the disguised servant into view of her hidden allies in the manor corridor, gives a healing potion to the tortured Varros, and bluffs Jack Staufen
 %% /auto:appearances %%
 

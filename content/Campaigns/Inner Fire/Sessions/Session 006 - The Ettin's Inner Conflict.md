@@ -45,7 +45,7 @@ The same day the party feasted for saving the village, and Lenόre received the 
 10. The shield is found to be a cursed attraction at a road motel
 
 ## NPCs met
-- **Circu**: the missing priest, turned into one of the ettin's heads by Mira's experiment; formerly a cleric of Tyr, now a cleric of Allalme; taken in by [[Robin]]
+- **Circu**: the missing priest, a cleric of Tyr (DM) cursed by mysterious forces to become an ettin, turned into one of its heads by Mira's experiment; now a cleric of Allalme; taken in by [[Robin]]
 - *Mentioned:* **Mira**, whose experiment transformed Circu; the **Harbinger**, who gave her the mission; the **Red Knight**, the first powerful champion and the previous Chosen of the Flame, who failed (DM); Circu's paladin companion, a spirit freed in the field
 
 ## Places
