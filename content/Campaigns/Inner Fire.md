@@ -30,6 +30,7 @@ tags:
 - [[Session 005 - A Day of Memories]] · 2026-02-13
 - [[Session 006 - The Ettin's Inner Conflict]] · 2026-03-21
 - [[Session 007 - The Cursed Shield and the Broom]] · 2026-04-24
+- [[Session 008 - Finding the Sect's Prison]] · 2026-05-15
 - [[Session 012 - The Ritual of the Flame]] · 2026-10-10
 
 ## Locations

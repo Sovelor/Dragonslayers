@@ -46,7 +46,7 @@ Night fell in the desert, and the party took shelter in an abandoned watchtower 
 
 > [!warning] Conflicting accounts
 > - **The village** is written "Brook Hollow" and "Bruno Hollow" (Azhyra's player uses both, Ezariel's player "Bruno Hollow"). The DM confirmed *Brook Hollow*.
-> - **The pastor** is written both "Lia" and "Lin" in Azhyra's player's answer. *Lia* is used (both players use it in Session 2). The DM's account calls Lia an *apprentice cleric of Torm* and names the village's High Priest, *Darion*, as the one who died; the page is now [[Lia]] (DM, 2026-10-13).
+> - **Lia:** Azhyra's player has corrected her answer from "Lin" to *Lia* (2026-10-15). The DM's account calls Lia an *apprentice cleric of Torm* and names the village's High Priest, *Darion*, as the one who died; the page is now [[Lia]] (DM, 2026-10-13).
 > - **The night's shelter:** an abandoned fortress (Azhyra's player) or an abandoned watchtower (Ezariel's player). The more detailed account, the watchtower, is used.
 > - **Edric's arrival:** Azhyra's player says Edric was waiting for them off the main road; the DM has him join the two women at Saiyaddar. The DM's account is used.
 > - **Ezariel's mask:** half of her face (the players), two thirds (the DM), most of it (her own profile). Her player's version, *most of her face*, is used.

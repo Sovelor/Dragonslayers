@@ -28,6 +28,7 @@ A druid who looks after the place the villagers call the temple in New Keep. Fri
 - [[Session 004 - New Keep Village]]: greets the party and explains the ettin that attacks New Keep
 - [[Session 005 - A Day of Memories]]: helps the party face the guard's plan to kill the ettin and learns that Nyra's teacher is dead
 - [[Session 006 - The Ettin's Inner Conflict]]: takes Circu under his protection and helps him recover
+- [[Session 008 - Finding the Sect's Prison]]: explains the locking spell of the sect's prison and casts omen of peril
 %% /auto:appearances %%
 
 ## Links

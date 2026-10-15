@@ -55,6 +55,8 @@ A second flashback shows her strict upbringing: children repeating "Blood and De
 
 A third flashback (Session 7): her sister Saria, set against a younger, yellow tiefling by their teacher, incinerated the other child; when Lenόre tried to comfort her as she cried, Saria turned away from her in anger. Lenόre kept it to herself. %% src:IF-S007 d4 %%
 
+On the road back to New Keep (Session 8) she finally admitted her flashbacks to the party. At the sect's prison, by a lava pit, she remembered Saria holding her face to a fire on the teacher's order ("You need to let go of your weaknesses. Don't waste the legacy of your blood."); on the way back, the teacher torturing her and telling her that emotions are useless. %% src:IF-S008 d6 %%
+
 ## Goals & fears
 **Goals:** to regain her lost memory, to taste all the pastry she can, and to read as many books as possible.
 **Fears:** everything she deems dangerous.
@@ -83,6 +85,7 @@ A third flashback (Session 7): her sister Saria, set against a younger, yellow t
 - [[Session 005 - A Day of Memories]]: has her second flashback: a strict sun-elf teacher with a birch, and three older tieflings, one of them the gray-skinned girl she thinks is her sister Saria
 - [[Session 006 - The Ettin's Inner Conflict]]: fascinates the ettin with a magical light and later lifts Circu's curse with a scroll; receives the first recipe for her book at the feast
 - [[Session 007 - The Cursed Shield and the Broom]]: has a flashback of Saria incinerating a younger tiefling on the teacher's order; distracts Toby with a late-night snack while Nyra touches the shield
+- [[Session 008 - Finding the Sect's Prison]]: admits her flashbacks to the party; her icy magic helps against the skeletons; two more flashbacks of Saria and the teacher
 - [[Session 012 - The Ritual of the Flame]]: steps forward and hurls a ray of lightning at a demon; intimidates the servant boys in the stables to help them, and feels guilty afterwards
 %% /auto:appearances %%
 

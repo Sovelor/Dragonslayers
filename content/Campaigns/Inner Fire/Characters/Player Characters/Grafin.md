@@ -27,6 +27,8 @@ A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on
 %% auto:appearances %%
 - [[Session 001 - A Strange Acquaintance]]: meets Meive and Nyra; shields Meive from the adventurers
 - [[Session 006 - The Ettin's Inner Conflict]]: fights the ettin at close range and cauterises Circu's wound
+- [[Session 007 - The Cursed Shield and the Broom]]: at the Osterhaus Inn with the rest of the party (DM)
+- [[Session 008 - Finding the Sect's Prison]]: sees the halls are built of copper and bluffs the first azer; the session's MVP
 - [[Session 012 - The Ritual of the Flame]]: tells Bergen "We came to stop you!" as the Company interrupts the Ritual of the Flame
 %% /auto:appearances %%
 

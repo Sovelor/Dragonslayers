@@ -34,7 +34,7 @@ Taciturn and decisive; serious when she must be, and the heart of the party when
 ## Background
 She grew up under the roof of the dwarves of Mithral Hall, playing with her brother Aradun and their friends in its corridors. She was taught to fight with dwarven weapons and heavy armour, and with time, far more than the other children, she mastered the techniques: slowly and stubbornly she learned to fight in heavy plate with the great dwarven hammer.
 In her teens she felt a calling and, believing it came from Moradin, decided to become his cleric and do his will. Out in the world she felt more at ease in nature and in the forests, watching the animals, and sensed that something did not fit between Moradin and her. In her prayers she often asked him for guidance and saw no result, until she met Thoriel and learned about druids, and felt that nature was close to her and calming.
-At the druid circle in Bridingfort she learned of Allalme and felt her call strongly. That same night she asked Moradin's forgiveness and devoted herself to Allalme, whom she needed to learn more about. Even then she felt that something was not right...
+At the druid circle in Brindinford she learned of Allalme and felt her call strongly. That same night she asked Moradin's forgiveness and devoted herself to Allalme, whom she needed to learn more about. Even then she felt that something was not right...
 
 ## Goals & fears
 To learn about herself.

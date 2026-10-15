@@ -26,7 +26,7 @@ tags:
 A dwarven ranger from the Undercity of Splendarrmornn, raised in the shadow of the enigmatic **Keepers of the Secrets**. Haunted by fragmented memories and the unexplained absence of her mother, she seeks the truth of her past and wants to find out whether her destiny is truly her own.
 Grew up in the Undercity of Splendarrmornn, believing her parents were bakers; when she visited Bjorn's Bakery in Session 29 it had been closed for a long time. In the Underdark cave of glowing mushrooms she felt she had been there before: her mother used to bring her to this sacred place of prayer when she was very young. At the altar her father begged her: *"Stand at your father's side. Accept your destiny."*
 
-When she joined the party, and for a long time after, she believed her parents were bakers; she knows the truth about her father, [[Bjorn Brottdottir]], only after later revelations (DM). She was not aboard *The Dragon Turtle*: the others met her in Bridingfort, where she saved [[Petros]]'s life from a ratman's attack and joined them during their quest to find out what was going on in the city (DM).
+When she joined the party, and for a long time after, she believed her parents were bakers; she knows the truth about her father, [[Bjorn Brottdottir]], only after later revelations (DM). She was not aboard *The Dragon Turtle*: the others met her in Brindinford, where she saved [[Petros]]'s life from a ratman's attack and joined them during their quest to find out what was going on in the city (DM).
 
 The Undercity is also called the Lower City; it is the same place, named differently by many (DM).
 
@@ -67,7 +67,7 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 - **[[Aya]]:** a trusted friend who freed her from the tattoo. Aya sees a good person whose compassion was constrained by years of enforced obedience.
 - **[[Thoriel]]:** her gentleness gives Arta a rare sense of emotional safety, though her openness about feelings can make the guarded dwarf uncomfortable. Thoriel wishes Arta would trust others more readily and values her loyalty and her tenderness towards Rusk.
 - **Aradun:** a dependable brother-in-arms whose honour, courage and dwarven traditions she respects; he respects her, though her growing disillusionment with her homeland's authorities troubles him.
-- **Thraldour (Thrall):** a dear companion whose mind was shattered in Khudrukhar; his body rests in Bridingfort, and she has not abandoned hope for his recovery.
+- **Thraldour (Thrall):** a dear companion whose mind was shattered in Khudrukhar; his body rests in Brindinford, and she has not abandoned hope for his recovery.
 - **[[Freiderikos]]:** the newest of the company, whose carefree manner and peculiar upbringing hint at a more complicated story. He finds her intimidating, competent and hard to impress, and is beginning to appreciate her loyalty.
 - **[[Hecate the Prophet|Hecate]]:** an enemy allied with her father, whose actions show the consequences of the darkness Arta was raised to serve.
 - **The Keepers of the Secrets:** enemies; once her masters, now the people from whom she seeks answers.
