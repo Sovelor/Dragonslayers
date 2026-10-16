@@ -22,20 +22,20 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 004 - Σκοτεινό Οχυρό]]
 
 ## Recap
-The party headed for the [[Dark Fortress]]. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Arsandalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
+The party headed for the [[Dark Fortress]]. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Ashardalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
 
-A battle had clearly been fought inside, between goblins and young hatchling dragons, and many bodies lay dead before them. The party fought goblins. They also found a barrel holding some **water mephits**, imprisoned there by the **Dragon Priest of Arsandalon**, who wore a red cloak.
+A battle had clearly been fought inside, between goblins and young hatchling dragons, and many bodies lay dead before them. The party fought goblins. They also found a barrel holding some **water mephits**, imprisoned there by the **Dragon Priest of Ashardalon**, who wore a red cloak.
 
 **Key beats**
 1. The way to the Dark Fortress
-2. The mural of the red dragon Arsandalon; the dead white dragon Kalgrix
+2. The mural of the red dragon Ashardalon; the dead white dragon Kalgrix
 3. Signs of a battle between goblins and hatchling dragons
 4. Fight with goblins
-5. Water mephits found in a barrel, imprisoned there by the Dragon Priest of Arsandalon
+5. Water mephits found in a barrel, imprisoned there by the Dragon Priest of Ashardalon
 
 ## NPCs met
 - **Water mephits**, imprisoned in a barrel
-- *Mentioned:* **Arsandalon**, a red dragon · **Kalgrix**, a dead white dragon · **the Dragon Priest of Arsandalon**, in a red cloak
+- *Mentioned:* **Ashardalon**, a red dragon · **Kalgrix**, a dead white dragon · **the Dragon Priest of Ashardalon**, in a red cloak
 
 ## Places
 - [[Dark Fortress|The Dark Fortress]]
@@ -48,7 +48,7 @@ A battle had clearly been fought inside, between goblins and young hatchling dra
 
 ## Open threads
 - [ ] Free Melda's three companions *(Session 3)*
-- [ ] Who is the Dragon Priest of Arsandalon?
+- [ ] Who is the Dragon Priest of Ashardalon?
 
 ## Best moments & quotes
 *None reported.*

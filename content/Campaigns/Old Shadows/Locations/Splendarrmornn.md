@@ -20,12 +20,12 @@ tags:
 **Role:** City with an Undercity, home of the Pickaxeson family and Arta
 
 ## Summary
-A city whose **Undercity** lies below. [[Arta]] grew up there, believing her father [[Bjorn Brottdottir]] and her mother were bakers; **Bjorn's Bakery** had been closed for a long time when the Incredible Six visited. The Undercity holds the Church of Shar, where [[Drugag]], the High Priest of the Shadow and Arta's godfather, opened the way into the inner sanctum and down to the [[Shadow Altar]]. It is also the home of the dwarf Grafin of *Inner Fire* (the DM's spelling is used for both campaigns).
+A city whose **Undercity** lies below. [[Arta]] grew up there, believing her father [[Bjorn Brottdottir]] and her mother were bakers; **Bjorn's Bakery** had been closed for a long time when the Incredible Six visited. The Undercity holds the Church of Shar, where [[Grukkag Duskmail]], the High Priest of the Shadow and Arta's godfather, opened the way into the inner sanctum and down to the [[Shadow Altar]]. It is also the home of the dwarf Grafin of *Inner Fire* (the DM's spelling is used for both campaigns).
 
 ## Notable persons
 %% auto:notable-persons %%
 - [[Akis]]: [[Petros]]'s familiar, a rat
-- [[Arta]]: Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Drugag]]
+- [[Arta]]: Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Grukkag Duskmail]]
 - [[Petros]]: Member of the Incredible Six in *Old Shadows* (he/him) · survivor of the Collapse of Tunnel No. 5
 %% /auto:notable-persons %%
 

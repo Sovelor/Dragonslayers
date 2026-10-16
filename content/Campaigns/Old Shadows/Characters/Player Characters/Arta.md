@@ -19,7 +19,7 @@ tags:
 
 ![[Characters - Arta.png|300]]
 
-**Role:** Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Drugag]]
+**Role:** Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Grukkag Duskmail]]
 **Race:** Dwarf · **Class:** Ranger, Wild Plains Outrider (level 9) · **Pronouns:** she/her · **Age:** 52 · **Alignment:** neutral good · **Home:** the Undercity (also called the Lower City) of [[Splendarrmornn]] · **Languages:** Common, Dwarven
 
 ## Summary
@@ -89,4 +89,4 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 ![[Characters - Arta 2.png|400]]
 
 ## Links
-- [[Old Shadows]] · [[Aya]] · [[Thoriel]] · [[Petros]] · [[Freiderikos]] · [[Bjorn Brottdottir]] · [[Drugag]] · [[Hecate the Prophet]] · [[Splendarrmornn]] · [[Tunnel No. 5]]
+- [[Old Shadows]] · [[Aya]] · [[Thoriel]] · [[Petros]] · [[Freiderikos]] · [[Bjorn Brottdottir]] · [[Grukkag Duskmail]] · [[Hecate the Prophet]] · [[Splendarrmornn]] · [[Tunnel No. 5]]

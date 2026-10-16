@@ -20,7 +20,7 @@ tags:
 **Role:** The Shadow Bastardsword, one of the six Shadow Swords of Garagos, held by the Shadow Altar
 
 ## Summary
-A sword held by the [[Shadow Altar]]. The party found it there in Session 29 but did not learn what it does. According to the DM it is the **Shadow Bastardsword**, one of six Shadow Swords of Garagos: the Shadow Greatsword, the Shadow Falchion, the Shadow Bastardsword, the Shadow Longsword, the Shadow Scimitar and the Shadow Shortsword. It is a different sword from the one the Prophet gave [[Kor Bloodaxe]] in *A New Beginning*, the Shadow Longsword.
+A sword held by the [[Shadow Altar]]. The party found it there in Session 29 but did not learn what it does. According to the DM it is the **Shadow Bastardsword**, one of six Shadow Swords of Garagos: the Shadow Greatsword, the Shadow Falchion, the Shadow Bastardsword, the Shadow Longsword, the Shadow Scimitar and the Shadow Shortsword. It is a different sword from the one the Prophet gave [[Kor Bloodaxe]] in *A New Beginning*, the Shadow Longsword. The party of *A New Beginning* does not have that sword: it was not on the altar when they arrived, and its whereabouts are unknown.
 
 ## Appearances
 %% auto:appearances %%

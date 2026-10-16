@@ -25,6 +25,8 @@ The young, charismatic cleric who arrived in [[Brook Hollow]] three months after
 
 The DM's account (Session 2): Kor took the place of Pastor Darion after murdering him; the sword was brought to him a year earlier by Mallen the Black, the Prophet's envoy. The party found his corpse before the altar beneath the mausoleum, petrified in shadow: as he performed the ritual that covered everything in shadow, the shadow took him too. His corrupted soul, steeped in the Shadow, attacked as a wraith and was destroyed. His memoirs end: "Tomorrow I will touch immortality! O Lady of Shadows! Accept me as worthy of your Grace!" %% src:NB-S002b d8 %%
 
+The party does not have the Shadow Longsword: it was not on the altar when they arrived, and its whereabouts are unknown. The party also does not know whether the Lady of Shadows he prays to is Shar, whom they know died ten years ago at the Battle of Destiny (DM).
+
 ## Appearances
 %% auto:appearances %%
 - [[Session 002 - The Punishment]]: arrives as Father Arias; revealed as Kor Bloodaxe, servant of the Prophet

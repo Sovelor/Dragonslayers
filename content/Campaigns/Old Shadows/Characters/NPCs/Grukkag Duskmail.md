@@ -1,8 +1,8 @@
 ---
-title: "Drugag"
+title: "Grukkag Duskmail"
 campaign: Old Shadows
 lang: en
-translation: "[[Ντρούγκαγκ]]"
+translation: "[[Γκρούκκαγκ Ντασκμέιλ]]"
 status: Unknown
 tags:
   - character
@@ -12,9 +12,9 @@ tags:
   - lang/en
 ---
 
-# Drugag
+# Grukkag Duskmail
 
-> [!abstract] Ελληνικά → [[Ντρούγκαγκ]]
+> [!abstract] Ελληνικά → [[Γκρούκκαγκ Ντασκμέιλ]]
 
 **Role:** High Priest of the Shadow · godfather of [[Arta]]
 
