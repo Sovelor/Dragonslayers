@@ -1,5 +1,5 @@
 ---
-title: "Old Shadows"
+title: "C2.1 · Old Shadows"
 campaign: Old Shadows
 lang: en
 translation: "[[Παλιές Σκιές]]"
@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-# Old Shadows
+# C2.1 · Old Shadows
 
 > [!abstract] Ελληνικά → [[Παλιές Σκιές]]
 

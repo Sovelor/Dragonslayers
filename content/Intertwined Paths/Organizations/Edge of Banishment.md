@@ -7,8 +7,10 @@ tags:
   - lore
   - faction
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Organizations/Edge of Banishment"
 ---
 
 # Edge of Banishment

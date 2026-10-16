@@ -7,8 +7,10 @@ tags:
   - lore
   - faction
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Organizations/Order of Freedom"
 ---
 
 # Order of Freedom
@@ -92,4 +94,4 @@ That is why they are the Order's main enemy.
 The Zhentarim and the other dark organisations are everywhere, move fast, and have money, armies, agents and magic. To face them the Order needs a presence in every city, information from every village, strike teams on every border, new heroes, and constant influence and growth. That is why the Branches matter so much.
 
 ## Links
-- [[Organizations]] · [[Campaigns]] · [[Mahaya (Lord of Time)]] · [[Sovelor]] · [[Zhentarim]]
+- [[Organizations]] · [[Intertwined Paths]] · [[Mahaya (Lord of Time)]] · [[Sovelor]] · [[Zhentarim]]

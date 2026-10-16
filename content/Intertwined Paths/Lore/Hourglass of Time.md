@@ -7,8 +7,10 @@ tags:
   - lore
   - item
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Lore/Hourglass of Time"
 ---
 
 # Hourglass of Time
@@ -24,4 +26,4 @@ An hourglass that looks empty. Touching it slows time and opens a vision of Maha
 - [[Session 013 - The Vander Legacy|AB · Session 013 - The Vander Legacy]]: found in the Vander vault; given to Nenya
 
 ## Links
-- [[Campaigns]] · [[Mahaya (Lord of Time)]] · [[Nenya]]
+- [[Intertwined Paths]] · [[Mahaya (Lord of Time)]] · [[Nenya]]

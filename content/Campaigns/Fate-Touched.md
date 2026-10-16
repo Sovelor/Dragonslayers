@@ -1,5 +1,5 @@
 ---
-title: "Fate-Touched"
+title: "C1 · Fate-Touched"
 campaign: Fate-Touched
 lang: en
 translation: "[[Οι Εκλεκτοί της Μοίρας]]"
@@ -16,7 +16,7 @@ movedFrom:
   - "Timeline/index"
 ---
 
-# Fate-Touched
+# C1 · Fate-Touched
 
 > [!abstract] Ελληνικά → [[Οι Εκλεκτοί της Μοίρας]]
 

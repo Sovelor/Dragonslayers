@@ -7,8 +7,10 @@ tags:
   - lore
   - faction
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Organizations/Circle of the Moon"
 ---
 
 # Circle of the Moon
@@ -108,4 +110,4 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 > *"Balance is not only life. It is also the death that feeds life."* (the Circle's elders, on the Wood of Sharp Teeth)
 
 ## Links
-- [[Organizations]] · [[Campaigns]] · [[Allalme Dragonborn]] · [[Atropos]] *(saga)*
+- [[Organizations]] · [[Intertwined Paths]] · [[Allalme Dragonborn]] · [[Atropos]] *(saga)*

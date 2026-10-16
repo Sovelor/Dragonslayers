@@ -167,6 +167,18 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      # Top-level sections in story order (EN, then the Greek tree under el/); everything else
+      # keeps the default: folders first, then by title with numbers in order (C1, C2.1, C2.2 ...).
+      sortFn: >-
+        (a, b) => {
+          const order = ["campaigns", "side stories", "intertwined paths", "extras",
+            "καμπάνιες", "παράπλευρες ιστορίες", "συνυφασμένα μονοπάτια", "έξτρα"];
+          const rank = (n) => { const i = order.indexOf((n.displayName || "").toLowerCase()); return i < 0 ? 99 : i; };
+          if (rank(a) !== rank(b)) return rank(a) - rank(b);
+          if (a.isFolder !== b.isFolder) return a.isFolder ? -1 : 1;
+          return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+        }
     layout:
       position: left
       priority: 50
