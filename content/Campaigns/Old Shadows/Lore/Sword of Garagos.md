@@ -26,7 +26,7 @@ A sword held by the [[Shadow Altar]]. The party found it there in Session 29 but
 %% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: seen on the Shadow Altar
 %% /auto:appearances %%
-- [[Session 002 - The Punishment|NB · Session 002 - The Punishment]] *(A New Beginning)*: the Prophet gives Kor Bloodaxe the Shadow Longsword, another of the six
+- [[Session 002 - The Mausoleum of Brook Hollow|NB · Session 002 - The Mausoleum of Brook Hollow]] *(A New Beginning)*: the Prophet gives Kor Bloodaxe the Shadow Longsword, another of the six
 
 ## Links
 - [[Old Shadows]]

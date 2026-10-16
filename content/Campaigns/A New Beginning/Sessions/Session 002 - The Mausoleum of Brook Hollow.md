@@ -1,10 +1,10 @@
 ---
-title: Session 002 - The Punishment
+title: Session 002 - The Mausoleum of Brook Hollow
 campaign: A New Beginning
 session: 2
 date: 2026-03-20
 lang: en
-translation: "[[Συνεδρία 002 - Η Τιμωρία]]"
+translation: "[[Συνεδρία 002 - Το Μαυσωλείο του Μπρουκ Χόλοου]]"
 mvp: Selina (2 votes) · The whole party (DM)
 contributors:
   - Azhyra's player
@@ -19,9 +19,9 @@ tags:
 ---
 %% Raw log (private): private/Campaigns/A New Beginning/Session Logs/Session 002 (raw).md %%
 
-# Session 002 - The Punishment
+# Session 002 - The Mausoleum of Brook Hollow
 
-> [!abstract] Ελληνικά → [[Συνεδρία 002 - Η Τιμωρία]]
+> [!abstract] Ελληνικά → [[Συνεδρία 002 - Το Μαυσωλείο του Μπρουκ Χόλοου]]
 
 ## Recap
 The party arrived in a deserted Brook Hollow. The village had been damaged and overrun by zombies with strange black marks on their rotting bodies, and there was no trace of life. The place, its buildings and almost everything else were covered in materialised shadow, like black stone tentacles spread over the village (DM). Selina sensed something wrong: *"I feel that a piece of the Shadowlands has come here as a materialised shadow."* The undead they had fought were not exactly dead.
@@ -124,7 +124,7 @@ At last the party entered a large, circular chamber with an altar in the middle.
 - None reported.
 
 ## Title suggestions
-**The Punishment** (Azhyra's player) · The Mission of Pastor Lia (Ezariel's player) · Το Μαυσωλείο του Μπρουκχόλοου / The Mausoleum of Brook Hollow (DM)
+The Punishment (Azhyra's player) · The Mission of Pastor Lia (Ezariel's player) · **Το Μαυσωλείο του Μπρουκ Χόλοου / The Mausoleum of Brook Hollow** (DM)
 
 ## Links
 - Campaign: [[A New Beginning]] · [[Campaigns]]

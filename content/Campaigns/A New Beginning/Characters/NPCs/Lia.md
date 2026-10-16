@@ -25,7 +25,7 @@ In Session 2 the party found her in the Temple of Torm, turned into a zombie and
 
 ## Appearances
 - [[Session 001 - A New Beginning]]: mentioned: the party is sent to find out what happened to her
-- [[Session 002 - The Punishment]]: her note and the village journal are found
+- [[Session 002 - The Mausoleum of Brook Hollow]]: her note and the village journal are found
 
 ## Links
 - [[A New Beginning]] · [[Selina]] · [[Azhyra]] · [[Lady Lavern]]
