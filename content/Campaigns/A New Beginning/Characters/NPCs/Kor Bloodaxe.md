@@ -29,7 +29,7 @@ The party does not have the Shadow Longsword: it was not on the altar when they 
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 002 - The Punishment]]: arrives as Father Arias; revealed as Kor Bloodaxe, servant of the Prophet
+- [[Session 002 - The Mausoleum of Brook Hollow]]: arrives as Father Arias; revealed as Kor Bloodaxe, servant of the Prophet
 %% /auto:appearances %%
 
 ## Links

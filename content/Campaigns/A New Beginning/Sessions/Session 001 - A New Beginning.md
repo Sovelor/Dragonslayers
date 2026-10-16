@@ -117,4 +117,4 @@ Night fell in the desert, and the party took shelter in an abandoned watchtower 
 
 ## Links
 - Campaign: [[A New Beginning]] · [[Campaigns]]
-- Next: [[Session 002 - The Punishment]]
+- Next: [[Session 002 - The Mausoleum of Brook Hollow]]
