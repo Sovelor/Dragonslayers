@@ -8,8 +8,10 @@ tags:
   - character
   - npc
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Characters/NPCs/Lady Lavern"
 ---
 %% Sources (private): DM Desk answer to Q14 (2026-10-08); A New Beginning session answers. %%
 
@@ -30,4 +32,4 @@ Ten years after the saga, Lavern leads as High Lady of the Brotherhood of Light.
 - [[Session 009 - Echoes, the Road Back|NB · Session 009 - Echoes, the Road Back]]: through [[Loroves]], recalls Selina to the Belmont Castle-State; the Portal Gate of Atar is approved *(mentioned)*
 
 ## Links
-- [[Campaigns]] · [[Lavern]] *(saga)* · [[A New Beginning]]
+- [[Intertwined Paths]] · [[Lavern]] *(saga)* · [[A New Beginning]]

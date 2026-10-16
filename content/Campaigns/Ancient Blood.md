@@ -1,5 +1,5 @@
 ---
-title: "Ancient Blood"
+title: "C2.2 · Ancient Blood"
 campaign: Ancient Blood
 lang: en
 translation: "[[Αρχαίο Αίμα]]"
@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-# Ancient Blood
+# C2.2 · Ancient Blood
 
 > [!abstract] Ελληνικά → [[Αρχαίο Αίμα]]
 

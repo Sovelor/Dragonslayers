@@ -7,8 +7,10 @@ tags:
   - moc
   - faction
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Organizations"
 ---
 
 # Organizations
@@ -22,4 +24,4 @@ The great organizations of the world of **Threads of Fate**. They are not tied t
 - [[Edge of Banishment]]: the Order's secret elite group, founded by Sovelor and now led by Loroves.
 
 ## Links
-- [[Campaigns]]
+- [[Intertwined Paths]]

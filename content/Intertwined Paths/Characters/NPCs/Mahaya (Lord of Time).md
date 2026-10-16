@@ -9,10 +9,11 @@ tags:
   - npc
   - deity
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
 movedFrom:
   - "Campaigns/Shared/Characters/Mahaya (Lord of Time)"
+  - "Campaigns/Shared/Characters/NPCs/Mahaya (Lord of Time)"
 ---
 
 # Mahaya (Lord of Time)
@@ -31,4 +32,4 @@ Appeared to [[Nenya]] in a vision when she touched the [[Hourglass of Time]], be
 - [[Session 013 - The Vander Legacy|AB · Session 013 - The Vander Legacy]]: appears to Nenya in a vision and chooses her
 
 ## Links
-- [[Campaigns]] · [[Hourglass of Time]] · [[Nenya]] · [[Mahaya]] *(saga)*
+- [[Intertwined Paths]] · [[Hourglass of Time]] · [[Nenya]] · [[Mahaya]] *(saga)*

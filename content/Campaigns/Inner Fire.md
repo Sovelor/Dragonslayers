@@ -1,5 +1,5 @@
 ---
-title: "Inner Fire"
+title: "C2.3 · Inner Fire"
 campaign: Inner Fire
 lang: en
 translation: "[[Εσωτερική Φωτιά]]"
@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-# Inner Fire
+# C2.3 · Inner Fire
 
 > [!abstract] Ελληνικά → [[Εσωτερική Φωτιά]]
 

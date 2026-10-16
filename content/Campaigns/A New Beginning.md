@@ -1,5 +1,5 @@
 ---
-title: "A New Beginning"
+title: "C2.4 · A New Beginning"
 campaign: A New Beginning
 lang: en
 translation: "[[Μια Νέα Αρχή]]"
@@ -11,7 +11,7 @@ tags:
   - lang/en
 ---
 
-# A New Beginning
+# C2.4 · A New Beginning
 
 > [!abstract] Ελληνικά → [[Μια Νέα Αρχή]]
 

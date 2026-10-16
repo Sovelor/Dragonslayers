@@ -8,8 +8,10 @@ tags:
   - character
   - npc
   - dnd
-  - shared
+  - intertwined-paths
   - lang/en
+movedFrom:
+  - "Campaigns/Shared/Characters/NPCs/Vincent (Champion of the Balance)"
 ---
 %% Sources (private): DM Desk answer to Q25 (2026-10-10); Vincent's profile, private/Campaigns/Fate-Touched/Character Logs/Vincent Vermilion (raw).md. %%
 
@@ -38,4 +40,4 @@ Ten years after the saga, Vincent serves his wife, the goddess Allalme, as Her C
 - *Old Shadows*: appears as an NPC; the session isn't recorded (DM, 2026-10-10)
 
 ## Links
-- [[Vincent Vermilion]] *(saga)* · [[Allalme Dragonborn]] · [[Old Shadows]] · [[Campaigns]]
+- [[Vincent Vermilion]] *(saga)* · [[Allalme Dragonborn]] · [[Old Shadows]] · [[Intertwined Paths]]
