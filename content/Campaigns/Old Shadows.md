@@ -21,7 +21,7 @@ tags:
 [[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · Aradun · [[Freiderikos]]
 
 ## NPCs
-[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Drugag]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]]
+[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Grukkag Duskmail]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]]
 
 ## Sessions
 - [[Session 001 - Shipwrecked in Unknown Lands]] · 2024-02-24

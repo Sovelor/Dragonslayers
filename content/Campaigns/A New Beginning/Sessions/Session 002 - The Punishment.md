@@ -26,7 +26,7 @@ tags:
 ## Recap
 The party arrived in a deserted Brook Hollow. The village had been damaged and overrun by zombies with strange black marks on their rotting bodies, and there was no trace of life. The place, its buildings and almost everything else were covered in materialised shadow, like black stone tentacles spread over the village (DM). Selina sensed something wrong: *"I feel that a piece of the Shadowlands has come here as a materialised shadow."* The undead they had fought were not exactly dead.
 
-Avoiding the undead, the party hid in **the Swiftfoot Inn**. There they faced the innkeeper, **Ottis Quickfeet**, his sister **Newt Quickfeet** (halfling siblings) and the dwarf **Colbie Strongarm**: all three had become zombies (DM). In the inn they found a note: *"We didn't listen to Lia. She tried to warn us many times. We laughed at her. We trusted his kind face. How wrong we were. The shadow swallowed everything. Everyone in the village is lost. No... not lost. They are trapped here. Forever. The shadow is making us all living dead. It took Colbie too. He gets worse day by day. He is changing too. I must protect Newt. I can't remember how many days we have been down here. I must protect her... I must...."* In Colbie's pocket they found the keys to his smithy; slipping past the undead, they went there and found an exquisite, masterwork **Dwarven warhammer**, which Selina took and equipped (DM).
+Avoiding the undead, the party hid in **the Quickfeet Inn**. There they faced the innkeeper, **Ottis Quickfeet**, his sister **Newt Quickfeet** (halfling siblings) and the dwarf **Colbie Strongarm**: all three had become zombies (DM). In the inn they found a note: *"We didn't listen to Lia. She tried to warn us many times. We laughed at her. We trusted his kind face. How wrong we were. The shadow swallowed everything. Everyone in the village is lost. No... not lost. They are trapped here. Forever. The shadow is making us all living dead. It took Colbie too. He gets worse day by day. He is changing too. I must protect Newt. I can't remember how many days we have been down here. I must protect her... I must...."* In Colbie's pocket they found the keys to his smithy; slipping past the undead, they went there and found an exquisite, masterwork **Dwarven warhammer**, which Selina took and equipped (DM).
 
 Avoiding the zombies, the party searched the village and pieced together what had happened. [[Lia]] had often clashed with the village cleric, **Pastor Darion**: she was far too excitable for his liking. Then he died (Kor murdered him to take his place, DM). Three months later a new cleric arrived, young and charismatic: [[Kor Bloodaxe|Father Arias]]. Lia suspected him of dark practices from the start, but when she tried to warn people she was dismissed and demoted, and Arias often "scolded" her. Within his first months people began to disappear under inexplicable circumstances, while others were sent to dig a tunnel in a mine-like space beneath the church. Lia kept going down there to help, and again she was treated poorly. The party found a note in Lia's hand. She had discovered their hideout in the inn's basement; Ottis and Newt were in danger; she had failed to convince them; all of it was happening because of her; and she had to meet them all that very day and convince them that Arias was not who they thought he was.
 
@@ -40,7 +40,7 @@ At last the party entered a large, circular chamber with an altar in the middle.
 
 **Key beats**
 1. Brook Hollow is deserted, overrun by black-marked zombies and covered in materialised shadow; Selina senses the Shadowlands bleeding in
-2. In the Swiftfoot Inn: Ottis and Newt Quickfeet and Colbie Strongarm, all zombies; the note "We didn't listen to Lia"
+2. In the Quickfeet Inn: Ottis and Newt Quickfeet and Colbie Strongarm, all zombies; the note "We didn't listen to Lia"
 3. Colbie's keys open his smithy: Selina takes a masterwork Dwarven warhammer
 4. The village's story: Lia clashes with the old cleric, who dies; three months later Father Arias arrives; Lia warns the village and is demoted; people vanish and villagers dig a tunnel beneath the church
 5. Lia's note: the hideout under the inn; Ottis and Newt in danger
@@ -53,13 +53,13 @@ At last the party entered a large, circular chamber with an altar in the middle.
 
 > [!warning] Conflicting accounts
 > - **Kor's surname:** "Bladax" (Azhyra's player, Κορ Μπλάνταξ) and "Blantax" (Ezariel's player). The DM's spelling is *Bloodaxe*.
-> - **The journal:** found in the Swiftfoot Inn and written by the villagers about a month earlier (Azhyra's player), or found in the temple, with the last words given to the old cleric (Ezariel's player). The DM's account has the note found in the inn.
+> - **The journal:** found in the Quickfeet Inn and written by the villagers about a month earlier (Azhyra's player), or found in the temple, with the last words given to the old cleric (Ezariel's player). The DM's account has the note found in the inn.
 > - **Otis and Newton:** the players' spellings; the DM names them **Ottis Quickfeet** and **Newt Quickfeet**.
 > - **The sword:** the players say the Prophet gave it to Kor; the DM says her envoy, Mallen the Black, brought it to him a year before.
 
 ## NPCs met
 - [[Kor Bloodaxe|Father Arias / Kor Bloodaxe]]: Pastor Darion's replacement, whom he murdered to take his place (DM); turned to the shadow, served the Prophet; found dead before the altar, petrified in shadow; his wraith is destroyed
-- **Ottis Quickfeet**: halfling innkeeper of the Swiftfoot Inn, Newt's brother; a zombie
+- **Ottis Quickfeet**: halfling innkeeper of the Quickfeet Inn, Newt's brother; a zombie
 - **Newt Quickfeet**: halfling, Ottis's sister; a zombie
 - **Colbie Strongarm**: dwarf blacksmith; a zombie
 - [[Lia]]: priestess of Brook Hollow, an apprentice of Pastor Darion; found as a zombie chained to the altar of the Temple of Torm; her soul is set free
@@ -67,14 +67,14 @@ At last the party entered a large, circular chamber with an altar in the middle.
 - *Mentioned:* **Pastor Darion** (dead) · **the Prophet**: Hecate the Prophet, the same Prophet the party of *[[Old Shadows]]* faces · the **Lady of Shadows**, invoked in Kor's memoirs
 
 ## Places
-- **The Swiftfoot Inn**, with the hideout in its basement
+- **The Quickfeet Inn**, with the hideout in its basement
 - **Colbie Strongarm's smithy**
 - **The Temple of Torm**, its altar desecrated
 - **The church**, and the tunnel dug beneath it
 - **The mausoleum**, the tunnels beneath it, its hidden room "Kor's Lodging", the cells and the circular altar chamber
 
 ## Fights
-- **Three zombies** (Ottis, Newt and Colbie) in the Swiftfoot Inn: easy victory
+- **Three zombies** (Ottis, Newt and Colbie) in the Quickfeet Inn: easy victory
 - **Three zombies chained together** (Lia and two apprentice priests) in the Temple of Torm: hard victory, no losses
 - **A shadow**, Lia's cursed soul, in the Temple of Torm: set free when Elizium burned her body
 - **Five skeletons** buried in the tunnels beneath the mausoleum: easy victory, no losses
@@ -91,9 +91,9 @@ At last the party entered a large, circular chamber with an altar in the middle.
 ## Open threads
 - [x] What happened to Lia? *(Session 1)*: turned into a zombie; her soul was set free
 - [x] Are Ottis and Newt still alive? They had become zombies
-- [ ] Where is the sword now?
+- [ ] Where is the Shadow Longsword now? The party does not have it: it was not on the altar when they arrived, and its whereabouts are unknown (DM)
 - [x] Stop Kor Bloodaxe before his sword holds its souls: Kor was taken by the shadow and his wraith destroyed
-- [ ] The shadow and the Prophet: what entity is coming? Who is the Lady of Shadows?
+- [ ] The shadow and the Prophet: what entity is coming? Who is the Lady of Shadows? The party does not yet know whether she is Shar, who they know died ten years ago at the Battle of Destiny (DM)
 - [ ] What really happened in Brook Hollow?
 - [ ] Report to the Brotherhood of Light about Lia
 

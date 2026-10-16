@@ -55,7 +55,7 @@ Among other things and loot they found the Red Knight's notes: he had tried, and
 
 ## Places
 - **New Keep**
-- **The sect's prison** in the mountain near Lipen: the hot entrance hall with the lava pit, the copper-built level with its murals, the azers' secret room and the domed throne room
+- **The sect's prison** in the mountain called Lipen (the lake, the mountain and the waterfall are all called Lipen): the hot entrance hall with the lava pit, the copper-built level with its murals, the azers' secret room and the domed throne room
 - *Mentioned:* **Brost**, a wealthy city south of **Esmeltaran**
 
 ## Fights

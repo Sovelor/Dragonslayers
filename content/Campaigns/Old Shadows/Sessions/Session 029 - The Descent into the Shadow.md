@@ -24,7 +24,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 029 - Η Κάθοδος στην Σκιά]]
 
 ## Recap
-The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Brindinford. The Incredible Six then went down to the [[Splendarrmornn|Undercity of Splendarrmornn]]. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Shar** a service was being held. [[Drugag]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
+The morning after the Pickaxeson family's reunion, the party had breakfast at the Pickaxeson home and sent the family on to find Soma in Brindinford. The Incredible Six then went down to the [[Splendarrmornn|Undercity of Splendarrmornn]]. Arta went to visit her father at **Bjorn's Bakery**, where she had grown up believing he and her mother were bakers, but the bakery had been closed for a long time. At the **Church of Shar** a service was being held. [[Grukkag Duskmail]], the High Priest of the Shadow and Arta's godfather, received them and opened the way into the temple's inner sanctum.
 
 Through a secret door, the party descended a long, dark staircase, possibly into the Shadowfell. There was only silence, darkness and emptiness; even the dwarves felt uneasy inside the mountain, and the door closed silently behind them, leaving only the way forward. At the bottom they fought the **Shadow Mastiffs**, the first guardians of the next door, and then two **shadow oozes**, the tunnels' scavengers. Freiderikos pulled half the party out of an ooze with *Regroup* before they blasted it apart.
 
@@ -41,7 +41,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 **Key beats**
 1. Morning after the Pickaxeson reunion; the family sent to find Soma in Brindinford
 2. The Undercity of Splendarrmornn: Bjorn's Bakery, Arta's childhood home, long closed
-3. Service at the Church of Shar; High Priest Drugag, Arta's godfather, opens the way to the inner sanctum
+3. Service at the Church of Shar; High Priest Grukkag Duskmail, Arta's godfather, opens the way to the inner sanctum
 4. Long descent down a dark staircase, possibly into the Shadowfell
 5. Fights with the Shadow Mastiffs and two shadow oozes (Freiderikos's *Regroup*)
 6. Underdark cave: Arta remembers coming here with her mother
@@ -57,7 +57,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 > - **The four figures:** Thoriel's player has them already waiting inside when the door opened; the DM has them following the party down the stairs after the coin drop. The DM's account is used.
 
 ## NPCs met
-- [[Drugag]]: High Priest of the Shadow, Arta's godfather
+- [[Grukkag Duskmail]]: High Priest of the Shadow, Arta's godfather
 - [[Hecate the Prophet]]: took the shadow from Akis, her last component
 - [[Bjorn Brottdottir]]: Arta's father, standing with the Prophet
 - [[Thalri]]: Petros's sister, standing with the Prophet

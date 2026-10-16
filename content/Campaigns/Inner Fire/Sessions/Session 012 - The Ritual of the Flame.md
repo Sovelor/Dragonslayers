@@ -32,7 +32,7 @@ They climbed back to the second floor and decided to see what was hidden in the 
 The fight began with **[[Lenor|Lenόre]]**, for the first time decisive and sure of herself, stepping forward to hurl a ray of lightning at a demon. In Jack's room hung a naked man, hooked all over his body and chained from the ceiling, gagged and trying to ask for help. With great effort the party took him down and ungagged him, and Nyra gave him a healing potion to close his wounds a little. They told him to head for the servants' quarters and leave with the other servants they had smuggled out; he thanked them and went. He was **Varros**, the husband of **Maria**, a servant of the manor whom the Company had once rescued (DM).
 The Company also defeated the demonic **Herlequins** on the second floor, with difficulty (Lenόre's player calls them the Herlequin butlers, creatures of the Abyss; the head Herlequin begged *"Lets not resolve to violence"*). The party also made a last stop at the stables to save the final two servant boys: for the first time **Lenόre** tried to intimidate the children in order to help them, and succeeded, but soon felt guilty. Then they discovered that behind everything that had happened was **Lady Elzbeth**, allied with the priest **Bergen**, and defeated Lord and Lady Staufen in their private bedchamber while the couple were at prayer. The fight was hard: Lord Staufen tried to protect the deranged Lady Elzbeth, who seemed unwilling to fight. Lady Elzbeth fell and burned in an unexpected fire that suddenly broke out on her, and the party knocked the Lord unconscious and chained him to his armchair.
 
-They went deeper, down below the chapel (Lenόre's player: through a hidden hatch in the chapel) through the catacombs, where **Bergen** was performing the **Ritual of the Flame** with the six possessed children of the Staufens, trying to corrupt **Helmut** too. [[Grafin]] told him: *"We didn't come here to talk. We came to stop you!"* The Griffon Company interrupted the ritual, saving Helmut and using several tactics to exploit the weaknesses of the possessed children. Helmut, the young paladin, then fought at their side against his possessed siblings. In the fight all the siblings died except Helmut (Lenόre's player). Bergen used the corrupted souls of the children to raise himself as the **Chosen of the Flame**, changing into something no longer human and ready to collect the final soul, that of the last child; the ritual was only partly completed. The final battle with Bergen begins next session.
+They went deeper, down below the chapel (Lenόre's player: through a hidden hatch in the chapel) through the catacombs, where **Bergen** was performing the **Ritual of the Flame** with the six possessed children of the Staufens, trying to corrupt **Helmut** too. [[Grafin]] told him: *"We didn't come here to talk. We came to stop you!"* The Griffon Company interrupted the ritual, saving Helmut and using several tactics to exploit the weaknesses of the possessed children. Helmut, the young paladin, was released from his chains and joined the group against Bergen (DM); he fought at their side against his possessed siblings. In the fight all the siblings died except Helmut (Lenόre's player). Bergen used the corrupted souls of the children to raise himself as the **Chosen of the Flame**, changing into something no longer human and ready to collect the final soul, that of the last child; the ritual was only partly completed. The final battle with Bergen begins next session.
 
 **Key beats**
 1. Rosalyn's study: the family tree and documents on Elzbeth's pact with the flame and the seven vessels
@@ -47,12 +47,11 @@ They went deeper, down below the chapel (Lenόre's player: through a hidden hatc
 > [!warning] Conflicting accounts
 > - **Whose study:** Rosalyn's study (Nyra's player) or Lady Elzbeth's old study (Lenόre's player, who places the diary there). The DM: it is Rosalyn's study now, and was the Staufens' study before.
 > - **Helmut's room:** shared with Eric (the DM's and Nyra's lists) or taken by Chris (Lenόre's player).
-> - **Helmut's fate:** saved from the ritual (the DM), yet an open quest to save him, as Bergen is ready to collect his soul (Lenόre's player).
 
 ## NPCs met
 - **Bergen**: the priest allied with Lady Elzbeth; rises as the Chosen of the Flame
 - **Lady Elzbeth** and **Lord Staufen**: defeated in their bedchamber
-- **Helmut**: the young paladin of Tyr, saved from the ritual of soul corruption; fought beside the party
+- **Helmut**: the young paladin of Tyr, saved from the ritual of soul corruption; released from his chains, he joined the group against Bergen and fought beside the party
 - The six possessed children of the Staufens: **Eric**, **Chris**, **Rosalyn**, **Amalinda**, **Leanor** and **Jack** (Helmut shared a room with Eric)
 - **Varros**: a slave of Jack Staufen's diet, found tortured and mutilated in Jack's chamber; the husband of **Maria**
 - *Mentioned:* **Maria**, a servant of Staufen Manor and Varros's wife. The manor's **Black-Cloaked Soldiers** had taken her prisoner and one of them attacked her; the Griffon Company heard her muffled screams and helped her kill her captors (DM)
@@ -85,7 +84,7 @@ They went deeper, down below the chapel (Lenόre's player: through a hidden hatc
 - [ ] The final battle with the Chosen of the Flame, next session
 - [ ] Bergen has become the Chosen of the Flame after partly completing the Ritual
 - [x] Helmut saved from the corruption of his soul
-- [ ] Save Helmut from Bergen, who is ready to collect the last soul (Lenόre's player)
+- [x] Helmut released from his chains; he joins the group against Bergen, who is ready to collect the last soul
 - [ ] The Recreation Room, to be explored next session
 
 ## Best moments & quotes
