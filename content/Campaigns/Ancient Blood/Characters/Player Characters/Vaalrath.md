@@ -47,6 +47,8 @@ The party found him trapped in a magic book. He has the mysterious power of retu
 
 He first appeared in the Hatchery, summoned out of a magic book. He had overheard [[Aurora Drabek]] and another woman say they had found a way to create powerful mages by mixing elf and demon blood. %% src:AB-S002 d4 %%
 
+[[Aurora Drabek]] had imprisoned him in the book when she caught him spying on her organisation, the [[Daemonfey]]; grateful to the party for freeing him, he joined them. %% src:AB-S002b d5 %%
+
 ## Goals & fears
 **Goal:** to learn everything about the Life-giving Prince. **Fear:** not learning everything about the Life-giving Prince.
 

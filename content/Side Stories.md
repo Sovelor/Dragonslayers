@@ -20,7 +20,7 @@ Each side story gets a code, **S1, S2, …**, in the order it was played, just a
 ## Side stories
 | Code | Side story | Ελληνικά | Kind | When |
 |---|---|---|---|---|
-| | *No side stories yet.* | | | |
+| S1 | [[The Iron Hand of Progress]] | Το Σιδερένιο Χέρι της Προόδου | One-shot | Played 2025-09-13 · set in the time of the four campaigns, before OS Session 29 |
 
 ## Links
 - [[Campaigns]] · [[Intertwined Paths]] · [[Extras]]

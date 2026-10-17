@@ -96,7 +96,7 @@ The most enigmatic of the forests Allalme blessed; the Circle's druids believe n
 Wardens: **Alina Tevena**, a human priestess of Allalme and seer of the Lunar Omens, and **Elias Silvertongue**, a human mystic.
 
 ### 9. Wood of Sharp Teeth (Δάσος των Κοφτερών Δοντιών)
-The wildest, most dangerous and most merciless of the forests the Circle protects. Here nature is not a peaceful mother but a hunter, a place where blood, the hunt and survival are part of the natural order. Many young druids struggle to understand why Allalme blessed so violent a place. The elders' answer is simple (see Quotes). When Allalme planted the ninth Sacred Willow, the forest's creatures gathered around it instead of destroying it, a sign to the druids that even nature's wildest side recognises the divine balance.
+The wildest, most dangerous and most merciless of the forests the Circle protects. Here nature is not a peaceful mother but a hunter, a place where blood, the hunt and survival are part of the natural order. Many young druids struggle to understand why Allalme blessed so violent a place. The elders' answer is simple. When Allalme planted the ninth Sacred Willow, the forest's creatures gathered around it instead of destroying it, a sign to the druids that even nature's wildest side recognises the divine balance.
 
 Wardens: **Rowan Grayman** and his wife **Helgata Grayman**, two human barbarians of the Stag Clan.
 
@@ -108,6 +108,11 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 ## Quotes
 > «Η Ισορροπία δεν είναι μόνο η ζωή. Είναι και ο θάνατος που τρέφει τη ζωή.»
 > *"Balance is not only life. It is also the death that feeds life."* (the Circle's elders, on the Wood of Sharp Teeth)
+
+## Appearances
+%% auto:appearances %%
+- [[Session 002 - A Strange Encounter|AB · Session 002 - A Strange Encounter]]: Irewin confesses that she and Belak, Wardens of the Misty Forest's Sacred Willow, broke away from the Circle; its Council had sent Melda's team after them
+%% /auto:appearances %%
 
 ## Links
 - [[Organizations]] · [[Intertwined Paths]] · [[Allalme Dragonborn]] · [[Atropos]] *(saga)*

@@ -26,6 +26,7 @@ A human fighter who was travelling along the foothills of the Troll Mountains wh
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: meets Liga on the road; frees Melda and Nenya
+- [[Session 002 - A Strange Encounter]]: bathes by Irewin's house, watched by a lizard
 %% /auto:appearances %%
 
 ## Links
