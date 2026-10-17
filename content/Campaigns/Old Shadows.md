@@ -21,10 +21,11 @@ tags:
 [[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · Aradun · [[Freiderikos]]
 
 ## NPCs
-[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Grukkag Duskmail]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]]
+[[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Grukkag Duskmail]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]] · [[Lycast]] · [[Skrom]]
 
 ## Sessions
 - [[Session 001 - Shipwrecked in Unknown Lands]] · 2024-02-24
+- [[Session 002 - The Pearl Lighthouse]] · 2024-04-06
 - [[Session 029 - The Descent into the Shadow]] · 2026-06-27
 
 ## Locations

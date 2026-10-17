@@ -26,6 +26,7 @@ A half-orc barbarian who met [[Ulf the Northman]] on the road through the Forest
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: meets Ulf on the road; tries to pry an everburning torch off the wall
+- [[Session 002 - A Strange Encounter]]: rests in Aurora Drabek's chamber when Vaalrath appears
 %% /auto:appearances %%
 
 ## Links

@@ -60,6 +60,7 @@ To learn about herself.
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Shipwrecked in Unknown Lands]]: survives the wreck of The Dragon Turtle with her brother Aradun; her holy power strikes the locathah as a Divine Smite
+- [[Session 002 - The Pearl Lighthouse]]: finishes the grick, turns the undead and helps subdue the demilich
 - [[Session 029 - The Descent into the Shadow]]: no answer from her goddess in the tunnels; confronts the Prophet
 %% /auto:appearances %%
 

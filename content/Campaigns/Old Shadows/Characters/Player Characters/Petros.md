@@ -50,6 +50,8 @@ His travels brought him aboard *The Dragon Turtle*, which was wrecked (his profi
 > **Rumours:** he is a dwarven wizard who shaved his beard to pass as a human; his rat is the real wizard and the dwarf only carries the spellbook; he was once someone important but becomes interested in the weather when asked; he lights four candles every night and whispers names into the dark; his familiar used to be white; he is never afraid of dying, only of being the last one alive; when things turn desperate the laughter stops and a different dwarf takes his place; he is not running from his past but waiting for it to catch up.
 > **Open mysteries:** who sent the map and why was he chosen; what Hecate will do with the darkness she took from Akis; what has become of Thalri and how deep she has fallen under the Keepers of the Secrets; who in Splendarrmornn knows Rockgar is alive; whether Petros follows Mystra's path or his faith blinds him to darker powers; and, if Rockgar died in Tunnel Five, who exactly is Petros Axinakis?
 
+In Session 2 he officially became a member of the party. %% src:OS-S002 d4 %%
+
 ## Goals & fears
 - To uncover the truth behind the catastrophe of Tunnel Five: who sent the map, what lay beyond the false door, and whether the darkness was ever truly contained.
 - To protect his companions and prevent others from suffering the consequences of his mistakes.
@@ -77,8 +79,11 @@ His travels brought him aboard *The Dragon Turtle*, which was wrecked (his profi
 > "Fate, my friends, is a tapestry woven by Mystra herself. We may not choose the threads we're given, but by the gods, we can choose what we weave with them!"
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - Shipwrecked in Unknown Lands]]: another castaway of *The Dragon Turtle*, he follows the five survivors to their camp that night and joins them
+- [[Session 002 - The Pearl Lighthouse]]: officially joins the party; his tricks win the lighthouse and destroy the demilich (MVP)
 - [[Session 029 - The Descent into the Shadow]]: faces the ghosts of Tunnel 5; Hecate takes the shadow from Akis
+%% /auto:appearances %%
 
 ## Gallery
 ![[Characters - Petros 2.png|400]]
