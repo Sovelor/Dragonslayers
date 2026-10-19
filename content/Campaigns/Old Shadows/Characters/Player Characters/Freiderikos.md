@@ -80,7 +80,10 @@ He has never had much reason to be afraid. His greatest fear is failing those wh
 > — his motto
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: rescues half the party from a shadow ooze with *Regroup*
+- [[Session 030 - Shar is Dead!]]: new lightning powers against the Elder Shadow Elemental; grows blue dragon scales under Thoriel's Barkskin
+%% /auto:appearances %%
 
 ## Gallery
 ![[Characters - Freiderikos 2.png|400]]

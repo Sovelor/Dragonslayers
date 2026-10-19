@@ -17,14 +17,15 @@ tags:
 
 > [!abstract] Ελληνικά → [[Σήραγγα 5]]
 
-**Role:** Mine tunnel where 50 dwarf miners died; door to the Shadow Altar
+**Role:** Mine tunnel where 49 dwarf miners died; door to the Shadow Altar
 
 ## Summary
-The site of the Collapse, in which 50 dwarf miners died under the supervision of [[Petros]], the Tunnel Foreman. In Session 29 the party reached its sealed door, marked with a broken wooden sign, **TUNNEL 5**. Petros called each of the 50 names and a ghostly face appeared for every one, screaming at him. Behind the door the party found the [[Shadow Altar]].
+The site of the Collapse, in which 49 dwarf miners died under the supervision of [[Petros]], the Tunnel Foreman. In Session 29 the party reached its sealed door, marked with a broken wooden sign, **TUNNEL 5**. Petros called each of the 49 names and a ghostly face appeared for every one, screaming at him. Behind the door the party found the [[Shadow Altar]].
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 029 - The Descent into the Shadow]]: the ghosts of the 50 miners; Petros, Aya and Thoriel argue at its sealed door
+- [[Session 029 - The Descent into the Shadow]]: the ghosts of the 49 miners; Petros, Aya and Thoriel argue at its sealed door
+- [[Session 030 - Shar is Dead!]]: the 49 cursed dwarves are purified and forgive Rockgar
 %% /auto:appearances %%
 
 ## Links

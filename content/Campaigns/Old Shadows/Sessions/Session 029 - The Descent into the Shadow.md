@@ -30,7 +30,7 @@ Through a secret door, the party descended a long, dark staircase, possibly into
 
 The tunnels opened into a magnificent Underdark cave of bioluminescent mushrooms and plants. While Petros grew more uneasy, **Arta** felt she had been there before: her mother used to bring her here when she was very young, to a sacred, beloved place of prayer, and told her stories and songs and to be careful.
 
-The final tunnel turned each of them inward. Thoriel saw the animals she had failed to save and called on the Lady of the Forest in anguish and anger. Aya felt nothing at all, as if her goddess could not reach her there. Petros faced his past: the ghosts of the **50 dwarf miners** who died under his supervision as Tunnel Foreman in the [[Tunnel No. 5|Collapse of Tunnel No. 5]]. He called each name, and with every name a ghostly face appeared, screaming at him. Petros fell; Thoriel helped him up and they argued, until the ghosts finally stepped aside.
+The final tunnel turned each of them inward. Thoriel saw the animals she had failed to save and called on the Lady of the Forest in anguish and anger. Aya felt nothing at all, as if her goddess could not reach her there. Petros faced his past: the ghosts of the **49 dwarf miners** who died under his supervision as Tunnel Foreman in the [[Tunnel No. 5|Collapse of Tunnel No. 5]]. He called each name, and with every name a ghostly face appeared, screaming at him. Petros fell; Thoriel helped him up and they argued, until the ghosts finally stepped aside.
 
 At the sealed door marked with a broken wooden sign, **TUNNEL 5**, Aya and Thoriel blocked the way and demanded that Petros explain what they were doing there with no plan, walking into a trap holding the very component the Prophet was after. Petros insisted they had to press on to save the city. Aya prayed but her goddess did not answer; Thoriel, for the first time, felt **Sylvanus** beside her, a warm hand on her shoulder strengthening her magic.
 
@@ -45,7 +45,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 4. Long descent down a dark staircase, possibly into the Shadowfell
 5. Fights with the Shadow Mastiffs and two shadow oozes (Freiderikos's *Regroup*)
 6. Underdark cave: Arta remembers coming here with her mother
-7. Visions in the last tunnel: Thoriel's lost animals, Aya's silent goddess, the 50 ghosts of Tunnel No. 5
+7. Visions in the last tunnel: Thoriel's lost animals, Aya's silent goddess, the 49 ghosts of Tunnel No. 5
 8. Aya and Thoriel confront Petros at the door; Sylvanus reaches Thoriel
 9. The Shadow Altar and the Sword of Garagos; a gold coin rolls down the stairs
 10. Hecate, Thalri, Bjorn Brottdottir and Sol' Goleth arrive: "there is no prophecy for you"
