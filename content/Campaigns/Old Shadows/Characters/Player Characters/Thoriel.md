@@ -74,6 +74,7 @@ She wants, more than anything, to find her parents and go on an adventure with t
 - [[Session 001 - Shipwrecked in Unknown Lands]]: survives the wreck, travelling alone to learn what happened to her parents; fights the locathah as a jaguar
 - [[Session 002 - The Pearl Lighthouse]]: destroys the mimic with Aya and helps subdue the demilich
 - [[Session 029 - The Descent into the Shadow]]: relives her lost animals; feels Sylvanus for the first time
+- [[Session 030 - Shar is Dead!]]: helps cleanse the Shadow Altar, collects six new mushroom species; her Barkskin gives Freiderikos blue dragon scales
 %% /auto:appearances %%
 
 ## Links

@@ -23,7 +23,7 @@ movedFrom:
 
 **Role:** Party member (she/her) · druid of [[Allalme Dragonborn|Allalme]] · cousin of [[Seraphiel]]
 
-**Race:** Moon elf · **Class:** Druid (level 5) · **Pronouns:** she/her · **Age:** 55 · **Alignment:** Chaotic Good · **Home:** Evereska · **Languages:** Druidic, Elvish, Common, Draconic
+**Race:** Moon elf · **Class:** Druid (level 5) · **Pronouns:** she/her · **Age:** 24 · **Alignment:** Chaotic Good · **Home:** Evereska · **Languages:** Druidic, Elvish, Common, Draconic
 
 ## Summary
 A moon elf druid of [[Allalme Dragonborn|Allalme]] from the lost city of **Evereska**: decisive, cheerful and always ready to help, and the cousin and closest friend of [[Seraphiel]].

@@ -52,6 +52,8 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 > **Rumours:** she once worked as an exterminator beneath the Lower City, and the monsters were generally more frightened of her than she of them; her rothe has better judgement than most dwarves; she was sent from Splendarrmornn to bring a murderer to justice; she once bore a strange tattoo on her left shoulder that would not let her speak certain truths, gone now, though some wonder whether the silence went with it; she belongs to an ancient order of dwarves who guard terrible secrets beneath the mountain; her father is a powerful man in Splendarrmornn whom nobody wants to discuss; she trusts her rothe more than the gods.
 > **Open mysteries:** who her mother was and what happened to her; why she remembers so little of her childhood, and whether her memories were taken; what Björn knows about his wife's disappearance and why he will not speak of her; whether Björn ever truly loved her or she was always an instrument of Shar and the Keepers; the true purpose of the Keepers and the forbidden knowledge beneath Splendarrmornn; whether other influences of the Keepers remain in her though the tattoo is gone; and how much of her life, and how many of her choices, were shaped by them.
 
+The climbing wall beneath the Church of Shar was a trial for the Keepers' trainees, which Arta always won; she also knew the poisoned White Tunnel. The Keepers **Shaldi** and **Kirkold**, guards of the passage, were her companions during her training (Session 30). %% src:OS-S030 d12 %%
+
 ## Goals & fears
 - To uncover the truth of her forgotten childhood, recover her lost memories and learn what happened to her mother.
 - To confront Björn: why he hid so much, what part the Keepers played in her life, and whether anything of the father she once knew remains under his devotion to Shar.
@@ -83,7 +85,10 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 > — Arta's motto
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: visits her closed childhood home; remembers the sacred cave; her father asks her to join him
+- [[Session 030 - Shar is Dead!]]: guides the Six through the Keepers' trials; finds that the statue of Shar in Ereg Tal's tomb has been replaced
+%% /auto:appearances %%
 
 ## Gallery
 ![[Characters - Arta 2.png|400]]

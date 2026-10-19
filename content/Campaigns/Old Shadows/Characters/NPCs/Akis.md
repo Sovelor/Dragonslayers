@@ -69,7 +69,10 @@ When Rockgar abandoned Splendarrmornn, Akis went with him and was the only compa
 > — Akis's catchphrase
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: loses his shadow to the Prophet
+- [[Session 030 - Shar is Dead!]]: carried across the White Tunnel by Thoriel, after losing his shadow
+%% /auto:appearances %%
 
 ## Links
 - [[Old Shadows]] · [[Petros]] · [[Hecate the Prophet]] · [[Arta]] · [[Aya]] · [[Thoriel]] · [[Freiderikos]] · [[Splendarrmornn]] · [[Tunnel No. 5]]
