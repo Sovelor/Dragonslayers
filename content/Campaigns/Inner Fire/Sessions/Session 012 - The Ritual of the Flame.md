@@ -88,8 +88,7 @@ They went deeper, down below the chapel (Lenόre's player: through a hidden hatc
 - [ ] Bergen has become the Chosen of the Flame after partly completing the Ritual
 - [x] Helmut saved from the corruption of his soul
 - [x] Helmut released from his chains; he joins the group against Bergen, who is ready to collect the last soul
-- [ ] The Recreation Room, to be explored next session
-- [ ] A sealed door with a voice like a jester's behind it, not explored yet (Grafin's and Meive's players)
+- [ ] The Recreation Room, to be explored next session: behind its sealed door, a voice like a jester's (Grafin's and Meive's players)
 - [ ] Question Helmut's father, Lord Staufen, about what has happened here (Grafin's and Meive's players)
 
 ## Best moments & quotes

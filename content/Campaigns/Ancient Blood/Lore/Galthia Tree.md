@@ -24,7 +24,7 @@ A tree that [[Irewin]] and her husband **Belak** came to look after. At the summ
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 002 - A Strange Encounter]]: Irewin and Belak look after it; fruit of life and death at the solstices
+- [[Session 002 - The Living Book and the Druid]]: Irewin and Belak look after it; fruit of life and death at the solstices
 - [[Session 003 - The Betrayal]]: corrupted Belak, who wanted it for himself
 %% /auto:appearances %%
 

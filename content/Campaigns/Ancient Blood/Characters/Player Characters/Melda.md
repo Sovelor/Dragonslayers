@@ -23,10 +23,10 @@ movedFrom:
 
 **Role:** Party member (she/her) · druid of [[Allalme Dragonborn|Allalme]] · cousin of [[Seraphiel]]
 
-**Race:** Moon elf · **Class:** Druid (level 5) · **Pronouns:** she/her · **Age:** 24 · **Alignment:** Chaotic Good · **Home:** Evereska · **Languages:** Druidic, Elvish, Common, Draconic
+**Race:** Elf of mixed star-elf and moon-elf lineage · **Class:** Druid (level 5) · **Pronouns:** she/her · **Age:** 24 · **Alignment:** Chaotic Good · **Home:** Evereska · **Languages:** Druidic, Elvish, Common, Draconic
 
 ## Summary
-A moon elf druid of [[Allalme Dragonborn|Allalme]] from the lost city of **Evereska**: decisive, cheerful and always ready to help, and the cousin and closest friend of [[Seraphiel]].
+A druid of [[Allalme Dragonborn|Allalme]], of mixed star-elf and moon-elf lineage, from the lost city of **Evereska**: decisive, cheerful and always ready to help, and the cousin and closest friend of [[Seraphiel]].
 
 Flew back with [[Vaalrath]] to inform [[Lavinia Vander]]. Hearing that her cousin was in town, she sought her out and reunited with [[Seraphiel]], who then joined the party.
 
@@ -54,7 +54,7 @@ Melda completed her training, but she was heartbroken, because her teacher had v
 
 Belak was her teacher and mentor in the [[Circle of the Moon]]. On the orders of the Council of the Circle of the Moon she led a team to bring back Belak and [[Irewin]], who had betrayed the Circle; the team was defeated, and the two handed her over to the [[Daemonfey]]. %% src:AB-S002b d4 %%
 
-She led the team [[Allalme Dragonborn|Allalme]] sent to investigate **Belak** and the **Galthia Tree**. The team was defeated; her three companions were taken to the **Dark Fortress** and Belak handed her over to **Aurora Drabek**. %% src:AB-S003 d6 %%
+She led the team [[Allalme Dragonborn|Allalme]] sent to investigate **Belak** and the **Galthia Tree**. The team was defeated; her three companions were taken to the [[Sunless Citadel]] and Belak handed her over to **Aurora Drabek**. %% src:AB-S003 d6 %%
 
 She woke in a room, with a human and a half-orc looking at her. She was freed from a magical metal circlet in the Hatchery's birthing room, full of rage and impatient to leave, with no memory of how she got there. Her name was in the [[Book of Coupling]], beside **Gorgomorz**, with the result left blank. %% src:AB-S001 d18 %%
 
@@ -68,7 +68,7 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 ## Relationships
 - [[Seraphiel]]: her cousin (their mothers were sisters) and best friend; they grew up together. Family, an ally and the most important person in her life.
 - **Belak**: her teacher and mentor, and a traitor.
-- **The Seer**: an enemy who must be destroyed.
+- **The Seer**, the **Blood Seer**: an enemy who must be destroyed.
 - [[Nenya]], [[Axel]] and [[Liga]]: allies and friends.
 - [[Ulf the Northman]]: an ally, her saviour and a friend.
 - [[Jareth]]: an ally.
@@ -90,7 +90,7 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: a star elf druid, member of the first party
-- [[Session 002 - A Strange Encounter]]: remembers her old group; an animal tells her the forest is sick
+- [[Session 002 - The Living Book and the Druid]]: remembers her old group; an animal tells her the forest is sick
 - [[Session 003 - The Betrayal]]: Irewin turns out to know about her past
 - [[Session 013 - The Vander Legacy]]: reunited with her cousin Seraphiel
 %% /auto:appearances %%

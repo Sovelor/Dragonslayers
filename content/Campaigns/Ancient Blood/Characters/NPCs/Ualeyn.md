@@ -1,8 +1,8 @@
 ---
-title: "Ualein"
+title: "Ualeyn"
 campaign: Ancient Blood
 lang: en
-translation: "[[Ουάλειν]]"
+translation: "[[Ουάλεϊν]]"
 status: Unknown
 tags:
   - character
@@ -14,21 +14,21 @@ tags:
 
 %% Created from session delta AB-S003 d4 %%
 
-# Ualein
+# Ualeyn
 
-> [!abstract] Ελληνικά → [[Ουάλειν]]
+> [!abstract] Ελληνικά → [[Ουάλεϊν]]
 
 **Role:** Lizardfolk druid, follower of Belak
 
 ## Summary
-A lizardfolk druid and follower of **Belak**. The party fought her in the swamps of the Plain of Ash.
+A lizardfolk druid and follower of **Belak**.
 
 She is Belak's apprentice: she and her band of lizardfolk have orders from Belak to watch over [[Irewin]] and protect her. She led an ambush on the party at Irewin's home while they rested. %% src:AB-S002b d2 %%
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 002 - A Strange Encounter]]: leads a lizardfolk ambush at Irewin's home; Belak's apprentice
-- [[Session 003 - The Betrayal]]: fought in the swamps of the Plain of Ash
+- [[Session 002 - The Living Book and the Druid]]: leads a lizardfolk ambush at Irewin's home; Belak's apprentice
+- [[Session 003 - The Betrayal]]: Melda's player's notes retell the fight at Irewin's home
 %% /auto:appearances %%
 
 ## Links

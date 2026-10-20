@@ -18,10 +18,10 @@ tags:
 
 > [!abstract] Ελληνικά → [[Η συμμορία του Μαύρου Δάσους]]
 
-**Role:** Adventurers who capture people to sell as slaves
+**Role:** Thugs who capture people to sell as slaves
 
 ## Summary
-A gang of adventurers who capture people of every race and sell them as slaves to **Jag**, the deputy sheriff of Banik, who buys whatever he is sold. They set a net trap in the Olsen Forest, and [[Nyra]], [[Meive]] and [[Grafin]] fought them. The party kept one prisoner for information and let him go afterwards. He warned them never to go north of the village along the river.
+A gang of thugs who capture people of every race and sell them as slaves to **Jag**, the deputy sheriff of Banik, who buys whatever he is sold. They set a net trap in the Olsen Forest, and [[Nyra]], [[Meive]] and [[Grafin]] fought them. The party kept one prisoner for information and let him go afterwards. He warned them never to go north of the village along the river.
 
 ## Appearances
 %% auto:appearances %%

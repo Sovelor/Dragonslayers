@@ -23,7 +23,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 001 - Αρχαίο Αίμα, η Αρχή]]
 
 ## Recap
-[[Ulf the Northman]], a human fighter, was travelling along the foothills of the **Troll Mountains**, through the **Forest of the Trolls' Growl**. Coming the other way was [[Liga]], a half-orc barbarian. A huge explosion shook the whole region as the two travellers watched the mountain's rocks burst outwards. Through the smoke a large horned demon came out, killed a cloaked man who was running for his life and threw his body to the ground. It looked towards where the two were hiding, smiled, changed into a human shape, grew wings and flew off in an unknown direction.
+[[Ulf the Northman]], a human fighter, was travelling along the foothills of the **Troll Mountains**, through the **Trollbark Forest**. Coming the other way was [[Liga]], a half-orc barbarian. A huge explosion shook the whole region as the two travellers watched the mountain's rocks burst outwards. Through the smoke a large horned demon came out, killed a cloaked man who was running for his life and threw his body to the ground. It looked towards where the two were hiding, smiled, changed into a human shape, grew wings and flew off in an unknown direction.
 
 Once the shock passed, the two joined forces to see what had happened. At the site of the explosion they found the entrance to a hidden complex inside the mountain. It belonged to a sect that worshipped devilish beings, with a strong presence of **Asmodeus**: the place was full of blood, corpses and rubble, and it was clear a battle had been fought there.
 
@@ -34,7 +34,7 @@ Through a door at the back was a birthing room. On the two central benches, in a
 The four searched deeper. In a summoning area that had been used very recently they fought four **lemures**, and five **zombies** rose from a huge pit of corpses. In a secret chamber of worship, at the sacrificial altar, they faced [[Aurora Drabek]], a god-mad tiefling cleric, with two more lemures. It was a hard fight, and they killed her without getting any answers. They also found Aurora Drabek's journal and a large book written in Infernal, half-translated into Common, about Asmodeus.
 
 **Key beats**
-1. Ulf and Liga meet on the road through the Forest of the Trolls' Growl
+1. Ulf and Liga meet on the road through the Trollbark Forest
 2. The mountain explodes; a demon kills a fleeing man, takes human form and flies away
 3. The hidden complex: a devil-worshipping sect of Asmodeus, after a battle
 4. The Book of Coupling: only two successes, Havi and Vris; Nenya and Melda named in it
@@ -52,7 +52,7 @@ The four searched deeper. In a summoning area that had been used very recently t
 - *The first party:* Ulf the Northman (human fighter) · Liga (half-orc barbarian) · [[Nenya]] (sun elf) · [[Melda]] (star elf druid)
 
 ## Places
-- **The Troll Mountains** and the **Forest of the Trolls' Growl**
+- **The Troll Mountains** and the **Trollbark Forest**
 - [[The Hatchery]]: the hidden complex in the mountain, with its birthing room, summoning area, pit of corpses and sacrificial altar
 
 ## Fights
@@ -100,4 +100,4 @@ The four searched deeper. In a summoning area that had been used very recently t
 
 ## Links
 - Campaign: [[Ancient Blood]] · [[Campaigns]]
-- Next: [[Session 002 - A Strange Encounter]]
+- Next: [[Session 002 - The Living Book and the Druid]]

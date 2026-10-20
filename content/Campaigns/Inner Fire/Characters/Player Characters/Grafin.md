@@ -21,7 +21,7 @@ tags:
 **Role:** Dwarf traveller and spellcaster from Splendarrmornn
 
 ## Summary
-A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on his back to know the world. His thirst for knowledge of arcane magic lets him cast spells, and as a dwarf he is also trained in melee and weapons. He recognised [[Meive]] as a friend he had made on one of his journeys and shielded her when the adventurers surrounded them.
+A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on his back to know the world. His thirst for knowledge of arcane magic lets him cast spells, and as a dwarf he is also trained in melee and weapons. He recognised [[Meive]] as a friend he had made on one of his journeys and shielded her when the thugs surrounded them.
 
 ## Appearances
 %% auto:appearances %%

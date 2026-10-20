@@ -23,7 +23,7 @@ movedFrom:
 **Role:** Druidic circle, the highest order of the faithful of the goddess [[Allalme Dragonborn|Allalme]] · Seat: the Moon Clearing · Leader: Archdruid Lenor Neritoris, the Black Tulip
 
 ## Summary
-The Circle of the Moon (Ο Κύκλος της Σελήνης) is the highest order of the faithful of Allalme: a druidic circle of druids, monks, priests and wardens who protect Nature, the Balance and the forests through the Sacred Willows. Its mission is to keep the balance between the light and the shadow of the Moon.
+The Circle of the Moon (Ο Κύκλος της Σελήνης) is the highest order of the faithful of Allalme: a druidic circle of druids, monks, priests and wardens who protect Nature, the Balance and the forests through the Sacred Willows. Its mission is to keep the balance between the light and the shadow of the Moon. It is also called the **Circle of Allalme**.
 
 ## Hierarchy
 1. The Archdruid
@@ -111,7 +111,8 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 002 - A Strange Encounter|AB · Session 002 - A Strange Encounter]]: Irewin confesses that she and Belak, Wardens of the Misty Forest's Sacred Willow, broke away from the Circle; its Council had sent Melda's team after them
+- [[Session 002 - The Living Book and the Druid|AB · Session 002 - The Living Book and the Druid]]: Irewin confesses that she and Belak, Wardens of the Misty Forest's Sacred Willow, broke away from the Circle; its Council had sent Melda's team after them
+- [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]]: as the Circle of Allalme: Irewin and Belak belonged to it, and it sent a team led by Melda that was defeated
 %% /auto:appearances %%
 
 ## Links

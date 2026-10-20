@@ -25,6 +25,7 @@ tags:
 ## Summary
 A human sorcerer from the idyllic farming village of **Haston**, raised in a remarkably perfect childhood. Blessed with an extraordinary singing voice and a natural affinity for lightning magic, he travels the world seeking adventure, friendship and heroic deeds, and has joined the Incredible Six.
 In Session 29 he pulled half the party out of a shadow ooze with *Regroup* before they blasted it apart. His verdict on the whole descent: *"That was... unpleasant."*
+In Session 30, when [[Thoriel]] cast *Barkskin* on him, his skin grew **blue dragon scales**, and his staff turned out to be made of dragon bone, from a gold dragon.
 
 ## Appearance
 A youthful human of average height and lean build, with a warm, sun-kissed complexion and an almost permanently cheerful expression. Short, tousled black hair, a magnificent curled handlebar moustache and bright, expressive dark eyes that always seem on the verge of laughter frame his face; his most distinctive feature is an enormous, infectious grin, worn with the confidence of someone who has never seriously considered that things might go wrong.
@@ -60,7 +61,7 @@ He has never had much reason to be afraid. His greatest fear is failing those wh
 - [[Petros]]: a fellow adventurer and wizard whose magic and eccentric personality he greatly admires. Petros finds his boundless enthusiasm both amusing and strangely comforting, and sees in him an innocence he lost long ago.
 - [[Arta]]: a formidable dwarven ranger whose practical nature contrasts sharply with his enthusiasm. She cannot quite understand how someone with so little common sense has survived this long, but cannot deny that his heart is in the right place.
 - [[Aya]]: a paladin he admires for her courage, compassion and dedication to protecting others; she admires his genuine kindness and willingness to help.
-- **Aradun**: a dragon shaman whose strength and martial prowess he finds immensely impressive; Aradun is surprisingly supportive of his theatrics and temper.
+- [[Aradun]]: a dragon shaman whose strength and martial prowess he finds immensely impressive; Aradun is surprisingly supportive of his theatrics and temper.
 - [[Thoriel]]: an elven druid whose gentle nature and affinity for the natural world he appreciates; she finds his warm optimism and lack of secrets refreshing.
 - **The Nerasimis family**: his loving parents and family in Haston, who have always encouraged his dreams.
 - **The villagers of Haston**: his beloved friends and neighbours, who adore him as the kindest, most cheerful young man their village has ever produced.
@@ -73,7 +74,8 @@ He has never had much reason to be afraid. His greatest fear is failing those wh
 - **Tymora** (Lady Luck): his patron deity, goddess of good fortune, adventure and daring
 
 ## Notable items
-- **Staff of Draconic Heritage**
+- **Staff of Draconic Heritage**: made of the bone of a gold dragon (Session 30)
+- **Wand of Cone of Cold** (Session 30)
 
 ## Quotes
 > "Yesterday was Tuesday, today is Wednesday."

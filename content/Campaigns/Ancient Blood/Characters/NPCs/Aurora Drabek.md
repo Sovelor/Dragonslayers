@@ -26,7 +26,7 @@ A god-mad, dangerous tiefling cleric of Asmodeus, who wore the symbol of the [[D
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: killed at the sacrificial altar after a hard fight
-- [[Session 002 - A Strange Encounter]]: mentioned: Vaalrath had overheard her and another woman say they had found a way to breed powerful mages
+- [[Session 002 - The Living Book and the Druid]]: mentioned: Vaalrath had overheard her and another woman say they had found a way to breed powerful mages
 - [[Session 003 - The Betrayal]]: mentioned: Belak handed Melda over to her
 %% /auto:appearances %%
 

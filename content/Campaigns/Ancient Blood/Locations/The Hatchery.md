@@ -25,7 +25,7 @@ A hidden complex inside the Troll Mountains, belonging to a sect that worships d
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: found inside the mountain; Melda and Nenya freed; Aurora Drabek killed at its altar
-- [[Session 002 - A Strange Encounter]]: the party searches it for their belongings and finds the magic book
+- [[Session 002 - The Living Book and the Druid]]: the party searches it for their belongings and finds the magic book
 %% /auto:appearances %%
 
 ## Links

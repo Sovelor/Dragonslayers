@@ -28,7 +28,7 @@ On arrival they left **Skythane** behind, partly to keep him safe and partly to 
 
 Moving on, they found a staircase that led to a new area. Grafin, being a dwarf, realised the place was built mostly from **copper**, which puzzled him: who might have built it, and why? On the walls, despite the ash covering almost everything, were depictions of fire elementals summoning servants, **azers**, who did their bidding and needed copper. Grafin tricked the first azer with his authoritative posture, and the party was led to a secret room where the servants had been locked up for a long time. Trying to learn more about the place and the sect, the party bluffed that they were the sect's newest members, but they were soon caught lying. After another fight they went on with caution.
 
-In the next room a huge dome showed a woman with ash-grey skin holding a trident: the **Harbinger**. In the middle was another pit spitting fire, and at the back, sitting on a throne, the Red Knight. He offered the party a choice of fate: take the side of the powerful Harbinger, named **Pandora**, and sacrifice themselves by falling into the fire and surrendering their souls, or he would kill them in her name and take their souls by force. After many questions that irritated the Red Knight, the party refused, and they fought. The party won, but the Knight's soul left his body and went into a hidden **yellow stone** inside a cauldron, which glowed for a while and soon faded. They presume the stone is some kind of vessel that gathers the sacrificed souls, and took it for later examination.
+In the next room a huge dome showed a woman with ash-grey skin holding a trident: the **Harbinger of Fire**. In the middle was another pit spitting fire, and at the back, sitting on a throne, the Red Knight. He offered the party a choice of fate: take the side of the powerful Harbinger, named **Pandora**, and sacrifice themselves by falling into the fire and surrendering their souls, or he would kill them in her name and take their souls by force. After many questions that irritated the Red Knight, the party refused, and they fought. The party won, but the Knight's soul left his body and went into a hidden **yellow stone** inside a cauldron, which glowed for a while and soon faded. They presume the stone is some kind of vessel that gathers the sacrificed souls, and took it for later examination.
 
 Among other things and loot they found the Red Knight's notes: he had tried, and succeeded, to talk a noble family of the city of **Brost** into joining the Harbinger's mission. The family's name is **Staufen**; Brost lies south of **Esmeltaran** and is very wealthy. On the way back to New Keep, Lenόre had yet another flashback of her teacher torturing her and telling her to abandon emotions, as they are useless.
 
@@ -51,7 +51,7 @@ Among other things and loot they found the Red Knight's notes: he had tried, and
 - **The Red Knight**: Pandora's champion, the last of the chosen still between life and death; offers the party a choice and is killed; his soul passes into the yellow stone
 - **Azers**: servants of the fire elementals, locked in a secret room
 - **Skythane**: the party's griffon, left outside on watch
-- *Mentioned:* the **Harbinger**, named **Pandora**, depicted on the dome; **Saria** and the teacher, in Lenόre's flashbacks; the **Staufen** family of Brost, in the Red Knight's notes
+- *Mentioned:* the **Harbinger of Fire**, named **Pandora**, depicted on the dome (she is not one of the chosen); **Saria** and the teacher, in Lenόre's flashbacks; the **Staufen** family of Brost, in the Red Knight's notes
 
 ## Places
 - **New Keep**
@@ -71,7 +71,7 @@ Among other things and loot they found the Red Knight's notes: he had tried, and
 ## Open threads
 - [x] Investigate the sect's prison in the mountains
 - [ ] The yellow stone and the Red Knight's soul inside it
-- [ ] The Harbinger, Pandora, and the other chosen destroyed by fire
+- [ ] The Harbinger of Fire, Pandora
 - [ ] The Staufen family of Brost, won over to the Harbinger's mission
 - [ ] Lenόre's returning memories: Saria and the teacher
 - [ ] Who built the copper halls, and why?

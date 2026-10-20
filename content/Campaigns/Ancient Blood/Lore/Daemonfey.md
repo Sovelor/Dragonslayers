@@ -26,7 +26,7 @@ A caste that worships demons and wants to create powerful mages by mixing the bl
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: their symbol is found on Aurora Drabek's cloak
-- [[Session 002 - A Strange Encounter]]: explained by Vaalrath: a caste that breeds mages from elf and demon blood
+- [[Session 002 - The Living Book and the Druid]]: explained by Vaalrath: a caste that breeds mages from elf and demon blood
 %% /auto:appearances %%
 
 ## Links
