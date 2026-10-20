@@ -18,7 +18,7 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-[[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · Aradun · [[Freiderikos]]
+[[Aya]] · [[Thoriel]] · [[Petros]] · [[Arta]] · [[Aradun]] · [[Freiderikos]]
 
 ## NPCs
 [[Hecate the Prophet]] · [[Thalri]] · [[Bjorn Brottdottir]] · [[Sol' Goleth]] · [[Grukkag Duskmail]] · [[Akis]] · [[Vincent (Champion of the Balance)|Vincent]] · [[Lycast]] · [[Skrom]]

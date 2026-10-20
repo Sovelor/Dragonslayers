@@ -52,7 +52,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 - **Lenόre**: friend and ally; in a way, under Nyra's protection
 
 ## Affiliations
-- A faithful of [[Allalme Dragonborn|Allalme]]; trained at the monastery in the Stars Mountains, where the Sacred Itia of Allalme stands (Session 1)
+- A faithful of [[Allalme Dragonborn|Allalme]]; trained at the monastery in the Stars Mountains, where the Sacred Willow of Allalme stands (Session 1)
 
 ## Notable items
 - **Her teacher's ring**: the only thing she found in the ashes of his room

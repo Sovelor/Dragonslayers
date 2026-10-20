@@ -22,12 +22,12 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 004 - Σκοτεινό Οχυρό]]
 
 ## Recap
-The party headed for the [[Dark Fortress]]. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Ashardalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
+The party headed for the [[Sunless Citadel]], the Dark Fortress. The ceiling of the dungeon's entrance hall bore a mural of the red dragon **Ashardalon**, and before them lay a small dead white dragon, dead for about one or two months; its name was probably **Kalgrix**.
 
 A battle had clearly been fought inside, between goblins and young hatchling dragons, and many bodies lay dead before them. The party fought goblins. They also found a barrel holding some **water mephits**, imprisoned there by the **Dragon Priest of Ashardalon**, who wore a red cloak.
 
 **Key beats**
-1. The way to the Dark Fortress
+1. The way to the Sunless Citadel (the Dark Fortress)
 2. The mural of the red dragon Ashardalon; the dead white dragon Kalgrix
 3. Signs of a battle between goblins and hatchling dragons
 4. Fight with goblins
@@ -38,7 +38,7 @@ A battle had clearly been fought inside, between goblins and young hatchling dra
 - *Mentioned:* **Ashardalon**, a red dragon · **Kalgrix**, a dead white dragon · **the Dragon Priest of Ashardalon**, in a red cloak
 
 ## Places
-- [[Dark Fortress|The Dark Fortress]]
+- [[Sunless Citadel|The Dark Fortress]]
 
 ## Fights
 - **Goblins**
@@ -57,7 +57,7 @@ A battle had clearly been fought inside, between goblins and young hatchling dra
 *None reported.*
 
 ## Title suggestions
-[[Dark Fortress|The Dark Fortress]] (Melda's player, *Σκοτεινό Οχυρό*)
+[[Sunless Citadel|The Dark Fortress]] (Melda's player, *Σκοτεινό Οχυρό*)
 
 ## Links
 - Campaign: [[Ancient Blood]] · [[Campaigns]]

@@ -47,7 +47,7 @@ Thoriel's parents, **Oarelion** (father) and **Vaelilan** (mother), left about 1
 
 Thoriel never had druidic powers, though her grandmother always made her study and prepare. Apart from Lahz' Akku and some travellers she was lonely, her only company the adventure books of the tea shop; she spent most of her free time in the butterfly conservatory her grandmother built her to make winter less dreary.
 
-One fateful day her druidic nature unlocked and she began to experience the world differently. One of her new abilities let her discover her grandmother's secret room in the tea shop's basement, where she found a mysterious chest and many encrypted letters between her grandmother and someone called "-M". In an emotional outburst with her grandmother her first shape-shifting happened, and she was stuck in animal form. Not knowing what was happening, she ran into the forest and met a young paladin of Tyr named **Belren**, whom she wounded seriously. The shock gave her partial control of her shape-shifting, and she returned to the tea shop with the paladin. Belren stayed for a while and convinced her there is more to the world than the forest, and that she could help people like her parents. That sparked her own adventure of discovery and reunion. After a month of travel away from the Reaching Woods she boarded a ship bound for Baldur's Gate; the ship was sunk and almost everyone died. That is how she met [[Petros]], [[Arta]], [[Aya]], **Aradun** and, later, [[Freiderikos]].
+One fateful day her druidic nature unlocked and she began to experience the world differently. One of her new abilities let her discover her grandmother's secret room in the tea shop's basement, where she found a mysterious chest and many encrypted letters between her grandmother and someone called "-M". In an emotional outburst with her grandmother her first shape-shifting happened, and she was stuck in animal form. Not knowing what was happening, she ran into the forest and met a young paladin of Tyr named **Belren**, whom she wounded seriously. The shock gave her partial control of her shape-shifting, and she returned to the tea shop with the paladin. Belren stayed for a while and convinced her there is more to the world than the forest, and that she could help people like her parents. That sparked her own adventure of discovery and reunion. After a month of travel away from the Reaching Woods she boarded a ship bound for Baldur's Gate; the ship was sunk and almost everyone died. That is how she met [[Petros]], [[Arta]], [[Aya]], [[Aradun]] and, later, [[Freiderikos]].
 
 ## Goals & fears
 She wants, more than anything, to find her parents and go on an adventure with them, and to make her grandmother proud of who she is becoming; to explore the world, see the places she read about in books, and make many friends. She fears disappointing her grandmother and parents, and not being strong enough as a druid and failing to save nature and animals. She also worries about the dispute between her grandmother and the rabbits back at the tea shop.
@@ -56,7 +56,7 @@ She wants, more than anything, to find her parents and go on an adventure with t
 - **Lahz' Akku**: her grandmother, who raised her
 - [[Petros]], [[Aya]], [[Arta]]: friends
 - [[Freiderikos]]: the new member of the party
-- **Aradun**: she is not yet sure about his intentions
+- [[Aradun]]: she is not yet sure about his intentions
 - [[Hecate the Prophet|Hecate]]: an enemy
 - **Hope**: her pet fae wisp
 - **Belren**: the young paladin of Tyr who made her see the wider world

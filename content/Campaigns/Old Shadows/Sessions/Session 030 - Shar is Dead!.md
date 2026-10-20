@@ -37,7 +37,7 @@ Next they climbed a sheer cave wall full of holes to avoid: a trial for the Keep
 
 They reached the tomb of **Ereg Tal**, patriarch of the Keepers of the Secrets, and his wife **Kora**. On the right stood the statue of a dwarf, on the left that of a dwarf woman, each with an inscription naming them; further back stood a third statue with an aura so dark and otherworldly that everyone's blood froze. Something powerful and full of shadow was there with them. Only Aya recognised it, from the Prophet's vision: *"I recognise her. I have seen her."* Arta said this was not right: a statue of **Shar** used to stand there, and this was something else entirely. Remembering they had come to find Arta's father and the Keepers, the Six left quickly, without taking anything from the sarcophagus, to Freiderikos's dismay.
 
-At a door stood two Keepers of the Secrets, the dwarves **Shaldi** and **Kirkold**, guards of the passage and Arta's companions during her training. They seemed to remember Arta and Petros and greeted Petros the way they greet each other, mocking both for not remembering them and Arta for her choices. Aradun and Arta "persuaded" them with a gold coin from the well, and the Six passed without a fight. Further in, more guards revealed that Arta's father was waiting for her and Petros, and no one else, and that the ceremony had already begun. In the guardhouse of the first level of the Keepers' headquarters the Six fought **Ubar the Black**, Senior Keeper of the First Level, and his guards. Aradun announced he liked Ubar's rings so much he was thinking of taking them, and his risky tactic caught the guards unprepared: the fight turned in the Six's favour at once.
+At a door stood two Keepers of the Secrets, the dwarves **Shaldi** and **Kirkold**, guards of the passage and Arta's companions during her training. They seemed to remember Arta and Petros and greeted Petros the way they greet each other, mocking both for not remembering them and Arta for her choices. Aradun and Arta "persuaded" them with a gold coin from the well, and the Six passed without a fight. Further in, more guards revealed that Arta's father was waiting for her and Petros, and no one else, and that the ceremony had already begun. In the guardhouse of the first level of the Keepers' headquarters the Six fought **Ubar the Black**, Senior Keeper of the First Level and a dwarf wizard necromancer, and his guards. Aradun announced he liked Ubar's rings so much he was thinking of taking them, and his risky tactic caught the guards unprepared: the fight turned in the Six's favour at once, and Ubar died quickly, blasted by Freiderikos's and Petros's spells.
 
 To protect her new friend, Thoriel cast *Barkskin* on Freiderikos before shifting into a jaguar. To her shock, his skin grew **blue dragon scales**. Aradun's dragon axes had already warned him that something was wrong with Freiderikos, and as soon as the fight was over he pinned the unsuspecting Freiderikos down. The Six questioned him about his past. Freiderikos, anxious that he had done something wrong, answered with complete honesty but seemed to have no idea who Tiamat was or why this was a bad omen; his staff turned out to be made of dragon bone, from a gold dragon. Aradun, with his own metallic dragon heritage, swore he would stop Freiderikos himself at the slightest evil intention; Aya was on high alert as the party's paladin; only Petros seemed relaxed.
 
@@ -55,17 +55,14 @@ To protect her new friend, Thoriel cast *Barkskin* on Freiderikos before shiftin
 11. *Barkskin* gives Freiderikos blue dragon scales; Aradun pins him down and the Six question him
 
 > [!warning] Conflicting accounts
-> - **On the climb:** the DM has an Elder Xorn attack the party; Aya's and Thoriel's players remember an earth elemental living on the rock, which let them pass after Petros talked with it.
-> - **Ereg Tal's wife:** Kora (DM, Thoriel's player) or Kira (Aya's player). The DM's name is used.
 > - **The two guards:** the DM says the Six passed them without a fight; Aya's and Thoriel's players say Aradun (with Arta) bribed them with a gold coin.
-> - **The guardhouse fight:** the DM credits Aradun's risky tactic; Petros's player remembers a dwarf wizard necromancer leading the Keepers' small force, who died quickly, blasted by Freiderikos and Petros.
 
 ## NPCs met
 - [[Hecate the Prophet]]: leaves Tunnel No. 5 with her companions
 - **The 49 dwarves of Tunnel No. 5**: cursed shadow souls; purified, they forgive Rockgar
 - **Hope**: Thoriel's friend, a small wisp
 - **Shaldi** and **Kirkold**: dwarf Keepers of the Secrets, guards of the passage, Arta's companions in her training; they mocked her choices
-- **Ubar the Black**: Senior Keeper of the First Level of the Keepers' headquarters; hostile to the Six
+- **Ubar the Black**: Senior Keeper of the First Level of the Keepers' headquarters, a dwarf wizard necromancer; hostile to the Six, killed in the guardhouse
 - *Mentioned:* **Ereg Tal**, patriarch of the Keepers of the Secrets, and his wife **Kora** (their tomb) · [[Bjorn Brottdottir]], waiting for Arta and Petros · **Ruby Metallson**
 
 ## Places
@@ -82,14 +79,14 @@ To protect her new friend, Thoriel cast *Barkskin* on Freiderikos before shiftin
 - **Undead shadow dwarves** at the Altar of Tunnel No. 5: Aya's divine power, with Thoriel's and Petros's magic, cleansed the Altar and the undead
 - **Elder Shadow Elemental** at the shadow well: a hard win against its powerful attacks; Freiderikos's new lightning powers
 - **Elder Xorn**: it attacked during the climb; Petros persuaded it in the language of Earth to let them pass, no fight
-- **Ubar the Black and his guards** in the first-level guardhouse: Aradun's risky tactic caught them unprepared and the Six won easily
+- **Ubar the Black and his guards** in the first-level guardhouse: Aradun's risky tactic caught them unprepared and the Six won easily; Freiderikos and Petros quickly killed Ubar
 
 ## Loot and rewards
 - Vest of Escape (runes reading "disengage" and "tool"): Petros
 - Ring of Intelligence +2: Aya
 - Runic Key: Aradun
 - Ubar's spellbook: Petros
-- Wand of Cone of Cold (Aya's player; holder not recorded)
+- Wand of Cone of Cold: Freiderikos
 - The belongings of the skeleton in the well, taken by Aradun (among them the gold coin given to the guards)
 
 ## Open threads
@@ -128,7 +125,7 @@ To protect her new friend, Thoriel cast *Barkskin* on Freiderikos before shiftin
 
 > "Λοιπόν φίλοι, ας τελειώνουμε. Ελάτε."
 > *("Well, friends, let's get this over with. Come on.")*
-> — Arta to the two Keepers of the Secrets
+> — Arta to the two Keepers of the Secrets, urging them to attack the Six
 
 > "Και δηλαδή θα αφήσουμε αυτό το όμορφο περιδέραιο εδώ; Δεν θα το πάρουμε;"
 > *("So we're just going to leave this beautiful necklace here? We're not taking it?")*

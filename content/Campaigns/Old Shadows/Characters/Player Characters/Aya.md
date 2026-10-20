@@ -40,7 +40,7 @@ At the druid circle in Brindinford she learned of Allalme and felt her call stro
 To learn about herself.
 
 ## Relationships
-- **Aradun:** her brother; they grew up as siblings under the same roof, and he is her ally
+- **[[Aradun]]:** her brother; they grew up as siblings under the same roof, and he is her ally
 - **Thoriel:** the elf girl she counts as a friend, who understands the way she sees things
 - **Arta:** once an "enemy" who became a friend and showed her the right path
 - **Petros:** mixed feelings, an ally ("ally?? enemy??")

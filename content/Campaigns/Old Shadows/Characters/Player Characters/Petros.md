@@ -65,7 +65,7 @@ In Session 2 he officially became a member of the party. %% src:OS-S002 d4 %%
 - **[[Arta]]:** fellow adventurer and a connection to the homeland he abandoned
 - **Thraldour:** a former companion of the Six whose fate weighs on him
 - **[[Aya]]:** the party's moral compass, who thinks he made an impossible choice and fears his guilt may drive him to sacrifice himself needlessly
-- **Aradun, [[Thoriel]], [[Freiderikos]]:** fellow adventurers; Thoriel finds his secretive streak frustrating and wishes he could see that he deserves the compassion he offers others
+- **[[Aradun]], [[Thoriel]], [[Freiderikos]]:** fellow adventurers; Thoriel finds his secretive streak frustrating and wishes he could see that he deserves the compassion he offers others
 
 ## Affiliations
 - **Order of Freedom:** initiate · **Pickaxeson family:** middle child

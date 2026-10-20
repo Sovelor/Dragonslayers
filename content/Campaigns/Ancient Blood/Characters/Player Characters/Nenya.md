@@ -29,7 +29,7 @@ She was freed from a magical metal circlet in the Hatchery's birthing room, with
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: a sun elf, member of the first party
-- [[Session 002 - A Strange Encounter]]: with the party when Vaalrath is freed from the book
+- [[Session 002 - The Living Book and the Druid]]: with the party when Vaalrath is freed from the book
 - [[Session 013 - The Vander Legacy]]: chosen by Mahaya; received the Hourglass of Time
 %% /auto:appearances %%
 

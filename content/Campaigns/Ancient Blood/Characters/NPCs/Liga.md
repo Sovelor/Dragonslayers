@@ -21,12 +21,12 @@ tags:
 **Role:** Half-orc barbarian; former player character, now an NPC
 
 ## Summary
-A half-orc barbarian who met [[Ulf the Northman]] on the road through the Forest of the Trolls' Growl and helped free [[Melda]] and [[Nenya]] from the Hatchery. She is no longer a player character: she is now an NPC, one of the Wardens of the Misty Forest's Sacred Willow in the [[Circle of the Moon]].
+A half-orc barbarian who met [[Ulf the Northman]] on the road through the Trollbark Forest and helped free [[Melda]] and [[Nenya]] from the Hatchery. She is no longer a player character: she is now an NPC, one of the Wardens of the Misty Forest's Sacred Willow in the [[Circle of the Moon]].
 
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: meets Ulf on the road; tries to pry an everburning torch off the wall
-- [[Session 002 - A Strange Encounter]]: rests in Aurora Drabek's chamber when Vaalrath appears
+- [[Session 002 - The Living Book and the Druid]]: rests in Aurora Drabek's chamber when Vaalrath appears
 %% /auto:appearances %%
 
 ## Links
