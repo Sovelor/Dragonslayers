@@ -19,7 +19,7 @@ movedFrom:
 
 > [!abstract] Ελληνικά → [[Άξελ]]
 
-![[Characters - Axel.png|300]]
+![[Characters - Axel.jpg|300]]
 
 **Role:** Party member
 
@@ -73,7 +73,7 @@ He woke two or three days later in a hunting cabin in the island's forest, where
 - [[Session 005 - A Day of Memories|IF · Session 005 - A Day of Memories]] *(Inner Fire)*: Nyra tells Robin that a man named Axel accidentally saved her
 
 ## Gallery
-![[Characters - Axel 2.jpg|400]]
+![[Characters - Axel 2.png|400]]
 ![[Characters - Axel 3.png|400]]
 
 ## Links
