@@ -46,9 +46,11 @@ She was taught from a young age to be strict, to follow the rules and to look an
 ## Background
 She was born into one of the oldest noble houses of Evermeet, among halls of white marble and living trees shaped by magic. Raised in the Sun Elves' ideals of perfection, tradition and security, she learned court manners, composure and duty early, and came to believe that a crown, a title or a seat on the Council is a responsibility, not a reward. Drawn to what has been lost (forgotten history, buried secrets, magic beyond the reach of scholars), she chose the path between blade and spell: the blade taught her precision and decisiveness, magic taught her possibility and adaptability.
 
-Her father, **Calix de Silva Roth**, sits on the Royal Council. She does not want to inherit a place there only by birth: she travels to learn what being worthy of it truly means, and to understand people whose struggles she has never seen. She also seeks the truth about her mother, who left before Nenya ever met her.
+Her father, **Calix de Silva Roth**, the High Magister of Evermeet, sits on the Royal Council. She does not want to inherit a place there only by birth: she travels to learn what being worthy of it truly means, and to understand people whose struggles she has never seen. She also seeks the truth about her mother, who left before Nenya ever met her.
 
 She was freed from a magical metal circlet in the Hatchery's birthing room, with no memory of her past at all. Her name was in the [[Book of Coupling]]. %% src:AB-S001 d17 %%
+
+Her memories have been returning slowly: whenever a situation triggers a flashback, that part of her memory comes back. By now she remembers all of her childhood and her past, up to the time she arrived at the Hatchery.
 
 > [!info] Rumours and open mysteries
 > Questions surround her mother's origins and lineage; some truths may have been forgotten, others deliberately buried. If Nenya's suspicions are right, she may be a descendant of **Queen Amlaruil**.
@@ -58,7 +60,7 @@ She was freed from a magical metal circlet in the Hatchery's birthing room, with
 - **Fears:** being alone; failing the people who need her.
 
 ## Relationships
-- **Calix de Silva Roth**: her father, a member of the Royal Council of Evermeet. She left home after an argument with him.
+- **Calix de Silva Roth**: her father, the High Magister of Evermeet and a member of the Royal Council. She left home after an argument with him.
 
 ## Notable items
 - [[Hourglass of Time]]: glows near the chosen.
@@ -71,6 +73,7 @@ She was freed from a magical metal circlet in the Hatchery's birthing room, with
 - [[Session 001 - Ancient Blood, the Beginning]]: a sun elf, member of the first party
 - [[Session 002 - The Living Book and the Druid]]: with the party when Vaalrath is freed from the book
 - [[Session 013 - The Vander Legacy]]: chosen by Mahaya; received the Hourglass of Time
+- [[Session 014 - Vanthus's Trap]]: learns Mahaya's surname; trapped in the crypt
 %% /auto:appearances %%
 
 ## Links

@@ -1,5 +1,5 @@
 ---
-title: "Melda"
+title: "Melda Nodel' Asar"
 campaign: Ancient Blood
 lang: en
 translation: "[[Μέλντα]]"
@@ -15,7 +15,7 @@ movedFrom:
 ---
 %% Raw profile (private): private/Campaigns/Ancient Blood/Character Logs/Melda (raw).md %%
 
-# Melda
+# Melda Nodel' Asar
 
 > [!abstract] Ελληνικά → [[Μέλντα]]
 
@@ -42,7 +42,7 @@ Decisive, with a dynamic character; friendly and optimistic, smiling and always 
 ## Background
 Melda was born and raised in **Evereska**, a city near the Forgotten Forest, where Allalme later planted one of her Sacred Willows, guarded by Kallirroi and Aliakmonas (see [[Circle of the Moon]]). Fourteen years ago Evereska suddenly vanished from the map.
 
-Her father was a star elf, one of the rare exceptions her mother's family made in letting one of theirs marry outside the clan. From him she took her silver hair and silver-grey eyes, unusual among her mother's people, whose hair is black with silver highlights like the moon. She had a carefree childhood beside her cousin [[Seraphiel]], who always stood by her and defended her when other children mocked the colour of her hair; with her help Melda learned to love being different and to stand up for herself. The two spent their free hours in Evereska's narrow cobbled lanes, listening to the songs and stories of **Essa**, a bard famous in those days.
+Her father was a star elf, one of the rare exceptions her mother's family made in letting one of theirs marry outside the clan. From him she took her silver hair and silver-grey eyes, unusual among her mother's people, whose hair is black with silver highlights like the moon. She had a carefree childhood beside her cousin [[Seraphiel]], who always stood by her and defended her when other children mocked the colour of her hair; with her help Melda learned to love being different and to stand up for herself. The two spent their free hours in Evereska's narrow cobbled lanes, listening to the songs and stories of **Essa**, a bard famous in those days, the same Essa who joined the Dragonslayers.
 
 From a young age Melda was fascinated by how plants grow, how birds build their nests and spiders weave their webs, and she would approach animals and talk to them together with her father, who guided her towards the path of the naturalist he himself had once followed, until he fell in love with her mother and chose to stay with her for ever. Her father often spoke to her of **Sylvanus**, the god of nature, and her mother of the goddess **Selûne**, so she believed in both, with a slight preference for the god of nature, as she had already felt nature's call. Seraphiel devoted herself to Selûne and wished to train as a paladin; their paths began to part, but they always found time for each other.
 
@@ -93,6 +93,7 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 - [[Session 002 - The Living Book and the Druid]]: remembers her old group; an animal tells her the forest is sick
 - [[Session 003 - The Betrayal]]: Irewin turns out to know about her past
 - [[Session 013 - The Vander Legacy]]: reunited with her cousin Seraphiel
+- [[Session 014 - Vanthus's Trap]]: finds the hidden boat; her dragon form scares Shefton; trapped in the crypt
 %% /auto:appearances %%
 
 ## Gallery

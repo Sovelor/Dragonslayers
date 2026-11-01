@@ -20,7 +20,7 @@ movedFrom:
 > [!warning] Spoilers
 > Reveals how the Forest Kingdom's war against the Dragonslayers ended, about ten years ago.
 
-**Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Secret elite group: the Edge of Banishment · Seat: Zelfar, north of Laskan
+**Role:** Elite order defending the Material Plane · Founded about 12 years ago by [[Mahaya (Lord of Time)|Mahaya Vishan]] and the last remaining Harpers · Led by Mahaya and Velatha · Secret elite group: the Edge of Banishment · Seat: Zelfar, north of Luskan
 
 > [!info] Timeline
 > The founding of the Order happened after the events the manuscript currently describes during the Fate-Touched campaign.
@@ -42,7 +42,7 @@ About ten years ago the **Forest Kingdom**, then ruled by Queen **Nabeora Lithl'
 Nabeora had allied with **Tiamat** and her chromatic dragons to take the **Hammer of Tiamat** from the Alliance of the Silver Hand and from the Dragonslayers themselves. The Dragonslayers, with Nabeora's daughter **Aryalith** in their party, defeated Nabeora and the Chromatic Dragons. Aryalith became the new Queen of the Forest Kingdom and made an alliance with the Silver Hand (see [[Circle of the Moon]]).
 
 ### The new seat: Zelfar
-The Order moved to **Zelfar**, a city north of Laskan, where it was rebuilt, reorganised and gained new allies. Zelfar is now the Order's official base.
+The Order moved to **Zelfar**, a city north of Luskan, where it was rebuilt, reorganised and gained new allies. Zelfar is now the Order's official base.
 
 ## The Edge of Banishment
 [[Sovelor]], the son of Asmodeus, created an utterly secret elite group within the Order: the **[[Edge of Banishment]]** (Αιχμή της Εξορίας). It is made up of the Order's most capable agents, works entirely outside the official structures, takes on missions no one else can, and exists to face threats that neither the Order nor the gods can touch.

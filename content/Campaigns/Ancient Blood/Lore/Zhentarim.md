@@ -21,7 +21,10 @@ tags:
 Player theory: [[Madagar Bugo]] is working with them.
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: player theory
+- [[Session 014 - Vanthus's Trap]]: undead with their tattoo wait in the crypt
+%% /auto:appearances %%
 
 ## Links
 - [[Ancient Blood]] · [[Madagar Bugo]]

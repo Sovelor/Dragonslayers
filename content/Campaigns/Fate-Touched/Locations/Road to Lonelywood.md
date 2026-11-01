@@ -1,5 +1,5 @@
 ---
-title: Road to Lonlywood
+title: Road to Lonelywood
 campaign: Fate-Touched
 lang: en
 tags:
@@ -9,9 +9,10 @@ tags:
   - lang/en
 movedFrom:
   - "Locations/Road to Lonlywood"
+  - "Campaigns/Fate-Touched/Locations/Road to Lonlywood"
 ---
 
-# Road to Lonlywood
+# Road to Lonelywood
 
 > [!warning] Spoilers
 > Reveals Elizium's death and the outcome of the goblin ambush.

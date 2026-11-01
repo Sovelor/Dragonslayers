@@ -17,7 +17,7 @@ movedFrom:
 # Gaston Lentinson
 
 **Role:** Merchant
-**Backstory:** Fleeing extortion/gangs tied to Laskan, heading to Lonlywood
+**Backstory:** Fleeing extortion/gangs tied to Luskan, heading to Lonelywood
 **Travels with:** Two mules, a cart, and his hired escort [[Mahaya]]
 
 ## Summary

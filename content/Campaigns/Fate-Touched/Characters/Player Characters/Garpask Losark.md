@@ -16,10 +16,10 @@ movedFrom:
 # Garpask Losark
 
 > [!warning] Spoilers
-> Reveals Elizium's death in Part One and Garpask's secret from *Fateful Meeting*.
+> Reveals Elizium's death in Part One and Garpask's secret from *Fateful Meeting*. *Later in the campaign* reveals events beyond the manuscript so far.
 
-**Role:** Young mage (μάγος) of the Arcane Brotherhood, initiate of the Tower of Magic in Laskan
-**Origin:** Laskan
+**Role:** Young sorcerer (μάγος) of the Arcane Brotherhood, initiate of the Tower of Magic in Luskan
+**Origin:** Luskan
 **Notable trait:** Hints of dragon blood; speaks his spell words in Draconic
 **Father and teacher:** [[Frederick Frostfire]]
 **Appearance:** Thin, with long black hair to the shoulders, a beard and dark brown eyes; wears an ornate cloak
@@ -32,7 +32,7 @@ Rescued from wild dogs early in Part One (*A Strange Acquaintance*), joining [[B
 - Surprisingly skilled diplomat: de-escalates the tense standoff with Gaston and Mahaya using calm, formal speech, genuinely impressing Badinga.
 - Plays along with Badinga's cover story about Elizium's death to strangers.
 - Keeps his reasons for travelling to himself; he seems to carry many secrets.
-- Introduces himself formally: "Garpask Losark, Mage of the Arcane Brotherhood and Initiate of the Tower of Magic of Laskan".
+- Introduces himself formally: "Garpask Losark, Mage of the Arcane Brotherhood and Initiate of the Tower of Magic of Luskan".
 - Loves to lecture: works out that the [[Ancient Crypt]]'s seal was broken by a Lightning Bolt spell, and admits he cannot cast it yet. Mahaya teasingly calls him "wise Garpask".
 - Uses Mage Armour, Magic Missile and Light; see [[Languages and Incantations]].
 
@@ -41,6 +41,9 @@ Months before the story, his father [[Frederick Frostfire]] showed him a vision 
 
 > [!success] Status
 > Alive, active party member.
+
+## Later in the campaign
+Beyond the manuscript so far: Garpask dies at the hands of the **Arcane Brotherhood** and stays dead for some time. Later in the story he returns and rejoins the Dragonslayers.
 
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]

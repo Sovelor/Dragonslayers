@@ -39,7 +39,7 @@ Arrogant, always mocking the enemy, and always ready to do what must be done: go
 ## Background
 Sovelor adventured on the material plane with his mother and his childhood friends [[Allalme Dragonborn|Allalme]] and Gzave, until Asmodeus's devils captured him and Gzave. Back in the Nine Hells he was tortured by his brother **Amet**, who sat on the throne. Sovelor managed to kill Amet by stealth and took the Rod of Asmodeus, the Millenial Chainmail and the throne of the Nine Hells, ascending as the **Blood Prince**.
 
-Amet's followers overthrew him and imprisoned him inside a suit of armour, draining his essence to power it. To him it felt like three hundred years, and it left him mentally unstable. The Dragonslayers rescued him and made him part of their group, and with their help he killed a resurrected Amet. He infused his rapier with his Asmodean blood, creating the **Bastard Slayer**.
+Amet's followers overthrew him and imprisoned him inside a suit of armour, draining his essence to power it. To him it felt like three hundred years, and it left him mentally unstable. The Dragonslayers rescued him during the hunt for **Carmilla**, in the **Ancient Home of the Belmonts**, and made him part of their group, and with their help he killed a resurrected Amet. He infused his rapier with his Asmodean blood, creating the **Bastard Slayer**.
 
 He joined the Order of Freedom, and after the attack of the Dragons he founded the **Edge of Banishment**, a secret branch of the Order dedicated to hunting down and banishing evil outsiders. He finally bested Asmodeus in a one-on-one fight in the deepest parts of his mind, and imprisoned him in Allalme's mirror. Six months after the fight with Atropos, he mysteriously disappeared.
 

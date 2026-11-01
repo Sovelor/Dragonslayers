@@ -26,6 +26,7 @@ A strange race of bald humans who seem to worship knowledge and gather all of it
 ## Appearances
 %% auto:appearances %%
 - [[Session 004 - The Illumians]]: hire the party to find their missing members and a search team
+- [[Session 008 - Mirror Mirror on the Wall]]: found in the final room; the party fights and defeats them
 - [[Session 009 - Echoes, the Road Back]]: the party reports to them; one changes when King Theron is mentioned
 %% /auto:appearances %%
 

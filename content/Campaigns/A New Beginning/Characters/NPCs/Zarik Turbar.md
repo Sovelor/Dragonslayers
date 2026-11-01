@@ -22,7 +22,10 @@ tags:
 Blurted out in front of everyone that strangers had been asking about the party and that old friends were looking for [[Ezariel]]; Ezariel then spoke with him in private. When the man in the red hat took Ezariel, he ran to the temple and met [[Edric]] and [[Selina]] on their way back: *"Mister Edric, lady Selina, run! The bad man has my friend!"*
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 009 - Echoes, the Road Back]]: reveals that strangers are looking for Ezariel; runs to warn Edric and Selina
+- [[Session 010 - Leaving Tethiamar]]: warns Edric and Selina; talks to Ezariel about friendship
+%% /auto:appearances %%
 
 ## Links
 - [[A New Beginning]] · [[Ezariel]] · [[Edric]] · [[Selina]]

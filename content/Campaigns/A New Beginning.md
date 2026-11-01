@@ -21,7 +21,7 @@ tags:
 [[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]]
 
 ## NPCs
-[[Lady Lavern]] · [[Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]]
+[[Lady Lavern]] · [[Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]] · [[Zacharious]] · [[Redwood Oakblossom]]
 
 ## Sessions
 - [[Session 001 - A New Beginning]] · 2026-02-14
@@ -29,7 +29,10 @@ tags:
 - [[Session 004 - The Illumians]] · 2026-05-02
 - [[Session 005 - The Ogre Poop and Dick Incident]] · 2026-05-29
 - [[Session 006 - Elizium's Second Chance]] · 2026-06-12
+- [[Session 007 - Selina's Omen]] · 2026-07-04
+- [[Session 008 - Mirror Mirror on the Wall]] · 2026-07-25
 - [[Session 009 - Echoes, the Road Back]] · 2026-09-26
+- [[Session 010 - Leaving Tethiamar]] · 2026-10-23
 
 ## Locations
 [[Brook Hollow]] · [[Ruins of the Life-giving Prince]] · [[The Flower and the Tiara]]

@@ -31,7 +31,7 @@ Meets Badinga in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslay
 ## Character beats
 - Calls himself "Elizium the Brave" when he and Badinga charge the wild dogs to save Garpask.
 - Tells the others his journey north is "a journey of atonement", but gives no details. They respect his silence.
-- Reckons Lonlywood is five to six days' march from where the trio sets out.
+- Reckons Lonelywood is five to six days' march from where the trio sets out.
 
 ## Death sequence
 1. Leap-and-fall wounding beat

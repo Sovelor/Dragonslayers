@@ -28,13 +28,13 @@ The DM's Greek manuscript "The Dragonslayers Saga" is based on this campaign. Th
 [[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]] · [[Sovelor]] · [[Lavern]]
 
 ## NPCs
-[[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]] · [[Vincent Vermilion]] · [[Shaureya]]
+[[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]] · [[Vincent Vermilion]] · [[Shaureya]] · [[Bjorn]] · [[Jennifer]]
 
 ## Story
 - [[The Dragonslayers Saga - Story Timeline]]: chapter-by-chapter index of the manuscript
 
 ## Locations
-[[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]] · [[Ancient Crypt]]
+[[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonelywood]] · [[Ancient Crypt]]
 
 ## Lore
 [[Languages and Incantations]]

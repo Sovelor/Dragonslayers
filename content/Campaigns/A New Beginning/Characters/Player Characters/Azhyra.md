@@ -55,6 +55,7 @@ She does not form relationships easily: to her everyone is expendable, and very 
 - The Staff of Alertness
 - An ornate rapier and a small knife hidden in her boot
 - A ring
+- **Cloak of Charisma +2** %% src:NB-S010 d13 %%
 
 ## Quotes
 - *"I don't want you touching me."* (Session 1)
@@ -62,9 +63,14 @@ She does not form relationships easily: to her everyone is expendable, and very 
 - Her motto: *"Περιβάλλομαι απο βλάκες"* ("I am surrounded by idiots")
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning]]: goes along as Selina's supervisor
 - [[Session 006 - Elizium's Second Chance]]: afraid to touch the pool's water
+- [[Session 007 - Selina's Omen]]: uses a strange dagger to tear the air and reach the cube room
+- [[Session 008 - Mirror Mirror on the Wall]]: looks at the worst version of herself and is very satisfied with it
 - [[Session 009 - Echoes, the Road Back]]: claims the abandoned inn as hers; sees something her mind erases
+- [[Session 010 - Leaving Tethiamar]]: presses Ezariel, talks to Edric; takes the Cloak of Charisma +2
+%% /auto:appearances %%
 
 ## Gallery
 ![[Characters - Azhyra 2.jpg|400]]
