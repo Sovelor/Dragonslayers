@@ -59,10 +59,15 @@ Her current ally is [[Edric]]. Her enemies are, possibly, many. She names no imp
 Her catchphrases: *"You are an idiot"*, *"No"* and *"I don't want to do this, so I'm not doing it"*.
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning]]: rescued from the zombies and recovers her belongings
 - [[Session 005 - The Ogre Poop and Dick Incident]]: the ogre peek
 - [[Session 006 - Elizium's Second Chance]]: hurt by the mimics; opens the statue's secret compartment; raises trust and duty
+- [[Session 007 - Selina's Omen]]: disagrees with Edric about locked doors; gets into the cube room, invisible to the undead
+- [[Session 008 - Mirror Mirror on the Wall]]: tries to sneak past the traitor to find the Illumians
 - [[Session 009 - Echoes, the Road Back]]: asks an Illumian for a favour; a man in a red hat holds her at her table
+- [[Session 010 - Leaving Tethiamar]]: will not say who hunts her; keeps a secret watch; finishes the satyr
+%% /auto:appearances %%
 
 ## Links
 - [[A New Beginning]] · [[Edric]] · [[Selina]] · [[Azhyra]] · [[Zarik Turbar]]

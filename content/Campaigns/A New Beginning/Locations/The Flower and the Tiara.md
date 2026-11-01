@@ -25,6 +25,7 @@ An inn run by Ian Turbar, where the party stayed. His son [[Zarik Turbar]] blurt
 ## Appearances
 %% auto:appearances %%
 - [[Session 009 - Echoes, the Road Back]]: Zarik reveals that strangers are looking for Ezariel; the man in the red hat sits at her table
+- [[Session 010 - Leaving Tethiamar]]: the men in red come and go; the party's quarrel
 %% /auto:appearances %%
 
 ## Links

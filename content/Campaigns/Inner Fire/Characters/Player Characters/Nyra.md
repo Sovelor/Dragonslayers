@@ -46,7 +46,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 
 ## Relationships
 - **Celandir Shadwoglim**: her teacher and mentor, and her second family
-- **[[Axel]]**: her saviour, who led the mutiny on the slave ship
+- **[[Axel]]**: her saviour, who led the mutiny on the slave ship: the galley at **Oman Isle** of his own story (DM)
 - [[Meive]]: friend and ally
 - **Grafin**: friend and ally
 - **Lenόre**: friend and ally; in a way, under Nyra's protection

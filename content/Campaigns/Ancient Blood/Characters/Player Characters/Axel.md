@@ -23,14 +23,14 @@ movedFrom:
 
 **Role:** Party member
 
-**Race:** Human · **Class:** Swashbuckler / Fighter (level 4 + 1) · **Pronouns:** he/him · **Age:** 26 · **Home:** **Dagger Falls** (**Daggerdale**) · **Languages:** Common, Illuskan, Elven, Dwarven, Draconic, Orcish, Aquan, Giant
+**Race:** Human · **Class:** Swashbuckler 4 / Fighter 1 · **Pronouns:** he/him · **Age:** 26 · **Home:** **Dagger Falls** (**Daggerdale**) · **Languages:** Common, Illuskan, Elven, Dwarven, Draconic, Orcish, Aquan, Giant
 
 ## Summary
 A human swashbuckler from Dagger Falls, a sailor and pirate of the **Sea of Swords**, and a fugitive wanted by the [[Zhentarim]].
 
 Took the *Duellist's Blade*, a rapier granting +2 AC against a single opponent in solo combat, and the *Elven Mithral Chain Shirt* from the Vander vault. [[Jareth]] once protested Axel's suspicion: *"You suspect ME?"*
 
-In *Inner Fire* he is the sailor who led the mutiny on the slave ship and freed [[Nyra]] and her people (the same Axel, according to the DM).
+In *Inner Fire* he is the sailor who led the mutiny on the slave ship and freed [[Nyra]] and her people (the same Axel, according to the DM). That ship is the galley of his own story, at Oman Isle (DM).
 
 ## Appearance
 About 1.85 m tall, with brown hair, green eyes and Mediterranean skin, his face and body crossed by many scars. He wears light armour over linen clothes.
@@ -62,15 +62,18 @@ He woke two or three days later in a hunting cabin in the island's forest, where
 - Enemy of the [[Zhentarim]], who ruled his homeland and put a bounty on him.
 
 ## Notable items
-- **Duellist's Blade**: his rapier (his profile calls it the Duelist Rapier).
+- **Duellist's Blade**: his rapier.
 - **Elven Mithral Chain Shirt**, from the Vander vault.
 - A sword taken from the captain of the slave galley.
 - A knife of black metal, Durgal's gift, made by Durgal's grandfather.
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: Duellist's Blade and Elven Mithral Chain Shirt
+- [[Session 014 - Vanthus's Trap]]: his "magic trick" breaks Shefton; trapped in the crypt
 - [[Session 001 - A Strange Acquaintance|IF · Session 001 - A Strange Acquaintance]] *(Inner Fire)*: mentioned in Nyra's story as the sailor who led the mutiny on the slave ship
 - [[Session 005 - A Day of Memories|IF · Session 005 - A Day of Memories]] *(Inner Fire)*: Nyra tells Robin that a man named Axel accidentally saved her
+%% /auto:appearances %%
 
 ## Gallery
 ![[Characters - Axel 2.png|400]]

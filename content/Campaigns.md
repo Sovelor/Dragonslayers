@@ -18,9 +18,9 @@ The five D&D campaigns of **Threads of Fate**, numbered in the order of the worl
 |---|---|---|---|
 | C1 | [[Fate-Touched]] | [[Οι Εκλεκτοί της Μοίρας]] | told in the manuscript |
 | C2.1 | [[Old Shadows]] | [[Παλιές Σκιές]] | 1–2, 29–30 |
-| C2.2 | [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 1–4, 13 |
+| C2.2 | [[Ancient Blood]] | [[Αρχαίο Αίμα]] | 1–4, 13–14 |
 | C2.3 | [[Inner Fire]] | [[Εσωτερική Φωτιά]] | 1, 3–8, 12 |
-| C2.4 | [[A New Beginning]] | [[Μια Νέα Αρχή]] | 1–2, 4–6, 9 |
+| C2.4 | [[A New Beginning]] | [[Μια Νέα Αρχή]] | 1–2, 4–10 |
 
 ## Beyond the campaigns
 - [[Side Stories]]: one-shots and campaigns played by other groups in the same world.

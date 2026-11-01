@@ -24,10 +24,14 @@ A new cleric of the Brotherhood of Light on her first mission: to find out what 
 In Brook Hollow (Session 2) she took and equipped a masterwork Dwarven warhammer from Colbie Strongarm's smithy; her vision showed the mausoleum as the source of the evil. %% src:NB-S002b d9 %%
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning]]: first mission from Lady Lavern; casts *omen of peril* and sees a vision of death and blood
 - [[Session 002 - The Mausoleum of Brook Hollow]]: senses the Shadowlands in Brook Hollow
 - [[Session 006 - Elizium's Second Chance]]: heals Elizium and Ezariel after the mimic fight; takes the next watch
+- [[Session 007 - Selina's Omen]]: her *Omen of Peril* shows her the king killing his friends
 - [[Session 009 - Echoes, the Road Back]]: recalled by High Lady Lavern; sets Edric's knighthood in motion
+- [[Session 010 - Leaving Tethiamar]]: tells Edric and Ezariel she wants them around as friends; her *Silence* helps beat the satyr
+%% /auto:appearances %%
 
 ## Links
 - [[A New Beginning]] · [[Edric]] · [[Ezariel]] · [[Azhyra]] · [[Lady Lavern]]

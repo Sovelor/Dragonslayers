@@ -19,6 +19,11 @@ tags:
 ## Summary
 [[Melda]] and [[Vaalrath]] flew here to report to Lavinia after the fight on the [[Blue Nymph]].
 
+## Notable persons
+%% auto:notable-persons %%
+- [[Lavinia Vander]]: Member of the Vander family · ally of the party
+%% /auto:notable-persons %%
+
 ## Appearances
 - [[Session 013 - The Vander Legacy]]: Melda and Vaalrath report to Lavinia
 

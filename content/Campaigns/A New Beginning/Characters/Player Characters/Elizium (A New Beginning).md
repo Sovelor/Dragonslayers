@@ -27,13 +27,21 @@ movedFrom:
 ## Summary
 An elf warrior-mage who knew the road and offered the party safe passage to Brook Hollow in Session 1. He blew up the church in Session 2, and in Session 5 teased [[Ezariel]] with an ogre's poop and pocketed a gem from the pile. In Session 9 he opened the fight against the ettercaps with nonstop alchemist's fire (*"I'm just gonna throw more fire."*) and was knocked unconscious and nearly eaten. He plans to start a tobacco business with [[Azhyra]]. Seen in [[Nenya]]'s vision in *Ancient Blood*, carrying the same rune-marked [[Hourglass of Time]].
 
+## Notable items
+- **Small bag of holding**, found in the ruins of the Life-giving Prince %% src:NB-S008 d10 %%
+
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning]]: offers the party safe passage to Brook Hollow
 - [[Session 002 - The Mausoleum of Brook Hollow]]: blows up the church
 - [[Session 005 - The Ogre Poop and Dick Incident]]: teases Ezariel with the ogre's poop; finds a gem
 - [[Session 006 - Elizium's Second Chance]]: hurt by the mimics; lets the party search his belongings; tells Ezariel what he remembers and shows her the hourglass
+- [[Session 007 - Selina's Omen]]: saves Edric from a trap
+- [[Session 008 - Mirror Mirror on the Wall]]: sees only himself in the mirrors; finds a bag of holding
 - [[Session 009 - Echoes, the Road Back]]: starts the ettercap fight with alchemist's fire; knocked unconscious
+- [[Session 010 - Leaving Tethiamar]]: tries to get a scabbard for Trusty; his *Pyrotechnics* helps beat the satyr
 - [[Session 013 - The Vander Legacy|AB · Session 013 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
+%% /auto:appearances %%
 
 ## Links
 - [[A New Beginning]] · [[Mahaya (Lord of Time)]] · [[Elizium]] *(saga)*

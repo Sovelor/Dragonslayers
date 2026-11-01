@@ -33,12 +33,12 @@ movedFrom:
 **Appearance (at the start of the saga):** About 20, stocky and not very tall; short brown hair, brown eyes, little beard; heavy chain mail, warhammer and heavy wooden shield
 
 ## Summary
-Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to Lonlywood.
+Badinga is one of the three party leads. Meets [[Elizium]] in the [[Abandoned Fortress]] during a snowstorm ([[The Dragonslayers Saga - Story Timeline#Prologue|Prologue]]). Later travels with [[Garpask Losark]] after Elizium's death, and forms an alliance with [[Gaston Lentinson]] and [[Mahaya]] on the road to Lonelywood.
 
 In the years that follow he becomes an artisan blacksmith, a Knight of the Light of the [[Brotherhood of Light]] (now retired) and, with Garpask, Mahaya and [[Allalme Dragonborn]], one of the oldest members of the Dragonslayers. The Shadow Fiend, a Shadow Sword of Garagos, gives him the essence of Garagos and makes him one of the three Fate-Touched.
 
 ## Character beats
-- Left his village, Eastside (Ίστσάιντ), telling others he wants to become a brave warrior who helps those in need. He keeps the main reason to himself: his love for **Jennifer** (Τζένιφερ), and the knowledge that they could never be together.
+- Left his village, Eastside (Ίστσάιντ), telling others he wants to become a brave warrior who helps those in need. He keeps the main reason to himself: his love for [[Jennifer]] (Τζένιφερ), and the knowledge that they could never be together.
 - Has an unshakeable "bad feeling" instinct — convinces Garpask to keep moving before making camp the night they meet Gaston and Mahaya. Unclear if it's honed instinct or lingering trauma from Elizium's death.
 - Plays along with a cover story about Elizium ("he sacrificed himself to save us") when talking to strangers — a small but telling beat about performing grief while it's still raw.
 - Trusts Mahaya almost instantly once battle plans are being made, despite having known him minutes.
@@ -50,7 +50,7 @@ In the years that follow he becomes an artisan blacksmith, a Knight of the Light
 > Alive, active party member. Currently mid-Part Two in the story.
 
 ## Appearance
-About 35 now: stocky and not very tall, with short brown hair, brown eyes and a little beard. A big burn mark covers the upper right corner of his face and reaches his right eye, without blinding it. He wears full plate of mithral and a Cloak of Resistance, with a Belt of Giant Strength and Boots of Movement, and fights with a magical greatsword.
+About 35 now: stocky and not very tall, with short brown hair, brown eyes and a little beard. A big burn mark covers the upper right corner of his face and reaches his right eye, without blinding it. He wears full plate of mithral and a Cloak of Resistance, with a Belt of Draconic Heritage and Boots of Movement, and fights with a magical greatsword.
 
 ## Personality
 Kind and proud, Badinga always tries to help whoever is in need. He is shy but firm, and would gladly sacrifice himself to save his friends and companions. He always seems sleepy, and speaks little, in a low voice and with a northern accent.
@@ -59,11 +59,11 @@ Kind and proud, Badinga always tries to help whoever is in need. He is shy but f
 - **Flaw:** he doesn't feel good about himself. He thinks he is not enough, and keeps looking for ways to change what he is.
 
 ## Background
-Born in the settlement of Eastside, Badinga grew up in hard conditions in the northernmost parts of Faerûn, helping his family get by. His godfather **Bjorn** trained him in battle and in the techniques of the dwarven warriors, in blacksmithing, and in recognising and understanding rocks, minerals and metals.
+Born in the settlement of Eastside, Badinga grew up in hard conditions in the northernmost parts of Faerûn, helping his family get by. His godfather [[Bjorn]] trained him in battle and in the techniques of the dwarven warriors, in blacksmithing, and in recognising and understanding rocks, minerals and metals.
 
-Growing up he fell in love with his childhood friend **Jennifer**, the daughter of the local lord. Her parents never accepted him as her partner: they thought him unworthy to stand beside her. Embittered, Badinga decided to go far away, to forget Jennifer, to see the world and to become a great hero of Faerûn. His travels took him south, towards the city of Lonlywood, and on the way he met the companions with whom he would do great deeds and truly become the Heroes of Faerûn: [[Garpask Losark]], [[Mahaya]] and [[Allalme Dragonborn]]. Together they set out on a great journey to defeat the forces of evil and Fate herself, [[Atropos]].
+Growing up he fell in love with his childhood friend [[Jennifer]], the daughter of the local lord. Her parents never accepted him as her partner: they thought him unworthy to stand beside her. Embittered, Badinga decided to go far away, to forget Jennifer, to see the world and to become a great hero of Faerûn. His travels took him south, towards the city of Lonelywood, and on the way he met the companions with whom he would do great deeds and truly become the Heroes of Faerûn: [[Garpask Losark]], [[Mahaya]] and [[Allalme Dragonborn]]. Together they set out on a great journey to defeat the forces of evil and Fate herself, [[Atropos]].
 
-His parents, **Christopher and Helen Alpenrok**, died in retribution against him, after he and his party destroyed the ratmen's **Underground Laboratory** in Lonlywood: the ratmen attacked their home, and they were turned into grotesque mutants that attacked the party.
+His parents, **Christopher and Helen Alpenrok**, died in retribution against him, after he and his party destroyed the ratmen's **Underground Laboratory** in Lonelywood: the ratmen attacked their home, and they were turned into grotesque mutants that attacked the party.
 
 > [!info] Rumours and open mysteries
 > - It is said that he made a mistake when he believed that leaving would protect his allies from the forces of Garagos and of Garagos's mother, Atropos, the Fate.
@@ -74,16 +74,16 @@ His parents, **Christopher and Helen Alpenrok**, died in retribution against him
 - **Fears:** losing Jennifer; losing a fight; being weak.
 
 ## Relationships
-- **Jennifer**: his first and only love.
-- **Bjorn**: his teacher and godfather.
+- [[Jennifer]]: his first and only love.
+- [[Bjorn]]: his teacher and godfather.
 - **Christopher and Helen Alpenrok**: his parents (see *Background*).
 - [[Elizium]]: a traveller he met early in his journeys. Badinga watched him die saving him and Garpask, and the loss marked him deeply.
 - [[Garpask Losark]], [[Mahaya|Mahaya Vishan]] and [[Allalme Dragonborn]]: friends and companions, the first members of the party that would be named the Dragonslayers.
-- **Negnar Belmont** and **Bloodthrill**: friends and companions he met later in his journeys, when he arrived in Laskan.
+- **Negnar Belmont** and **Bloodthrill**: friends and companions he met later in his journeys, when he arrived in Luskan.
 - **Rasgul**: a friend and companion he met when the Dragonslayers tried to free **Maya**, Mahaya's sister, from the organization of **Bregan D'aerthe**.
 - [[Sovelor]]: a friend and companion he met and rescued during the hunt for **Carmilla**, in the **Ancient Home of the Belmonts**.
 - [[Lavern]] (Lavern Norphyra): captain, companion and friend. Badinga and the Dragonslayers helped her find the **Sacred Tomb of Eriador Belmont**.
-- **Essa**: a bard, friend and companion, who joined the Dragonslayers right after the death of Garpask at the hands of the **Arcane Brotherhood**. After a while he mysteriously vanished.
+- **Essa**: a bard once famous in **Evereska**, a friend and companion, who joined the Dragonslayers right after the death of Garpask at the hands of the **Arcane Brotherhood**. After a while he mysteriously vanished.
 
 ## Affiliations
 - **The Dragonslayers**: one of the founding members, the oldest of the party alongside Garpask, Mahaya and Allalme.
@@ -106,4 +106,4 @@ His parents, **Christopher and Helen Alpenrok**, died in retribution against him
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
 - [[Elizium]] · [[Garpask Losark]] · [[Mahaya]] · [[Gaston Lentinson]] · [[Allalme Dragonborn]] · [[Ancient Crypt]]
-- [[Sovelor]] · [[Lavern]] · [[Atropos]] · [[Brotherhood of Light]] · [[Sword of Garagos]]
+- [[Sovelor]] · [[Lavern]] · [[Atropos]] · [[Brotherhood of Light]] · [[Sword of Garagos]] · [[Bjorn]] · [[Jennifer]]

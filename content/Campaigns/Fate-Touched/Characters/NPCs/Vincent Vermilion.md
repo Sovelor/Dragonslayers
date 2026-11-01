@@ -28,7 +28,7 @@ tags:
 **Facts:** Human, later a good outsider · Fighter (as a mortal); Champion of the Balance and Harbinger of the Moon · he/him · 40 as a mortal · Neutral Good · from Waterdeep · languages: Common, Elvish, Celestial, Sylvan
 
 ## Summary
-Vincent was a fighter in a second group that met [[Allalme Dragonborn|Allalme]], [[Badinga Alpenrok|Badinga]], [[Garpask Losark|Garpask]] and [[Mahaya]] in the city of Lonlywood, under the command of Lieutenant Lavern. His group walked a different path from the Dragonslayers, but he fell in love with Allalme. Fate brought them together many times: as companions, as friends, as allies and as lovers. After Allalme's Ascension he became Her Champion and Harbinger of Her teachings. He can be found in the **Great Forests Plane**, the plane of existence Allalme created during her Ascension, where he followed his Lady. He is friendly to the party.
+Vincent was a fighter in a second group that met [[Allalme Dragonborn|Allalme]], [[Badinga Alpenrok|Badinga]], [[Garpask Losark|Garpask]] and [[Mahaya]] in the city of Lonelywood, under the command of Lieutenant Lavern. His group walked a different path from the Dragonslayers, but he fell in love with Allalme. Fate brought them together many times: as companions, as friends, as allies and as lovers. After Allalme's Ascension he became Her Champion and Harbinger of Her teachings. He can be found in the **Great Forests Plane**, the plane of existence Allalme created during her Ascension, where he followed his Lady. He is friendly to the party.
 
 ## Appearance
 Hazel eyes; short dark hair streaked with grey, especially around the temples and the top of his head; a neatly trimmed beard and moustache, also greying. Strong, mature features, a steady, determined gaze and scars on his face. Powerful and broad-shouldered, the build of a veteran fighter.
@@ -62,7 +62,7 @@ When Allalme was taken by the forces of [[Atropos]] and held prisoner, Vincent j
 
 ## Affiliations
 - **Allies:** the Circle of the Moon / Circle of Allalme · the Brotherhood of Light (member; former Knight of the Light) · the Order of Freedom · the Arcane Brotherhood · the Edge of Banishment
-- **Enemies:** [[Atropos]] (main enemy) · the Sons of Atropos: Asmodeus, Garagos and Eliphaz (arch-enemies) · the Lords of Shadows Cornel, Carmila and Zobek · the Church of Shar · the Daemonfey · Ilselsine
+- **Enemies:** [[Atropos]] (main enemy) · the Sons of Atropos: Asmodeus, Garagos and Eliphaz (arch-enemies) · the Lords of Shadows Cornel, Carmilla and Zobek · the Church of Shar · the Daemonfey · Ilselsine
 
 ## Notable items
 - **Dark Angel Plate**: adamantine full plate with black wings

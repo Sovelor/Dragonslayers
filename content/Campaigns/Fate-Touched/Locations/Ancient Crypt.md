@@ -16,7 +16,7 @@ movedFrom:
 > [!warning] Spoilers
 > Reveals the end of *Fateful Meeting* and *The Elf with the Purple Hair* in Part Two.
 
-**Role / Appears in:** Hidden complex deep inside a mountain on the [[Road to Lonlywood]]. Part Two, *Fateful Meeting* and *The Elf with the Purple Hair*.
+**Role / Appears in:** Hidden complex deep inside a mountain on the [[Road to Lonelywood]]. Part Two, *Fateful Meeting* and *The Elf with the Purple Hair*.
 
 ## Summary
 While sheltering from a storm in a cave, the party finds a hidden stone door. Behind it an old tunnel leads deep into the mountain to a sealed complex, where [[Badinga Alpenrok]], [[Garpask Losark]] and [[Mahaya]] find [[Allalme Dragonborn]] asleep on an altar. [[Gaston Lentinson]] stays outside in the cave to guard the goods. Garpask recognises the place from a vision his father [[Frederick Frostfire]] showed him months before.
@@ -38,4 +38,4 @@ While sheltering from a storm in a cave, the party finds a hidden stone door. Be
 > - Who or what was following them in the tunnel.
 
 ## Links
-- [[Road to Lonlywood]] · [[Allalme Dragonborn]] · [[Frederick Frostfire]] · [[Garpask Losark]] · [[Mahaya]] · [[Badinga Alpenrok]] · [[Gaston Lentinson]] · [[The Dragonslayers Saga - Story Timeline]]
+- [[Road to Lonelywood]] · [[Allalme Dragonborn]] · [[Frederick Frostfire]] · [[Garpask Losark]] · [[Mahaya]] · [[Badinga Alpenrok]] · [[Gaston Lentinson]] · [[The Dragonslayers Saga - Story Timeline]]

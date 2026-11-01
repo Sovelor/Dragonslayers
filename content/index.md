@@ -31,7 +31,7 @@ Welcome to the wiki of **Threads of Fate**, our D&D project. It spans five campa
 - [[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]]
 
 ### Major locations
-- [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonlywood]]
+- [[The Void]] · [[Abandoned Fortress]] · [[Snowy Path]] · [[Forest Camp]] · [[Road to Lonelywood]]
 - [[Ancient Crypt]]
 
 ### Lore

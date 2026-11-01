@@ -61,6 +61,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - **[[Selina]]:** the leader of his first mission, his superior and sponsor; he thinks very highly of her and her authority even though she is a young prodigy
 - **[[Elizium (A New Beginning)|Elizium]]:** tries to be a bad-influence mentor to him, but Edric sees the good in him
 - **[[Azhyra]]:** party member
+- **Ferith**, **Scioh** and **Wolly**: three siblings of the Saiyaddar Guard, his childhood friends and colleagues; the party saved them from a satyr %% src:NB-S010 d12 %%
 
 ## Affiliations
 - **Brotherhood of Light:** recruit; Selina will propose him for knighthood
@@ -78,9 +79,14 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 > *(Whatever Mrs. Selina says.)*
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning]]: joins the party to protect Selina and Azhyra
 - [[Session 006 - Elizium's Second Chance]]: climbs the pool staircase first, against Ezariel's advice; meets the Illumian Lyira
+- [[Session 007 - Selina's Omen]]: sets off a trap and is saved by Elizium at the last moment
+- [[Session 008 - Mirror Mirror on the Wall]]: looks into the traitor's mirror unharmed and gains a boost
 - [[Session 009 - Echoes, the Road Back]]: poisoned and paralysed by the ettercaps; says *Merthuvial* in his sleep; Trusty becomes a +1 longsword; Selina will propose him for knighthood
+- [[Session 010 - Leaving Tethiamar]]: asks to be dismissed; drives the carriage to Saiyaddar; his offering earns Mielikki's blessing
+%% /auto:appearances %%
 
 ## Links
 - [[A New Beginning]] · [[Selina]] · [[Ezariel]] · [[Azhyra]] · [[Elizium (A New Beginning)|Elizium]]
