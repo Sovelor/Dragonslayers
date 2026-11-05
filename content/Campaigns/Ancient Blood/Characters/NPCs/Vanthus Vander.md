@@ -27,7 +27,7 @@ movedFrom:
 
 
 ## Summary
-According to [[Mumzar]], he often visited [[Terraknian Island]] with his wife [[Rowin]]. The party suspects him of raiding the Vander vault: gold was missing, a potion's bottles lay broken, and one lock of the inner safe was already open. Some believe he may be dead.
+According to [[Mumzar]], he often visited [[Terraknian Island]] with [[Rowyn|Rowyn Kellani]], who introduced herself as his wife. The party suspects him of raiding the Vander vault: gold was missing, a potion's bottles lay broken, and one lock of the inner safe was already open. Some believe he may be dead.
 
 Twin brother of [[Lavinia Vander]]; their parents, Verik and Larissa Vander, died recently in strange circumstances. He left the [[Vander Manor]] several months ago and his trail was lost in the city of Daggerford. Finding him and discovering what he is up to is the main purpose of the mission Lavinia gives the heroes. In a room full of heroes, Vanthus is the one who draws the eye; in a room full of villains, he is the one who makes the rest wonder who is really at the top. When he smiles, no one is entirely sure whether they have just won a friend or made a very dangerous enemy.
 
@@ -51,7 +51,7 @@ Vanthus vanished from the [[Vander Manor]] several months ago, abandoning his fa
 > - Why did he lure and trap the group searching for him on Parrot Island?
 
 ## Relationships
-- [[Rowin|Rowyn Kellani]]: his companion and ally, who introduced herself to [[Mumzar]] as his wife; he seems to share some kind of bond with her, and rumour says they are lovers
+- [[Rowyn|Rowyn Kellani]]: his companion and ally, who introduced herself to [[Mumzar]] as his wife; he seems to share some kind of bond with her, and rumour says they are lovers
 - **Penkous**: a smuggler known in the disreputable parts of Daggerford, who seems to have been working with him lately
 - **Astriel Shalyn**: an enemy. She seems to want to help Lavinia, while Vanthus reportedly wants the Vander fortune for himself and uses deceitful means
 
@@ -66,4 +66,4 @@ Vanthus vanished from the [[Vander Manor]] several months ago, abandoning his fa
 %% /auto:appearances %%
 
 ## Links
-- [[Ancient Blood]] · [[Lavinia Vander]] · [[Rowin]]
+- [[Ancient Blood]] · [[Lavinia Vander]] · [[Rowyn]]

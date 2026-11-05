@@ -21,7 +21,7 @@ tags:
 [[Vaalrath]] · [[Melda]] · [[Nenya]] · [[Axel]] · [[Jareth]] · [[Seraphiel]] · [[Ulf the Northman]]
 
 ## NPCs
-[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowin]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]] · [[Irewin]] · [[Ualeyn]] · [[Aurora Drabek]] · [[Liga]] · [[Panchie]] · [[Shefton Rosk]]
+[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowyn]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]] · [[Irewin]] · [[Ualeyn]] · [[Aurora Drabek]] · [[Liga]] · [[Panchie]] · [[Shefton Rosk]]
 
 ## Sessions
 - [[Session 001 - Ancient Blood, the Beginning]] · 2024-10-12

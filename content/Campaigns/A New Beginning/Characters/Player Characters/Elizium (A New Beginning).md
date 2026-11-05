@@ -39,7 +39,7 @@ An elf warrior-mage who knew the road and offered the party safe passage to Broo
 - [[Session 007 - Selina's Omen]]: saves Edric from a trap
 - [[Session 008 - Mirror Mirror on the Wall]]: sees only himself in the mirrors; finds a bag of holding
 - [[Session 009 - Echoes, the Road Back]]: starts the ettercap fight with alchemist's fire; knocked unconscious
-- [[Session 010 - Leaving Tethiamar]]: tries to get a scabbard for Trusty; his *Pyrotechnics* helps beat the satyr
+- [[Session 010 - Leaving Tethiamar]]: buys a scabbard for Trusty; his *Pyrotechnics* helps beat the satyr
 - [[Session 013 - The Vander Legacy|AB · Session 013 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
 %% /auto:appearances %%
 

@@ -31,7 +31,7 @@ Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the 
 
 At noon the next day the heroes sailed the Blue Nymph through the [[Daggerford]] strait into the harbour, deliberately in broad daylight to make a statement, with [[Jareth]] playing sailor songs. Not everyone in port was pleased. Thanks to [[Axel]]'s experience as a sailor they got the ship out of its hideout and moored it in the harbour, then hired new sailors with his help. Lavinia then asked them to escort her to [[Terraknian Island]], where the family vault holds the title deeds to her property.
 
-There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowin]], and had already opened the vault. Vanthus was supposed to be dead; learning he was alive, Lavinia at first seemed in an odd mood, then suddenly grew quite happy. Past a series of puzzle doors, two **Force Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
+There the estate's caretaker, [[Mumzar]], told them that Lavinia's brother [[Vanthus Vander]] had been visiting the island often with his wife, [[Rowyn]], and had already opened the vault. Vanthus was supposed to be dead; learning he was alive, Lavinia at first seemed in an odd mood, then suddenly grew quite happy. Past a series of puzzle doors, two **Force Golems** guarding the vault scanned the party and marked them as enemies: they identified Vaalrath as an *Illumian* and Nenya as "an extremely dangerous Sun Elf who must be destroyed". The party chose not to fight. They stepped back and used *Mage Hand* to present Lavinia's ring and shut the golems down.
 
 Inside, **much of the vault's gold was missing**. Lavinia did recover the ownership documents she had come for. In a smaller chamber they found only the broken bottles of a *Potion of Cat's Grace*. The smaller safe had two locks: one already open, one still sealed. The ring opened the sealed lock, and inside lay an hourglass that looked empty.
 
@@ -45,7 +45,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 3. Melda and Vaalrath reported to [[Lavinia Vander]]; Vaalrath returned her father's ring and the gold
 4. [[Seraphiel]], Melda's cousin, joined the party
 5. Got the ship out of its hideout with Axel's seamanship and sailed it through the [[Daggerford]] strait into the harbour in broad daylight; hired new sailors
-6. Escorted Lavinia to [[Terraknian Island]]; [[Mumzar]] revealed Vanthus's frequent visits with [[Rowin]]
+6. Escorted Lavinia to [[Terraknian Island]]; [[Mumzar]] revealed Vanthus's frequent visits with [[Rowyn]]
 7. Two Force Golems marked the party as enemies; shut down with Lavinia's ring via *Mage Hand*, with no combat
 8. Opened the vault: much of the gold was missing; Lavinia found her ownership documents; only broken bottles of a Potion of Cat's Grace left
 9. The ring opened the sealed lock of the inner safe, revealing the [[Hourglass of Time]]
@@ -66,7 +66,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - [[Elizium (A New Beginning)|Elizium]] (elf) and [[Meive]] (halfling): Mahaya's other two chosen, seen in the vision. They are player characters in *A New Beginning* (Elizium) and *Inner Fire* (Meive). A faceless black shadow was with them.
 - **The harbourmaster**, who did not want the ship found
 - **New sailors**, hired with Axel's help
-- *Mentioned:* [[Vanthus Vander]] (Lavinia's brother, believed dead) and his wife [[Rowin]], frequent visitors to the island
+- *Mentioned:* [[Vanthus Vander]] (Lavinia's brother, believed dead) and his wife [[Rowyn]], frequent visitors to the island
 
 ## Places
 - [[Terraknian Island]]: private vault island and estate of the Vander family
@@ -91,7 +91,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - [x] Escort Lavinia to the Vander vault
 - [ ] Help Lavinia find out what happened to her family and her brother
 - [ ] Return to Astriel when this is done
-- [ ] Where is [[Vanthus Vander]]? Why did he keep visiting the island with [[Rowin]]?
+- [ ] Where is [[Vanthus Vander]]? Why did he keep visiting the island with [[Rowyn]]?
 - [ ] What happened to the previous archduke, [[Peeweed Daggerford]]?
 - [ ] Who are the [[Lotus Dragons]]?
 - [ ] Who is [[Madagar Bugo]], and who are his accomplices?
@@ -131,7 +131,7 @@ The session ended with an alliance sealed with Lavinia, and through her with the
 - The Vander parents might still be alive. *(2 players)*
 - [[Vanthus Vander]] raided the vault: the missing gold and the broken bottles. *(the party)*
 - Vanthus is probably dead.
-- Vanthus's wife, [[Rowin]], is behind a lot of things.
+- Vanthus's wife, [[Rowyn]], is behind a lot of things.
 - Vanthus killed his own parents, knowing his sister could do nothing about it, but he didn't count on the party. *(Jareth's player)*
 
 ## Title suggestions

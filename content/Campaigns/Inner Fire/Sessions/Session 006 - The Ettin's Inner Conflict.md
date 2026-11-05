@@ -22,7 +22,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 006 - Η Εσωτερική Σύγκρουση του Έτιν]]
 
 ## Recap
-The party soon found an **orc camp** on the path. They fought and won, with Skythane's help, then moved on and reached the **old tower** at night, but nobody was there. They went in and made a quick search for information, until they heard the **ettin** approaching from outside. In the fight [[Nyra]] and [[Grafin]] stood in close combat while [[Lenor|Lenόre]] and [[Meive]] fought from a distance. The party soon realised that one of the ettin's heads was the missing priest, **Circu**, slowly losing his intelligence and merging with the creature's form. Lenόre fascinated the creature with a magical plasmatic light while the rest of the party tried to knock out the second, evil head. Circu helped by finally decapitating the evil head, but passed out in the process. Nyra stabilised him and Grafin cauterised the wound, and they let him rest.
+The party soon found an **orc camp** on the path. They fought and won, with Skythane's help, then moved on and reached the **old tower** at night, but nobody was there. They went in and made a quick search for information, until they heard the **ettin** approaching from outside. In the fight [[Nyra]] and [[Grafin]] stood in close combat while [[Lenor|Lenόre]] and [[Meive]] fought from a distance. The party soon realised that one of the ettin's heads was the missing priest, **Circu**, slowly losing his intelligence and merging with the creature's form. Lenόre fascinated the creature with a magical plasmatic light while the rest of the party tried to knock out the second, evil head. Circu helped the party by trying to control his evil head, and Grafin, making the most of that precious help, beheaded it. The ettin passed out; Nyra stabilised Circu and Grafin cauterised the wound, and they let him rest.
 
 While he rested, the party searched the place and found a **journal of Mira**. It said that the ettin was a distraction: her true aim was to find a sect called the **Followers of the Flame**. Rumour had it that previous heroes had trapped them in a prison world, sealing them inside their own secret pocket world. The secret door was a **shield** that had belonged to the first powerful champion, the **Red Knight**, bearing the symbol of the **Harbinger**. The Harbinger herself had given Mira the mission *"free my chosen ones"*, and Mira would become a member. The Followers are indeed trapped in a pocket dimension, and the Red Knight was the previous Chosen of the Flame, who failed (DM).
 
@@ -36,13 +36,16 @@ The same day the party feasted for saving the village, and Lenόre received the 
 1. An orc camp on the path, defeated with Skythane's help
 2. The empty old tower at night; the ettin returns
 3. The fight: Nyra and Grafin close in, Lenόre and Meive at range; one head is the missing priest Circu
-4. Circu beheads the evil head and passes out; Nyra stabilises him, Grafin cauterises the wound
+4. Grafin beheads the evil head and the ettin passes out; Nyra stabilises Circu, Grafin cauterises the wound
 5. Mira's journal: the ettin was a distraction; the Followers of the Flame, the prison world and the Red Knight's shield
 6. A paladin's spirit leads the party to his body; the party needs a cleric
 7. Circu's story: Mira's experiment, Tyr's abandonment, the temple of Allalme at New Keep
 8. Nyra and Circu pray together; the paladin's spirit is freed; Lenόre's scroll lifts Circu's curse
 9. The return to the village, the feast and Lenόre's first recipe
 10. The shield is found to be a cursed attraction at a road motel
+
+> [!warning] Conflicting accounts
+> - **The evil head:** the session log has Circu behead it and pass out; a correction sent through the wiki says Grafin beheaded it while Circu tried to hold it back. The correction is used.
 
 ## NPCs met
 - **Circu**: the missing priest, a cleric of Tyr (DM) cursed by mysterious forces to become an ettin, turned into one of its heads by Mira's experiment; now a cleric of Allalme; taken in by [[Robin]]

@@ -66,7 +66,7 @@ She wants to preserve her family's good name and to be reunited with Vanthus, th
 - Heir to the fortune and the name of the Vanders
 
 ## Notable items
-- **The Heritage Ring** of her father, Verik Vander
+- **The Heritage Ring** of her father, Verik Vander (not the same ring as their mother's Vander ring)
 
 ## Appearances
 %% auto:appearances %%
