@@ -31,7 +31,7 @@ tags:
 ## Summary
 A human Northman of the **Raven Clan** who wants revenge on his father and to claim the leadership of the clan.
 
-A human fighter who was travelling along the foothills of the Troll Mountains when the mountain exploded. He joined forces with the half-orc [[Liga]], and together they found the Hatchery and freed [[Melda]] and [[Nenya]]. He is no longer in the party: he was the first character of [[Axel]]'s player, and he has died.
+A human fighter who was travelling along the foothills of the Troll Mountains when the mountain exploded. He joined forces with the half-orc [[Liga]], and together they found the Hatchery and freed [[Melda]] and [[Nenya]]. He is no longer in the party: he was the first character of [[Axel]]'s player, and he died at the hands of the **Seer of Blood**.
 
 ## Appearance
 Dark blond hair, green eyes and fair skin. He wears medium armour with a woolly rhino hide for warmth, and speaks with a northern accent. His chest bears the giant X his father cut into it.

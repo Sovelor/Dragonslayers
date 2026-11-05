@@ -50,7 +50,7 @@ In the years that follow he becomes an artisan blacksmith, a Knight of the Light
 > Alive, active party member. Currently mid-Part Two in the story.
 
 ## Appearance
-About 35 now: stocky and not very tall, with short brown hair, brown eyes and a little beard. A big burn mark covers the upper right corner of his face and reaches his right eye, without blinding it. He wears full plate of mithral and a Cloak of Resistance, with a Belt of Draconic Heritage and Boots of Movement, and fights with a magical greatsword.
+About 35 at the end of the campaign: stocky and not very tall, with short brown hair, brown eyes and a little beard. A big burn mark covers the upper right corner of his face and reaches his right eye, without blinding it. He wears full plate of mithral and a Cloak of Resistance, with a Belt of Draconic Heritage and Boots of Movement, and fights with a +3 magical sword.
 
 ## Personality
 Kind and proud, Badinga always tries to help whoever is in need. He is shy but firm, and would gladly sacrifice himself to save his friends and companions. He always seems sleepy, and speaks little, in a low voice and with a northern accent.
@@ -63,7 +63,7 @@ Born in the settlement of Eastside, Badinga grew up in hard conditions in the no
 
 Growing up he fell in love with his childhood friend [[Jennifer]], the daughter of the local lord. Her parents never accepted him as her partner: they thought him unworthy to stand beside her. Embittered, Badinga decided to go far away, to forget Jennifer, to see the world and to become a great hero of Faerûn. His travels took him south, towards the city of Lonelywood, and on the way he met the companions with whom he would do great deeds and truly become the Heroes of Faerûn: [[Garpask Losark]], [[Mahaya]] and [[Allalme Dragonborn]]. Together they set out on a great journey to defeat the forces of evil and Fate herself, [[Atropos]].
 
-His parents, **Christopher and Helen Alpenrok**, died in retribution against him, after he and his party destroyed the ratmen's **Underground Laboratory** in Lonelywood: the ratmen attacked their home, and they were turned into grotesque mutants that attacked the party.
+His parents, **Christopher and Helen Alpenrok**, died in retribution against him, after he and his party destroyed the ratmen's **Underground Laboratory** in Lonelywood: the ratmen attacked their home and turned them into grotesque mutants, which attacked the party.
 
 > [!info] Rumours and open mysteries
 > - It is said that he made a mistake when he believed that leaving would protect his allies from the forces of Garagos and of Garagos's mother, Atropos, the Fate.

@@ -1,5 +1,5 @@
 ---
-title: "Rowin"
+title: "Rowyn Kellani"
 campaign: Ancient Blood
 lang: en
 translation: "[[Ρόουιν]]"
@@ -12,16 +12,17 @@ tags:
   - lang/en
 movedFrom:
   - "Campaigns/Ancient Blood/Characters/Rowin"
+  - "Campaigns/Ancient Blood/Characters/NPCs/Rowin"
 ---
 
-# Rowin
+# Rowyn Kellani
 
 > [!abstract] Ελληνικά → [[Ρόουιν]]
 
-**Role:** Wife of [[Vanthus Vander]]
+**Role:** Companion and ally of [[Vanthus Vander]], who introduced herself as his wife
 
 ## Summary
-Visited [[Terraknian Island]] often with Vanthus. Player theory: she is behind a lot of things.
+Visited [[Terraknian Island]] often with Vanthus; she introduced herself to [[Mumzar]] as his wife. She has a dinosaur companion. Player theory: she is behind a lot of things.
 
 ## Appearances
 %% auto:appearances %%

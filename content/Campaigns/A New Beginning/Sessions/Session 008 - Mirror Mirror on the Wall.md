@@ -33,7 +33,7 @@ They then found a trap hatch in the floor with a badly hurt woman inside. They r
 
 Further in they met some spiders. Elizium, ever willing to set things on fire, burned the room right before the door closed; he killed all the spiders and hurt no one. In the charcoal-coated room he found a small **bag of holding**.
 
-The next room held tapestries and intricate murals that continued the story of the prince, and then came two rooms like memorials or prisons, built for the prince's friend and for his wife. The woman's tomb was pierced with swords, as if someone had tried to keep her inside. The other was empty. In the next room the party found the prince's friend, sitting on a throne, cursed to go on living, but barely. In pain, he told them he was the one who had betrayed the prince: he had loved the prince's wife and killed him, and the prince's followers then caught him and cursed him to suffer forever as punishment.
+The next room held tapestries and intricate murals that continued the story of the prince, and then came two rooms like memorials or prisons, built for the prince's friend and for his wife. The woman's tomb was pierced with swords, as if someone had tried to keep her inside. The other was empty. In the next room the party found the prince's friend, who has no name now and is called **the Betrayer**, sitting on a throne, cursed to go on living, but barely. In pain, he told them he was the one who had betrayed the prince: he had loved the prince's wife and killed him, and the prince's followers then caught him and cursed him to suffer forever as punishment.
 
 As he told his story, [[Ezariel]] tried to sneak around the room to find the Illumians, but the traitor saw her and stood up, ready to fight. Before him stood a mirror that gave him sight over the dungeon and drove mad whoever looked into it. [[Edric]] looked, but nothing bad happened; he even gained a boost that upset the traitor, and the party killed him.
 
@@ -53,8 +53,8 @@ That night Ezariel was extremely irritated at the amount of danger she had been 
 9. The ghost of the Life-giving Prince asks "what is a hero" and is satisfied with their answers
 
 ## NPCs met
-- **The prince's friend**, the traitor: killed the prince for love of his wife; cursed by the prince's followers to live on in pain; killed by the party
-- **The badly hurt woman**, last of the team hired by the Illumian at the inn
+- **The Betrayer**, the prince's friend, who has no name now: killed the prince for love of his wife; cursed by the prince's followers to live on in pain; killed by the party
+- **The badly hurt woman**, last of the team hired by the Illumian at the inn; she never told the party her name
 - [[The Illumians]], found in the final room
 - **The ghost of** [[King Theron|the Life-giving Prince]]
 
@@ -63,7 +63,7 @@ That night Ezariel was extremely irritated at the amount of danger she had been 
 
 ## Fights
 - **Spiders**: burned by Elizium, no one hurt
-- **The traitor**: killed by the party
+- **The Betrayer**: killed by the party
 - **The Illumians**, in the final room: the party prevailed
 
 ## Loot and rewards

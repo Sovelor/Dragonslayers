@@ -25,9 +25,9 @@ tags:
 ## Recap
 The party spent the night on [[Terraknian Island]], discussing their next moves with [[Lavinia Vander]]. [[Nenya]] told [[Melda]] about her vision, and Melda said that [[Mahaya (Lord of Time)|Mahaya]] was a member of the Dragonslayers, though no one knows where he is now. Melda later remembered that his surname is **Vishan**, which struck Nenya as strange, since she knew the Vishan family, one of the first of the Sun Elves, to be lost. Lavinia asked them to find her brother, [[Vanthus Vander]], and bring him to her, and to give him a message when they found him: *"the punch in the stomach has not been repaid yet"*. She added that he used to frequent the [[Azure District]].
 
-[[Axel]] spent the night aboard the [[Blue Nymph]], where the crew told him Vanthus had often been seen in [[Shadowshore]], the underworld's quarter. Melda explored the island flying in dragon form and found a small beach with a cave where someone had hidden a boat and supplies. The party went to look: the boat had the name **Rowin** carved on it, and on a fallen log by a dead fire was carved a dragon's head with a fruit in its mouth, the emblem of the [[Lotus Dragons]]. Fish bones lay around the coals. That night [[Vaalrath]] vanished, going into the book, and in the morning he could not come back out of its pages.
+[[Axel]] spent the night aboard the [[Blue Nymph]], where the crew told him Vanthus had often been seen in [[Shadowshore]], the underworld's quarter. Melda explored the island flying in dragon form and found a small beach with a cave where someone had hidden a boat and supplies. The party went to look: the boat had the name **Rowyn** carved on it, and on a fallen log by a dead fire was carved a dragon's head with a fruit in its mouth, the emblem of the [[Lotus Dragons]]. Fish bones lay around the coals. That night [[Vaalrath]] vanished, going into the book, and in the morning he could not come back out of its pages.
 
-The next day the party returned to the mainland to gather information, more purposefully this time. Nenya, Melda, [[Seraphiel]] and Axel went back to the inn and asked **Mira** about Shadowshore; she only told them that it is very dangerous and to be careful. [[Jareth]] went alone, and late at night he came back with a new lead. Some time ago Vanthus had been seen in the Azure District with a light-fingered woman, **Brissa Santos**. Three weeks ago he had been seen in Shadowshore with a dangerous smuggler, **Penkous**, whom many fear, and the two had been heard arguing fiercely with a dwarf shipowner, [[Panchie]], who owns a shipyard called [[It Still Floats]].
+The next day the party returned to the mainland to gather information, more purposefully this time. Nenya, Melda, [[Seraphiel]] and Axel went back to the inn and asked the innkeeper, **Mira**, about Shadowshore; she only told them that it is very dangerous and to be careful. [[Jareth]] went alone, and late at night he came back with a new lead. Some time ago Vanthus had been seen in the Azure District with a light-fingered woman, **Brissa Santos**. Three weeks ago he had been seen in Shadowshore with a dangerous smuggler, **Penkous**, whom many fear, and the two had been heard arguing fiercely with a dwarf shipowner, [[Panchie]], who owns a shipyard called [[It Still Floats]].
 
 The next day the party visited Panchie. He told them that Vanthus and Penkous had wanted to buy a ship and had used threats and blackmail. In the end he sold them a caravel, which they hurriedly crewed, filled with supplies and tools, and sailed west into the open sea. He also said that Penkous is the biggest smuggler around and that the Lotus Dragons are trying to take the reins in Shadowshore.
 
@@ -37,12 +37,12 @@ That evening at the inn, Nenya said she missed dancing. Jareth played a song tha
 
 The next day they sailed for Parrot Island. Jareth told Nenya that no one has ever heard of her surname. Shefton led them through the forest to a hidden hatch and told them that Vanthus and Penkous were inside. When everyone had gone down, Vanthus appeared above them and cut Shefton's throat mid-sentence, throwing him into the crypt from a height of about twenty metres. Then he shut the hatch, trapping Seraphiel, Melda, Nenya, Axel and Jareth inside. Only then did they understand that Shefton had been planted.
 
-They opened the tunnel door and found two more doors, left and right, with the sounds of undead behind them. **Chlapis** went through the left one and saw undead tattooed with the symbol of the [[Zhentarim]], and past the next door, undead in red cloaks and hats. There the session ended.
+They opened the tunnel door and found two more doors, left and right, with the sounds of undead behind them. **Chlapis**, whose Magic Blue Pearl Nenya was holding while Vaalrath was trapped in the book, went through the left one and saw undead tattooed with the symbol of the [[Zhentarim]], and past the next door, undead in red cloaks and hats. There the session ended.
 
 **Key beats**
 1. Nenya learns from Melda that Mahaya was a Dragonslayer and that his surname is Vishan, the name of a lost Sun Elf family
 2. Lavinia asks the party to find Vanthus and gives them a message for him
-3. Melda finds a hidden boat carved with Rowin's name and the Lotus Dragons' emblem
+3. Melda finds a hidden boat carved with Rowyn's name and the Lotus Dragons' emblem
 4. Vaalrath goes into the book and cannot come back out
 5. Jareth's lead: Vanthus with Brissa Santos in the Azure District and with the smuggler Penkous in Shadowshore
 6. Panchie sold Vanthus and Penkous a caravel, under threats
@@ -58,11 +58,11 @@ They opened the tunnel door and found two more doors, left and right, with the s
 
 ## NPCs met
 - [[Lavinia Vander]]: asked the party to find her brother
-- **Mira**: at the inn; warned them that Shadowshore is dangerous
+- **Mira**: the innkeeper; warned them that Shadowshore is dangerous
 - [[Panchie]]: dwarf shipwright and seller of ships and naval gear, owner of the shipyard It Still Floats
 - [[Shefton Rosk]]: half-elf beggar who led the party to Parrot Island; killed by Vanthus
 - [[Vanthus Vander]]: trapped the party in the crypt
-- *Mentioned:* [[Rowin]] · **Brissa Santos**, a light-fingered woman · **Penkous**, a dangerous smuggler · **Astriel Shalyn**
+- *Mentioned:* [[Rowyn|Rowyn Kellani]], who has a dinosaur companion · **Brissa Santos**, a light-fingered woman · **Penkous**, a dangerous smuggler · **Astriel Shalyn**
 
 ## Places
 - [[Terraknian Island]]: a small beach with a hidden cave, a boat and supplies
@@ -81,7 +81,7 @@ They opened the tunnel door and found two more doors, left and right, with the s
 - [ ] Find Vanthus and bring him back to Lavinia, or hand him over to the authorities
 - [ ] Get out of the crypt on Parrot Island
 - [ ] Who are the undead with Zhentarim tattoos and the undead in red cloaks and hats?
-- [ ] Who is Rowin, and what about her dinosaur?
+- [ ] Who is Rowyn Kellani, the woman with the dinosaur companion?
 - [ ] Build diplomatic ties with wealthy and respected citizens of Daggerford, to help **Astriel Shalyn** with her research
 - [ ] Find and stop the Shadow Network (the [[Zhentarim]]) in the region
 - [ ] How can Vaalrath come back out of the book?
