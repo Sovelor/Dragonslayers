@@ -27,6 +27,7 @@ A city whose **Undercity** lies below. [[Arta]] grew up there, believing her fat
 - [[Akis]]: [[Petros]]'s familiar, a rat
 - [[Arta]]: Member of the Incredible Six in *Old Shadows* (she/her) · daughter of [[Bjorn Brottdottir]] · godchild of High Priest [[Grukkag Duskmail]]
 - [[Petros]]: Member of the Incredible Six in *Old Shadows* (he/him) · survivor of the Collapse of Tunnel No. 5
+- [[Thalri]]: [[Petros]]'s sister · stands with the Prophet in *Old Shadows*
 %% /auto:notable-persons %%
 
 ## Appearances
