@@ -54,6 +54,8 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 
 The climbing wall beneath the Church of Shar was a trial for the Keepers' trainees, which Arta always won; she also knew the poisoned White Tunnel. The Keepers **Shaldi** and **Kirkold**, guards of the passage, were her companions during her training (Session 30). %% src:OS-S030 d12 %%
 
+**Kupra**, daughter of Grukkag, was Arta's childhood friend and called herself Arta's "sister", though Arta does not remember her; Kupra built a flesh golem in Arta's likeness and named it "Arta". Arta is slowly regaining pieces of her lost memory (Session 31). %% src:OS-S031 d13 %%
+
 ## Goals & fears
 - To uncover the truth of her forgotten childhood, recover her lost memories and learn what happened to her mother.
 - To confront Björn: why he hid so much, what part the Keepers played in her life, and whether anything of the father she once knew remains under his devotion to Shar.
@@ -88,6 +90,7 @@ The climbing wall beneath the Church of Shar was a trial for the Keepers' traine
 %% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: visits her closed childhood home; remembers the sacred cave; her father asks her to join him
 - [[Session 030 - Shar is Dead!]]: guides the Six through the Keepers' trials; finds that the statue of Shar in Ereg Tal's tomb has been replaced
+- [[Session 031 - The Fall of the Dragon!]]: slowly regains her memory; meets Kupra, her forgotten childhood friend, and her golem "Arta"; strikes Kupra down with her urgrosh
 %% /auto:appearances %%
 
 ## Gallery

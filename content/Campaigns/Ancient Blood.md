@@ -28,6 +28,7 @@ tags:
 - [[Session 002 - The Living Book and the Druid]] · 2024-06-07
 - [[Session 003 - The Betrayal]] · 2025-01-25
 - [[Session 004 - The Dark Fortress]] · 2025-04-12
+- [[Session 005 - Deeper into the Dungeon]] · 2025-11-21
 - [[Session 013 - The Vander Legacy]] · 2026-10-03
 - [[Session 014 - Vanthus's Trap]] · 2026-10-24
 

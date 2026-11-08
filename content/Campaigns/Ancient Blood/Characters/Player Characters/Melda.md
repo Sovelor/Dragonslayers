@@ -89,7 +89,7 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 
 ## Appearances
 %% auto:appearances %%
-- [[Session 001 - Ancient Blood, the Beginning]]: a star elf druid, member of the first party
+- [[Session 001 - Ancient Blood, the Beginning]]: a moon elf druid, member of the first party
 - [[Session 002 - The Living Book and the Druid]]: remembers her old group; an animal tells her the forest is sick
 - [[Session 003 - The Betrayal]]: Irewin turns out to know about her past
 - [[Session 013 - The Vander Legacy]]: reunited with her cousin Seraphiel

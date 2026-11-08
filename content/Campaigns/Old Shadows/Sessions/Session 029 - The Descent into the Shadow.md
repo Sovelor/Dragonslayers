@@ -86,7 +86,7 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 - [ ] Protect Splendarrmornn and its King, Tharek Ammarindar, from the Prophet's forces
 - [ ] The Prophet has her last component: what happens now?
 - [ ] What did Hecate show Aya about who she is and what she wants?
-- [ ] Why does Hecate call Petros "Rokgar"?
+- [ ] Why does Hecate call Petros "Rockgar"?
 - [ ] What is Arta's link to the sacred cave, and to her father's side?
 - [ ] Why could Aya's goddess not reach her in the tunnels?
 
@@ -102,8 +102,8 @@ Before anyone could fight, Hecate stunned them all, took Petros's familiar [[Aki
 > *("Enough! No more half-truths, riddles and fake mercy! Tell me now who you are and why you are doing all this!")*
 > — Aya to the Prophet
 
-> "Καλέ μου Ροκγκαρ, δεν χρειάζεται να υπάρξει μάχη. Δώσε μου απλά αυτό που μου ανήκει. Δεν χρειάζεται να πληρωθεί κανένας."
-> *("My dear Rokgar, there is no need for a fight. Just give me what belongs to me. No one needs to pay.")*
+> "Καλέ μου Ρόκγκαρ, δεν χρειάζεται να υπάρξει μάχη. Δώσε μου απλά αυτό που μου ανήκει. Δεν χρειάζεται να πληρωθεί κανένας."
+> *("My dear Rockgar, there is no need for a fight. Just give me what belongs to me. No one needs to pay.")*
 > — Hecate to Petros, asking him to give up Akis willingly
 
 > "Αυτή την φορά, Πέτρος ..... δεν υπάρχει κάποια προφητεία για εσένα."

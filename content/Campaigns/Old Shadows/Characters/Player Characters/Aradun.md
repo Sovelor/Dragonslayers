@@ -25,6 +25,8 @@ A dwarven dragon shaman of Mithral Hall, the son of the dwarven family that adop
 
 He carries metallic dragon heritage and a pair of dragon axes, which warned him that something was wrong with [[Freiderikos]] before Freiderikos's skin grew blue dragon scales. Aradun pinned him down and swore he would stop Freiderikos himself at the slightest evil intention. In the tunnels below Splendarrmornn a piece of an unknown red mushroom made him four years younger.
 
+In Session 31 Kupra killed Aradun with *Phantasmal Killer*; Thoriel brought him back with *Reincarnate*. While he was dead he found himself in a cave with his dragon, in human form, who told him to go back and fulfil his purpose. %% src:OS-S031 d14 %%
+
 ## Relationships
 - [[Aya]]: his sister; they grew up as siblings under the same roof.
 - [[Freiderikos]]: watched closely since the blue dragon scales of Session 30.
@@ -50,6 +52,7 @@ He carries metallic dragon heritage and a pair of dragon axes, which warned him 
 - [[Session 001 - Shipwrecked in Unknown Lands]]: survives the wreck with his sister Aya; his burning breath, shot into the air, shows the others where he is
 - [[Session 002 - The Pearl Lighthouse]]: pins the sea hag Lycast down with Thraldour; stunned by the lesser demilich in the tunnels
 - [[Session 030 - Shar is Dead!]]: four years younger after the mushroom of time; his dragon axes warn him about Freiderikos, and he swears to stop him at the slightest evil intention
+- [[Session 031 - The Fall of the Dragon!]]: opens the Crypts of Oblivion with Ubar's runic key; killed by Kupra's Phantasmal Killer and brought back by Thoriel's Reincarnate
 %% /auto:appearances %%
 
 ## Links

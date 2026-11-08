@@ -26,6 +26,7 @@ The site of the Collapse, in which 49 dwarf miners died under the supervision of
 %% auto:appearances %%
 - [[Session 029 - The Descent into the Shadow]]: the ghosts of the 49 miners; Petros, Aya and Thoriel argue at its sealed door
 - [[Session 030 - Shar is Dead!]]: the 49 cursed dwarves are purified and forgive Rockgar
+- [[Session 031 - The Fall of the Dragon!]]: in the Keepers' lair, shadow comes out of a rift to the Shadowfell just as it did in Tunnel No. 5; Aya seals it
 %% /auto:appearances %%
 
 ## Links
