@@ -113,6 +113,7 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 %% auto:appearances %%
 - [[Session 002 - The Living Book and the Druid|AB · Session 002 - The Living Book and the Druid]]: Irewin confesses that she and Belak, Wardens of the Misty Forest's Sacred Willow, broke away from the Circle; its Council had sent Melda's team after them
 - [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]]: as the Circle of Allalme: Irewin and Belak belonged to it, and it sent a team led by Melda that was defeated
+- [[Session 031 - The Fall of the Dragon!|OS · Session 031 - The Fall of the Dragon!]]: Sorates, a member of the Circle, is freed from the Keepers of the Secrets
 %% /auto:appearances %%
 
 ## Links

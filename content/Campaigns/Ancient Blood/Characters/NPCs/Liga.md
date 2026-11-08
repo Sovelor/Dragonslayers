@@ -23,10 +23,13 @@ tags:
 ## Summary
 A half-orc barbarian who met [[Ulf the Northman]] on the road through the Trollbark Forest and helped free [[Melda]] and [[Nenya]] from the Hatchery. She is no longer a player character: she is now an NPC, one of the Wardens of the Misty Forest's Sacred Willow in the [[Circle of the Moon]].
 
+Liga has a great fear of bears: in the Sunless Citadel she fainted from fright before the bugbear Balsak's bear and had to be left behind (Session 5). %% src:AB-S005 d6 %%
+
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - Ancient Blood, the Beginning]]: meets Ulf on the road; tries to pry an everburning torch off the wall
 - [[Session 002 - The Living Book and the Druid]]: rests in Aurora Drabek's chamber when Vaalrath appears
+- [[Session 005 - Deeper into the Dungeon]]: throws Vaalrath's book onto Balsak and leaps after it; faints from her fear of bears and is left behind
 %% /auto:appearances %%
 
 ## Links

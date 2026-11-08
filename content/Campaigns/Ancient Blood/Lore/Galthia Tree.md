@@ -26,6 +26,7 @@ A tree that [[Irewin]] and her husband **Belak** came to look after. At the summ
 %% auto:appearances %%
 - [[Session 002 - The Living Book and the Druid]]: Irewin and Belak look after it; fruit of life and death at the solstices
 - [[Session 003 - The Betrayal]]: corrupted Belak, who wanted it for himself
+- [[Session 005 - Deeper into the Dungeon]]: mentioned: Belak works on the tree in the depths of the dungeon
 %% /auto:appearances %%
 
 ## Links

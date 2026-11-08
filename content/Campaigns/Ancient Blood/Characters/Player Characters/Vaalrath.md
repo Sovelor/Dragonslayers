@@ -75,6 +75,7 @@ He first appeared in the Hatchery, summoned out of a magic book. He had overhear
 ## Appearances
 %% auto:appearances %%
 - [[Session 002 - The Living Book and the Druid]]: appeared from a magic book in the Hatchery and joined the party
+- [[Session 005 - Deeper into the Dungeon]]: thrown inside his book onto Balsak by Liga; draws Liga a picture of where the party went
 - [[Session 013 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
 - [[Session 014 - Vanthus's Trap]]: goes into the book and cannot come back out
 %% /auto:appearances %%

@@ -63,6 +63,7 @@ To learn about herself.
 - [[Session 002 - The Pearl Lighthouse]]: finishes the grick, turns the undead and helps subdue the demilich
 - [[Session 029 - The Descent into the Shadow]]: no answer from her goddess in the tunnels; confronts the Prophet
 - [[Session 030 - Shar is Dead!]]: cleanses the Shadow Altar and frees the 49 dwarves; recognises the otherworldly statue in Ereg Tal's tomb from the Prophet's vision
+- [[Session 031 - The Fall of the Dragon!]]: reactivates the Magic Circle Against Evil around the rift to the Shadowfell; holds Thoriel's hand through the Reincarnate
 %% /auto:appearances %%
 
 ## Gallery
