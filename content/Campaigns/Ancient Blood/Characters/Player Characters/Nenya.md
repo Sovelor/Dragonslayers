@@ -74,6 +74,7 @@ Her memories have been returning slowly: whenever a situation triggers a flashba
 - [[Session 002 - The Living Book and the Druid]]: with the party when Vaalrath is freed from the book
 - [[Session 013 - The Vander Legacy]]: chosen by Mahaya; received the Hourglass of Time
 - [[Session 014 - Vanthus's Trap]]: learns Mahaya's surname; trapped in the crypt
+- [[Session 015 - Dragons, Blood and Salt!]]: keeps a Wand of Detect Secret Doors; the salt mummy nearly kills her through the door
 %% /auto:appearances %%
 
 ## Links

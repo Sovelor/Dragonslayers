@@ -33,6 +33,9 @@ Pale skin and a bald head, always well dressed and clean. Glowing sigils orbit h
 
 ## Personality
 Eager to learn everything that can be "knowledge". Calm and almost emotionless, because he cannot easily process emotions; calculating and logical. His behaviour changes mysteriously when the sigils turn red.
+
+In Session 15, when the sigils around his head turned red, he spoke Infernal and stepped in to finish the salt mummy that was draining Axel. He then lectured Nenya and Axel in the third person, and afterwards, with the sigils back to normal, he remembered nothing of it. He told Nenya that if he cannot observe what is happening to him, the others should; she promised they would keep watch. %% src:AB-S015 d17 %%
+
 - **Ideals:** knowledge, logic, adaptation
 - **Bonds:** knowledge; his teammates; the Life-giving Prince; **Chlapis**, a summoned water elemental he found
 - **Flaw:** cannot process emotions
@@ -78,6 +81,7 @@ He first appeared in the Hatchery, summoned out of a magic book. He had overhear
 - [[Session 005 - Deeper into the Dungeon]]: thrown inside his book onto Balsak by Liga; draws Liga a picture of where the party went
 - [[Session 013 - The Vander Legacy]]: reported to Lavinia; recognised as an Illumian by the golems
 - [[Session 014 - Vanthus's Trap]]: goes into the book and cannot come back out
+- [[Session 015 - Dragons, Blood and Salt!]]: comes out of the book at the start of the session (no one knows why he could not before); his sigils turn red; destroys the salt mummy with Shocking Grasp, lectures Nenya and Axel in the third person and then remembers nothing
 %% /auto:appearances %%
 
 ## Gallery

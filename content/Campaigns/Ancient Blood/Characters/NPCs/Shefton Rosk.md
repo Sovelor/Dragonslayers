@@ -26,6 +26,7 @@ A half-elf beggar who offered the party information about [[Vanthus Vander]] for
 ## Appearances
 %% auto:appearances %%
 - [[Session 014 - Vanthus's Trap]]: scared into talking; leads the party to Parrot Island; killed by Vanthus
+- [[Session 015 - Dragons, Blood and Salt!]]: mentioned: killed by Vanthus at the end of Session 14, before the party went deeper into the crypt
 %% /auto:appearances %%
 
 ## Links

@@ -26,7 +26,8 @@ Played sailor songs as the party brought the [[Blue Nymph]] into the [[Daggerfor
 ## Appearances
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: sailor songs in the harbour
-- [[Session 014 - Vanthus's Trap]]: follows Vanthus's trail through Shadowshore; trapped in the crypt
+- [[Session 014 - Vanthus's Trap]]: follows Vanthus's trail through Shadowshore; stays behind in the city when the party sails for Parrot Island
+- [[Session 015 - Dragons, Blood and Salt!]]: stayed behind in the city; not with the party on Parrot Island
 %% /auto:appearances %%
 
 ## Links

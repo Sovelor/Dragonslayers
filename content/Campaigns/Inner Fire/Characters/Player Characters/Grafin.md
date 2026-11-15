@@ -30,6 +30,7 @@ A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on
 - [[Session 007 - The Cursed Shield and the Broom]]: at the Osterhaus Inn with the rest of the party (DM)
 - [[Session 008 - Finding the Sect's Prison]]: sees the halls are built of copper and bluffs the first azer; the session's MVP
 - [[Session 012 - The Ritual of the Flame]]: tells Bergen "We came to stop you!" as the Company interrupts the Ritual of the Flame
+- [[Session 013 - The Chosen of the Flame]]: challenges Pandora and sees himself burned to ash in her vision; tells Helmut what happened
 %% /auto:appearances %%
 
 ## Links

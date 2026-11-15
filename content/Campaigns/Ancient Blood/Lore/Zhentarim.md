@@ -24,6 +24,7 @@ Player theory: [[Madagar Bugo]] is working with them.
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: player theory
 - [[Session 014 - Vanthus's Trap]]: undead with their tattoo wait in the crypt
+- [[Session 015 - Dragons, Blood and Salt!]]: dead members, turned into salt zombies, are found under Parrot Island
 %% /auto:appearances %%
 
 ## Links
