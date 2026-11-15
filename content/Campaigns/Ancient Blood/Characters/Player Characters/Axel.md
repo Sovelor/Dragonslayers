@@ -71,6 +71,7 @@ He woke two or three days later in a hunting cabin in the island's forest, where
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: Duellist's Blade and Elven Mithral Chain Shirt
 - [[Session 014 - Vanthus's Trap]]: his "magic trick" breaks Shefton; trapped in the crypt
+- [[Session 015 - Dragons, Blood and Salt!]]: bitten and infected by a lacedon; pinned to the wall and nearly killed by the salt mummy
 - [[Session 001 - A Strange Acquaintance|IF · Session 001 - A Strange Acquaintance]] *(Inner Fire)*: mentioned in Nyra's story as the sailor who led the mutiny on the slave ship
 - [[Session 005 - A Day of Memories|IF · Session 005 - A Day of Memories]] *(Inner Fire)*: Nyra tells Robin that a man named Axel accidentally saved her
 %% /auto:appearances %%

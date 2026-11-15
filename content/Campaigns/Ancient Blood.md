@@ -21,7 +21,7 @@ tags:
 [[Vaalrath]] · [[Melda]] · [[Nenya]] · [[Axel]] · [[Jareth]] · [[Seraphiel]] · [[Ulf the Northman]]
 
 ## NPCs
-[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowyn]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]] · [[Irewin]] · [[Ualeyn]] · [[Aurora Drabek]] · [[Liga]] · [[Panchie]] · [[Shefton Rosk]]
+[[Lavinia Vander]] · [[Vanthus Vander]] · [[Rowyn]] · [[Mumzar]] · [[Peeweed Daggerford]] · [[Madagar Bugo]] · [[Mahaya (Lord of Time)]] · [[Irewin]] · [[Ualeyn]] · [[Aurora Drabek]] · [[Liga]] · [[Panchie]] · [[Shefton Rosk]] · [[Penkous]]
 
 ## Sessions
 - [[Session 001 - Ancient Blood, the Beginning]] · 2024-10-12
@@ -31,6 +31,7 @@ tags:
 - [[Session 005 - Deeper into the Dungeon]] · 2025-11-21
 - [[Session 013 - The Vander Legacy]] · 2026-10-03
 - [[Session 014 - Vanthus's Trap]] · 2026-10-24
+- [[Session 015 - Dragons, Blood and Salt!]] · 2026-11-13
 
 ## Locations
 [[Daggerford]] · [[Terraknian Island]] · [[Vander Manor]] · [[The Hatchery]] · [[Sunless Citadel]] · [[Shadowshore]] · [[Azure District]] · [[Parrot Island]] · [[It Still Floats]]
@@ -39,4 +40,4 @@ tags:
 [[Blue Nymph]] · [[Hourglass of Time]] · [[Lotus Dragons]] · [[Zhentarim]] · [[Daemonfey]] · [[Book of Coupling]] · [[Galthia Tree]] · [[Circle of the Moon]]
 
 ## Open threads
-See the latest session: [[Session 014 - Vanthus's Trap#Open threads]]
+See the latest session: [[Session 015 - Dragons, Blood and Salt!#Open threads]]

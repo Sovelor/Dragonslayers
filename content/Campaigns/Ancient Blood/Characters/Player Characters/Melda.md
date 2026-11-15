@@ -94,6 +94,7 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 - [[Session 003 - The Betrayal]]: Irewin turns out to know about her past
 - [[Session 013 - The Vander Legacy]]: reunited with her cousin Seraphiel
 - [[Session 014 - Vanthus's Trap]]: finds the hidden boat; her dragon form scares Shefton; trapped in the crypt
+- [[Session 015 - Dragons, Blood and Salt!]]: breaks the hinge of the first door; fights the salt mummy in dragon form; cures Axel with a potion of remove disease
 %% /auto:appearances %%
 
 ## Gallery

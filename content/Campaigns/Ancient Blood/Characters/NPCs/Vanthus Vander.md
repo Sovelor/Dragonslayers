@@ -31,6 +31,8 @@ According to [[Mumzar]], he often visited [[Terraknian Island]] with [[Rowyn|Row
 
 Twin brother of [[Lavinia Vander]]; their parents, Verik and Larissa Vander, died recently in strange circumstances. He left the [[Vander Manor]] several months ago and his trail was lost in the city of Daggerford. Finding him and discovering what he is up to is the main purpose of the mission Lavinia gives the heroes. In a room full of heroes, Vanthus is the one who draws the eye; in a room full of villains, he is the one who makes the rest wonder who is really at the top. When he smiles, no one is entirely sure whether they have just won a friend or made a very dangerous enemy.
 
+He betrayed his ally, the smuggler Penkous, and left him to die in the hideout under [[Parrot Island]]. %% src:AB-S015 d13 %%
+
 ## Appearance
 He is tall and well built, with an athletic body that shows familiarity with both the sword and the hardships of the road. His shoulders are broad and he carries himself with a confidence that is almost provocative. His hair is long and unkempt, a dark brown close to black, falling irregularly around his face: not the groomed look of a courtier, but that of a man more interested in his deeds than his image. His face is angular and masculine, with a strong jaw, high cheekbones and a light beard. The permanent half smile at the corners of his lips makes it hard to tell whether he is amused, mocking, or has just thought of something dangerous.
 
@@ -63,6 +65,7 @@ Vanthus vanished from the [[Vander Manor]] several months ago, abandoning his fa
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: mentioned; suspected of raiding the vault
 - [[Session 014 - Vanthus's Trap]]: kills Shefton and traps the party in a crypt on Parrot Island
+- [[Session 015 - Dragons, Blood and Salt!]]: mentioned: Penkous's last letter names him as the traitor who left him to die
 %% /auto:appearances %%
 
 ## Links

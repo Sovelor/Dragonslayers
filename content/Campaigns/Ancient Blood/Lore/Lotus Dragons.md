@@ -20,12 +20,13 @@ tags:
 ## Summary
 Who they are is an open question.
 
-Their emblem is a dragon's head with a fruit in its mouth. They are trying to take the reins in Shadowshore, and [[Parrot Island]] may be one of their smuggling warehouses. %% src:AB-S014 d27 %%
+Their emblem is a dragon's head with a lotus in its mouth. They are trying to take the reins in Shadowshore, and [[Parrot Island]] may be one of their smuggling warehouses. %% src:AB-S014 d27 %%
 
 ## Appearances
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: mentioned (open question)
 - [[Session 014 - Vanthus's Trap]]: their emblem is found on the island; they are moving on Shadowshore
+- [[Session 015 - Dragons, Blood and Salt!]]: lacedons bearing their tattoo attack the party in the flooded caves
 %% /auto:appearances %%
 
 ## Links

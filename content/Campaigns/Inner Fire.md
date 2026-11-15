@@ -21,7 +21,7 @@ tags:
 [[Nyra]] · [[Lenor|Lenόre]] · [[Grafin]] · [[Meive]]
 
 ## NPCs
-[[Oscar]] · [[Robin]]
+[[Oscar]] · [[Robin]] · [[Pandora]] · [[Bergen]] · [[Helmut]] · [[Nestor Kirsten]] · [[Leopold Graufor]]
 
 ## Sessions
 - [[Session 001 - A Strange Acquaintance]] · 2025-10-10
@@ -32,6 +32,7 @@ tags:
 - [[Session 007 - The Cursed Shield and the Broom]] · 2026-04-24
 - [[Session 008 - Finding the Sect's Prison]] · 2026-05-15
 - [[Session 012 - The Ritual of the Flame]] · 2026-10-10
+- [[Session 013 - The Chosen of the Flame]] · 2026-11-14
 
 ## Locations
 [[The Butterfly's Horseshoe]]

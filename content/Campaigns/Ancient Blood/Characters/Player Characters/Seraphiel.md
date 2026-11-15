@@ -27,6 +27,7 @@ A kind paladin who was relieved to find her cousin [[Melda]] in town. She joined
 %% auto:appearances %%
 - [[Session 013 - The Vander Legacy]]: joined the party
 - [[Session 014 - Vanthus's Trap]]: sees through Shefton's lies; trapped in the crypt
+- [[Session 015 - Dragons, Blood and Salt!]]: kicks down the barred door; burns the salt mummy with divine fire
 %% /auto:appearances %%
 
 ## Links
