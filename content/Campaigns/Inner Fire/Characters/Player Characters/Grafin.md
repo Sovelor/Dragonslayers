@@ -18,10 +18,17 @@ tags:
 
 > [!abstract] Ελληνικά → [[Γκράφιν]]
 
+![[Characters - Grafin.jpg|300]]
+
 **Role:** Dwarf traveller and spellcaster from Splendarrmornn
 
 ## Summary
 A dwarf of Splendarrmornn, a traveller for many years who set out with a pack on his back to know the world. His thirst for knowledge of arcane magic lets him cast spells, and as a dwarf he is also trained in melee and weapons. He recognised [[Meive]] as a friend he had made on one of his journeys and shielded her when the thugs surrounded them.
+
+## Appearance
+A broad dwarf with long red hair and a braided red beard, wearing dark armour with gold trim under a heavy cloak and carrying a large, ornate axe. A griffon stands behind him against a mountain sunset.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

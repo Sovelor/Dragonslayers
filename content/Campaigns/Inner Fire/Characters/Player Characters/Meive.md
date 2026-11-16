@@ -19,12 +19,19 @@ movedFrom:
 
 > [!abstract] Ελληνικά → [[Μέιβι]]
 
+![[Characters - Meive.jpg|300]]
+
 **Role:** Party member in *Inner Fire* · halfling (she/her) · one of the three chosen of [[Mahaya (Lord of Time)|Mahaya]]
 
 ## Summary
 A halfling from the small village of Highdown, north of the Snowy Peaks on the edge of the Silmistar Forest; a skilled tracker and a sling specialist. In Session 1 she is caught in a net trap in the Olsen Forest and meets Grafin, an old friend, and Nyra.
 
 Seen in [[Nenya]]'s vision in *Ancient Blood*, carrying the same rune-marked [[Hourglass of Time]].
+
+## Appearance
+A slight young woman with auburn hair in long braids and a calm, watchful face. She wears a green hooded cloak over a brown leather jerkin, with a quiver and bow on her back, daggers at her belt and a sling whose stone glows green.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

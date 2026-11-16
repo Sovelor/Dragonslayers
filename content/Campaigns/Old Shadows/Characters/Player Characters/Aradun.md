@@ -17,6 +17,8 @@ tags:
 
 > [!abstract] Ελληνικά → [[Άραντουν]]
 
+![[Characters - Aradun.jpg|300]]
+
 **Role:** Member of The Incredible Six in *Old Shadows* (he/him) · dwarven dragon shaman · brother of [[Aya]]
 **Race:** Dwarf · **Class:** Dragon shaman · **Pronouns:** he/him · **Home:** Mithral Hall
 
@@ -26,6 +28,11 @@ A dwarven dragon shaman of Mithral Hall, the son of the dwarven family that adop
 He carries metallic dragon heritage and a pair of dragon axes, which warned him that something was wrong with [[Freiderikos]] before Freiderikos's skin grew blue dragon scales. Aradun pinned him down and swore he would stop Freiderikos himself at the slightest evil intention. In the tunnels below Splendarrmornn a piece of an unknown red mushroom made him four years younger.
 
 In Session 31 Kupra killed Aradun with *Phantasmal Killer*; Thoriel brought him back with *Reincarnate*. While he was dead he found himself in a cave with his dragon, in human form, who told him to go back and fulfil his purpose. %% src:OS-S031 d14 %%
+
+## Appearance
+A stocky dwarf with a long, braided auburn beard and a stern face. He wears dark plate armour studded with glowing purple crystals and a dark cloak, and wields a great axe wreathed in violet light, standing in a cavern of amethyst crystals.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Relationships
 - [[Aya]]: his sister; they grew up as siblings under the same roof.

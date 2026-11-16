@@ -16,6 +16,8 @@ movedFrom:
 
 # Elizium
 
+![[Characters - Elizium.jpg|300]]
+
 > [!warning] Spoilers
 > Reveals Elizium's death in Part One.
 

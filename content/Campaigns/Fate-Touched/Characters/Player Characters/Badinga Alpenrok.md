@@ -67,7 +67,7 @@ His parents, **Christopher and Helen Alpenrok**, died in retribution against him
 
 > [!info] Rumours and open mysteries
 > - It is said that he made a mistake when he believed that leaving would protect his allies from the forces of Garagos and of Garagos's mother, Atropos, the Fate.
-> - [[Sovelor]], [[Allalme Dragonborn|Allalme]], [[Mahaya]], **Rasgul** and [[Garpask Losark|Garpask]] think he tries too hard to prove that he is the strongest, and they don't like him always trying to change himself. **Negnar** is the Dragonslayer closest to him: they are brothers in arms. **Bloodthrill** respects him and counts him among the strongest of the companions.
+> - [[Sovelor]], [[Allalme Dragonborn|Allalme]], [[Mahaya]], [[Rasgul]] and [[Garpask Losark|Garpask]] think he tries too hard to prove that he is the strongest, and they don't like him always trying to change himself. [[Negnar Belmont|Negnar]] is the Dragonslayer closest to him: they are brothers in arms. [[Bloodthrill]] respects him and counts him among the strongest of the companions.
 
 ## Goals & fears
 - **Goals:** to become the strongest fighter in all Faerûn, and a great hero of Faerûn.
@@ -79,8 +79,8 @@ His parents, **Christopher and Helen Alpenrok**, died in retribution against him
 - **Christopher and Helen Alpenrok**: his parents (see *Background*).
 - [[Elizium]]: a traveller he met early in his journeys. Badinga watched him die saving him and Garpask, and the loss marked him deeply.
 - [[Garpask Losark]], [[Mahaya|Mahaya Vishan]] and [[Allalme Dragonborn]]: friends and companions, the first members of the party that would be named the Dragonslayers.
-- **Negnar Belmont** and **Bloodthrill**: friends and companions he met later in his journeys, when he arrived in Luskan.
-- **Rasgul**: a friend and companion he met when the Dragonslayers tried to free **Maya**, Mahaya's sister, from the organization of **Bregan D'aerthe**.
+- [[Negnar Belmont]] and [[Bloodthrill]]: friends and companions he met later in his journeys, when he arrived in Luskan.
+- [[Rasgul]]: a friend and companion he met when the Dragonslayers tried to free **Maya**, Mahaya's sister, from the organization of **Bregan D'aerthe**.
 - [[Sovelor]]: a friend and companion he met and rescued during the hunt for **Carmilla**, in the **Ancient Home of the Belmonts**.
 - [[Lavern]] (Lavern Norphyra): captain, companion and friend. Badinga and the Dragonslayers helped her find the **Sacred Tomb of Eriador Belmont**.
 - **Essa**: a bard once famous in **Evereska**, a friend and companion, who joined the Dragonslayers right after the death of Garpask at the hands of the **Arcane Brotherhood**. After a while he mysteriously vanished.

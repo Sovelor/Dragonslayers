@@ -18,12 +18,19 @@ tags:
 
 > [!abstract] Ελληνικά → [[Λίγκα]]
 
+![[Characters - Liga.jpg|300]]
+
 **Role:** Half-orc barbarian; former player character, now an NPC
 
 ## Summary
 A half-orc barbarian who met [[Ulf the Northman]] on the road through the Trollbark Forest and helped free [[Melda]] and [[Nenya]] from the Hatchery. She is no longer a player character: she is now an NPC, one of the Wardens of the Misty Forest's Sacred Willow in the [[Circle of the Moon]].
 
 Liga has a great fear of bears: in the Sunless Citadel she fainted from fright before the bugbear Balsak's bear and had to be left behind (Session 5). %% src:AB-S005 d6 %%
+
+## Appearance
+A tall, muscular half-orc woman with a shaved head, grey-green skin covered in tattoos and a hard stare. She wears a leather-and-fur battle skirt and straps, and carries an enormous warhammer carved with glowing blue runes.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

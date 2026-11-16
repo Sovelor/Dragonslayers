@@ -43,7 +43,7 @@ Later the Dragonslayers, who were there for the rescue of Deina (Sovelor's mothe
 ## Relationships
 - **[[Lady Lavern]] (Lavern Norphyra):** her leader and personal friend
 - **[[Allalme Dragonborn|Allalme]]:** the goddess she has sworn faith to, and a personal friend
-- **[[Mahaya]], Garpask Losark, Elonia, [[Sovelor]] and Aryalith Lithl'Orn:** fellow Dragonslayers
+- **[[Mahaya]], Garpask Losark, [[Elonia]], [[Sovelor]] and Aryalith Lithl'Orn:** fellow Dragonslayers
 
 ## Affiliations
 - **Member:** Brotherhood of Light (Deputy Leader), the Dragonslayers

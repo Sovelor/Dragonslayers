@@ -17,7 +17,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Έντρικ]]
 
-![[Characters - Edric.png|300]]
+![[Characters - Edric 2.jpg|300]]
 
 **Role:** Party member in *A New Beginning* · human fighter (he/him) · from the Brotherhood of Light's desert department · recruit, being proposed for knighthood
 
@@ -87,6 +87,9 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - [[Session 009 - Echoes, the Road Back]]: poisoned and paralysed by the ettercaps; says *Merthuvial* in his sleep; Trusty becomes a +1 longsword; Selina will propose him for knighthood
 - [[Session 010 - Leaving Tethiamar]]: asks to be dismissed; drives the carriage to Saiyaddar; his offering earns Mielikki's blessing
 %% /auto:appearances %%
+
+## Gallery
+![[Characters - Edric.png|400]]
 
 ## Links
 - [[A New Beginning]] · [[Selina]] · [[Ezariel]] · [[Azhyra]] · [[Elizium (A New Beginning)|Elizium]]

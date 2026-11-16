@@ -15,6 +15,8 @@ movedFrom:
 
 # Garpask Losark
 
+![[Characters - Garpask Losark.jpg|300]]
+
 > [!warning] Spoilers
 > Reveals Elizium's death in Part One and Garpask's secret from *Fateful Meeting*. *Later in the campaign* reveals events beyond the manuscript so far.
 

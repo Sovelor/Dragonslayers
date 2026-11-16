@@ -15,6 +15,8 @@ movedFrom:
 
 # Mahaya Vishan
 
+![[Characters - Mahaya.png|300]]
+
 **Role:** Elven scout (Ιχνηλάτης), hired by [[Gaston Lentinson]] as his escort. Introduces himself as a "Wandering Scout".
 **Appearance:** Long blond, almost white hair, white skin and green eyes; features Allalme reads as a high elf's
 **Notable:** Guarded past, mentions a sister named "Maya"

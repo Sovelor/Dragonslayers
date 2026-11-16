@@ -19,6 +19,8 @@ movedFrom:
 
 > [!abstract] Ελληνικά → [[Ελίζιουμ (Μια Νέα Αρχή)]]
 
+![[Characters - Elizium (A New Beginning).jpg|300]]
+
 > [!question] Connection to the saga
 > Shares the name of [[Elizium]], the high elf who died at the Forest Camp in *The Dragonslayers Saga*. Whether they are the same person is unknown.
 
@@ -26,6 +28,11 @@ movedFrom:
 
 ## Summary
 An elf warrior-mage who knew the road and offered the party safe passage to Brook Hollow in Session 1. He blew up the church in Session 2, and in Session 5 teased [[Ezariel]] with an ogre's poop and pocketed a gem from the pile. In Session 9 he opened the fight against the ettercaps with nonstop alchemist's fire (*"I'm just gonna throw more fire."*) and was knocked unconscious and nearly eaten. He plans to start a tobacco business with [[Azhyra]]. Seen in [[Nenya]]'s vision in *Ancient Blood*, carrying the same rune-marked [[Hourglass of Time]].
+
+## Appearance
+A pale, slender elf with long dark hair and a calm, narrow face. He wears silver chain armour under a deep-blue cloak and holds a tall staff topped with a glowing blue crystal, on a forest path.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Notable items
 - **Small bag of holding**, found in the ruins of the Life-giving Prince %% src:NB-S008 d10 %%
