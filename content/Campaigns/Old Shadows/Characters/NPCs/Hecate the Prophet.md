@@ -16,10 +16,17 @@ tags:
 
 > [!abstract] Ελληνικά → [[Εκάτη, η Προφήτης]]
 
+![[Characters - Hecate the Prophet.jpg|300]]
+
 **Role:** Main antagonist of *Old Shadows* · the Prophet · also met by name in *A New Beginning*
 
 ## Summary
 The Prophet who gave the servant of the shadow in *A New Beginning* a sword (the Shadow Longsword) to be filled with 50 souls is the same Hecate the Six face in *Old Shadows*. In Session 29 she walked into the altar chamber with [[Thalri]], [[Bjorn Brottdottir]] and [[Sol' Goleth]], stunned the whole party, took the shadow out of [[Akis]] (her last component) and called [[Petros]] "my dear Rockgar". She left them alive on purpose: *"Death is mercy... First you will watch. Then you will hurt! Then you will break."*
+
+## Appearance
+A tall woman with violet skin, pointed ears and long black hair, wearing sleek black armour under a tattered, flowing violet cloak. She holds a tall staff topped with a purple flame, and purple fire swirls around her free hand.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

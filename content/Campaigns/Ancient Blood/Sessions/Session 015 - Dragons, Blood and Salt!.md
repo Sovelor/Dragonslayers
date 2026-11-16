@@ -37,7 +37,7 @@ Deeper in, the caves and chambers were flooded. Chlapis was sent ahead to scout 
 
 After swimming through an opening they reached another door, barred from the other side and much sturdier. Vaalrath told Seraphiel to try breaking this one too, to prove what a bad idea it is to break through every door; her shoulder failed against it. Chlapis went in to unbar it and reported that behind it was something they should not meet. He had removed three planks when he felt pain, and a hideous hand reached out through another door inside. With one plank left, Vaalrath called him back, told Nenya that her warhammer would have better luck than a shoulder, and told everyone to prepare for a fight.
 
-Nenya broke a hole in the door and, against Vaalrath's advice, put her hand through to remove the last plank. Something with badly dried-out skin seized her arm and began to drain the moisture from her body. She was left at the edge of death. Then the creature broke the door down: a dwarf **salt mummy**, immensely strong, able to drain the moisture from anyone it touched.
+Nenya broke a hole in the door and, against Vaalrath's advice, put her hand through to remove the last plank. Something with badly dried-out skin seized her arm and began to drain the moisture from her body. She was left at the edge of death. Then the creature broke the door down: a human **salt mummy**, immensely strong, able to drain the moisture from anyone it touched.
 
 The fight was long and hard. Melda turned into a dragon and struck it with her icy breath; Nenya hit it with fire magic and her hammer; Seraphiel burned it with the divine fire of her goddess; Vaalrath attacked with magical energy. Axel tried to get behind it to flank it. Vaalrath shouted *"No, don't do it!"*, but Axel did not listen: the mummy caught him by the face, pinned him to the wall and began to drain him, leaving him nearly dead. At that moment the sigils around Vaalrath's head turned red and he said in Infernal *"No means NO!"* He cast *Cat's Grace* on himself and, while Melda, Seraphiel and Nenya kept attacking, stepped in and finished the mummy with *Shocking Grasp*, saving Axel at the last moment.
 
@@ -66,7 +66,7 @@ Vaalrath, his sigils still red, then turned on Nenya and Axel and lectured them 
 > - **Spellings:** Axel's player writes Penkus; the DM's Penkous is used.
 
 ## NPCs met
-- [[Penkous]] (Penkous Duskhead): the smuggler, a dwarf, found as a salt mummy at the end of the complex; he attacked the party and was destroyed
+- [[Penkous]] (Penkous Duskhead): the smuggler, a human, found as a salt mummy at the end of the complex; he attacked the party and was destroyed
 - **Chlapis**: scouted the doors and the flooded caves
 - *Mentioned:* [[Vanthus Vander]], who betrayed Penkous and left him to die · [[Shefton Rosk]]
 

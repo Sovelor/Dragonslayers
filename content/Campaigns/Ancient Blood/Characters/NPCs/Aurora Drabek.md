@@ -18,10 +18,17 @@ tags:
 
 > [!abstract] Ελληνικά → [[Αρόρα Ντραμπέκ]]
 
+![[Characters - Aurora Drabek.jpg|300]]
+
 **Role:** God-mad tiefling cleric of Asmodeus
 
 ## Summary
 A god-mad, dangerous tiefling cleric of Asmodeus, who wore the symbol of the [[Daemonfey]] on her cloak. The party faced her and two lemures at the sacrificial altar of the [[The Hatchery|Hatchery]] and killed her after a hard fight, without getting any answers. They took her magic +1 hammer, her journal and a large book on Asmodeus.
+
+## Appearance
+A tiefling woman with red skin, curling horns, a tail and a mane of dark curly hair, snarling as she fights. She wears chain mail under a dark red surcoat marked with a holy symbol and swings a spiked mace wreathed in green flame, before a red-bannered cathedral.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

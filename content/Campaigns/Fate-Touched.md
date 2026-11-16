@@ -25,7 +25,7 @@ movedFrom:
 The DM's Greek manuscript "The Dragonslayers Saga" is based on this campaign. The pages for it follow the manuscript.
 
 ## Player characters
-[[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]] · [[Sovelor]] · [[Lavern]]
+[[Badinga Alpenrok]] · [[Elizium]] · [[Garpask Losark]] · [[Allalme Dragonborn]] · [[Mahaya]] · [[Sovelor]] · [[Lavern]] · [[Negnar Belmont]] · [[Bloodthrill]] · [[Rasgul]] · [[Elonia]]
 
 ## NPCs
 [[Gaston Lentinson]] · [[Atropos]] · [[Gourd]] · [[Frederick Frostfire]] · [[Vincent Vermilion]] · [[Shaureya]] · [[Bjorn]] · [[Jennifer]]

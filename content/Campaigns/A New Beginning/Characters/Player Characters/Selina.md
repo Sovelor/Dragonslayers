@@ -16,12 +16,19 @@ tags:
 
 > [!abstract] Ελληνικά → [[Σελίνα]]
 
+![[Characters - Selina.jpg|300]]
+
 **Role:** Party member in *A New Beginning* · cleric of the Brotherhood of Light (she/her) · on a mission from [[Lady Lavern]]
 
 ## Summary
 A new cleric of the Brotherhood of Light on her first mission: to find out what happened to [[Lia]] in Brook Hollow. She cast *omen of peril* before the village and sensed that "a piece of the Shadowlands" had come there as a materialised shadow. Voted MVP of Session 1. In Session 9, orders arrived from High Lady Lavern herself, recalling her to the Belmont Castle-State and the Brotherhood of Light; the party was cleared to use the Portal Gate of the desert city of Atar. She told [[Edric]] she will propose him for knighthood.
 
 In Brook Hollow (Session 2) she took and equipped a masterwork Dwarven warhammer from Colbie Strongarm's smithy; her vision showed the mausoleum as the source of the evil. %% src:NB-S002b d9 %%
+
+## Appearance
+A woman with long black hair, blue eyes and slightly pointed ears, in polished full plate armour. She carries a spiked mace and a large shield bearing a tree and crescent-moon emblem, and a pale veil-like cloak trails behind her in a candle-lit stone hall.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%

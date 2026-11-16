@@ -20,6 +20,8 @@ movedFrom:
 
 > [!abstract] Ελληνικά → [[Μαχάγια (Άρχοντας του Χρόνου)]]
 
+![[Characters - Mahaya (Lord of Time).jpg|300]]
+
 > [!info] From the saga
 > The Lord of Time is [[Mahaya]], the elven scout of the Dragonslayers in *Fate-Touched*, ten years after the saga.
 
@@ -27,6 +29,11 @@ movedFrom:
 
 ## Summary
 Appeared to [[Nenya]] in a vision when she touched the [[Hourglass of Time]], bearing her colours and face. He chose her *among three*, with [[Elizium (A New Beginning)|Elizium]] and [[Meive]], and asked her to carry out his mission. All the chosen, and a faceless black shadow, carry the same rune-marked hourglass. His words: *"You have been chosen."*
+
+## Appearance
+A hooded, masked elf in black armour trimmed with gold, with glowing blue eyes and a quiver of blue-lit arrows. He holds a bow of living light, and a great ring of glowing runes frames him, with an elven city beyond.
+
+%% Appearance written from the character's portrait (2026-11-16). %%
 
 ## Appearances
 %% auto:appearances %%
