@@ -61,7 +61,7 @@ Vaalrath, his sigils still red, then turned on Nenya and Axel and lectured them 
 
 > [!warning] Conflicting accounts
 > - **How many:** Nenya's player counts four mephits, coming out of a well, and four ghouls; the DM and Vaalrath's player count two mephits and five lacedons, which is the version used.
-> - **Who wore what:** Nenya's and Axel's players remember the six undead behind the second door all in black; Vaalrath's player has four in black and two in red, and the DM also mentions red armour and capes there. Axel's player remembers the green clothes and the Lotus Dragons' tattoo on further zombies, not on the ghouls; the DM and Vaalrath's player put them on the lacedons.
+> - **Who wore what:** Nenya's and Axel's players remember the six undead behind the second door all in black; Vaalrath's player has four in black and two in red, and the DM also mentions red armour and capes there. Axel's player remembers the green clothes and the Lotus Dragons' tattoo on further zombies, not on the ghouls; the DM and Vaalrath's player put them on the lacedons, and the DM confirms the lacedons wore the green clothes.
 > - **The doors:** Axel's player has Melda open the first door by breaking its hinge; Vaalrath's player has Seraphiel kick open the barred one. Both are kept, one for each door.
 > - **Spellings:** Axel's player writes Penkus; the DM's Penkous is used.
 
@@ -80,6 +80,7 @@ Vaalrath, his sigils still red, then turned on Nenya and Axel and lectured them 
 - **Penkous, the salt mummy**: a hard-won victory; the creature hurt Axel and Nenya very badly. Seraphiel used *Lay on Hands*, Nenya *Kelgor's Fire Bolt*, and Vaalrath landed the final blow with *Shocking Grasp*
 
 ## Loot and rewards
+*The party took the gold coins, Penkous's gold ring, the ornate dagger and his bloodstained manuscript (DM).*
 - Wand of Detect Secret Doors: [[Nenya]]
 - Gold coins engraved with the symbol of Waterdeep
 - A gold ring with the name Penkous Duskhead

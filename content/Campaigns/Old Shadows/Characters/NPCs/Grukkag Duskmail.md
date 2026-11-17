@@ -2,7 +2,7 @@
 title: "Grukkag Duskmail"
 campaign: Old Shadows
 lang: en
-translation: "[[Γκρούκκαγκ Ντασκμέιλ]]"
+translation: "[[Γκρούκκαγκ Ντάσκμεϊλ]]"
 status: Unknown
 tags:
   - character
@@ -14,7 +14,7 @@ tags:
 
 # Grukkag Duskmail
 
-> [!abstract] Ελληνικά → [[Γκρούκκαγκ Ντασκμέιλ]]
+> [!abstract] Ελληνικά → [[Γκρούκκαγκ Ντάσκμεϊλ]]
 
 **Role:** High Priest of the Shadow · godfather of [[Arta]]
 

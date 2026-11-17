@@ -25,7 +25,7 @@ tags:
 > [!abstract] Ελληνικά → [[Συνεδρία 013 - Η Κληρονομιά των Βάντερ]]
 
 ## Recap
-Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the river Styx; [[Nenya]] landed the final blow with *Kelgor's Fire Bolt*. Nobody was lost. On the ship they found the **Vander family ring** (it belonged to Lavinia's father), a **papyrus scroll** and some gold. The ship had not been destroyed, as Lavinia had been told: it was hidden, something the harbourmaster had not wanted found, and with it lay the money Lavinia had paid to have it found.
+Aboard the [[Blue Nymph]], the party killed an achaierai, a demon bird from the river Styx; [[Nenya]] landed the final blow with *Kelgor's Fire Bolt*. Nobody was lost. On the ship they found the **Vander family ring** (her father's **Heritage Ring**), a **papyrus scroll** and some gold. The ship had not been destroyed, as Lavinia had been told: it was hidden, something the harbourmaster had not wanted found, and with it lay the money Lavinia had paid to have it found.
 
 [[Melda]] and [[Vaalrath]] flew back to the [[Vander Manor]] to report to [[Lavinia Vander]]. Vaalrath handed her the ring and the gold, and Lavinia told him about the family vault on their private island. Meanwhile Melda heard that her cousin was in town and found her: the paladin [[Seraphiel]], who was relieved to see her and joined the party.
 

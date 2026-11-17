@@ -23,7 +23,7 @@ tags:
 **Race:** Dwarf · **Class:** Ranger, Wild Plains Outrider (level 9) · **Pronouns:** she/her · **Age:** 52 · **Alignment:** neutral good · **Home:** the Undercity (also called the Lower City) of [[Splendarrmornn]] · **Languages:** Common, Dwarven
 
 ## Summary
-A dwarven ranger from the Undercity of Splendarrmornn, raised in the shadow of the enigmatic **Keepers of the Secrets**. Haunted by fragmented memories and the unexplained absence of her mother, she seeks the truth of her past and wants to find out whether her destiny is truly her own.
+A dwarven ranger from the Undercity of Splendarrmornn, raised in the shadow of the enigmatic **Keepers of Secrets**. Haunted by fragmented memories and the unexplained absence of her mother, she seeks the truth of her past and wants to find out whether her destiny is truly her own.
 Grew up in the Undercity of Splendarrmornn, believing her parents were bakers; when she visited Bjorn's Bakery in Session 29 it had been closed for a long time. In the Underdark cave of glowing mushrooms she felt she had been there before: her mother used to bring her to this sacred place of prayer when she was very young. At the altar her father begged her: *"Stand at your father's side. Accept your destiny."*
 
 When she joined the party, and for a long time after, she believed her parents were bakers; she knows the truth about her father, [[Bjorn Brottdottir]], only after later revelations (DM). She was not aboard *The Dragon Turtle*: the others met her in Brindinford, where she saved [[Petros]]'s life from a ratman's attack and joined them during their quest to find out what was going on in the city (DM).
@@ -44,7 +44,7 @@ She is observant and economical in speech and movement. In any unfamiliar room s
 
 ## Background
 Arta was born in the Lower City of Splendarrmornn, among miners, labourers and craftsmen who keep the mountain's less welcoming inhabitants where they belong. She knew the Deep Roads beneath it as a living landscape of sounds, air and hidden passages, but never had the same certainty about her own past. Much of her childhood is indistinct: memories come in fragments, places feel familiar without explanation, and she cannot remember things she feels certain she should. At the centre of it is her mother: her face and voice are hard to recall and her disappearance is entirely unexplained, yet the fragments that survive hold warmth and unconditional tenderness, unlike almost anything else from those years. Her father, Björn, never gave a satisfactory explanation, and in his world questions were not always welcome.
-Through Björn her life became entangled with the **Keepers of the Secrets**, a secretive organisation active in the hidden affairs of Splendarrmornn. They taught discipline, discretion, obedience and duty, and that not every question deserves an answer. On her left shoulder they set a magical tattoo that forbade her to speak of her past and of the Keepers themselves, so that the line between what she could not remember and what she was forbidden to say blurred. Whether her missing past was deliberately concealed, magically altered or simply lost, she cannot tell.
+Through Björn her life became entangled with the **Keepers of Secrets**, a secretive organisation active in the hidden affairs of Splendarrmornn. They taught discipline, discretion, obedience and duty, and that not every question deserves an answer. On her left shoulder they set a magical tattoo that forbade her to speak of her past and of the Keepers themselves, so that the line between what she could not remember and what she was forbidden to say blurred. Whether her missing past was deliberately concealed, magically altered or simply lost, she cannot tell.
 She became an exterminator of the Lower City, keeping the Deep Roads beyond it safe from wandering monsters, vermin and other subterranean threats, and became an accomplished ranger with an oversized dwarven urgrosh. She found the work comforting: monsters are at least straightforward about their intentions. Her steadiest companion in these years was **Rusk**, a sturdy and stubborn rothe.
 Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pickaxeson, whom the records of Splendarrmornn say died in the catastrophe of [[Tunnel No. 5]]. They told her he had caused it and had vanished into the world above under another name: [[Petros]] Axinakis. She took the task, with Rusk and her purple cloak, and followed his trail into the company of the five strangers who became the Incredible Six. On meeting him she saved him from a wererat assassin instead. In Khudrukhar [[Aya]] removed the tattoo that bound her to silence.
 
@@ -54,7 +54,7 @@ Then the Keepers sent her to find and bring to justice a dwarf named Rockgar Pic
 
 The climbing wall beneath the Church of Shar was a trial for the Keepers' trainees, which Arta always won; she also knew the poisoned White Tunnel. The Keepers **Shaldi** and **Kirkold**, guards of the passage, were her companions during her training (Session 30). %% src:OS-S030 d12 %%
 
-**Kupra**, daughter of Grukkag, was Arta's childhood friend and called herself Arta's "sister", though Arta does not remember her; Kupra built a flesh golem in Arta's likeness and named it "Arta". Arta is slowly regaining pieces of her lost memory (Session 31). %% src:OS-S031 d13 %%
+**Kupra**, daughter of Grukkag, was Arta's childhood friend and rival, and called herself Arta's "sister", though Arta does not remember her; Kupra built a flesh golem in Arta's likeness and named it "Arta". Arta is slowly regaining pieces of her lost memory (Session 31). %% src:OS-S031 d13 %%
 
 ## Goals & fears
 - To uncover the truth of her forgotten childhood, recover her lost memories and learn what happened to her mother.
@@ -74,10 +74,10 @@ The climbing wall beneath the Church of Shar was a trial for the Keepers' traine
 - **Thraldour (Thrall):** a dear companion whose mind was shattered in Khudrukhar; his body rests in Brindinford, and she has not abandoned hope for his recovery.
 - **[[Freiderikos]]:** the newest of the company, whose carefree manner and peculiar upbringing hint at a more complicated story. He finds her intimidating, competent and hard to impress, and is beginning to appreciate her loyalty.
 - **[[Hecate the Prophet|Hecate]]:** an enemy allied with her father, whose actions show the consequences of the darkness Arta was raised to serve.
-- **The Keepers of the Secrets:** enemies; once her masters, now the people from whom she seeks answers.
+- **The Keepers of Secrets:** enemies; once her masters, now the people from whom she seeks answers.
 
 ## Affiliations
-- **The Incredible Six** (current member) · **The Keepers of the Secrets** (former agent, sent to find Rockgar) · **The Lower City** (former exterminator) · **House Brottdottir** (family by birth)
+- **The Incredible Six** (current member) · **The Keepers of Secrets** (former agent, sent to find Rockgar) · **The Lower City** (former exterminator) · **House Brottdottir** (family by birth)
 
 ## Notable items
 - **Shadow Urgrosh:** allows her to shadow jump.

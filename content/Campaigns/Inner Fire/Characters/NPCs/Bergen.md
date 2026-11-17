@@ -21,7 +21,7 @@ tags:
 **Role:** Priest; the Chosen of the Flame
 
 ## Summary
-The priest who allied with Lady Elzbeth Staufen and performed the Ritual of the Flame under Staufen Manor. He absorbed the souls of the six cursed Staufen children into his amber gem and rose as the Chosen of the Flame, though his powers are incomplete without Helmut's soul. Pandora accepted him as her Chosen and took him away through a flaming Gate.
+The priest who allied with Lady Elzbeth Staufen and performed the Ritual of the Flame under Staufen Manor. He absorbed the souls of the six cursed Staufen children into his amber gem and rose as the Chosen of the Flame, though his powers are incomplete without Helmund's soul. Pandora accepted him as her Chosen and took him away through a flaming Gate.
 
 ## Appearances
 %% auto:appearances %%

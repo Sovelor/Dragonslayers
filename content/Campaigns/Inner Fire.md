@@ -18,10 +18,10 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-[[Nyra]] · [[Lenor|Lenόre]] · [[Grafin]] · [[Meive]]
+[[Nyra]] · [[Lenor|Lenόre]] · [[Grafin]] · [[Meive]] · [[Helmund]]
 
 ## NPCs
-[[Oscar]] · [[Robin]] · [[Pandora]] · [[Bergen]] · [[Helmut]] · [[Nestor Kirsten]] · [[Leopold Graufor]]
+[[Oscar]] · [[Robin]] · [[Pandora]] · [[Bergen]] · [[Nestor Kirsten]] · [[Leopold Graufor]]
 
 ## Sessions
 - [[Session 001 - A Strange Acquaintance]] · 2025-10-10

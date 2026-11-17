@@ -66,7 +66,7 @@ He has never had much reason to be afraid. His greatest fear is failing those wh
 - **The Nerasimis family**: his loving parents and family in Haston, who have always encouraged his dreams.
 - **The villagers of Haston**: his beloved friends and neighbours, who adore him as the kindest, most cheerful young man their village has ever produced.
 - **An ancient blue dragon** (name unknown): his distant ancestor and the secret protector of Haston, who wants him to become a powerful, ruthless figure worthy of its bloodline and finds his cheerful kindness an utterly baffling disappointment. Freiderikos knows nothing of it.
-- **Enemies:** Shar and her servants; the **Keepers of the Secrets**; [[Hecate the Prophet|Hecate]], whose cruelty threatens the friends he has come to cherish.
+- **Enemies:** Shar and her servants; the **Keepers of Secrets**; [[Hecate the Prophet|Hecate]], whose cruelty threatens the friends he has come to cherish.
 
 ## Affiliations
 - **The Incredible Six**: current member and adventuring companion
