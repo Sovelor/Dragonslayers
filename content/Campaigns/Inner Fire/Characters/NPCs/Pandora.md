@@ -1,5 +1,5 @@
 ---
-title: "Pandora"
+title: "Pandora, The Harbinger of Fire"
 campaign: Inner Fire
 lang: en
 translation: "[[Πανδώρα]]"
@@ -14,7 +14,7 @@ tags:
 
 %% Created from session delta IF-S013 d1 %%
 
-# Pandora
+# Pandora, The Harbinger of Fire
 
 > [!abstract] Ελληνικά → [[Πανδώρα]]
 

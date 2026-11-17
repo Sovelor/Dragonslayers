@@ -71,7 +71,7 @@ Some years later, coming back from her daily training in the forest, she saw the
 - [[Session 007 - The Cursed Shield and the Broom]]: touches the Red Knight's shield at night; chases a shadow on the roof and is burned on the shoulder by the Red Knight
 - [[Session 008 - Finding the Sect's Prison]]: almost falls into the lava pit and is saved by her balance
 - [[Session 012 - The Ritual of the Flame]]: lures the disguised servant into view of her hidden allies in the manor corridor, gives a healing potion to the tortured Varros, and bluffs Jack Staufen
-- [[Session 013 - The Chosen of the Flame]]: with Grafin, tells Helmut everything that happened, without evasion
+- [[Session 013 - The Chosen of the Flame]]: with Grafin, tells Helmund everything that happened, without evasion
 %% /auto:appearances %%
 
 ## Links

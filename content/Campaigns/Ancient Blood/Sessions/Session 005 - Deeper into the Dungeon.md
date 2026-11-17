@@ -24,9 +24,9 @@ tags:
 ## Recap
 In the [[Sunless Citadel]] the party learned that the goblins, when they came up from the Underdark, had made a deal with **Belak**: they would stay in the upper levels of the dungeon while he went on with his work on the [[Galthia Tree|tree]] in the depths, and in return the goblins would watch over the area and defend it against unwelcome visitors.
 
-Going deeper into the dungeon, the party came to a large hole whose mouth was ringed with tree trunks, so the descent was fairly easy. [[Liga]] threw [[Vaalrath]]'s book, with Vaalrath inside, down onto the creature waiting below and leapt into the void after it. At the bottom they found a bugbear, **Balsak**, with a bear as his companion and ally; both had been corrupted by Belak. Liga has a great fear of bears: she fell unconscious from fright and the party could not bring her round in time, so they left her there, and Vaalrath drew her a picture saying they were heading for the tree and Belak.
+Going deeper into the dungeon, the party came to a large hole whose mouth was ringed with tree trunks, so the descent was fairly easy. [[Liga]] threw [[Vaalrath]]'s book, with Vaalrath inside, down onto the creature waiting below and leapt into the void after it. At the bottom they found a bugbear, **Balsak**, with a bear (it has no name) as his companion and ally; both had been corrupted by Belak. Liga has a great fear of bears: she fell unconscious from fright and the party could not bring her round in time, so they left her there, and Vaalrath drew her a picture saying they were heading for the tree and Belak.
 
-After the fight they went on and found a hidden room with a sarcophagus. In it, "buried" in stasis, lay the **Dragon Priest**: this was his punishment, for some reason, and in this way he would go on serving **Ashardalon**.
+After the fight they went on and found a hidden room with a sarcophagus. In it, "buried" in stasis, lay the **Dragon Priest**: this was his punishment for having failed in his purpose, and in this way he would go on serving **Ashardalon**. He is the same Dragon Priest of Ashardalon, in the red cloak, who had imprisoned the water mephits in Session 4.
 
 **Key beats**
 1. The goblins' deal with Belak: they hold the upper levels and guard them, he works on the tree in the depths
@@ -54,7 +54,7 @@ After the fight they went on and found a hidden room with a sarcophagus. In it, 
 - [ ] Free Melda's three companions *(Session 3)*
 - [ ] Reach the tree and Belak in the depths of the dungeon
 - [ ] Liga, left unconscious near the hole
-- [ ] Why was the Dragon Priest punished with stasis?
+- [x] Why was the Dragon Priest punished with stasis? He failed in his purpose
 
 ## Best moments & quotes
 > [!quote] Best moments

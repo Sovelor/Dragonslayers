@@ -15,7 +15,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Γαλάζια Νύμφη]]
 
-**Role:** Ship of [[Lavinia Vander]]
+**Role:** Ship of [[Lavinia Vander]], stolen from her family
 
 ## Summary
 The party killed an achaierai (a demon bird from the river Styx) aboard her, finding the Vander ring, a papyrus scroll and gold. They then sailed her into the [[Daggerford]] harbour in broad daylight. Not everyone was pleased.

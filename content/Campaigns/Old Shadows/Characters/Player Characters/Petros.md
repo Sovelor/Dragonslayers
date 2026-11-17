@@ -48,7 +48,7 @@ His travels brought him aboard *The Dragon Turtle*, which was wrecked (his profi
 
 > [!info] Rumours and open mysteries
 > **Rumours:** he is a dwarven wizard who shaved his beard to pass as a human; his rat is the real wizard and the dwarf only carries the spellbook; he was once someone important but becomes interested in the weather when asked; he lights four candles every night and whispers names into the dark; his familiar used to be white; he is never afraid of dying, only of being the last one alive; when things turn desperate the laughter stops and a different dwarf takes his place; he is not running from his past but waiting for it to catch up.
-> **Open mysteries:** who sent the map and why was he chosen; what Hecate will do with the darkness she took from Akis; what has become of Thalri and how deep she has fallen under the Keepers of the Secrets; who in Splendarrmornn knows Rockgar is alive; whether Petros follows Mystra's path or his faith blinds him to darker powers; and, if Rockgar died in Tunnel Five, who exactly is Petros Axinakis?
+> **Open mysteries:** who sent the map and why was he chosen; what Hecate will do with the darkness she took from Akis; what has become of Thalri and how deep she has fallen under the Keepers of Secrets; who in Splendarrmornn knows Rockgar is alive; whether Petros follows Mystra's path or his faith blinds him to darker powers; and, if Rockgar died in Tunnel Five, who exactly is Petros Axinakis?
 
 In Session 2 he officially became a member of the party. %% src:OS-S002 d4 %%
 
@@ -70,7 +70,7 @@ In Session 2 he officially became a member of the party. %% src:OS-S002 d4 %%
 ## Affiliations
 - **Order of Freedom:** initiate · **Pickaxeson family:** middle child
 - **Allies:** the Incredible Six, Ruby Metallson, Akis, the Order of Freedom; **Mystra** is his divine patron
-- **Enemies:** Shar; [[Hecate the Prophet|Hecate]], who took the fragment of darkness from Akis; [[Bjorn Brottdottir]], high priest of Shar and Arta's father; the Keepers of the Secrets, a secretive organisation associated with Shar in Splendarrmornn
+- **Enemies:** Shar; [[Hecate the Prophet|Hecate]], who took the fragment of darkness from Akis; [[Bjorn Brottdottir]], high priest of Shar and Arta's father; the Keepers of Secrets, a secretive organisation associated with Shar in Splendarrmornn
 
 ## Notable items
 - Slippers of Spiderwalk

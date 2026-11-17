@@ -2,7 +2,7 @@
 title: "Splendarrmornn"
 campaign: Old Shadows
 lang: en
-translation: "[[Σπλενταρμουρν]]"
+translation: "[[Σπλένταρμορν]]"
 status: Unknown
 tags:
   - location
@@ -15,7 +15,7 @@ tags:
 
 # Splendarrmornn
 
-> [!abstract] Ελληνικά → [[Σπλενταρμουρν]]
+> [!abstract] Ελληνικά → [[Σπλένταρμορν]]
 
 **Role:** City with an Undercity, home of the Pickaxeson family and Arta
 

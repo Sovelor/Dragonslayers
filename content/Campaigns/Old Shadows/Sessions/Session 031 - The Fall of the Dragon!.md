@@ -26,7 +26,7 @@ tags:
 ## Recap
 [[Freiderikos]] poured out the strong feelings that had built up inside him after his last talk with the rest of the Six by singing, in his wonderful voice. Then [[Aradun]] used Ubar's runic key to unlock the magically sealed entrance to the **Crypts of Oblivion**, despite the fears of [[Arta]], who was slowly getting back pieces of her lost memory.
 
-Deeper in the Crypts the Six reached a great hall of black marble, walls and floor alike, with nameless gravestones lined up left and right, two large black marble sarcophagi at the far end and, between them, a huge brazier full of coals. As they came close, shadow wrapped the brazier and lit a purple flame, its fire woven with shadow; the sarcophagi opened and mummified dwarves wrapped in shadow came out: the Shadow was using the remains and corpses of the dead Keepers of the Secrets buried in this crypt. [[Thoriel]] cast *Daylight* to weaken the shadow, the others met the walking corpses in battle, and together [[Freiderikos]] and [[Petros]] managed to snuff out the flame that kept the shadow creatures going.
+Deeper in the Crypts the Six reached a great hall of black marble, walls and floor alike, with nameless gravestones lined up left and right, two large black marble sarcophagi at the far end and, between them, a huge brazier full of coals. As they came close, shadow wrapped the brazier and lit a purple flame, its fire woven with shadow; the sarcophagi opened and mummified dwarves wrapped in shadow came out: the Shadow was using the remains and corpses of the dead Keepers of Secrets buried in this crypt. [[Thoriel]] cast *Daylight* to weaken the shadow, the others met the walking corpses in battle, and together [[Freiderikos]] and [[Petros]] managed to snuff out the flame that kept the shadow creatures going.
 
 Exploring further into the Keepers' lair, the Six found secret doors leading to the inner chambers and the oldest halls of the complex. Behind one of them lay a room full of shadow and of dwarves burnt to ashes by it. In the middle gaped a great hole, a dimensional rift between the Material Plane and the Shadowfell, ringed by the dormant runes of a *Magic Circle Against Evil*; shadow had come out of it and taken solid form, just as in [[Tunnel No. 5]]. [[Aya]], with the help of Petros and Freiderikos, brought the circle back to life and sealed the rift. As the runes lit up, a huge hand of shadow struck the circle, and Aya's knowledge of the planes told her it was a **Nightcrawler** from the Plane of Shadow. Nearby, Thoriel discovered a colony of **Underdark bees** and their hives and, with the power of nature and of Sylvanus, gathered some of their wondrous honey.
 
@@ -34,11 +34,11 @@ The corridor led them to the **Shrine of Oblivion**, an enormous hall of black m
 
 The fight was extremely hard. Kupra, a powerful sorcerer, fought alongside her golem and three shadowy dwarf corpses, and she killed Aradun with *Phantasmal Killer*. Arta and Thoriel destroyed the golem, and Aya and Aradun (before he fell) destroyed the shadow corpses. Arta charged at Kupra with her rothe Rusk and fell into a trap, but with her shadow jump she appeared behind Kupra and drove her urgrosh down into Kupra's shoulder towards her chest, while Freiderikos unleashed his magic missiles: Kupra fell dead.
 
-In tears, the Six gathered around Aradun's body, trying to bring him back, until Thoriel sat down at his head, laid a leaf on his face and began to chant *Reincarnate*. Weeping, Aya took her partner's hand and let her go on, in a silent prayer that she would succeed. At the same time Aradun found himself in a cave with his dragon, who had taken human form and told him he should not be there: he had to go back and fulfil his purpose. At that moment he opened his eyes, saw Thoriel above him, took hold of her and kissed her.
+In tears, the Six gathered around Aradun's body, trying to bring him back, until Thoriel sat down at his head, laid a leaf on his face and began to chant *Reincarnate*. Weeping, Aya took her partner's hand and let her go on, in a silent prayer that she would succeed. At the same time Aradun found himself in a cave with his dragon, who had taken human form and told him he should not be there: he had to go back and fulfil his purpose. At that moment he opened his eyes, saw Thoriel above him, took hold of her and kissed her. Thoriel's *Reincarnate* had brought him back in his old body, and the dragon who spoke to him is the dragon of his dragon-shaman heritage.
 
 In the inner chambers the Six found the lodgings of Kupra and Grukkag. In Kupra's room they found books she kept like a diary; in Grukkag's they found his personal papers and notes, which confirm parts of their suspicions. They also passed through Grukkag's **exhibit hall**, with specimens from all the fauna, flora and sentient beings of the Underdark. Last came the **torture chamber**: it reeked of decay and blood, chains hung from the ceiling, shelves held jars of every size with human limbs floating in liquid, and on two slabs lay two figures. Petros ran straight to the first: it was **Ruby Metallson**, his old friend, gravely wounded and near death, without his right hand and his left eye, a collar with spikes on its inner side around his neck. On the second slab lay a human in the same state. Aradun opened his aura of vitality and both came round. Petros and Ruby were reunited in a deeply moving moment.
 
-The human was [[Sorates]], a Monk of the Balance from the **Grey Monastery** in the mountains of the **Grey Peaks**, and a member of the [[Circle of the Moon]]; the Keepers of the Secrets had raided the monastery and taken him prisoner. Ruby told the Six that he had been tortured because the Keepers were desperately looking for the last piece, the one Petros had, to complete the ceremony at the Tower.
+The human was [[Sorates]], a Monk of the Balance from the **Grey Monastery** in the mountains of the **Grey Peaks**, and a member of the [[Circle of the Moon]]; the Keepers of Secrets had raided the monastery and taken him prisoner. Ruby told the Six that he had been tortured because the Keepers were desperately looking for the last piece, the one Petros had, to complete the ceremony at the Tower.
 
 **Key beats**
 1. Freiderikos sings out the feelings left by his last talk with the Six
@@ -55,25 +55,24 @@ The human was [[Sorates]], a Monk of the Balance from the **Grey Monastery** in 
 
 > [!warning] Conflicting accounts
 > - **The purple flame:** the DM says Petros and Freiderikos snuffed it out together; Petros's player says Thoriel and Freiderikos combined their magic (*Pyrotechnics*, *Radiance* and *Dispel Magic*).
-> - **Kupra and Arta:** the DM calls Kupra Arta's childhood friend, as Kupra herself does; Petros's player calls her Arta's childhood rival.
-> - **The Tower:** the DM's open thread names the **Tower of the Eclipse**; Aya's player remembers Ruby speaking of the **Tower of the Crescent Moon**.
+> - **Kupra and Arta:** the DM calls Kupra Arta's childhood friend, as Kupra herself does; Petros's player calls her Arta's childhood rival. The DM confirms both are right.
 
 ## NPCs met
-- **Kupra Duskmail**: daughter of High Priest [[Grukkag Duskmail]], a powerful sorcerer, Arta's childhood friend (Arta does not remember her); sat on the throne of the Shrine of Oblivion; killed Aradun and was killed by the Six
+- **Kupra Duskmail**: daughter of High Priest [[Grukkag Duskmail]], a powerful sorcerer, Arta's childhood friend and rival (Arta does not remember her); sat on the throne of the Shrine of Oblivion; killed Aradun and was killed by the Six
 - **"Arta"**: Kupra's flesh golem, made in Arta's likeness; destroyed
 - **Ruby Metallson**: veteran miner, assistant and adviser of Rockgar in his years as Tunnel Foreman, friend of the Pickaxeson family; he was there on the day of the incident in Tunnel No. 5. Found tortured and near death, freed by the Six
-- [[Sorates]]: a human, Monk of the Balance from the Grey Monastery in the Grey Peaks, member of the [[Circle of the Moon]] (Aya's player: also of the **Silver Hand**, and a follower of the **Lady of the Moon**); captured by the Keepers, freed by the Six
+- [[Sorates]]: a human, Monk of the Balance from the Grey Monastery in the Grey Peaks, member of the [[Circle of the Moon]], part of the larger **Silver Hand**; he follows the **Lady of the Moon**, who is now Allalme; captured by the Keepers, freed by the Six
 - **A Nightcrawler** of the Plane of Shadow, whose shadow hand struck the circle
 - *Mentioned:* [[Grukkag Duskmail]] (his lodgings and notes) · Aradun's dragon, in human form, in his vision
 
 ## Places
-- **The Crypts of Oblivion**: the burial ground of the Keepers of the Secrets, behind a magically sealed entrance
+- **The Crypts of Oblivion**: the burial ground of the Keepers of Secrets, behind a magically sealed entrance
 - The rift to the Shadowfell, in a room full of shadow in the inner chambers
 - **The Shrine of Oblivion**: the hall where Grukkag holds the services of the Keepers' religion and creed
 - **Grukkag's exhibit hall**
 - **The lodgings of Grukkag and Kupra**
 - **The torture chamber**
-- *Mentioned:* **the Grey Monastery**, in the Grey Peaks · **the Tower of the Eclipse**
+- *Mentioned:* **the Grey Monastery**, in the Grey Peaks · **the Tower of the Eclipse** (also remembered as the Tower of the Crescent Moon: the same tower)
 
 ## Fights
 - **Crypts of Oblivion**: a magical brazier burning with a purple flame poured out shadow that possessed the remains of the buried Keepers and turned them on the Six. Thoriel's *Daylight* weakened the shadow; the others fought the walking corpses until the flame was put out.
@@ -84,15 +83,15 @@ The human was [[Sorates]], a Monk of the Balance from the **Grey Monastery** in 
 - 1 potion of *Cure Light Wounds*
 - 1 potion of *Bear's Endurance*
 - Bracers of Armor +4
-- A runic key reading, in Dwarven, "Oblivion, Death, Secrets"
+- Ubar's runic key (from Session 30), reading in Dwarven "Oblivion, Death, Secrets"
 - Grukkag's personal papers and notes; Kupra's diary-like books
 
 ## Open threads
 - [x] Find and rescue Ruby Metallson
 - [ ] Find the Prophet ([[Hecate the Prophet]]), [[Bjorn Brottdottir|Bjorn]], [[Thalri]] and Grukkag at the Tower of the Eclipse and learn what exactly the ceremony they are performing is
 - [ ] Will the Six be in time to stop the ceremony?
-- [ ] Keep the last piece Petros holds away from the Keepers of the Secrets
-- [ ] Uncover the plans of the Keepers of the Secrets
+- [ ] Keep the last piece Petros holds away from the Keepers of Secrets
+- [ ] Uncover the plans of the Keepers of Secrets
 - [ ] Who or what is the statue that replaced Shar's? *(Session 30)*
 - [ ] Why did Freiderikos grow blue dragon scales? *(Session 30)*
 

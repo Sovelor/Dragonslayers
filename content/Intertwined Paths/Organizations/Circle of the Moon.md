@@ -23,7 +23,7 @@ movedFrom:
 **Role:** Druidic circle, the highest order of the faithful of the goddess [[Allalme Dragonborn|Allalme]] · Seat: the Moon Clearing · Leader: Archdruid Lenor Neritoris, the Black Tulip
 
 ## Summary
-The Circle of the Moon (Ο Κύκλος της Σελήνης) is the highest order of the faithful of Allalme: a druidic circle of druids, monks, priests and wardens who protect Nature, the Balance and the forests through the Sacred Willows. Its mission is to keep the balance between the light and the shadow of the Moon. It is also called the **Circle of Allalme**.
+The Circle of the Moon (Ο Κύκλος της Σελήνης) is the highest order of the faithful of Allalme: a druidic circle of druids, monks, priests and wardens who protect Nature, the Balance and the forests through the Sacred Willows. Its mission is to keep the balance between the light and the shadow of the Moon. It is also called the **Circle of Allalme**. The Circle is part of a larger organization, the **Silver Hand**. The Lady of the Moon it follows is now Allalme: Selûne died ten years ago, in the Battle of Destiny.
 
 ## Hierarchy
 1. The Archdruid
@@ -113,7 +113,7 @@ Wardens: the twin druids **Elan** and **Eleana Silverbloom**, as ancient as the 
 %% auto:appearances %%
 - [[Session 002 - The Living Book and the Druid|AB · Session 002 - The Living Book and the Druid]]: Irewin confesses that she and Belak, Wardens of the Misty Forest's Sacred Willow, broke away from the Circle; its Council had sent Melda's team after them
 - [[Session 003 - The Betrayal|AB · Session 003 - The Betrayal]]: as the Circle of Allalme: Irewin and Belak belonged to it, and it sent a team led by Melda that was defeated
-- [[Session 031 - The Fall of the Dragon!|OS · Session 031 - The Fall of the Dragon!]]: Sorates, a member of the Circle, is freed from the Keepers of the Secrets
+- [[Session 031 - The Fall of the Dragon!|OS · Session 031 - The Fall of the Dragon!]]: Sorates, a member of the Circle, is freed from the Keepers of Secrets
 %% /auto:appearances %%
 
 ## Links
