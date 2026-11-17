@@ -1,0 +1,32 @@
+{
+  "name": "image-lightbox",
+  "version": "1.0.0",
+  "description": "Click an image on a page to open it large in a full-screen viewer (arrows, swipe, Esc to close)",
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./dist/index.js",
+    "./components": "./dist/components/index.js"
+  },
+  "main": "./dist/index.js",
+  "quartz": {
+    "name": "image-lightbox",
+    "displayName": "Image Lightbox",
+    "category": [
+      "component"
+    ],
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "dependencies": [],
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {},
+    "components": {
+      "ImageLightbox": {
+        "displayName": "Image Lightbox",
+        "defaultPosition": "beforeBody",
+        "defaultPriority": 26
+      }
+    }
+  }
+}
