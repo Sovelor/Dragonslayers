@@ -219,6 +219,12 @@ plugins:
     layout:
       position: beforeBody
       priority: 25
+  # Click an image to open it large in a full-screen viewer (arrows, swipe, Esc to close).
+  - source: ./plugins/image-lightbox
+    enabled: true
+    layout:
+      position: beforeBody
+      priority: 26
   - source: "@quartz-community/tag-list"
     enabled: false
     layout:
