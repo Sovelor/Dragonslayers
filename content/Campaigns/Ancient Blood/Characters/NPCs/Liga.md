@@ -27,6 +27,8 @@ A half-orc barbarian who met [[Ulf the Northman]] on the road through the Trollb
 
 Liga has a great fear of bears: in the Sunless Citadel she fainted from fright before the bugbear Balsak's bear and had to be left behind (Session 5). %% src:AB-S005 d6 %%
 
+She woke up after a while and followed the party deeper into the Sunless Citadel (DM).
+
 ## Appearance
 A tall, muscular half-orc woman with a shaved head, grey-green skin covered in tattoos and a hard stare. She wears a leather-and-fur battle skirt and straps, and carries an enormous warhammer carved with glowing blue runes.
 

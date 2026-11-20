@@ -53,7 +53,7 @@ After the fight they went on and found a hidden room with a sarcophagus. In it, 
 ## Open threads
 - [ ] Free Melda's three companions *(Session 3)*
 - [ ] Reach the tree and Belak in the depths of the dungeon
-- [ ] Liga, left unconscious near the hole
+- [x] Liga, left unconscious near the hole: she woke up after a while and followed the party deeper into the Sunless Citadel (DM)
 - [x] Why was the Dragon Priest punished with stasis? He failed in his purpose
 
 ## Best moments & quotes
