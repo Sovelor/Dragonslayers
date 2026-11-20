@@ -59,7 +59,6 @@ On the last night Melda prayed to Sylvanus and Selûne, and a silver beam of lig
 When she finished her training, Seraphiel left on her first mission, and there she met the love of her life, **Elandor**, also a paladin. They fell in love quickly; for the first time since her family vanished she felt that luck had smiled on her. They decided their bond had to be blessed at once, and when the mission was over they were married, in a simple ceremony with few guests, so that as one they could devote their lives to their holy cause. Melda, the only family she had left, was there. After the wedding the cousins spent two days together and promised always to be there for each other when needed, whatever the cost. Then Seraphiel set out on her first mission with her husband.
 
 > [!warning] Conflicting accounts
-> - **Her family:** Seraphiel's profile says her parents were star elves. Melda's profile says Melda's father was the star elf, who married into her mother's clan of black-haired elves, and the cousins' mothers were sisters.
 > - **Her wedding:** Seraphiel's profile says she married after her first mission, once her training was over, with Melda at the wedding. Melda's profile says Seraphiel married shortly before the cousins' paths parted, and had already left for her own training when Melda came back.
 
 ## Goals & fears
@@ -89,6 +88,8 @@ When she finished her training, Seraphiel left on her first mission, and there s
 ![[Characters - Seraphiel 2.jpg|400]]
 
 ![[Characters - Seraphiel 3.jpg|400]]
+
+![[Characters - Seraphiel 4.jpg|400]]
 
 ![[Characters - Melda 2.jpg|400]]
 
