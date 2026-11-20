@@ -24,7 +24,7 @@ tags:
 
 **Race:** Shield Dwarf · **Class:** Wizard / Acolyte of Shadow · **Pronouns:** she/her · **Age:** 55 · **Home:** [[Splendarrmornn]] · **Languages:** Dwarven
 
-**Found:** at the Pickaxeson home, and at the **Church of the Shadow** in the Undercity of Splendarrmornn · **Attitude to the party:** it's complicated
+**Found:** at the Pickaxeson home, and at the **Church of Shadow** (the former Church of Shar) in the Undercity of Splendarrmornn · **Attitude to the party:** it's complicated
 
 ## Summary
 One of the four figures who followed the Six into the altar chamber in Session 29, together with [[Hecate the Prophet|Hecate]], [[Bjorn Brottdottir]] and [[Sol' Goleth]]. One of the party's open goals is to bring her back.
