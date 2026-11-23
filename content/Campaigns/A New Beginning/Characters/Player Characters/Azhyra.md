@@ -70,6 +70,7 @@ She does not form relationships easily: to her everyone is expendable, and very 
 - [[Session 008 - Mirror Mirror on the Wall]]: looks at the worst version of herself and is very satisfied with it
 - [[Session 009 - Echoes, the Road Back]]: claims the abandoned inn as hers; sees something her mind erases
 - [[Session 010 - Leaving Tethiamar]]: presses Ezariel, talks to Edric; takes the Cloak of Charisma +2
+- [[Session 011 - Blood Ties]]: reports to the Branch and destroys the written reports; promises Garrick and Lilith to help find the Vampire Killer
 %% /auto:appearances %%
 
 ## Gallery
@@ -77,3 +78,4 @@ She does not form relationships easily: to her everyone is expendable, and very 
 
 ## Links
 - [[A New Beginning]] · [[Edric]] · [[Selina]] · [[Ezariel]] · [[Elizium (A New Beginning)|Elizium]]
+- Extras: [[Azhyra (Recording)]]

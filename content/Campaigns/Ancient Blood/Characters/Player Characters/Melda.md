@@ -104,3 +104,4 @@ She woke in a room, with a human and a half-orc looking at her. She was freed fr
 
 ## Links
 - [[Ancient Blood]] · [[Seraphiel]] · [[Vaalrath]] · [[Allalme Dragonborn]] · [[Circle of the Moon]]
+- Extras: [[Training]] · [[Panther]] · [[Seraphiel and Melda in Wedding celebration]]

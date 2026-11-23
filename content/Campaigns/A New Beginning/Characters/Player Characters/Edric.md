@@ -62,6 +62,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - **[[Elizium (A New Beginning)|Elizium]]:** tries to be a bad-influence mentor to him, but Edric sees the good in him
 - **[[Azhyra]]:** party member
 - **Ferith**, **Scioh** and **Wolly**: three siblings of the Saiyaddar Guard, his childhood friends and colleagues; the party saved them from a satyr %% src:NB-S010 d12 %%
+- His parents live in Saiyaddar, among them his father, **Aldric Hale**; their reunion when he came home was moving, and they were proud to hear of his deeds. %% src:NB-S011 d11 %%
 
 ## Affiliations
 - **Brotherhood of Light:** recruit; Selina will propose him for knighthood
@@ -73,6 +74,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - **Steady:** the shield Galag gave him, which he respects but does not love using
 - **Roni:** his chain shirt
 - **Mira's whetstone:** her parting gift, still used on Trusty
+- A letter of recommendation from [[Selina]] proposing him to the [[Brotherhood of Light]] as a Soldier of the Light. %% src:NB-S011 d12 %%
 
 ## Quotes
 > "Ότι πει η κ. Σελινα"
@@ -86,6 +88,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - [[Session 008 - Mirror Mirror on the Wall]]: looks into the traitor's mirror unharmed and gains a boost
 - [[Session 009 - Echoes, the Road Back]]: poisoned and paralysed by the ettercaps; says *Merthuvial* in his sleep; Trusty becomes a +1 longsword; Selina will propose him for knighthood
 - [[Session 010 - Leaving Tethiamar]]: asks to be dismissed; drives the carriage to Saiyaddar; his offering earns Mielikki's blessing
+- [[Session 011 - Blood Ties]]: welcomed home to Saiyaddar as a hero; reunites with his parents; Selina proposes him as a Soldier of the Light; guides the new group to the Palm Cemetery
 %% /auto:appearances %%
 
 ## Gallery

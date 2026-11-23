@@ -27,6 +27,7 @@ An order led by High Lady [[Lady Lavern|Lavern]], to which [[Selina]], [[Azhyra]
 %% auto:appearances %%
 - [[Session 001 - A New Beginning]]: Selina and Azhyra leave it on a mission from Lady Lavern
 - [[Session 009 - Echoes, the Road Back]]: High Lady Lavern recalls Selina; Edric to be proposed for knighthood
+- [[Session 011 - Blood Ties]]: Selina and Elizium leave for it; Selina proposes Edric as a Soldier of the Light
 %% /auto:appearances %%
 
 ## Links

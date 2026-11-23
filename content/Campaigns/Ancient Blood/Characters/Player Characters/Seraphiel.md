@@ -25,7 +25,7 @@ movedFrom:
 
 **Role:** Party member (she/her) · paladin of [[Allalme Dragonborn|Allalme]] · cousin of [[Melda]]; joined in Session 13
 
-**Race:** Star elf · **Class:** Paladin (level 5) · **Pronouns:** she/her · **Age:** 34 · **Alignment:** Lawful Good · **Home:** Evereska · **Languages:** Common, Elvish, Celestial
+**Race:** Star elf · **Class:** Paladin (level 5) · **Pronouns:** she/her · **Age:** 24 · **Alignment:** Lawful Good · **Home:** Evereska · **Languages:** Common, Elvish, Celestial
 
 ## Summary
 A star-elf paladin of [[Allalme Dragonborn|Allalme]] from the lost city of **Evereska**: brave, solitary and single-minded, and the cousin of [[Melda]], her only family.
@@ -97,3 +97,4 @@ When she finished her training, Seraphiel left on her first mission, and there s
 
 ## Links
 - [[Ancient Blood]] · [[Melda]] · [[Allalme Dragonborn]] · [[Circle of the Moon]]
+- Extras: [[Seraphiel and Melda in Wedding celebration]]

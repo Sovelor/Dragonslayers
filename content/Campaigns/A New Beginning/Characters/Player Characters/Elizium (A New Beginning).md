@@ -47,6 +47,7 @@ A pale, slender elf with long dark hair and a calm, narrow face. He wears silver
 - [[Session 008 - Mirror Mirror on the Wall]]: sees only himself in the mirrors; finds a bag of holding
 - [[Session 009 - Echoes, the Road Back]]: starts the ettercap fight with alchemist's fire; knocked unconscious
 - [[Session 010 - Leaving Tethiamar]]: buys a scabbard for Trusty; his *Pyrotechnics* helps beat the satyr
+- [[Session 011 - Blood Ties]]: finds that Ezariel's vessel holds the blood of Asmodeus; gives her a gold coin; leaves with Selina for the Brotherhood of Light
 - [[Session 013 - The Vander Legacy|AB · Session 013 - The Vander Legacy]]: seen in Nenya's vision (*Ancient Blood*)
 %% /auto:appearances %%
 

@@ -18,6 +18,15 @@ Extra material around the stories of **Threads of Fate** that is neither a sessi
 ## Diaries
 *None yet.*
 
+## Art
+- [[Seraphiel and Melda in Wedding celebration]]: art, by Melda's player (Ancient Blood)
+
+## Recordings
+- [[Azhyra (Recording)]]: recording, by Azhyra's player (A New Beginning)
+- [[Elemental, Tree, Dragon]]: recordings, by Allalme's player (Fate-Touched)
+- [[Training]]: recording, by Melda's player (Ancient Blood)
+- [[Panther]]: recording, by Melda's player (Ancient Blood)
+
 ## Other
 *None yet.*
 
