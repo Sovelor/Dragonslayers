@@ -18,7 +18,7 @@ tags:
 **Campaign** · set ten years after *[[Fate-Touched]]* · part of [[Campaigns]]
 
 ## Player characters
-[[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]]
+[[Edric]] · [[Elizium (A New Beginning)|Elizium]] · [[Selina]] · [[Ezariel]] · [[Azhyra]] · [[Garrick]] · [[Lilith]]
 
 ## NPCs
 [[Lady Lavern]] · [[Lia]] · [[Loroves]] · [[Michael]] · [[Zarik Turbar]] · [[King Theron]] · [[Kor Bloodaxe]] · [[Zacharious]] · [[Redwood Oakblossom]]
@@ -33,6 +33,7 @@ tags:
 - [[Session 008 - Mirror Mirror on the Wall]] · 2026-07-25
 - [[Session 009 - Echoes, the Road Back]] · 2026-09-26
 - [[Session 010 - Leaving Tethiamar]] · 2026-10-23
+- [[Session 011 - Blood Ties]] · 2026-11-21
 
 ## Locations
 [[Brook Hollow]] · [[Ruins of the Life-giving Prince]] · [[The Flower and the Tiara]]

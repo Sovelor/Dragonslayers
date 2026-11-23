@@ -38,6 +38,7 @@ A woman with long black hair, blue eyes and slightly pointed ears, in polished f
 - [[Session 007 - Selina's Omen]]: her *Omen of Peril* shows her the king killing his friends
 - [[Session 009 - Echoes, the Road Back]]: recalled by High Lady Lavern; sets Edric's knighthood in motion
 - [[Session 010 - Leaving Tethiamar]]: tells Edric and Ezariel she wants them around as friends; her *Silence* helps beat the satyr
+- [[Session 011 - Blood Ties]]: reports to the Golden Sand Branch; leaves with Elizium for the Brotherhood of Light
 %% /auto:appearances %%
 
 ## Links

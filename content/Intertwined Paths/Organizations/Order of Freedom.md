@@ -93,5 +93,10 @@ That is why they are the Order's main enemy.
 ### Why the Order needs the Branches
 The Zhentarim and the other dark organisations are everywhere, move fast, and have money, armies, agents and magic. To face them the Order needs a presence in every city, information from every village, strike teams on every border, new heroes, and constant influence and growth. That is why the Branches matter so much.
 
+## Appearances
+%% auto:appearances %%
+- [[Session 011 - Blood Ties|NB · Session 011 - Blood Ties]]: Selina and Azhyra report to its Golden Sand Branch in Saiyaddar
+%% /auto:appearances %%
+
 ## Links
 - [[Organizations]] · [[Intertwined Paths]] · [[Mahaya (Lord of Time)]] · [[Sovelor]] · [[Zhentarim]]

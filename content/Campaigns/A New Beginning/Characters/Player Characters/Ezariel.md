@@ -54,6 +54,7 @@ Her current ally is [[Edric]]. Her enemies are, possibly, many. She names no imp
 ## Notable items
 - **Silver Mask:** unknown properties
 - A masterwork short sword, a masterwork short bow, a masterwork runic rapier and several daggers
+- A box with a vessel of red fluid she calls "the dragon egg"; [[Elizium (A New Beginning)|Elizium]] found it to be the blood of Asmodeus. She also keeps a strange gold coin Elizium gave her to guard with her life. %% src:NB-S011 d13 %%
 
 ## Quotes
 Her catchphrases: *"You are an idiot"*, *"No"* and *"I don't want to do this, so I'm not doing it"*.
@@ -67,6 +68,7 @@ Her catchphrases: *"You are an idiot"*, *"No"* and *"I don't want to do this, so
 - [[Session 008 - Mirror Mirror on the Wall]]: tries to sneak past the traitor to find the Illumians
 - [[Session 009 - Echoes, the Road Back]]: asks an Illumian for a favour; a man in a red hat holds her at her table
 - [[Session 010 - Leaving Tethiamar]]: will not say who hunts her; keeps a secret watch; finishes the satyr
+- [[Session 011 - Blood Ties]]: shows Elizium her "dragon egg"; they swear to keep each other's secrets; sets out with Garrick and Lilith
 %% /auto:appearances %%
 
 ## Links
