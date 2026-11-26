@@ -82,3 +82,4 @@ After Allalme's Ascension, Vincent became Her Champion. Ten years after the saga
 
 ## Links
 - [[Fate-Touched]] · [[Allalme Dragonborn]] · [[Atropos]]
+- Extras: [[Allalme and Vincent]]

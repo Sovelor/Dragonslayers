@@ -46,6 +46,9 @@ Badinga and Garpask keep watch over his body all night. At first light they carr
 ## Story significance
 His death is the emotional hinge of Part One — Badinga and Garpask travel in near-total silence afterward, grieving, which sets up their meeting with [[Gaston Lentinson]] and [[Mahaya]] in Part Two. Later, when Badinga, Garpask and [[Mahaya]] enter the [[Ancient Crypt]], all three say "For Elizium" before opening the gate.
 
+## Ten years later
+See [[Elizium (A New Beginning)]]: ten years after the saga, Elizium is back as a party member in *A New Beginning*, one of the three chosen of [[Mahaya]] (the Lord of Time).
+
 ## Links
 - [[The Dragonslayers Saga - Story Timeline]]
 - [[Badinga Alpenrok]] · [[Garpask Losark]] · [[Mahaya]] · [[Ancient Crypt]]

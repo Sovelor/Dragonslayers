@@ -24,10 +24,10 @@ tags:
 **Race:** Human · **Class:** Fighter (level 4) · **Pronouns:** he/him · **Age:** 21 · **Alignment:** Lawful Good · **Home:** Saiyaddar, a town in the desert · **Languages:** Common, Dwarven
 
 ## Summary
-A kind, timid and talkative young human fighter from **Saiyaddar**, a town in the desert, on his first mission with the Brotherhood of Light, sent to protect [[Selina]] and [[Azhyra]] on the road to Brook Hollow. He dreams of becoming the greatest longsword wielder. He carries **Trusty**, his longsword, and **Will**, the longsword of the Life-giving Prince ([[King Theron]]). In Session 9 the ettercaps' poison paralysed him for the first time in his life; that night, in his fever, he kept repeating the word *Merthuvial* ("Consecrator" in Celestial) and remembered nothing in the morning. After an eight-hour ritual at the temple of Tethiamar, Trusty became a +1 longsword, strengthened with the power of a +1 bastard sword. Selina told him she will propose him for knighthood in the Brotherhood of Light. He has a signature move: he uses his longsword to trip opponents and attack them while they are down (the Improved Trip feat).
+A kind, timid and talkative young human fighter from **Saiyaddar**, a town in the desert, on his first mission with the Brotherhood of Light, sent to protect [[Selina]] and [[Azhyra]] on the road to Brook Hollow. He dreams of becoming the greatest longsword wielder. He carries **Trusty**, his longsword, and **Thelisis**, the longsword of the Life-giving Prince ([[King Theron]]). In Session 9 the ettercaps' poison paralysed him for the first time in his life; that night, in his fever, he kept repeating the word *Merthuvial* ("Consecrator" in Celestial) and remembered nothing in the morning. After an eight-hour ritual at the temple of Tethiamar, Trusty became a +1 longsword, strengthened with the power of a +1 bastard sword. Selina told him she will propose him for knighthood in the Brotherhood of Light. He has a signature move: he uses his longsword to trip opponents and attack them while they are down (the Improved Trip feat).
 
 ## Appearance
-Tall and athletic but not bulky, with black hair and a small trimmed beard. He has an expressive, friendly face and warm, enthusiastic eyes. His readiness to smile is his most distinctive feature. He wears a chain shirt he calls **Roni** and carries a shield called **Steady** and the longswords Trusty and Will.
+Tall and athletic but not bulky, with black hair and a small trimmed beard. He has an expressive, friendly face and warm, enthusiastic eyes. His readiness to smile is his most distinctive feature. He wears a chain shirt he calls **Roni** and carries a shield called **Steady** and the longswords Trusty and Thelisis.
 
 ## Personality
 Kind, timid, naive, talkative and enthusiastic, warm and eager, and easily embarrassed. He cares for people and things quickly and deeply, asks endless questions and loves a good story. He talks a lot when he is excited, and he is a terrible liar who confesses almost at once. He gives names to his equipment because he believes people take better care of things they know; he cleans and sharpens Trusty every night and talks to him like a trusted companion.
@@ -63,6 +63,8 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 - **[[Azhyra]]:** party member
 - **Ferith**, **Scioh** and **Wolly**: three siblings of the Saiyaddar Guard, his childhood friends and colleagues; the party saved them from a satyr %% src:NB-S010 d12 %%
 - His parents live in Saiyaddar, among them his father, **Aldric Hale**; their reunion when he came home was moving, and they were proud to hear of his deeds. %% src:NB-S011 d11 %%
+- His mother is **Nadia**. His father, **Aldric Hale**, served in the Saiyaddar Guard and never wanted a rank, preferring to be out helping people; he doubts Edric's new sword, Thelisis: "Nothing is ever perfect." %% src:NB-S011b d3 %%
+- Back in Saiyaddar he took [[Azhyra]] to dinner with his parents and stayed the night with his family. %% src:NB-S011b d5 %%
 
 ## Affiliations
 - **Brotherhood of Light:** recruit; Selina will propose him for knighthood
@@ -70,7 +72,7 @@ His mentor was a knight named **Galag**, confident and cocky, who taught him tha
 
 ## Notable items
 - **Trusty:** the longsword his father gave him; now a +1 longsword after the Session 9 ritual at the temple of Tethiamar
-- **Will:** the longsword of the Life-giving Prince, King Theron, which he now carries (the name written on it is Merthuvial; Will is what Edric calls it)
+- **Thelisis:** the longsword of the Life-giving Prince, King Theron, which he now carries (the name written on it is Merthuvial; Thelisis, from the Greek *Θέληση*, "will", is what Edric calls it)
 - **Steady:** the shield Galag gave him, which he respects but does not love using
 - **Roni:** his chain shirt
 - **Mira's whetstone:** her parting gift, still used on Trusty

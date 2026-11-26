@@ -98,3 +98,4 @@ After the Battle of Destiny against [[Atropos]], Allalme married [[Vincent Vermi
 
 ## Links
 - [[Sovelor]] · [[Vincent Vermilion]] · [[Lavern]] · [[Ancient Crypt]] · [[Garpask Losark]] · [[Frederick Frostfire]] · [[Mahaya]] · [[Badinga Alpenrok]] · [[Languages and Incantations]] · [[The Dragonslayers Saga - Story Timeline]]
+- Extras: [[Allalme and Vincent]]

@@ -16,9 +16,10 @@ tags:
 Extra material around the stories of **Threads of Fate** that is neither a session note nor a wiki page: diaries the players wrote as their characters, letters, songs, maps, art and anything else worth keeping.
 
 ## Diaries
-*None yet.*
+- [[Blood Ties, Lilith's player's account]]: session account, by Lilith's player (A New Beginning)
 
 ## Art
+- [[Allalme and Vincent]]: art, by the DM (Fate-Touched)
 - [[Seraphiel and Melda in Wedding celebration]]: art, by Melda's player (Ancient Blood)
 
 ## Recordings

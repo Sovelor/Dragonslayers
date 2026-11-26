@@ -23,7 +23,7 @@ Brought High Lady [[Lady Lavern|Lavern]]'s orders for [[Selina]] in Session 9: r
 
 ## Appearances
 - [[Session 009 - Echoes, the Road Back]]: brings Lavern's orders to Selina
-- [[Session 011 - Blood Ties]]: Azhyra asks the Golden Sand Branch for him as her superior, but no one there knows him
+- [[Session 011 - Blood Ties]]: Azhyra asks the Golden Sand Branch for her as her superior, but no one there knows her
 
 ## Links
 - [[A New Beginning]] · [[Selina]] · [[Lady Lavern]]

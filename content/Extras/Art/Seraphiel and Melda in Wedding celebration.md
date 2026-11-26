@@ -15,7 +15,7 @@ tags:
 
 > [!abstract] Ελληνικά → [[Η Σεράφιελ και η Μέλντα στο γαμήλιο γλέντι]]
 
-*Art by Melda's player: [[Seraphiel]] and [[Melda]] at a wedding celebration.*
+*Art by Melda's player: [[Seraphiel]] and [[Melda]] at the wedding celebration of Seraphiel and **Elandor**.*
 
 **About:** [[Seraphiel]] · [[Melda]]
 
