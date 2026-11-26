@@ -28,8 +28,11 @@ movedFrom:
 Ten years after the saga, Lavern leads as High Lady of the Brotherhood of Light. In *A New Beginning* she sends Selina on her first mission and later recalls her to the Belmont Castle-State.
 
 ## Appearances
+%% auto:appearances %%
 - [[Session 001 - A New Beginning|NB · Session 001 - A New Beginning]]: gives Selina her first mission, to learn what happened to [[Lia]] in Brook Hollow *(mentioned)*
 - [[Session 009 - Echoes, the Road Back|NB · Session 009 - Echoes, the Road Back]]: through [[Loroves]], recalls Selina to the Belmont Castle-State; the Portal Gate of Atar is approved *(mentioned)*
+- [[Session 011 - Blood Ties|NB · Session 011 - Blood Ties]]: her orders to go to the Castle-State come up in Selina and Azhyra's report at the Golden Sand Branch
+%% /auto:appearances %%
 
 ## Links
 - [[Intertwined Paths]] · [[Lavern]] *(saga)* · [[A New Beginning]]

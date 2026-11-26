@@ -23,6 +23,8 @@ tags:
 ## Summary
 An order led by High Lady [[Lady Lavern|Lavern]], to which [[Selina]], [[Azhyra]] and [[Edric]] belong in some way (Edric as an associate from the desert department). Lady Lavern sent Selina on her first mission, to find out what happened to [[Lia]]. The Illumians sent an urgent letter to the Brotherhood by magic, and in Session 9 High Lady Lavern ordered Selina to return at once; Selina will propose Edric for knighthood in the Brotherhood.
 
+**Soldier of the Light** is the first rank of the Brotherhood; the whole path, called **knighthood**, leads to **Knight of the Brotherhood of Light**. %% src:NB-S011b d4 %%
+
 ## Appearances
 %% auto:appearances %%
 - [[Session 001 - A New Beginning]]: Selina and Azhyra leave it on a mission from Lady Lavern

@@ -21,8 +21,8 @@ movedFrom:
 
 ![[Characters - Elizium (A New Beginning).jpg|300]]
 
-> [!question] Connection to the saga
-> Shares the name of [[Elizium]], the high elf who died at the Forest Camp in *The Dragonslayers Saga*. Whether they are the same person is unknown.
+> [!info] From the saga
+> The same Elizium as [[Elizium]], the high elf who died at the Forest Camp in *The Dragonslayers Saga*. The vision he has in [[Session 011 - Blood Ties]] is his death in the original campaign.
 
 **Role:** Party member in *A New Beginning* · elf (he/him) · one of the three chosen of [[Mahaya (Lord of Time)|Mahaya]]
 

@@ -36,7 +36,7 @@ Back in Tethiamar they reported to the [[The Illumians|Illumians]], the **Pilgri
 
 [[Zarik Turbar]], son of the innkeeper **Ian Turbar** of the inn [[The Flower and the Tiara]], blurted out in front of everyone that some old friends were looking for Ezariel; strangers had been asking him about the party. Ezariel spoke with Zarik in private, then persuaded Edric to have the temple check Michael for curses or traces of the poison; he seemed fine. On the way, a strange man in a red cape and a fancy red hat with a feather saluted them.
 
-Edric left his belongings with Ezariel, except for Trusty, **Will** (the Life-giving Prince's longsword) and a +1 bastard sword. He spent eight hours in the temple performing the ritual, and Trusty became a **+1 longsword**, strengthened with the bastard sword's power. Afterwards Selina, waiting at the temple entrance, told him she will propose him for knighthood in the Brotherhood of Light.
+Edric left his belongings with Ezariel, except for Trusty, **Thelisis** (the Life-giving Prince's longsword) and a +1 bastard sword. He spent eight hours in the temple performing the ritual, and Trusty became a **+1 longsword**, strengthened with the bastard sword's power. Afterwards Selina, waiting at the temple entrance, told him she will propose him for knighthood in the Brotherhood of Light.
 
 Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man with the feathered hat walked in and sat at her table, while four more men in red went upstairs to the party's rooms.** As Ezariel was about to call for help, he took her hand: *"There's no need to make a scene."* Zarik ran to the temple and met Edric and Selina on their way back: *"Mister Edric, lady Selina, run! The bad man has my friend!"* And then someone knocked on the door of the room, at that hour.
 
@@ -81,7 +81,7 @@ Meanwhile Ezariel had gone back to the Flower and the Tiara to wait. **The man w
 
 ## Loot and rewards
 - **Trusty**, Edric's longsword: now a magical **+1 longsword**, using up the power of a +1 bastard sword in the ritual
-- **Will**: the Life-giving Prince's longsword, carried by Edric
+- **Thelisis**: the Life-giving Prince's longsword, carried by Edric
 - Permission to use the Portal Gate of Atar
 - Selina's coming proposal of knighthood for Edric
 
