@@ -5,11 +5,12 @@ session: 11
 date: 2026-11-21
 lang: en
 translation: "[[Συνεδρία 011 - Δεσμοί Αίματος]]"
-mvp: The whole party (1 vote) · Garrick (1 vote)
+mvp: The whole party (1 vote) · Garrick (1 vote) · Elizium (1 vote)
 contributors:
   - DM
   - Ezariel's player
   - Lilith's player
+  - Azhyra's player
 tags:
   - session
   - dnd
@@ -79,7 +80,8 @@ On the road to the **Palm Cemetery** a desert troll tried to ambush them. Muffin
 
 > [!warning] Conflicting accounts
 > - **The monster on the road:** a desert troll (DM, Lilith's player); a desert giant (Ezariel's player).
-> - **Names:** Ezariel's player writes Garick or Coppervein, Muffy, Sarena Al Nasin and Elyzium. Lilith's player writes Andrew for Edric's father, Iben Falouk, Nairan, Voran the Iron-born, Elis Astrakius, Zafar, Moralin and Netherin. The DM's names are used.
+> - **Names:** Ezariel's player writes Garick or Coppervein, Muffy, Sarena Al Nasin and Elyzium. Lilith's player writes Andrew for Edric's father, Iben Falouk, Nairan, Voran the Iron-born, Elis Astrakius, Zafar, Moralin and Netherin. Azhyra's player writes Netherim. The DM's names are used.
+> - **The next morning:** Azhyra's player has Selina and Elizium leave by a teleportation spell early in the morning, before the visit to Edric's family home, and Azhyra telling his parents then that their son has been proposed for knighthood. This note follows Lilith's player's order of the morning.
 
 ## NPCs met
 - **Ferith**, **Scioh** and **Wolly**: three siblings of the Saiyaddar Guard, Edric's childhood friends; they grew up with him in the oasis and the sands of the Anauroch
@@ -119,6 +121,7 @@ On the road to the **Palm Cemetery** a desert troll tried to ambush them. Muffin
 - **Arcane scrolls** of *Silent Image* (25 gp) and *Pyrotechnics* (150 gp): Azhyra
 - **Divine scroll of *Magic Fang***: Lilith
 - Three gems from the troll's hoard: agate (10 gp), amber (120 gp) and citrine (8 gp); holder not recorded
+- 100 gold pieces from the troll's hoard; holder not recorded (Azhyra's player)
 - Selina's letter of recommendation to the Brotherhood of Light: Edric
 - Elizium's strange gold coin, in Ezariel's keeping
 
@@ -143,6 +146,7 @@ On the road to the **Palm Cemetery** a desert troll tried to ambush them. Muffin
 > - Elizium and Ezariel discovering they have the blood of Asmodeus. (Ezariel's player)
 > - Elizium telling Ezariel that a life without friends is worse than a blade in the heart. (Lilith's player)
 > - Muffin blinking for the first time in front of the party, to find the troll hidden in the dune. (Lilith's player)
+> - Elizium "loses himself" for a moment and thinks someone is attacking him. (Azhyra's player)
 
 > "Εζάριελ, είμαστε φίλοι. Έτσι δεν είναι;"
 > *("Ezariel, we are friends. Aren't we?")*
@@ -196,9 +200,10 @@ On the road to the **Palm Cemetery** a desert troll tried to ambush them. Muffin
 
 ## Player theories
 - **Garrick's dragon:** dragon shamans are chosen by their dragon and trained alongside it; judging by his eyes, the party thinks his dragon is copper, perhaps black. (Lilith's player)
+- **Elizium:** he may not be who he says he is, even though he remembers nothing of his life. (Azhyra's player)
 
 ## Title suggestions
-**Δεσμοί Αίματος** (DM; *Blood Ties*) · New friends (Ezariel's player)
+**Δεσμοί Αίματος** (DM; *Blood Ties*) · New friends (Ezariel's player) · Σάγιανταρ (Azhyra's player; *Saiyaddar*)
 
 ## Gallery
 ![[Sessions - NB S011.jpg|400]]

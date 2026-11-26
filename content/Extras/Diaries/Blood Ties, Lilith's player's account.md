@@ -79,7 +79,7 @@ They reach the inn.
 
 **Selina** and **Azhyra** go to the <u>Golden Sand</u>.
 
-Entering the Branch they see a woman, a local half elf (Rogue), **Naira the Silence**, who is taking notes (left-handed), and another local, a human guard, **Iben Falouk**, who is sharpening his weapons.
+Entering the Branch they see a woman, a local half elf (Rogue), **Naira the Silence**, who is taking notes (left-handed), and another local, a human guard, **Iben Farouk**, who is sharpening his weapons.
 
 In the waiting room they see two people (us):
 
@@ -133,7 +133,7 @@ Azhyra questions whether it is safe and Sarena answers that she considers it saf
 
 - Sarena asks them whether they are joking and tells them "The shadow swords were destroyed", and Azhyra answers her "Obviously not" and that they must go back, and adds that "*The temple of Shar was destroyed. The Holy sword was defeated and the six have been broken. A Shadow Dragon appeared* (a shadow dragon appeared in a dwarf colony).
 
-- They must inform **Zafar**.
+- They must inform **Zelfar**.
 
 - Azhyra asks to contact **Loroves**. The other two do not know her (the Edge is not known everywhere). Sarena takes them to the cellar.
 
@@ -275,7 +275,7 @@ We all have breakfast together and decide that we will all go to Edric's house. 
 
 Edric says goodbye to his family and we all go together to the <u>Branch.</u> (about 5 minutes away)
 
-There we find: **Iben Falouk** (a former caravan mercenary), **Sarena** (a veteran Ranger of the Anauroch), **Nairan** (a spy) and all the members. **Voran the Iron-born** (a Dwarf, beard down to his belly, vestments with an axe and a hammer and the symbol of Moralin, healer and blacksmith), **Elis Astrakius** (a Half elf, completely white, as rare as me, a Wizard, a scholar of the ruins of Netherin).
+There we find: **Iben Farouk** (a former caravan mercenary), **Sarena** (a veteran Ranger of the Anauroch), **Nairan** (a spy) and all the members. **Voran the Iron-born** (a Dwarf, beard down to his belly, vestments with an axe and a hammer and the symbol of Moralin, healer and blacksmith), **Elis Astrakius** (a Half elf, completely white, as rare as me, a Wizard, a scholar of the ruins of Netherin).
 
 Selina goes into the office with Branch Master Sarena and her team. At first they talk about us (Garrick and Lilith). Selina says that we know about the object and proposes that they help us; she looks at Edric and Azhyra, who agree to do it. Sarena says that their own job is to protect this relic, but if the city agrees they can send two of their members with us to protect it, and that she will speak with the caliph so that we can make a deal. She also stresses that the Golden Sand Branch stands by us because of the agreement with Selina and Azhyra, who agree to take the responsibility for protecting and returning the Vampire Killer.
 
